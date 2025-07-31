@@ -1,7 +1,7 @@
 
 import pandas as pd
 
-def csv_reader(file_path):
+def read_csv(file_path):
     try:
         df = pd.read_csv(file_path, encoding='utf-8')
         return df
@@ -21,7 +21,7 @@ def csv_reader(file_path):
                     print(e)
                     return None
 
-def csv_saver(df, file_path):
+def save_csv(df, file_path):
     try:
         df.to_csv(file_path, index=False, encoding='utf-8')
         return True
