@@ -1,1 +1,4 @@
-/dataset
+/dataset/clean/semi_clean
+/dataset/clean/cleaned_master.csv
+/dataset/raw
+/dataset/preprocessed
