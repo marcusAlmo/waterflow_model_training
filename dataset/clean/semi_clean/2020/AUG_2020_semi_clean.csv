@@ -1,0 +1,1630 @@
+Month,Year,Quarter,District,Street,Control Number,Account Name,Service Address,Previous Reading,Present Reading,Cleaned Previous Reading,Cleaned Present Reading,Cleaned Consumption,Record Status,Connection Status
+AUG,2020,Q3,,Alicante Street,501549,"AlbaÃ±o, Lilane",Alicante St.,286,298,286.0,298.0,12,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500750,"Aljecera, Marcelino",Alicante St.,3086,3103,3086.0,3103.0,17,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500990,"AlmiÃ±ana, Irus",Alicante St.,619,652,619.0,652.0,33,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500505,"AlmiÃ±e, Edison",Alicante St.,179,224,179.0,224.0,45,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501542,"AlmiÃ±e, Filben",Alicante St.,3401,3451,3401.0,3451.0,50,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500431,"AlmiÃ±e, Franchie",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500263,"Almodal, Arna",Alicante St.,5416,5476,5416.0,5476.0,60,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501240,"Almocera, Owen",Alicante St.,220,255,220.0,255.0,35,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500484,"Almodal, Erlinda",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500739,"Almodal, Jolly",Alicante St.,1994,2041,1994.0,2041.0,47,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500544,"Almodal, Noe",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500187,"Almodiel, Arles",Alicante St.,3219,3227,3219.0,3227.0,8,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501447,"Almodiel, Mary Grace",Alicante St.,286,299,286.0,299.0,13,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501453,"Alcantara, Hilda",Alicante St.,211,218,211.0,218.0,7,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501317,"Almoete, Ike",Alicante St.,638,650,638.0,650.0,12,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501280,"Almojuela, Arlic",Alicante St.,507,527,507.0,527.0,20,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500248,"Almojuela, Rogelio",Alicante St.,6867,6909,6867.0,6909.0,42,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501028,"Almoradie, Marites",Alicante St.,2082,2141,2082.0,2141.0,59,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501437,"Almoradie, Geann",Alicante St.,1625,1694,1625.0,1694.0,69,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500433,"Almoradie, Marina",Alicante St.,502,542,502.0,542.0,40,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500260,"Altiche, Antonio",Alicante St.,1054,1162,1054.0,1162.0,108,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501663,"Altiche, Nenita",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500185,"Aspa, Leny",Alicante St.,1545,1554,1545.0,1554.0,9,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500169,"AÃ±onuevo, Paz",Alicante St.,3218,,3218.0,3218.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501232,"Anabe, Antonio",Alicante St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Alicante Street,500479,"Azares, Jeffrey",Alicante St.,213,303,213.0,303.0,90,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500009,"Barruga, Expedito",Alicante St.,2050,2050,2050.0,2050.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500472,"Barruga, Loreto",Alicante St.,897,925,897.0,925.0,28,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501393,"Barrun, Ana",Alicante St.,716,746,716.0,746.0,30,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500094,"Barrun, Divina",Alicante St.,2787,2802,2787.0,2802.0,15,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501020,"Barrun, Emilio",Alicante St.,2054,2079,2054.0,2079.0,25,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500692,"Barrun, Jose",Alicante St.,2685,2756,2685.0,2756.0,71,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500585,"Barrun, Nida",Alicante St.,441,474,441.0,474.0,33,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500330,"Barrun, Vito",Alicante St.,161,219,161.0,219.0,58,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501260,"Barsaga, Natividad",Alicante St.,337,400,337.0,400.0,63,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501330,"Barsaga, Natividad 2",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501167,"Bartolabac, Renato",Alicante St.,1349,1366,1349.0,1366.0,17,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500740,"Bartolata, Jose",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500278,"Bartolay, Felipe",Alicante St.,1965,1996,1965.0,1996.0,31,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500861,"Bartolata, Lourdes",Alicante St.,2253,2271,2253.0,2271.0,18,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501021,"Bartolay, Isaias",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500254,"Bartolay, Nilda",Alicante St.,1806,1806,1806.0,1806.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501301,"Bartolay, Nilo",Alicante St.,985,1010,985.0,1010.0,25,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501048,"Bartolay, Nolyn",Alicante St.,676,726,676.0,726.0,50,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500095,"Bartolay, Rustom",Alicante St.,1366,1372,1366.0,1372.0,6,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501176,"Bartolay, Marites",Alicante St.,1828,1878,1828.0,1878.0,50,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500045,"Bartolay, Orlando",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500405,"Bartolay, Orlando",Alicante St.,1605,1614,1605.0,1614.0,9,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500266,"Bayrante, Menie",Alicante St.,1878,1888,1878.0,1888.0,10,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500380,"Borejon, Melchor",Alicante St.,1099,1108,1099.0,1108.0,9,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501329,"Borejon, Noli",Alicante St.,330,357,330.0,357.0,27,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500377,"Borromeo, Elisa",Alicante St.,299,316,299.0,316.0,17,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501522,"Borromeo, Gener",Alicante St.,209,219,209.0,219.0,10,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500251,"Cabiles, Nicanor",Alicante St.,1125,1181,1125.0,1181.0,56,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500014,"Canchela, Emma",Alicante St.,3817,3857,3817.0,3857.0,40,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500262,"Canchela, Isaias",Alicante St.,2768,2787,2768.0,2787.0,19,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501676,"Cantoria, Josie",Alicante St.,96,120,96.0,120.0,24,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500696,"Cantoria, Lourdes/Merillo, Analisa",Alicante St.,505,544,505.0,544.0,39,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500015,"Cantuba, Fe",Alicante St.,1554,1570,1554.0,1570.0,16,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500249,"Constantino, Marivic",Alicante St.,1774,1786,1774.0,1786.0,12,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501129,"Constantino, Pascual",Alicante St.,473,512,473.0,512.0,39,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500261,"Constantino, Rogelio",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500012,"Dejucos, Lony",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501411,"Dein, Sharon",Alicante St.,32,32,32.0,32.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500523,"Dejumo, Jenalyn",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501024,"Dejumo, Sergia",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500316,"Delariarte, Nicanor",Alicante St.,3734,3756,3734.0,3756.0,22,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500987,"Don, Maribel",Alicante St.,4,26,4.0,26.0,22,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500357,"Elloso, Amy",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501105,"Elloso, Amy/Card Bank",Alicante St.,301,319,301.0,319.0,18,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500985,"Escorel, Potito",Alicante St.,866,867,866.0,867.0,1,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501379,"Esparrago, Eden",Alicante St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Alicante Street,500340,"Espares, Junard",Alicante St.,3467,3540,3467.0,3540.0,73,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500552,"Espenida, Nita",Alicante St.,3490,3509,3490.0,3509.0,19,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500264,"Espenilla, Rosito",Alicante St.,1848,,1848.0,1848.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500905,"Espenilla, Rosito (B)",Alicante St.,2609,2630,2609.0,2630.0,21,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500146,"Espinosa, Carlos",Alicante St.,5724,5755,5724.0,5755.0,31,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500563,"Espinosa, Emily",Alicante St.,2555,2568,2555.0,2568.0,13,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500564,"Flores, Danilo",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501558,"Gallano, Azenith",Alicante St.,2,2,2.0,2.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501690,"Gallinera, John Mark",Alicante St.,142,162,142.0,162.0,20,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501332,"Gebelaguin, Jenlyn",Alicante St.,1439,1498,1439.0,1498.0,59,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500711,"Gebelaguin, Jesus",Alicante St.,889,896,889.0,896.0,7,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501025,"Gelotin, Gemma",Alicante St.,325,347,325.0,347.0,22,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501023,"Generoso, Ernesto",Alicante St.,61,69,61.0,69.0,8,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501289,"Gestole, Chosen",Alicante St.,1634,,1634.0,1634.0,0,Corrected,Defect
+AUG,2020,Q3,,Alicante Street,500461,"Grencio, Ramir",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500623,"Grencio, Maribel",Alicante St.,271,290,271.0,290.0,19,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500008,"Genova, Erlinda",Alicante St.,1774,1786,1774.0,1786.0,12,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500760,"Gicaro, Efamar",Alicante St.,163,170,163.0,170.0,7,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501306,"Gulmatico, Rodel",Alicante St.,1130,1141,1130.0,1141.0,11,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501613,"Gutierrez, Reynald",Alicante St.,556,590,556.0,590.0,34,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501518,"Granado, Cecilia",Alicante St.,457,457,457.0,457.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501128,"Ida, Marife",Alicante St.,478,,478.0,478.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500010,"Jardin, Eden",Alicante St.,102,108,102.0,108.0,6,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500907,"Javier, Elena",Alicante St.,2020,2038,2020.0,2038.0,18,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500910,Kingdom of Jehovaâs Witnesses,Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500178,"Laila, Vilma",Alicante St.,9283,9352,9283.0,9352.0,69,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500559,"Laurio, Josefa",Alicante St.,139,150,139.0,150.0,11,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500284,"Leonor, Loreto (A)",Alicante St.,17812,17997,17812.0,17997.0,185,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500378,"Leonor, Loreto (B)/Rivero, Erwin",Alicante St.,56,141,56.0,141.0,85,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500717,"Letada, Gener",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500013,"Lique, Esteban",Alicante St.,3878,3890,3878.0,3890.0,12,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500794,"Llacer, Mary Grace",Alicante St.,453,492,453.0,492.0,39,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500408,"Lumberio, Belinda",Alicante St.,5509,5513,5509.0,5513.0,4,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500973,"Lumberio, Belinda 2",Alicante St.,181,184,181.0,184.0,3,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500475,"Lumberio, Marvin",Alicante St.,685,748,685.0,748.0,63,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500986,"Lumberio, Ramon",Alicante St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Alicante Street,501344,"Macabuhay, Henry",Alicante St.,199,212,199.0,212.0,13,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500250,"Macabuhay, Wilferdo",Alicante St.,541,575,541.0,575.0,34,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500789,"Macoy, Cyrus",Alicante St.,689,731,689.0,731.0,42,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500978,"Magayanes, Ruel",Alicante St.,1747,1770,1747.0,1770.0,23,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501620,"Magdaraog, Felix III",Alicante St.,193,216,193.0,216.0,23,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500650,"Martinez, Dante",Alicante St.,2617,2644,2617.0,2644.0,27,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501079,"Martinez, Vincent",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501481,"Mercado, Judith",Alicante St.,666,704,666.0,704.0,38,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500271,"Mores, Rosario",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500093,"Moya, Crispina",Alicante St.,1872,1896,1872.0,1896.0,24,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500839,"Ontog, Chita",Alicante St.,4112,4203,4112.0,4203.0,91,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501088,"Pamotillo, Eva",Alicante St.,1799,1820,1799.0,1820.0,21,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500265,"Ramos, Doroteo",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500241,"Recto, Nerissa",Alicante St.,3485,3526,3485.0,3526.0,41,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500270,"Rejuso, Ceddy",Alicante St.,594,620,594.0,620.0,26,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501425,"Rejuso, James",Alicante St.,730,757,730.0,757.0,27,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500011,"Rico, Esperanza",Alicante St.,2119,2134,2119.0,2134.0,15,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500723,"Rilles, Flordeliza",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500487,"Sese, Robert",Alicante St.,,4,4.0,4.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500203,"Sopsop, Evelyn",Alicante St.,1364,1364,1364.0,1364.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500941,"Tarrobal, Amiel",Alicante St.,224,246,224.0,246.0,22,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500584,"Tarrobal, Leny",Alicante St.,3268,3292,3268.0,3292.0,24,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500368,"Tugbo, Nixon",Alicante St.,3667,3694,3667.0,3694.0,27,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500381,UCCP,Alicante St.,7003,7026,7003.0,7026.0,23,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500911,"Villahermosa, Benjamin",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,500356,"Villahermosa, Lita",Alicante St.,1077,1099,1077.0,1099.0,22,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500170,"Villahermosa, Pedro",Alicante St.,3486,3546,3486.0,3546.0,60,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500633,"Villahermosa, Sonia",Alicante St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Alicante Street,501428,"Villahermosa, Jenny",Alicante St.,883,911,883.0,911.0,28,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500726,"Villamor, Arne",Alicante St.,584,776,584.0,776.0,192,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500984,"Villamor, Belen",Alicante St.,460,496,460.0,496.0,36,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501291,"Herato, Jovelyn",Alicante St.,857,900,857.0,900.0,43,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500399,"Villamor, Emily",Alicante St.,2518,2518,2518.0,2518.0,0,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501324,"Villamor, Ricky",Alicante St.,415,423,415.0,423.0,8,Corrected,Active
+AUG,2020,Q3,,Alicante Street,501219,"Villamor,Fulceda",Alicante St.,885,894,885.0,894.0,9,Corrected,Active
+AUG,2020,Q3,,Alicante Street,500056,"Villamor, Joel",Alicante St.,3337,3365,3337.0,3365.0,28,Corrected,Active
+AUG,2020,Q3,,Almonte Street,500683,"CaÃ±ares, Marlon",Almonte St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Almonte Street,501177,"Delavin, Zonrico",Almonte St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Almonte Street,500815,"Delavin, Zonrico 2",Almonte St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Almonte Street,501218,"Delavin, Zonrico 3",Almonte St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Almonte Street,501067,"Espenilla, Marina",Almonte St.,21,41,21.0,41.0,20,Corrected,Active
+AUG,2020,Q3,,Almonte Street,500983,"Espinosa, Aris",Almonte St.,7960,7983,7960.0,7983.0,23,Corrected,Active
+AUG,2020,Q3,,Almonte Street,500988,JMH Foundation Inc.,Almonte St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Almonte Street,501294,Liceo De Sn. Jto. c/o Atty. Merillo,Almonte St.,3849,3921,3849.0,3921.0,72,Corrected,Active
+AUG,2020,Q3,,Almonte Street,500082,LSJ,Almonte St.,7861,,7861.0,7861.0,0,Corrected,Active
+AUG,2020,Q3,,Almonte Street,501450,"Macoy, Besilda",Almonte St.,7238,7735,7238.0,7735.0,497,Corrected,Active
+AUG,2020,Q3,,Almonte Street,501285,"Omilgo, Michelle",Almonte St.,1383,1519,1383.0,1519.0,136,Corrected,Active
+AUG,2020,Q3,,Almonte Street,500832,"Laila, Aida Marie",Almonte St.,78,150,78.0,150.0,72,Corrected,Active
+AUG,2020,Q3,,Almonte Street,501529,LSJFI NEW BLDG,Almonte St.,979,1001,979.0,1001.0,22,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500118,"Abejero, Ernesto Jr.",Altarejos St.,6409,6437,6409.0,6437.0,28,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501241,"Amante, Nerissa",Altarejos St.,1656,,1656.0,1656.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500072,"Alcantara, Rector",Altarejos St.,2143,2143,2143.0,2143.0,0,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500810,"Almerol, Nilo",Altarejos St.,246,261,246.0,261.0,15,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501534,"AlmiÃ±e, Nixon",Altarejos St.,21,22,21.0,22.0,1,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500447,"Almodiel, Fe",Altarejos St.,6405,6440,6405.0,6440.0,35,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500809,"Almodiel, Merly",Altarejos St.,1557,1564,1557.0,1564.0,7,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500483,"Almoete, Aleli",Altarejos St.,742,757,742.0,757.0,15,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500443,"Almoete, Arles",Altarejos St.,2343,2349,2343.0,2349.0,6,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501474,"Almonte, Michelle",Altarejos St.,517,525,517.0,525.0,8,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500215,"Almojuela, Junie",Altarejos St.,172,184,172.0,184.0,12,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500043,"Almojuela, Segundino",Altarejos St.,1966,1969,1966.0,1969.0,3,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501645,"Almoradie, Jose",Altarejos St.,145,194,145.0,194.0,49,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500149,"Atabay, Elisa",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500741,"Arevalo, Amy",Altarejos St.,1093,1124,1093.0,1124.0,31,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501026,"Barrun, Ana",Altarejos St.,434,467,434.0,467.0,33,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500164,"Barrun, Consolador",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,501216,"Barrun, Panina",Altarejos St.,1481,1518,1481.0,1518.0,37,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500836,"Barrun, Roderico",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,501661,"Barrun, Siony",Altarejos St.,27,27,27.0,27.0,0,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500258,"Barrun, Ronnie/Barrun, Jerson",Altarejos St.,978,1018,978.0,1018.0,40,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500824,"Bartolata, Adolfo",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,501494,"Bartolata, Antonio",Altarejos St.,2695,2730,2695.0,2730.0,35,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500551,"Bartolata, Danilo",Altarejos St.,7232,7334,7232.0,7334.0,102,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501487,"Bartolata, Felicisima",Altarejos St.,3725,3855,3725.0,3855.0,130,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500205,"Bartolata, Melchor",Altarejos St.,2193,2199,2193.0,2199.0,6,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500595,"Bartolay, Albert",Altarejos St.,2023,2037,2023.0,2037.0,14,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501027,"Bartolay, Diosdado",Altarejos St.,987,1001,987.0,1001.0,14,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500158,"Bartolay, Dominador",Altarejos St.,469,469,469.0,469.0,0,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500071,"Bartolay, Licel",Altarejos St.,16762,16945,16762.0,16945.0,183,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501415,"Bartolay, Roald",Altarejos St.,201,201,201.0,201.0,0,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500204,"Bartolay, Victor",Altarejos St.,275,297,275.0,297.0,22,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501419,"Cabiles, Solon",Altarejos St.,1558,1611,1558.0,1611.0,53,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500200,"Cantre, Vilma",Altarejos St.,2375,2386,2375.0,2386.0,11,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500888,"Carillo, Mida",Altarejos St.,984,988,984.0,988.0,4,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501165,"Dejumo, Adam",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500719,"Dejumo, Rowena",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500144,"Delariarte, Evelyn",Altarejos St.,746,775,746.0,775.0,29,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501077,"Delariarte, Jenel",Altarejos St.,1052,1074,1052.0,1074.0,22,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500156,"Delariarte, Vibiana",Altarejos St.,3072,3101,3072.0,3101.0,29,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500805,"Delavin, Seth",Altarejos St.,3369,3449,3369.0,3449.0,80,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500652,"Delfin, Nena Fatima",Altarejos St.,4102,4129,4102.0,4129.0,27,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500948,"Delos Santos, Nena",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500933,"EspaÃ±ola, Lourdes",Altarejos St.,3014,,3014.0,3014.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500155,"Esparrago, Nemia",Altarejos St.,2693,2706,2693.0,2706.0,13,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500534,"Espenilla, Eden",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500137,"Espinosa, Ader",Altarejos St.,5398,5413,5398.0,5413.0,15,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500587,"Espinosa, Jerol",Altarejos St.,,2,2.0,2.0,0,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501089,"Espinosa, Jerol (B)",Altarejos St.,4503,4588,4503.0,4588.0,85,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500069,"Espinosa, Tito",Altarejos St.,325,351,325.0,351.0,26,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501153,"Garamay, Eugene",Altarejos St.,506,509,506.0,509.0,3,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500117,"Garamay, Rella",Altarejos St.,3178,3241,3178.0,3241.0,63,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500982,"Genova, Amilyn",Altarejos St.,1256,1277,1256.0,1277.0,21,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500766,"Grafilo, Remedios",Altarejos St.,1485,1498,1485.0,1498.0,13,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500199,"Laila, Eugene",Altarejos St.,,8,8.0,8.0,0,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500171,"Letada, Felomino",Altarejos St.,3637,3666,3637.0,3666.0,29,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500105,"Lignes, Maria",Altarejos St.,7042,7082,7042.0,7082.0,40,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500822,"Lique, Amalia",Altarejos St.,2876,2907,2876.0,2907.0,31,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500590,"Lumberio, Caridad",Altarejos St.,,8136,8136.0,8136.0,0,Corrected,Defect
+AUG,2020,Q3,,Altarejos Street,500186,"Marcos, Angelica/Aton, Gerald",Altarejos St.,105,128,105.0,128.0,23,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500596,"MiÃ±a, Marife",Altarejos St.,462,494,462.0,494.0,32,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501019,"Nerry, Aldrich",Altarejos St.,3116,3118,3116.0,3118.0,2,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500768,"Poblete, Ana",Altarejos St.,2743,2763,2743.0,2763.0,20,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500172,"Rejuso, Ma. Lorna",Altarejos St.,1909,1930,1909.0,1930.0,21,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500705,"Rejuso, Cristy",Altarejos St.,3655,3673,3655.0,3673.0,18,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500620,"Rejuso, Janeth",Altarejos St.,6925,,6925.0,6925.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500703,"Rejuso, Nicanor",Altarejos St.,2770,2781,2770.0,2781.0,11,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500129,"Romblon, Ariel",Altarejos St.,1187,1221,1187.0,1221.0,34,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,501092,"Santiago, Nelsie",Altarejos St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Altarejos Street,500190,"Sola, Ana",Altarejos St.,5467,5536,5467.0,5536.0,69,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500704,"Sola, Andres Jr.",Altarejos St.,1,3,1.0,3.0,2,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500070,"Torrecampo, Juden",Altarejos St.,2687,2718,2687.0,2718.0,31,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500140,"Velo, Lolita",Altarejos St.,4777,4814,4777.0,4814.0,37,Corrected,Active
+AUG,2020,Q3,,Altarejos Street,500616,"Yanson, Danilo",Altarejos St.,2152,2168,2152.0,2168.0,16,Corrected,Active
+AUG,2020,Q3,,Amican Street,500772,"Abrera, Julius",Amican St.,3804,3814,3804.0,3814.0,10,Corrected,Active
+AUG,2020,Q3,,Amican Street,501224,"Almerol, Salvador",Amican St.,3936,4014,3936.0,4014.0,78,Corrected,Active
+AUG,2020,Q3,,Amican Street,501581,"Almine, Jimmy",Amican St.,577,609,577.0,609.0,32,Corrected,Active
+AUG,2020,Q3,,Amican Street,501220,"Almocera, Francisco Jr.",Amican St.,620,637,620.0,637.0,17,Corrected,Active
+AUG,2020,Q3,,Amican Street,501284,"AÃ±onuevo, Susan",Amican St.,600,632,600.0,632.0,32,Corrected,Active
+AUG,2020,Q3,,Amican Street,501485,"Barsaga, Neselie",Amican St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,501234,"Bartolay, Leny",Amican St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,501464,"Bartolay, Erle",Amican St.,1147,1182,1147.0,1182.0,35,Corrected,Active
+AUG,2020,Q3,,Amican Street,501424,"Bartolata, Amaro Jr.",Amican St.,551,562,551.0,562.0,11,Corrected,Active
+AUG,2020,Q3,,Amican Street,501448,"Bartolata, Mae",Amican St.,474,487,474.0,487.0,13,Corrected,Active
+AUG,2020,Q3,,Amican Street,500838,"Barrun, Genina",Amican St.,551,565,551.0,565.0,14,Corrected,Active
+AUG,2020,Q3,,Amican Street,501571,"Barrun, Jonalyn",Amican St.,297,305,297.0,305.0,8,Corrected,Active
+AUG,2020,Q3,,Amican Street,501512,"Barrun, Marlon",Amican St.,967,978,967.0,978.0,11,Corrected,Active
+AUG,2020,Q3,,Amican Street,501629,"Baruelo, Melben",Amican St.,297,318,297.0,318.0,21,Corrected,Active
+AUG,2020,Q3,,Amican Street,501642,"Beroy, Salvacion",Amican St.,392,429,392.0,429.0,37,Corrected,Active
+AUG,2020,Q3,,Amican Street,501560,"Bragais, Janeth",Amican St.,315,332,315.0,332.0,17,Corrected,Active
+AUG,2020,Q3,,Amican Street,501427,"Cabiles, Christoper",Amican St.,1229,1278,1229.0,1278.0,49,Corrected,Active
+AUG,2020,Q3,,Amican Street,501568,"CaÃ±ares, Marissa",Amican St.,328,356,328.0,356.0,28,Corrected,Active
+AUG,2020,Q3,,Amican Street,501578,"Cantre, Roger",Amican St.,415,448,415.0,448.0,33,Corrected,Active
+AUG,2020,Q3,,Amican Street,501208,"Carranza, Maria",Amican St.,882,908,882.0,908.0,26,Corrected,Active
+AUG,2020,Q3,,Amican Street,500713,"Dejumo, Jomel",Amican St.,226,,226.0,226.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,501468,"Dejumo, Marian",Amican St.,559,580,559.0,580.0,21,Corrected,Active
+AUG,2020,Q3,,Amican Street,501307,"Delavin, Jori",Amican St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Amican Street,501553,"Delavin, Junmar",Amican St.,107,111,107.0,111.0,4,Corrected,Active
+AUG,2020,Q3,,Amican Street,500332,"Delos Santos, Pablo",Amican St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,501438,"Dilao, Jolly",Amican St.,602,611,602.0,611.0,9,Corrected,Active
+AUG,2020,Q3,,Amican Street,501423,"Dimanarig, Armin",Amican St.,715,722,715.0,722.0,7,Corrected,Active
+AUG,2020,Q3,,Amican Street,500636,"Espenilla, Elvie",Amican St.,4593,4619,4593.0,4619.0,26,Corrected,Active
+AUG,2020,Q3,,Amican Street,501072,"Gaurano, Alvin",Amican St.,110,118,110.0,118.0,8,Corrected,Active
+AUG,2020,Q3,,Amican Street,500889,"Espinosa, Lilibeth",Amican St.,4911,4911,4911.0,4911.0,0,Corrected,Active
+AUG,2020,Q3,,Amican Street,501212,"Espinosa, Luz",Amican St.,2699,,2699.0,2699.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,500188,"Espinosa, Orlando",Amican St.,1489,1543,1489.0,1543.0,54,Corrected,Active
+AUG,2020,Q3,,Amican Street,501367,"Garamay, Arnold",Amican St.,396,428,396.0,428.0,32,Corrected,Active
+AUG,2020,Q3,,Amican Street,501365,"Gaurano, Aljon",Amican St.,812,848,812.0,848.0,36,Corrected,Active
+AUG,2020,Q3,,Amican Street,500225,"Gaurano, Maricel",Amican St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,500535,"Giroy, Marissa",Amican St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,501632,"Gilaga, Silma",Amican St.,124,133,124.0,133.0,9,Corrected,Active
+AUG,2020,Q3,,Amican Street,501233,"Gerna, Shirley",Amican St.,619,633,619.0,633.0,14,Corrected,Active
+AUG,2020,Q3,,Amican Street,500147,"Granado, Florendo",Amican St.,2225,2253,2225.0,2253.0,28,Corrected,Active
+AUG,2020,Q3,,Amican Street,500181,"Granado, Job",Amican St.,177,189,177.0,189.0,12,Corrected,Active
+AUG,2020,Q3,,Amican Street,500148,"Inson, Jose Marcelo",Amican St.,3011,3042,3011.0,3042.0,31,Corrected,Active
+AUG,2020,Q3,,Amican Street,501440,"Laila, Rhea",Amican St.,214,223,214.0,223.0,9,Corrected,Active
+AUG,2020,Q3,,Amican Street,500162,"Lique, Jeanne",Amican St.,7226,7234,7226.0,7234.0,8,Corrected,Active
+AUG,2020,Q3,,Amican Street,501557,"Llanto, Arnel",Amican St.,189,219,189.0,219.0,30,Corrected,Active
+AUG,2020,Q3,,Amican Street,500816,"Marfil, Gina",Amican St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Amican Street,501641,"Ongonion, Sonia",Amican St.,166,180,166.0,180.0,14,Corrected,Active
+AUG,2020,Q3,,Amican Street,501559,"Portrias, Macario Jr.",Amican St.,176,193,176.0,193.0,17,Corrected,Active
+AUG,2020,Q3,,Amican Street,500080,"Rejuso, Rene",Amican St.,143,154,143.0,154.0,11,Corrected,Active
+AUG,2020,Q3,,Amican Street,501528,"Reluao, Ernes",Amican St.,170,170,170.0,170.0,0,Corrected,Active
+AUG,2020,Q3,,Amican Street,500081,"Sola, Julio",Amican St.,2316,2340,2316.0,2340.0,24,Corrected,Active
+AUG,2020,Q3,,Amican Street,501336,"So, Norven",Amican St.,1603,1622,1603.0,1622.0,19,Corrected,Active
+AUG,2020,Q3,,Amican Street,501467,"So, Melboi",Amican St.,633,644,633.0,644.0,11,Corrected,Active
+AUG,2020,Q3,,Amican Street,501562,"So, Ryan",Amican St.,267,272,267.0,272.0,5,Corrected,Active
+AUG,2020,Q3,,Amican Street,500160,"Villamor, Ariosto",Amican St.,608,642,608.0,642.0,34,Corrected,Active
+AUG,2020,Q3,,Amican Street,500157,"Villamor, Carlos",Amican St.,592,625,592.0,625.0,33,Corrected,Active
+AUG,2020,Q3,,Amican Street,500161,"Villamor, Jose",Amican St.,2717,2733,2717.0,2733.0,16,Corrected,Active
+AUG,2020,Q3,,Amican Street,500243,"Villamor, Leny",Amican St.,3813,3891,3813.0,3891.0,78,Corrected,Active
+AUG,2020,Q3,,Amican Street,501640,"Villamor, Mary Joy",Amican St.,208,229,208.0,229.0,21,Corrected,Active
+AUG,2020,Q3,,Amican Street,501418,"Villamor, Villand",Amican St.,953,1003,953.0,1003.0,50,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500541,"Abejero, Leandro",Bailon St.,2959,2960,2959.0,2960.0,1,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500374,"Acibar, Jenlin",Bailon St.,1427,1469,1427.0,1469.0,42,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500887,"Adiaton, Gomer",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501292,"Aldave, Nora",Bailon St.,7882,7882,7882.0,7882.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501472,"Aldave, Nora 2",Bailon St.,991,1009,991.0,1009.0,18,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501386,"Albiola, Ofelia",Bailon St.,853,868,853.0,868.0,15,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501420,"Alcala, Aldrin",Bailon St.,863,864,863.0,864.0,1,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500288,"Alcantara, Luz-4 (Litay)",Bailon St.,162,169,162.0,169.0,7,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501015,"Alcantara, Luz-1 (Jeaneth Bartolata",Bailon St.,262,284,262.0,284.0,22,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500957,"Alcantara, Luz-2 (Marivic)",Bailon St.,5,5,5.0,5.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501002,"Alcantara, Luz-3 (Luthche V.)",Bailon St.,144,144,144.0,144.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501016,"Alcantara, Luz-6  ",Bailon St.,1517,1518,1517.0,1518.0,1,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500748,"Alcantara, Luz (Marl Bueta)",Bailon St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Bailon Street,501201,"Alcantara, Sheena",Bailon St.,1998,2021,1998.0,2021.0,23,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500635,"Alicante, Carlos",Bailon St.,4057,4111,4057.0,4111.0,54,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500224,"Almedora, Tomas",Bailon St.,2457,2471,2457.0,2471.0,14,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500355,"AlmiÃ±e, Manuel Sr.",Bailon St.,6428,6428,6428.0,6428.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500442,"Almodal, Noe",Bailon St.,1178,1236,1178.0,1236.0,58,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500389,"Almodiel, Edgar",Bailon St.,60,118,60.0,118.0,58,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500686,"Almoete, Gil",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501221,"Almoete, Alex",Bailon St.,1323,1345,1323.0,1345.0,22,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500835,"Almosara, Janet",Bailon St.,280,323,280.0,323.0,43,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500840,"Almosara, Jose",Bailon St.,184,189,184.0,189.0,5,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501689,"Almosara, Salvacion",Bailon St.,159,233,159.0,233.0,74,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501288,"Almosara, Josie",Bailon St.,543,572,543.0,572.0,29,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501309,"Almosera, Pio",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500758,"Altarejos, Ciceron",Bailon St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Bailon Street,501526,"Altarejos, Manuel Churchill (1)",Bailon St.,266,269,266.0,269.0,3,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501638,"Altarejos, Manuel Churchill (2)",Bailon St.,294,297,294.0,297.0,3,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500756,"Altiche, Lolita",Bailon St.,5392,5464,5392.0,5464.0,72,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500466,"Altiche, Nonilon",Bailon St.,2650,2655,2650.0,2655.0,5,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500304,Amitaf Mini Shoppe,Bailon St.,1305,1342,1305.0,1342.0,37,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500328,"Arcenas, Juancho",Bailon St.,2643,2652,2643.0,2652.0,9,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500371,"Aruc, Grace",Bailon St.,1074,1095,1074.0,1095.0,21,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500298,"Bailon, Junil",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501382,"Balingasa, Maria Elena",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500515,"Ibanez, Stella Marie",Bailon St.,2581,2584,2581.0,2584.0,3,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500826,"Barredo, Edgar",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501178,"Barredo, Edgar (Bakery)",Bailon St.,2074,2090,2074.0,2090.0,16,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500349,"Balt, Mora",Bailon St.,5282,5336,5282.0,5336.0,54,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500233,"Barruga, Helen",Bailon St.,4134,4134,4134.0,4134.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500274,"Barrun, Jose",Bailon St.,4534,4572,4534.0,4572.0,38,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500996,"Barrun, Judy Ann",Bailon St.,1243,1281,1243.0,1281.0,38,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500414,"Barrun, LeadiÃ±a",Bailon St.,458,511,458.0,511.0,53,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501276,"Barrun, Normelita",Bailon St.,426,426,426.0,426.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500771,"Barrun, Rolly",Bailon St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Bailon Street,501313,"Bartolata, Ariosto",Bailon St.,141,145,141.0,145.0,4,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500608,"Bartolata, Arthur",Bailon St.,2382,2445,2382.0,2445.0,63,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500481,"Bartolata, Amelia",Bailon St.,3590,3620,3590.0,3620.0,30,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500631,"Bartolata, Letty",Bailon St.,700,789,700.0,789.0,89,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500997,"Bartolata, Rizza",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500908,"Bernardo, Roma",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500607,BJMP,Bailon St.,256,266,256.0,266.0,10,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500753,"Brabante, Alexander",Bailon St.,1801,,1801.0,1801.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500709,"Butalid, Rainier",Bailon St.,2150,2150,2150.0,2150.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501320,"Bonagua, Solima",Bailon St.,384,393,384.0,393.0,9,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500814,Cebuana Lhuillier,Bailon St.,578,578,578.0,578.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501197,"Chavez, Jocelyn",Bailon St.,1557,1580,1557.0,1580.0,23,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501465,CITI DRUG,Bailon St.,,247,247.0,247.0,0,Corrected,Defect
+AUG,2020,Q3,,Bailon Street,500231,"De Guzman, Luzviminda",Bailon St.,2340,2346,2340.0,2346.0,6,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500995,"Deinla, Rey",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500415,"Delavin, Hannilin",Bailon St.,1920,1928,1920.0,1928.0,8,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501580,"Delavin, Ruel",Bailon St.,386,407,386.0,407.0,21,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500452,"Delavin, Nelly",Bailon St.,6559,6565,6559.0,6565.0,6,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501268,"Dejumo, Rosie",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500420,"Dilao, Tomas Jr.",Bailon St.,4781,4816,4781.0,4816.0,35,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500991,Domurans Pharmacy (NEW),Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500404,"Elloso, Amy",Bailon St.,1819,1853,1819.0,1853.0,34,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500529,"Escorel, Erdie",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500648,"Esparrago, Mary Ann",Bailon St.,2867,2893,2867.0,2893.0,26,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500430,"Esparrago, Raquel",Bailon St.,2661,2695,2661.0,2695.0,34,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501507,"EspaÃ±ol, Mylen",Bailon St.,302,331,302.0,331.0,29,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500715,"Espenida, Cecilia",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501323,"Espenilla, Ana",Bailon St.,118,135,118.0,135.0,17,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500622,"Espenilla, Linda",Bailon St.,4879,4941,4879.0,4941.0,62,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500370,"Felipe, Nimfa",Bailon St.,580,635,580.0,635.0,55,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500574,"Flores, Ligaya/Escorel, Lily",Bailon St.,1177,1180,1177.0,1180.0,3,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501118,"Flores, Ligaya (2)",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500223,"Garamay, Nora",Bailon St.,,34,34.0,34.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500145,"Garamay, Romer",Bailon St.,5180,5192,5180.0,5192.0,12,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500128,"Gebilaguin, Vito",Bailon St.,1262,1307,1262.0,1307.0,45,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501363,"Gernale, Renato",Bailon St.,1090,1104,1090.0,1104.0,14,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500335,"Gersalia, Romeo",Bailon St.,5227,5305,5227.0,5305.0,78,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501000,"GuaÃ±ezo, Sabina",Bailon St.,1437,1437,1437.0,1437.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500300,"Gutierrez, Guilan",Bailon St.,1258,1291,1258.0,1291.0,33,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500473,"Gutierrez, Arnel",Bailon St.,5731,5733,5731.0,5733.0,2,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501473,"Gutierrez, Jinelyn",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500297,"Jorres, Jerry",Bailon St.,246,253,246.0,253.0,7,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500504,"Laila, Zelma",Bailon St.,7025,7060,7025.0,7060.0,35,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501275,"Lanuza, Gideon",Bailon St.,,164,164.0,164.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500833,"Lanuza, Lilia",Bailon St.,2411,2426,2411.0,2426.0,15,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500891,"Leonor, Manuel",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500989,"Legaspi, Marissa",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501539,"Legaspi, Ryan",Bailon St.,497,515,497.0,515.0,18,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501654,"Letada, Leni",Bailon St.,93,109,93.0,109.0,16,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500425,"Llacer, Dizon",Bailon St.,1903,1903,1903.0,1903.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500419,"Llacer, Dizon (Romtes)",Bailon St.,2450,2464,2450.0,2464.0,14,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500594,"Llacer, Luz",Bailon St.,132,157,132.0,157.0,25,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500394,"Llacer, Manuel",Bailon St.,1912,1920,1912.0,1920.0,8,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500347,"Lorenzo, Meriam",Bailon St.,2209,2249,2209.0,2249.0,40,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501293,"Macoy, Amor",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501508,"Macoy, Amor 1",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501509,"Macoy, Amor 2",Bailon St.,89,89,89.0,89.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501510,"Macoy, Amor 3",Bailon St.,211,219,211.0,219.0,8,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501511,"Macoy, Amor 4",Bailon St.,42,42,42.0,42.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500841,"Macoy, Paz",Bailon St.,1050,1053,1050.0,1053.0,3,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500416,"Macoy, Vicente",Bailon St.,2039,2110,2039.0,2110.0,71,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500228,"Menes, Natividad",Bailon St.,3206,3227,3206.0,3227.0,21,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500998,"Meteoro, Merly",Bailon St.,438,451,438.0,451.0,13,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500222,"Meteoro, Paulo",Bailon St.,3052,3181,3052.0,3181.0,129,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500972,Motortrade,Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500746,"Moralde, Melvin",Bailon St.,2068,,2068.0,2068.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501001,"Nuevo, Antonio",Bailon St.,506,573,506.0,573.0,67,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500598,"Nuevo, Susan",Bailon St.,4582,4600,4582.0,4600.0,18,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501338,"Nuevo, Susan 1",Bailon St.,23,30,23.0,30.0,7,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501339,"Nuevo, Susan 2",Bailon St.,99,112,99.0,112.0,13,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501340,"Nuevo, Susan 3",Bailon St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Bailon Street,501341,"Nuevo, Susan 4",Bailon St.,,10,10.0,10.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501342,"Nuevo, Susan 5",Bailon St.,,21,21.0,21.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500869,"Ontog, Joseph",Bailon St.,1679,1689,1679.0,1689.0,10,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500464,"Orias, Eden",Bailon St.,911,958,911.0,958.0,47,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500312,"Orias, Lolita/Cielo",Bailon St.,5175,5206,5175.0,5206.0,31,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500708,"Orteza, Blas",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500333,"Pensader, Elvie",Bailon St.,4390,4390,4390.0,4390.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500867,"Perez, Joji",Bailon St.,2374,2399,2374.0,2399.0,25,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501295,"Perez, Joji 2",Bailon St.,835,866,835.0,866.0,31,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500365,"Rejuso, Jean",Bailon St.,5470,5597,5470.0,5597.0,127,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500220,"Rejuso, Leo",Bailon St.,3621,,3621.0,3621.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501462,"Rejuso, Rolando",Bailon St.,999,999,999.0,999.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500210,"Remerata, Manuel",Bailon St.,151,187,151.0,187.0,36,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501421,"Rivera, Susan",Bailon St.,683,696,683.0,696.0,13,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500579,"Romero, Ana",Bailon St.,64,142,64.0,142.0,78,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500229,"Romero, Jose",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,501457,"Remosura, Robert",Bailon St.,1119,1137,1119.0,1137.0,18,Corrected,Active
+AUG,2020,Q3,,Bailon Street,501117,"San Pablo, Mabel/Cadiz, Gina",Bailon St.,255,,255.0,255.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500372,"Sanz, Leilane",Bailon St.,2516,2538,2516.0,2538.0,22,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500496,"Saul, Nora",Bailon St.,2234,2234,2234.0,2234.0,0,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500299,"So, Alma",Bailon St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bailon Street,500539,Tambunting,Bailon St.,19,21,19.0,21.0,2,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500230,"Villamor, Romulo",Bailon St.,733,785,733.0,785.0,52,Corrected,Active
+AUG,2020,Q3,,Bailon Street,500999,"Zaison, Emie",Bailon St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Balcavem Street,501402,"Alapad, Araceli",Balcavem St.,194,199,194.0,199.0,5,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500992,"Alapad, Ronnel",Balcavem St.,1531,1558,1531.0,1558.0,27,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501151,"AlmiÃ±e, Daisy/Garamay, Carlos",Balcavem St.,1378,1403,1378.0,1403.0,25,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501004,"AlmiÃ±e, Emelyn",Balcavem St.,531,563,531.0,563.0,32,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501150,"Escorel, Elisa",Balcavem St.,649,657,649.0,657.0,8,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501625,"Almodal, Meriam",Balcavem St.,218,235,218.0,235.0,17,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500083,"Almoguerra, Virginia",Balcavem St.,3215,3242,3215.0,3242.0,27,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501237,"Almoguerra, Amalia",Balcavem St.,848,868,848.0,868.0,20,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501492,"Almonte, Jasper",Balcavem St.,201,203,201.0,203.0,2,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500202,"Almonte, Nena",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,501005,"Almonte, Sheryl",Balcavem St.,1374,1386,1374.0,1386.0,12,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500028,"Altizon, Nelia",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,501006,"Altizon, Nelia (2)",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,500975,"Amor, Lanie",Balcavem St.,462,494,462.0,494.0,32,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500363,"Almoradie, Rogelio",Balcavem St.,1056,1073,1056.0,1073.0,17,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501639,"Almoradie, Amalia",Balcavem St.,214,231,214.0,231.0,17,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500592,"Aspa, Marilou",Balcavem St.,359,382,359.0,382.0,23,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500964,"Balaoro, Merly",Balcavem St.,1917,1934,1917.0,1934.0,17,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501378,"Balaoro, Nida",Balcavem St.,374,404,374.0,404.0,30,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501475,"Barsaga, Ave",Balcavem St.,568,576,568.0,576.0,8,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501099,"Barsaga, Cendy",Balcavem St.,219,,219.0,219.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,500030,"Bartolata, Editha",Balcavem St.,2765,2795,2765.0,2795.0,30,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500348,"Bartolata, Hernanie",Balcavem St.,1869,1879,1869.0,1879.0,10,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500032,"Bartolay, Leonor",Balcavem St.,180,193,180.0,193.0,13,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500362,"Bartolay, Marino",Balcavem St.,399,416,399.0,416.0,17,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500024,"Bartolay, Regalado",Balcavem St.,461,463,461.0,463.0,2,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500993,"Bartolay, Walterio",Balcavem St.,1190,1274,1190.0,1274.0,84,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500025,"Barrun, Conchita",Balcavem St.,244,260,244.0,260.0,16,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501310,"Barrun, Nilda",Balcavem St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Balcavem Street,501451,"Buenaflor, Maria",Balcavem St.,497,510,497.0,510.0,13,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501011,"Cahayon, Remedios",Balcavem St.,809,810,809.0,810.0,1,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501488,"Cantoria, Anne",Balcavem St.,590,610,590.0,610.0,20,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500685,"Cantoria, Manuel Luis",Balcavem St.,199,201,199.0,201.0,2,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500360,"Cantoria, Nena",Balcavem St.,322,340,322.0,340.0,18,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501206,"Dejucos, Fe",Balcavem St.,1283,1290,1283.0,1290.0,7,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500029,"Dejumo, Josie",Balcavem St.,3186,3206,3186.0,3206.0,20,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500027,"Dilao, Elisa",Balcavem St.,1743,1743,1743.0,1743.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500718,"Dilao, Gloria",Balcavem St.,119,156,119.0,156.0,37,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501290,"Dilao, Vicente",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,501311,"Dejumo, Monina",Balcavem St.,618,624,618.0,624.0,6,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501007,"Esban, Rosalina",Balcavem St.,392,416,392.0,416.0,24,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500943,"Espenilla, Erlinda",Balcavem St.,708,784,708.0,784.0,76,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501531,"Esparrago, Rechel",Balcavem St.,951,994,951.0,994.0,43,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501322,"Esparrago, Zennedy",Balcavem St.,1316,1362,1316.0,1362.0,46,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501222,"Espenilla, Divina",Balcavem St.,128,133,128.0,133.0,5,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501395,"Espenilla, Maricris",Balcavem St.,930,946,930.0,946.0,16,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501265,"Espenilla, Roderick",Balcavem St.,411,443,411.0,443.0,32,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500398,"Espinosa, Emilio",Balcavem St.,,6,6.0,6.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500049,"Floresta, Marieta",Balcavem St.,486,511,486.0,511.0,25,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501283,"Garamay, Elvie",Balcavem St.,229,268,229.0,268.0,39,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501209,"Gebilaguin, Anniely",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,500842,"Gegantoca, Nilda",Balcavem St.,1922,1948,1922.0,1948.0,26,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500924,"Gernale, Ruben",Balcavem St.,325,337,325.0,337.0,12,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500701,"Genova, Noemi",Balcavem St.,153,167,153.0,167.0,14,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501698,"Genova, Noemi 2",Balcavem St.,,8,8.0,8.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501520,"Genova, Caridad",Balcavem St.,298,,298.0,298.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500138,"Goyon, Nora",Balcavem St.,235,256,235.0,256.0,21,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500445,"Gulmatico, Hernando",Balcavem St.,2850,2878,2850.0,2878.0,28,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500605,"Gulmatico, Jonathan",Balcavem St.,394,,394.0,394.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,501286,"Constantino, Pascual",Balcavem St.,554,560,554.0,560.0,6,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501516,"Gutierrez, Ernesto",Balcavem St.,655,666,655.0,666.0,11,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500967,"Kutzusawa,Novie",Balcavem St.,1627,1668,1627.0,1668.0,41,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500046,"Labajo, Felicisimo",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,500114,"Labastida, Maricel",Balcavem St.,2884,2902,2884.0,2902.0,18,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500026,"Lagajino, Anita",Balcavem St.,2591,2591,2591.0,2591.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501617,"Lado, Chona",Balcavem St.,114,120,114.0,120.0,6,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500927,"Leonino, Mary Ann",Balcavem St.,1284,1289,1284.0,1289.0,5,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500115,"Letada, Emma",Balcavem St.,2499,2499,2499.0,2499.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500968,"Letada, Lino",Balcavem St.,1814,1832,1814.0,1832.0,18,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500033,"Letada, Nila",Balcavem St.,30,41,30.0,41.0,11,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501337,"Lique, Nelita",Balcavem St.,565,579,565.0,579.0,14,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500831,"Marabella, Michelle",Balcavem St.,281,318,281.0,318.0,37,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501304,"Ontog, Joenna",Balcavem St.,158,170,158.0,170.0,12,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500469,"Portal, Amado",Balcavem St.,1901,1915,1901.0,1915.0,14,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501303,"Rejuso, Antonio",Balcavem St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Balcavem Street,501686,"Rejuso, Livide Jr.",Balcavem St.,21,28,21.0,28.0,7,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501271,"Rejuso, Liza",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,501009,"Rejuso, Lonica",Balcavem St.,649,655,649.0,655.0,6,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500517,"Roaring, Jeanlyn",Balcavem St.,509,535,509.0,535.0,26,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501008,"Rosero, Rosa",Balcavem St.,,1,1.0,1.0,0,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500857,"Sola, Edwin",Balcavem St.,426,445,426.0,445.0,19,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500934,"Sola, Jesus",Balcavem St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Balcavem Street,501360,"Teologo, Diego",Balcavem St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balcavem Street,501262,"Valenzuela, Edna",Balcavem St.,885,886,885.0,886.0,1,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,500572,"Villamor, Charo",Balcavem St.,1875,1900,1875.0,1900.0,25,Corrected,Active
+AUG,2020,Q3,,Balcavem Street,501357,"Villamor, Jenalyn",Balcavem St.,969,994,969.0,994.0,25,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500524,"Almodal, Sabas Jr.",Balintong St.,383,447,383.0,447.0,64,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500813,"Almodiel, Marilou",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,500882,"Almoradie, Marie",Balintong St.,478,515,478.0,515.0,37,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500937,"Eduarte, Desiree Joy",Balintong St.,450,474,450.0,474.0,24,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500920,"Atrasado, Salvacion",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,500962,"Barrun, Efren",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,501052,"Bartolay, Amor",Balintong St.,506,528,506.0,528.0,22,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500428,"Bartolay, Jessie",Balintong St.,4160,4167,4160.0,4167.0,7,Corrected,Active
+AUG,2020,Q3,,Balintong Street,501482,"Bartolata, Ronnie",Balintong St.,19,46,19.0,46.0,27,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500444,"CaÃ±ares, Chita",Balintong St.,2300,2328,2300.0,2328.0,28,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500253,Saved by Grace,Balintong St.,1638,1649,1638.0,1649.0,11,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500184,"Pensader, Elvie",Balintong St.,756,821,756.0,821.0,65,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500918,"Dela PeÃ±a, Aladino Jr.",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,501387,"Delavin, Jean",Balintong St.,4110,4128,4110.0,4128.0,18,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500467,"Delavin, Luz",Balintong St.,1252,1276,1252.0,1276.0,24,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500068,"Delavin, Maria",Balintong St.,2671,2691,2671.0,2691.0,20,Corrected,Active
+AUG,2020,Q3,,Balintong Street,501680,"Delavin, Shena",Balintong St.,157,231,157.0,231.0,74,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500257,"Esparraguerra, Elena",Balintong St.,5878,5919,5878.0,5919.0,41,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500326,"Espenilla, Efren",Balintong St.,942,954,942.0,954.0,12,Corrected,Active
+AUG,2020,Q3,,Balintong Street,501157,"Espenilla, Enrico",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,500912,"Espinosa, Nida",Balintong St.,3397,3448,3397.0,3448.0,51,Corrected,Active
+AUG,2020,Q3,,Balintong Street,501013,"Garamay, Raymond",Balintong St.,,3,3.0,3.0,0,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500684,"Gebelaguin, Shirley",Balintong St.,2965,3023,2965.0,3023.0,58,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500214,"Gordola, Imaculada",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,500213,"Jardin, Sonie",Balintong St.,2807,,2807.0,2807.0,0,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500112,"Jayubo, Lorna",Balintong St.,5909,5979,5909.0,5979.0,70,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500751,"Lique, Jeanne",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,501396,"Lique, Jeanne (2)",Balintong St.,2201,2297,2201.0,2297.0,96,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500067,"Llamas, Jose Sr.",Balintong St.,5244,5259,5244.0,5259.0,15,Corrected,Active
+AUG,2020,Q3,,Balintong Street,501239,"Llamas, Jose Jr.",Balintong St.,,21,21.0,21.0,0,Corrected,Active
+AUG,2020,Q3,,Balintong Street,500525,"Sola, Andres",Balintong St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Balintong Street,501235,"Villamor, Noli",Balintong St.,1401,1431,1401.0,1431.0,30,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501226,"Almoete, Nila",Barsaga St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Barsaga Street,501263,"Almonte, Riza",Barsaga St.,634,,634.0,634.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501041,"Bartolata, Daisy",Barsaga St.,1817,,1817.0,1817.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,500629,"Bartolay, Melina",Barsaga St.,5604,,5604.0,5604.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501371,"Bartolay, Salvador",Barsaga St.,462,,462.0,462.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501014,Brgy. Hall Dist. 4,Barsaga St.,23,,23.0,23.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,500693,"Cantoria, Ma. Luisa",Barsaga St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Barsaga Street,500219,"Clutario, Augusto",Barsaga St.,346,,346.0,346.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,500023,"Esparraguerra, Mario/Bartolay, Christian",Barsaga St.,2625,,2625.0,2625.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501679,"Epenilla, Vicente",Barsaga St.,146,,146.0,146.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501287,"Gulmatico, Roger",Barsaga St.,74,,74.0,74.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,501318,"Mercadejas, Ludy",Barsaga St.,27,,27.0,27.0,0,Corrected,Active
+AUG,2020,Q3,,Barsaga Street,500698,TISELCO-II,Barsaga St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500560,"Abejero, Mabel",Bartolabac St.,,,,,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Bartolabac Street,501003,"Albiola, Michelle",Bartolabac St.,602,631,602.0,631.0,29,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500319,"Alcantara, Carlos",Bartolabac St.,1309,1381,1309.0,1381.0,72,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500364,"Alcantara, Ruina",Bartolabac St.,229,265,229.0,265.0,36,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500945,"AÃ±onuevo, Glen",Bartolabac St.,772,805,772.0,805.0,33,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501682,"AlmiÃ±e, Ailyn",Bartolabac St.,100,114,100.0,114.0,14,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500994,"AlmiÃ±e, Edwin",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500971,"AlmiÃ±e, Rhea",Bartolabac St.,99,121,99.0,121.0,22,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500441,"Almodal, Noe",Bartolabac St.,645,682,645.0,682.0,37,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500625,"Almoete, Alianne",Bartolabac St.,611,657,611.0,657.0,46,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501454,"Almoete, Florante Jr.",Bartolabac St.,1446,1509,1446.0,1509.0,63,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500281,"Almoete, Florante",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500322,"Almojuela, Rey",Bartolabac St.,2435,2452,2435.0,2452.0,17,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500309,"Almoradie, Verwayne",Bartolabac St.,247,277,247.0,277.0,30,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500510,"Almosara, Veneranda",Bartolabac St.,3980,4027,3980.0,4027.0,47,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501251,"Almosara, Jose",Bartolabac St.,582,592,582.0,592.0,10,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500863,"Artiola, Elsie",Bartolabac St.,1016,1032,1016.0,1032.0,16,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500532,"Balangnang, Nelinda",Bartolabac St.,1552,1624,1552.0,1624.0,72,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500679,"Ballesteros, Jose Hans",Bartolabac St.,1684,1684,1684.0,1684.0,0,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500294,"Bandelaria, Anabelle",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500315,"Bartolata, Vicente",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500379,"Bartolay, Benito",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500287,"Bartolay, Marilyn",Bartolabac St.,2557,2578,2557.0,2578.0,21,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501519,"Bartolay, Ronnie",Bartolabac St.,561,584,561.0,584.0,23,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500301,"Bartolay, Pedro",Bartolabac St.,2065,2199,2065.0,2199.0,134,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501223,"Barrun, Ruth",Bartolabac St.,2782,2809,2782.0,2809.0,27,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500540,"Binayug, Ana",Bartolabac St.,755,804,755.0,804.0,49,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501047,"Cabug, Marivic",Bartolabac St.,716,738,716.0,738.0,22,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500387,"Cantoria, Erlinda",Bartolabac St.,773,782,773.0,782.0,9,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500581,"Cantoria, Helen",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500286,"Carranza, Divina",Bartolabac St.,4052,4081,4052.0,4081.0,29,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500296,"Cervantes, Alita",Bartolabac St.,2497,2518,2497.0,2518.0,21,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500767,"Deinla, Noel",Bartolabac St.,3516,3516,3516.0,3516.0,0,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501416,"Dejumo, Anita",Bartolabac St.,29,68,29.0,68.0,39,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500667,"Dejumo, Jasmin",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,501254,"Dejumo, Marian",Bartolabac St.,106,124,106.0,124.0,18,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501279,"Delavin, Myla",Bartolabac St.,585,595,585.0,595.0,10,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500777,"Delavin, Nelson",Bartolabac St.,192,214,192.0,214.0,22,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500440,"Delavin, Nonito",Bartolabac St.,1761,1766,1761.0,1766.0,5,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501204,"Dilao, Leny",Bartolabac St.,924,964,924.0,964.0,40,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501460,"Delos Santos, Rex",Bartolabac St.,1062,,1062.0,1062.0,0,Corrected,Disconnected
+AUG,2020,Q3,District 1,Bartolabac Street,500293,"Escorel, Gerlie/Gutierrez, Elisa Dist 1)",Bartolabac St. 1,1883,1904,1883.0,1904.0,21,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500774,Espares Pepito,Bartolabac St.,1907,1930,1907.0,1930.0,23,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500953,"Esparrago, Eden",Bartolabac St.,935,960,935.0,960.0,25,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501458,"Elloso, Margie",Bartolabac St.,187,198,187.0,198.0,11,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501174,"Garbo, Ike",Bartolabac St.,778,808,778.0,808.0,30,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501242,"Genova, Ranny",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500367,"Ghandali, Mila",Bartolabac St.,673,677,673.0,677.0,4,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500680,"Grafilo, Josefina",Bartolabac St.,771,789,771.0,789.0,18,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500557,"Grafilo, Oscar",Bartolabac St.,57,72,57.0,72.0,15,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500619,"Escorel, Elisa (Dist. 3)",Bartolabac St.,1916,1917,1916.0,1917.0,1,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500604,"Gutierrez, Juan",Bartolabac St.,4361,4418,4361.0,4418.0,57,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501018,"Huelva, Guillerma",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500707,"Jardin, Sonia",Bartolabac St.,352,368,352.0,368.0,16,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501202,"Julaton, Erlina",Bartolabac St.,666,691,666.0,691.0,25,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501017,"Liao, Liz",Bartolabac St.,818,838,818.0,838.0,20,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500295,"Loma, Ruby",Bartolabac St.,5489,5489,5489.0,5489.0,0,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500542,"Macabuhay, Wilfredo",Bartolabac St.,671,688,671.0,688.0,17,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501261,"Marino, Jonathan",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,501152,"Nepumuceno, Nena",Bartolabac St.,3263,3275,3263.0,3275.0,12,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501537,"Reluao, Ernis",Bartolabac St.,237,248,237.0,248.0,11,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500218,"Reluao, Monina",Bartolabac St.,791,811,791.0,811.0,20,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,501207,"Serra, Albert",Bartolabac St.,333,348,333.0,348.0,15,Corrected,Active
+AUG,2020,Q3,,Bartolabac Street,500317,"Villahermosa, Rogel",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500784,"Villahermosa, Bernardo",Bartolabac St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,501517,"Villamor, Jose",Bartolabac St.,1340,,1340.0,1340.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolabac Street,500494,"Villamor, Lilia",Bartolabac St.,147,163,147.0,163.0,16,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500123,"Adiaton, Rodrigo",Bartolay St.,5266,5334,5266.0,5334.0,68,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501039,"Alcantara, Rene",Bartolay St.,5,18,5.0,18.0,13,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500179,"Almodal, Gemma",Bartolay St.,2199,2213,2199.0,2213.0,14,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500302,"Almoete, Gilbert",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,500098,"Almoete, Mitchell",Bartolay St.,3460,3492,3460.0,3492.0,32,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500939,"Almoete, Pio",Bartolay St.,879,883,879.0,883.0,4,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500209,"Almonte, Cecilio",Bartolay St.,6345,6371,6345.0,6371.0,26,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500109,"Balingasa, Zenaida-A",Bartolay St.,5619,5634,5619.0,5634.0,15,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501085,"Bandelaria, Marcial",Bartolay St.,162,198,162.0,198.0,36,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500710,"Barrun, Nida",Bartolay St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Bartolay Street,500099,"Barrun, Simi",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,501685,"Bartolata, Alexander",Bartolay St.,115,130,115.0,130.0,15,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501422,"Bartolata, Evelyn",Bartolay St.,98,107,98.0,107.0,9,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500974,"Bartolay, Rene",Bartolay St.,2082,2123,2082.0,2123.0,41,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500154,"Barsaga, Adalia",Bartolay St.,1183,1187,1183.0,1187.0,4,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501692,"Barsaga, Frankjo",Bartolay St.,96,112,96.0,112.0,16,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500359,"Barsaga, Maria",Bartolay St.,3771,3783,3771.0,3783.0,12,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500308,"Barsaga, Solomon",Bartolay St.,3914,3955,3914.0,3955.0,41,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500588,"Baruelo, Ricky",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,501673,"Cabiles, Luz",Bartolay St.,52,61,52.0,61.0,9,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500676,"Camposano, Jesus",Bartolay St.,,1,1.0,1.0,0,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500125,"CaÃ±ares, Evangelina",Bartolay St.,672,681,672.0,681.0,9,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500659,"Cantonjos, Caritina",Bartolay St.,2987,3036,2987.0,3036.0,49,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501125,"Cantonjos, Editha",Bartolay St.,479,480,479.0,480.0,1,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500602,"Cantonjos, Ronnel",Bartolay St.,4141,4162,4141.0,4162.0,21,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500457,"Cantoria, Ronnie",Bartolay St.,1041,1051,1041.0,1051.0,10,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500946,"Carranza, Leonida",Bartolay St.,1285,1312,1285.0,1312.0,27,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500290,"Deinla, Regalado",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,501190,"Dejumo, Allan",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,500133,"Delavin, Edgar/Veterbo, Judith",Bartolay St.,2426,,2426.0,2426.0,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Bartolay Street,501695,"Delariarte, Melinda",Bartolay St.,22,28,22.0,28.0,6,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500647,"Delos Santos, Emerson",Bartolay St.,6072,6145,6072.0,6145.0,73,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501053,"EspaÃ±ola, Sonia",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,501545,"Esparrago, Maricar",Bartolay St.,236,260,236.0,260.0,24,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500721,"Espinosa, Benito",Bartolay St.,634,638,634.0,638.0,4,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501236,"Espinosa, Manette",Bartolay St.,3993,,3993.0,3993.0,0,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500201,"Espinosa, Nemia",Bartolay St.,5350,5370,5350.0,5370.0,20,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500255,"Feliciano, Vilda",Bartolay St.,1886,1899,1886.0,1899.0,13,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500252,"Gilaga, Ricky",Bartolay St.,1861,1874,1861.0,1874.0,13,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500393,"Grajo, Gloria",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,501029,"Jerusalem, Lanie",Bartolay St.,198,211,198.0,211.0,13,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,501083,"Lique, Levi",Bartolay St.,585,601,585.0,601.0,16,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500303,"Lique, Ricky",Bartolay St.,2915,2927,2915.0,2927.0,12,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500192,"Macoy, Ed/Ofelia",Bartolay St.,2182,2199,2182.0,2199.0,17,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500306,"Merillo, Elmor",Bartolay St.,2442,2451,2442.0,2451.0,9,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500044,"Meteoro, Lino",Bartolay St.,14437,14465,14437.0,14465.0,28,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500837,"Meteoro, Norman",Bartolay St.,4562,4596,4562.0,4596.0,34,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500538,"Navarro, Nonita",Bartolay St.,2748,,2748.0,2748.0,0,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500747,"NuÃ±ez, Carmela",Bartolay St.,566,581,566.0,581.0,15,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500130,"Romblon, Romeo",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,501466,"Valdez, Jocelyn",Bartolay St.,328,346,328.0,346.0,18,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500938,"Vasquez, Noel",Bartolay St.,3905,3935,3905.0,3935.0,30,Corrected,Active
+AUG,2020,Q3,,Bartolay Street,500413,"Villamor, Jeneth",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Bartolay Street,500714,"Villamor, Nena",Bartolay St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501114,"AlbaÃ±o, Emie",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,500143,"Almodiel, Edgar",Don Juan St.,4656,4670,4656.0,4670.0,14,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501524,"Almonicar, Albert",Don Juan St.,,10,10.0,10.0,0,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500925,"Almonicar, Felomino",Don Juan St.,364,385,364.0,385.0,21,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501401,"Almonicar, Rey",Don Juan St.,996,1024,996.0,1024.0,28,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500661,"Almonte, Carlos",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,500764,"Almonte, Ronnie",Don Juan St.,,36,36.0,36.0,0,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501198,"Almonte, Ronnie 2",Don Juan St.,,42,42.0,42.0,0,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501491,"Almosara, Junil",Don Juan St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Don Juan Street,500645,"Altiche, Nenita",Don Juan St.,609,610,609.0,610.0,1,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501126,"AÃ±onuevo, Cherily",Don Juan St.,1878,1925,1878.0,1925.0,47,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501486,"Aspa, Marilou 2",Don Juan St.,12,36,12.0,36.0,24,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501536,"Baconawa, Allan",Don Juan St.,35,58,35.0,58.0,23,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500958,"Barrun, Jesus",Don Juan St.,,12,12.0,12.0,0,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501297,"Barsaga, Melanie",Don Juan St.,,607,607.0,607.0,0,Corrected,Defect
+AUG,2020,Q3,,Don Juan Street,500407,"Bartolabac, Elvisa",Don Juan St.,,97,97.0,97.0,0,Corrected,Defect
+AUG,2020,Q3,,Don Juan Street,500690,"Bartolata, Lydia",Don Juan St.,1835,1845,1835.0,1845.0,10,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501116,"Bartolay, Ricky",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,500324,"Bunao, Nogemia",Don Juan St.,4068,4077,4068.0,4077.0,9,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500174,Delos Santos Flora,Don Juan St.,317,385,317.0,385.0,68,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501259,"Delos Santos, Teddy",Don Juan St.,125,137,125.0,137.0,12,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501383,"Demabasa, Maricel",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501589,"Dilao, Catalina",Don Juan St.,128,136,128.0,136.0,8,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501556,"Dilao, Krusaldo",Don Juan St.,156,165,156.0,165.0,9,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500470,"Dilao, Fernando",Don Juan St.,148,156,148.0,156.0,8,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500245,"Diolola, Juan",Don Juan St.,2161,2176,2161.0,2176.0,15,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500556,"Encinares, Romeo",Don Juan St.,2233,2237,2233.0,2237.0,4,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500275,"Espares, Janet",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501596,"Espenilla, Adrian",Don Juan St.,177,191,177.0,191.0,14,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500276,"Gelua, Jesus",Don Juan St.,376,395,376.0,395.0,19,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500913,"Genova, Miniseto",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501554,"Gerna, Edenia",Don Juan St.,222,230,222.0,230.0,8,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500438,"Gueta, Norma (1)",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,500446,"Gueta, Norma (2)",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501264,"Gutierrez, Rizza",Don Juan St.,292,329,292.0,329.0,37,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501432,"Gogolin, Rona Shiela",Don Juan St.,1387,1459,1387.0,1459.0,72,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500818,"Laila, Dante",Don Juan St.,4695,4800,4695.0,4800.0,105,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500860,"Lique, Rowena",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,500273,"Merillo, Dominga",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501124,"Montilla, Valora",Don Juan St.,532,580,532.0,580.0,48,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500702,"Nobleza, Marlon",Don Juan St.,325,,325.0,325.0,0,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500720,"Oliva, Marites",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,501650,"Razo, Ma. Ulyfe",Don Juan St.,377,410,377.0,410.0,33,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500478,"Rejuso, Amy",Don Juan St.,1921,1972,1921.0,1972.0,51,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501147,"Sagrado, Joy",Don Juan St.,612,647,612.0,647.0,35,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500671,"Tormo, Rogelio",Don Juan St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Don Juan Street,500277,"Tormo, Ruben",Don Juan St.,2792,2812,2792.0,2812.0,20,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500845,"Verano, Richel",Don Juan St.,379,407,379.0,407.0,28,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501535,"Viojan, Eva",Don Juan St.,1068,1109,1068.0,1109.0,41,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,500668,"Villahermosa, Evan",Don Juan St.,,7,7.0,7.0,0,Corrected,Active
+AUG,2020,Q3,,Don Juan Street,501131,"Villamor, Romulo",Don Juan St.,472,479,472.0,479.0,7,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501227,"Alicante, Margie",Esparrago St.,,22,22.0,22.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500502,"Almocera, Cesar",Esparrago St.,2424,2424,2424.0,2424.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500926,"Gueta, Norma3/Gueta, Andregal",Esparrago St.,28,56,28.0,56.0,28,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500689,"Almodal, Caridad",Esparrago St.,2151,2165,2151.0,2165.0,14,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501359,"Almodal, Maricel",Esparrago St.,8,38,8.0,38.0,30,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500084,"Almodiel, Jessie",Esparrago St.,1583,1658,1583.0,1658.0,75,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500638,"Almoete, Fe",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500591,"Almoete, Nestor",Esparrago St.,2189,2202,2189.0,2202.0,13,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500606,"Almoete, Oscar",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500769,"Almoguerra, Juan",Esparrago St.,1076,1084,1076.0,1084.0,8,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501141,"Almoguerra, Karena",Esparrago St.,146,154,146.0,154.0,8,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501034,"Almoguerra, Rudy",Esparrago St.,741,786,741.0,786.0,45,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500085,"Almojuela, Darwin",Esparrago St.,3762,3795,3762.0,3795.0,33,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501154,"Almojuela, Domarie",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500801,"Almosera, Rosie-I",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500802,"Almosera, Rosie-II",Esparrago St.,468,483,468.0,483.0,15,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500803,"Almosera, Rosie-III",Esparrago St.,39,48,39.0,48.0,9,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501033,"Amor, Candelaria",Esparrago St.,1194,1199,1194.0,1199.0,5,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501348,"Arcenas, Francis",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,501398,"Arcenas, Francis 2",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,501278,"Bagobe, Fausto Ceasar",Esparrago St.,410,413,410.0,413.0,3,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500003,"Bagobe, Penelope",Esparrago St.,4092,4094,4092.0,4094.0,2,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501042,"Barrun, Marlon",Esparrago St.,2807,2838,2807.0,2838.0,31,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500321,"Barrun, May",Esparrago St.,5347,5381,5347.0,5381.0,34,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500434,"Barrun, Ranulfo",Esparrago St.,4640,4658,4640.0,4658.0,18,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501188,"Bartolata, Ariel",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500503,"Bartolata, Ariosto",Esparrago St.,4349,4415,4349.0,4415.0,66,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500929,"Bartolata, Ben",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,501691,"Bartolata, Judith",Esparrago St.,167,214,167.0,214.0,47,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500005,"Bartolata, Ruel",Esparrago St.,3378,3378,3378.0,3378.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500508,"Bartolata, Vivian",Esparrago St.,1236,1258,1236.0,1258.0,22,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501134,"Bartolay, Michael",Esparrago St.,105,128,105.0,128.0,23,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500007,"Cabiles, Nita",Esparrago St.,1175,1185,1175.0,1185.0,10,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500643,"Cantoria, Nena",Esparrago St.,4203,4263,4203.0,4263.0,60,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500235,"Carpio, Neil",Esparrago St.,835,862,835.0,862.0,27,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500624,"Casilao, Cesar",Esparrago St.,,425,425.0,425.0,0,Corrected,Defect
+AUG,2020,Q3,,Esparrago Street,500004,"Cerillo, Lea",Esparrago St.,3679,,3679.0,3679.0,0,Corrected,Defect
+AUG,2020,Q3,,Esparrago Street,500323,"Cervantes, Alita",Esparrago St.,1287,1326,1287.0,1326.0,39,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500613,"Dejucos, Joel",Esparrago St.,4769,4788,4769.0,4788.0,19,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500006,"Dejucos, Mercy",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500086,"Dejumo, Milagros",Esparrago St.,322,323,322.0,323.0,1,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500449,"Delavin, Natividad",Esparrago St.,992,1069,992.0,1069.0,77,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500325,"Delos Santos, Teddy",Esparrago St.,5582,5630,5582.0,5630.0,48,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500001,"Encinares, Roberto",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,501552,"Escorel, Cerconsecion",Esparrago St.,154,160,154.0,160.0,6,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500886,"Espares, Julieta",Esparrago St.,1512,1512,1512.0,1512.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501480,"Espares, Jennefer",Esparrago St.,486,504,486.0,504.0,18,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501452,"EspaÃ±ol, Corazon",Esparrago St.,909,933,909.0,933.0,24,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501266,"Esparraguerra, Artemio",Esparrago St.,108,134,108.0,134.0,26,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501384,"Espenida, Christy",Esparrago St.,752,764,752.0,764.0,12,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500644,"Espinosa, Carla",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,501446,"Espinosa, Florence",Esparrago St.,4418,,4418.0,4418.0,0,Corrected,Defect
+AUG,2020,Q3,,Esparrago Street,501669,"Frando, Tessie",Esparrago St.,77,98,77.0,98.0,21,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500087,"Bustillo, Maria Janil",Esparrago St.,2186,2186,2186.0,2186.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500088,"Granado, Nelly",Esparrago St.,2369,2388,2369.0,2388.0,19,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501030,"Grencio, Inlec",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,501684,"Grencio, Jerry",Esparrago St.,85,110,85.0,110.0,25,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501347,"Gueta, Nora",Esparrago St.,1157,1183,1157.0,1183.0,26,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500238,"Jimenez, Lope",Esparrago St.,2702,2714,2702.0,2714.0,12,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500019,"Leduna, Elsa",Esparrago St.,1261,1295,1261.0,1295.0,34,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500183,"Legaspi, Rene",Esparrago St.,905,905,905.0,905.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500618,"Lignes, Meden",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500915,"Lignes, Lea",Esparrago St.,2926,2927,2926.0,2927.0,1,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500681,"Lique, Goven",Esparrago St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Esparrago Street,501503,"Llanto, Anthony",Esparrago St.,559,590,559.0,590.0,31,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500106,"Lumberio, Esmeria",Esparrago St.,71,98,71.0,98.0,27,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501181,"Lumberio, Nanelyn",Esparrago St.,422,440,422.0,440.0,18,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500153,"Lumberio, Ramir",Esparrago St.,1121,1150,1121.0,1150.0,29,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501229,"Macoy, Amor",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500977,"Mahusay, Erlinda",Esparrago St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Esparrago Street,500197,"Mahusay, Jelina",Esparrago St.,7603,7638,7603.0,7638.0,35,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500448,"Merillo, Angel",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500796,"Mira, Erlinda",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500375,"Mira, Noe",Esparrago St.,3373,3379,3373.0,3379.0,6,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500345,"Mores, Hera Myra",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500756,"Orteza, Blas",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Esparrago Street,500002,"Pareja, Myrna",Esparrago St.,,,,,0,Corrected,Invalid Reading
+AUG,2020,Q3,,Esparrago Street,501674,"Quitasol, Jose Jr.",Esparrago St.,41,48,41.0,48.0,7,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500320,"Rejuso, Arlene",Esparrago St.,,,,,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Esparrago Street,500390,"Rejuso, Vicente",Esparrago St.,6270,6293,6270.0,6293.0,23,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500569,Seventh Day Adventist,Esparrago St.,475,475,475.0,475.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500617,Ticao College,Esparrago St.,1958,,1958.0,1958.0,0,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500900,"Ty, Levy",Esparrago St.,364,434,364.0,434.0,70,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,501687,"Villahermosa, Ma. Jill",Esparrago St.,128,149,128.0,149.0,21,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500651,"Villamor, Daisy",Esparrago St.,2089,2103,2089.0,2103.0,14,Corrected,Active
+AUG,2020,Q3,,Esparrago Street,500089,"Villamor, Flora",Esparrago St.,,8101,8101.0,8101.0,0,Corrected,Defect
+AUG,2020,Q3,,Esparrago Street,500970,"Villanueva, Juvy",Esparrago St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Espinosa Street,500366,"Alcala, Maribel",Espinosa St.,208,234,208.0,234.0,26,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500830,"Mines, Ronnel",Espinosa St.,2199,2265,2199.0,2265.0,66,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,501583,"Almonte, Stephanie Joy",Espinosa St.,109,109,109.0,109.0,0,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500136,"Almodiel, Caridad",Espinosa St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Espinosa Street,500139,"Almodiel, Ranny",Espinosa St.,1575,1575,1575.0,1575.0,0,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500675,"Aspa, Marilie",Espinosa St.,2297,2320,2297.0,2320.0,23,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500391,"Barsaga, Rudy",Espinosa St.,2449,,2449.0,2449.0,0,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500292,"Elloso, Ramir",Espinosa St.,1762,1769,1762.0,1769.0,7,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,501120,"Espares, Darwin",Espinosa St.,425,470,425.0,470.0,45,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500630,"Espinosa, Carmen",Espinosa St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Espinosa Street,500904,"Dilao, Aida",Espinosa St.,4489,4542,4489.0,4542.0,53,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,501175,"Laila, Federico",Espinosa St.,224,266,224.0,266.0,42,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,501199,"Maravilla, Jojo",Espinosa St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Espinosa Street,501196,"Neri, Maribel",Espinosa St.,318,347,318.0,347.0,29,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500196,"Ramilo, Rosa",Espinosa St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Espinosa Street,501469,"Rejuso, Noli",Espinosa St.,26,59,26.0,59.0,33,Corrected,Active
+AUG,2020,Q3,,Espinosa Street,500864,"Sola, Herne",Espinosa St.,1337,1360,1337.0,1360.0,23,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501565,"AlbaÃ±o, Helen",Fabmar St.,127,138,127.0,138.0,11,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501670,"Almodiel,Marife",Fabmar St.,67,90,67.0,90.0,23,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501635,"Almoete, Romy 1",Fabmar St.,105,161,105.0,161.0,56,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501636,"Almoete, Romy 2",Fabmar St.,36,41,36.0,41.0,5,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501364,"AlmiÃ±e, Stella",Fabmar St.,,12,12.0,12.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501409,"Almoguerra, Sonia",Fabmar St.,744,,744.0,744.0,0,Corrected,Defect
+AUG,2020,Q3,,Fabmar Street,501619,"Almonicar, Cesar",Fabmar St.,251,271,251.0,271.0,20,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500787,"Almonicar, Jose",Fabmar St.,345,367,345.0,367.0,22,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500682,"Almosara, Celin",Fabmar St.,2606,2642,2606.0,2642.0,36,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501587,"Almosara, Elvie",Fabmar St.,711,749,711.0,749.0,38,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500902,"Almosara, Jinky",Fabmar St.,1615,1624,1615.0,1624.0,9,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500314,"Almosara, Jose",Fabmar St.,4742,4744,4742.0,4744.0,2,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500930,"Almodiel, Cherry",Fabmar St.,475,486,475.0,486.0,11,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500373,"Aspa, Rogelio",Fabmar St.,3604,3629,3604.0,3629.0,25,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501300,"Aspa, Eden",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501614,"Ballesteros, Jose Hans",Fabmar St.,691,727,691.0,727.0,36,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501608,"Barrun, Adolfo",Fabmar St.,693,,693.0,693.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501245,"Barrun, Amelia",Fabmar St.,108,152,108.0,152.0,44,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500914,"Barrun, Emma",Fabmar St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Fabmar Street,501655,"Barrun, Marlon",Fabmar St.,128,,128.0,128.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500553,"Barsaga, Esperanza",Fabmar St.,1797,1814,1797.0,1814.0,17,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501694,"Bartolabac, Nick",Fabmar St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Fabmar Street,501045,"Bartolata, Dory",Fabmar St.,696,744,696.0,744.0,48,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500331,"Bartolata, Eusebio",Fabmar St.,4633,4697,4633.0,4697.0,64,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500892,"Bartolay, Agnes",Fabmar St.,189,218,189.0,218.0,29,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501660,"Bartolay, Elvie",Fabmar St.,29,,29.0,29.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500866,"Bartolay, Fulcida",Fabmar St.,988,997,988.0,997.0,9,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501574,"Bartolay, Helen",Fabmar St.,362,407,362.0,407.0,45,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501495,"Bartolay, Leticia",Fabmar St.,167,222,167.0,222.0,55,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501573,"Bartolata, Oro",Fabmar St.,276,286,276.0,286.0,10,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500396,"Bartolay, Romeo",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501595,BFP,Fabmar St.,789,789,789.0,789.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501249,"Bartolay, Sonia",Fabmar St.,160,187,160.0,187.0,27,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501355,"Bocboc, Evelyn",Fabmar St.,778,,778.0,778.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500881,"Bocboc, Lily",Fabmar St.,498,574,498.0,574.0,76,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500779,"Bocboc, Sonia",Fabmar St.,1733,1821,1733.0,1821.0,88,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501370,"Capsa, Alex",Fabmar St.,1233,1291,1233.0,1291.0,58,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501665,"Cantoria, Michael",Fabmar St.,256,294,256.0,294.0,38,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501037,"Cerillo, Ronnie",Fabmar St.,483,521,483.0,521.0,38,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501281,"Constantino, Lalyn",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501585,"Coloso, Catelin",Fabmar St.,811,871,811.0,871.0,60,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500354,"Coloso, Josephine",Fabmar St.,678,730,678.0,730.0,52,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501555,"Coloso, Nilda",Fabmar St.,251,252,251.0,252.0,1,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501616,"Dayap, Julius",Fabmar St.,61,65,61.0,65.0,4,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501173,"Dayap, Sheryl",Fabmar St.,622,665,622.0,665.0,43,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501403,"Delavin, Maricris",Fabmar St.,48,78,48.0,78.0,30,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500931,"Deinla, Emelita",Fabmar St.,1438,1460,1438.0,1460.0,22,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501592,"Dejino, Evangeline",Fabmar St.,589,623,589.0,623.0,34,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501572,"Dejucos, Alice",Fabmar St.,334,365,334.0,365.0,31,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501564,"Dejucos, Elsie",Fabmar St.,433,463,433.0,463.0,30,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501615,"Dejucos, Joben",Fabmar St.,560,560,560.0,560.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500318,"Dejucos, Orlando                                                                                                                                                                                                                                                                                   ",Fabmar St.,3336,3337,3336.0,3337.0,1,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501445,"Dejucos, Orlando 2",Fabmar St.,1871,2029,1871.0,2029.0,158,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501065,"Dejumo, Larry",Fabmar St.,3944,3944,3944.0,3944.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501653,"Dejumo, Lourdes",Fabmar St.,111,135,111.0,135.0,24,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500497,"Dejumo, Nanilyn",Fabmar St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Fabmar Street,501588,"Dejumo, Nanilyn 2",Fabmar St.,995,1054,995.0,1054.0,59,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500369,"Delariarte, Carlos                                     ",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,500327,"Delavin, Bienda",Fabmar St.,4727,4743,4727.0,4743.0,16,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500980,"Delavin, Angielyn",Fabmar St.,76,79,76.0,79.0,3,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501434,"Delavin, Emilyn",Fabmar St.,306,310,306.0,310.0,4,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501049,"Delos Santos, Flora",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501498,"Dignos, Melba",Fabmar St.,819,842,819.0,842.0,23,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501159,DPWH QC,Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,500450,"Espares, Siony",Fabmar St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Fabmar Street,501200,"EspaÃ±ola, Nedy",Fabmar St.,3421,3463,3421.0,3463.0,42,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501575,"Esparrago, Lorenia",Fabmar St.,343,370,343.0,370.0,27,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501626,"Esparrago, Mikay",Fabmar St.,306,309,306.0,309.0,3,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500580,"Esparrguerra, Antonio",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,500969,"Esparraguerra, Joy",Fabmar St.,1135,1161,1135.0,1161.0,26,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501652,"Esparraguerra, Liza",Fabmar St.,75,92,75.0,92.0,17,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501600,"Esparraguerra, Nelsie",Fabmar St.,357,389,357.0,389.0,32,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501441,"Esparraguerra, Wilma",Fabmar St.,698,749,698.0,749.0,51,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501404,"Espenilla, Lea",Fabmar St.,2166,2388,2166.0,2388.0,222,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500752,"Espenilla, Vilma",Fabmar St.,4605,4670,4605.0,4670.0,65,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501436,"Espenilla, Rochelle",Fabmar St.,110,132,110.0,132.0,22,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501577,"Fortes, Mary Grace",Fabmar St.,395,417,395.0,417.0,22,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501700,"Guerrero, Guin Carlo",Fabmar St.,113,225,113.0,225.0,112,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501666,"Guevarra, Mary Jean",Fabmar St.,229,267,229.0,267.0,38,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500395,"Gutierrez, Helen",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501648,"Gupalao, Anabelle",Fabmar St.,67,109,67.0,109.0,42,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501298,"Gupalao, Jenelyn 1",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501158,"Gupalao, Roger",Fabmar St.,79,120,79.0,120.0,41,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501319,"Gutierrez, Clyde",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501643,"Gutierrez, Evelyn 2",Fabmar St.,1233,1417,1233.0,1417.0,184,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500305,"Gutierrez, Helen",Fabmar St.,2479,2567,2479.0,2567.0,88,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501443,"Gutierrez, Henry",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501046,JEJAN,Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501657,"Lanuza, Angelica Marie",Fabmar St.,,897,897.0,897.0,0,Corrected,Defect
+AUG,2020,Q3,,Fabmar Street,501579,"Letada, Marites",Fabmar St.,708,777,708.0,777.0,69,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500376,"Letada, Salvacion",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501182,"Laguilles, Ernesto",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501413,"Lignes, Renel",Fabmar St.,78,83,78.0,83.0,5,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501649,"Magante, Myra",Fabmar St.,324,358,324.0,358.0,34,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501590,"Manaog, Nessie",Fabmar St.,1221,1278,1221.0,1278.0,57,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501036,"Macoy, Allan (1)",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501155,"Macoy, Allan (2)",Fabmar St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Fabmar Street,501597,"Merillo, Amadeo",Fabmar St.,520,582,520.0,582.0,62,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500313,"Mira, Cesar",Fabmar St.,264,273,264.0,273.0,9,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501671,"Mira, Jerald",Fabmar St.,92,102,92.0,102.0,10,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500884,"Mira, Joel",Fabmar St.,632,632,632.0,632.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500851,"Ora-a, Chin",Fabmar St.,343,,343.0,343.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501369,"Parado, Josie",Fabmar St.,1147,1160,1147.0,1160.0,13,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501688,"Pinaranda, Maricel",Fabmar St.,37,52,37.0,52.0,15,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501576,"Planas, Marites",Fabmar St.,283,307,283.0,307.0,24,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500307,"Llanto, Johnny",Fabmar St.,361,383,361.0,383.0,22,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501618,"Rejuso, Elsie",Fabmar St.,178,188,178.0,188.0,10,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500961,"Rejuso, Maria",Fabmar St.,892,,892.0,892.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500334,"Rejuso, Rolly",Fabmar St.,707,752,707.0,752.0,45,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501345,"Rejuso, Rolando",Fabmar St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Fabmar Street,501601,"Relente, Berjean",Fabmar St.,435,504,435.0,504.0,69,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501569,"Robles, Julieta",Fabmar St.,385,430,385.0,430.0,45,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500646,"Sola, Cesar",Fabmar St.,1351,1364,1351.0,1364.0,13,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501681,"Sola, Margie",Fabmar St.,170,198,170.0,198.0,28,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500522,"Roxas, Renalyn",Fabmar St.,191,195,191.0,195.0,4,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501525,"Villamor, Arnel",Fabmar St.,,6,6.0,6.0,0,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,500526,"Villamor, Rosalina",Fabmar St.,2330,2368,2330.0,2368.0,38,Corrected,Active
+AUG,2020,Q3,,Fabmar Street,501570,"Waitkus, Dolored",Fabmar St.,345,361,345.0,361.0,16,Corrected,Active
+AUG,2020,Q3,,Flores Street,501584,"Agao, Marites",Flores St.,115,126,115.0,126.0,11,Corrected,Active
+AUG,2020,Q3,,Flores Street,500615,"Agao, Necita",Flores St.,8,30,8.0,30.0,22,Corrected,Active
+AUG,2020,Q3,,Flores Street,500468,"AlbaÃ±o, Lanie",Flores St.,3656,3685,3656.0,3685.0,29,Corrected,Active
+AUG,2020,Q3,,Flores Street,501211,"Aldana, Dolores",Flores St.,638,674,638.0,674.0,36,Corrected,Active
+AUG,2020,Q3,,Flores Street,500177,"Aljecera, Tito",Flores St.,1745,1788,1745.0,1788.0,43,Corrected,Active
+AUG,2020,Q3,,Flores Street,500060,"Almocera, Leni",Flores St.,1742,1755,1742.0,1755.0,13,Corrected,Active
+AUG,2020,Q3,,Flores Street,500066,"Almodal, Glenda",Flores St.,4278,4317,4278.0,4317.0,39,Corrected,Active
+AUG,2020,Q3,,Flores Street,501533,"Almodal, Orly Mande",Flores St.,798,874,798.0,874.0,76,Corrected,Active
+AUG,2020,Q3,,Flores Street,500103,"Almojuela, Flora",Flores St.,3115,3125,3115.0,3125.0,10,Corrected,Active
+AUG,2020,Q3,,Flores Street,501038,"Almonicar, Herald",Flores St.,1458,1517,1458.0,1517.0,59,Corrected,Active
+AUG,2020,Q3,,Flores Street,501031,"Berg, Marites",Flores St.,2192,2200,2192.0,2200.0,8,Corrected,Active
+AUG,2020,Q3,,Flores Street,500059,"Almosara, Lolita",Flores St.,2320,2333,2320.0,2333.0,13,Corrected,Active
+AUG,2020,Q3,,Flores Street,500055,"Almosara, Nacy",Flores St.,2873,2895,2873.0,2895.0,22,Corrected,Active
+AUG,2020,Q3,,Flores Street,500872,"Almosara, Nerissa",Flores St.,1853,1865,1853.0,1865.0,12,Corrected,Active
+AUG,2020,Q3,,Flores Street,500797,"Altizon, Florili",Flores St.,1573,1589,1573.0,1589.0,16,Corrected,Active
+AUG,2020,Q3,,Flores Street,500788,"Amican, Helen",Flores St.,3099,3099,3099.0,3099.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,501040,"Aspa, Elicer",Flores St.,1361,1373,1361.0,1373.0,12,Corrected,Active
+AUG,2020,Q3,,Flores Street,501361,"Balingasa, Micah",Flores St.,664,664,664.0,664.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,500127,"Balingasa, Zenaida-B",Flores St.,3586,3592,3586.0,3592.0,6,Corrected,Active
+AUG,2020,Q3,,Flores Street,500063,"Barsaga, Edita",Flores St.,3761,3774,3761.0,3774.0,13,Corrected,Active
+AUG,2020,Q3,,Flores Street,500727,"Bartolata, Leo",Flores St.,3818,3853,3818.0,3853.0,35,Corrected,Active
+AUG,2020,Q3,,Flores Street,500104,"Bartolata, Vivina",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500400,"Bartolay, Rosie",Flores St.,923,940,923.0,940.0,17,Corrected,Active
+AUG,2020,Q3,,Flores Street,501335,"Bartolay, Sonia",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500195,"Belmes, Arturo",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501394,"Bueta, Karen",Flores St.,902,906,902.0,906.0,4,Corrected,Active
+AUG,2020,Q3,,Flores Street,500456,"Cabiles, Nestor",Flores St.,659,665,659.0,665.0,6,Corrected,Active
+AUG,2020,Q3,,Flores Street,500401,"Cantoria, Casiano",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500583,CHURCH,Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500507,"Deinla, Flordeliza",Flores St.,3386,3413,3386.0,3413.0,27,Corrected,Active
+AUG,2020,Q3,,Flores Street,501296,"Dejumo, Jessie",Flores St.,1242,1297,1242.0,1297.0,55,Corrected,Active
+AUG,2020,Q3,,Flores Street,500150,"Delos Santos, Bienvenido",Flores St.,936,,936.0,936.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500634,"Delos Santos, Marben",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500102,"Delos Santos, Neria",Flores St.,2115,2146,2115.0,2146.0,31,Corrected,Active
+AUG,2020,Q3,,Flores Street,500180,"Delos Santos, Rosario",Flores St.,3028,3051,3028.0,3051.0,23,Corrected,Active
+AUG,2020,Q3,,Flores Street,501044,"Deonila, Meruche",Flores St.,1792,1810,1792.0,1810.0,18,Corrected,Active
+AUG,2020,Q3,,Flores Street,500057,"Dilao, Rosa",Flores St.,404,432,404.0,432.0,28,Corrected,Active
+AUG,2020,Q3,,Flores Street,501156,"Dilao, Rosa (2)",Flores St.,4667,4733,4667.0,4733.0,66,Corrected,Active
+AUG,2020,Q3,,Flores Street,501192,"Escorel, Florena",Flores St.,1143,1143,1143.0,1143.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,501022,"Espanol, Ave",Flores St.,67,78,67.0,78.0,11,Corrected,Active
+AUG,2020,Q3,,Flores Street,500586,"Espenilla, Elmer Jr.",Flores St.,496,496,496.0,496.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,501506,"Espenilla, Emie",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500061,"Espenida, Cecilia",Flores St.,412,412,412.0,412.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,500781,"Flores, Berwin",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501316,"Flores, Christian",Flores St.,137,159,137.0,159.0,22,Corrected,Active
+AUG,2020,Q3,,Flores Street,500476,"Flores, Flora/Cana, Cita",Flores St.,134,142,134.0,142.0,8,Corrected,Active
+AUG,2020,Q3,,Flores Street,500965,"Francis, Vilma",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501477,"Gaurano, Jomar",Flores St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Flores Street,501349,"Gaurano, Josefina",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501408,"Gaurano, Nixon",Flores St.,451,482,451.0,482.0,31,Corrected,Active
+AUG,2020,Q3,,Flores Street,500065,"Garamay, Jose",Flores St.,424,439,424.0,439.0,15,Corrected,Active
+AUG,2020,Q3,,Flores Street,500120,"Granado, Emma",Flores St.,7240,7285,7240.0,7285.0,45,Corrected,Active
+AUG,2020,Q3,,Flores Street,500058,"Gebilaguin, Emmanuel",Flores St.,3016,3058,3016.0,3058.0,42,Corrected,Active
+AUG,2020,Q3,,Flores Street,501270,KGP c/o Rene Rejuso,Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501127,"Lique, Elisa",Flores St.,3614,3672,3614.0,3672.0,58,Corrected,Active
+AUG,2020,Q3,,Flores Street,500108,"Llacer, Severina",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501050,"Lurcida, Felomina",Flores St.,1913,1962,1913.0,1962.0,49,Corrected,Active
+AUG,2020,Q3,,Flores Street,500064,"Mabborang, Florentino",Flores St.,3627,3650,3627.0,3650.0,23,Corrected,Active
+AUG,2020,Q3,,Flores Street,500518,"Magdaraog, Lilibeth",Flores St.,1604,1604,1604.0,1604.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,501253,"Medina, Ma. Lucila",Flores St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Flores Street,500141,"Mingoy, Felipe",Flores St.,7214,7251,7214.0,7251.0,37,Corrected,Active
+AUG,2020,Q3,,Flores Street,501051,"Moya, Monina",Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,501624,"Nuevo, Jeloveme",Flores St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Flores Street,500550,"Ongotan, Telesporo",Flores St.,5684,5684,5684.0,5684.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,501187,"Pascua, Jean",Flores St.,1085,1100,1085.0,1100.0,15,Corrected,Active
+AUG,2020,Q3,,Flores Street,500100,"Payawal, Redentor",Flores St.,2729,2729,2729.0,2729.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,501133,"Rejuso, Eva",Flores St.,1988,2013,1988.0,2013.0,25,Corrected,Active
+AUG,2020,Q3,,Flores Street,501352,"Rejuso, Ronnie",Flores St.,3907,3987,3907.0,3987.0,80,Corrected,Active
+AUG,2020,Q3,,Flores Street,501410,"Repolles, Ellen Grace",Flores St.,1150,1214,1150.0,1214.0,64,Corrected,Active
+AUG,2020,Q3,,Flores Street,500493,SAJACS,Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500582,SAJACS (SPED),Flores St.,352,,352.0,352.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500944,SAJACS c/o Almodiel,Flores St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Flores Street,500062,"Tan, Sandro",Flores St.,10852,10936,10852.0,10936.0,84,Corrected,Active
+AUG,2020,Q3,,Flores Street,501094,"Tan, Zaldy",Flores St.,,3994,3994.0,3994.0,0,Corrected,Defect
+AUG,2020,Q3,,Flores Street,500474,"Vasquez, Virginia",Flores St.,3642,,3642.0,3642.0,0,Corrected,Active
+AUG,2020,Q3,,Flores Street,500101,"Villahermosa, Oscar",Flores St.,3579,3599,3579.0,3599.0,20,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500096,"Almodal, Ana",Grafilo St.,1363,1369,1363.0,1369.0,6,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500695,"Almoete, Artus",Grafilo St.,265,342,265.0,342.0,77,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,501659,"Bartolata, Emma",Grafilo St.,34,43,34.0,43.0,9,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500193,"Bartolata, Eduardo",Grafilo St.,1646,1675,1646.0,1675.0,29,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,501143,"Bartolata, Janette",Grafilo St.,79,94,79.0,94.0,15,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500932,"Bermillo, Lea",Grafilo St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Grafilo Street,500694,"Cantoria, Jose Jr.",Grafilo St.,299,338,299.0,338.0,39,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500097,"Carranza, Petrona",Grafilo St.,3122,3228,3122.0,3228.0,106,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500402,"Garamay, Sheila",Grafilo St.,1138,1237,1138.0,1237.0,99,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500358,"Letada, Ambrocio",Grafilo St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Grafilo Street,500786,"Letada, Ferdinand",Grafilo St.,3298,3321,3298.0,3321.0,23,Corrected,Active
+AUG,2020,Q3,,Grafilo Street,500022,"Llacer, Lony",Grafilo St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Grafilo Street,501563,"Ongonion, Elsie",Grafilo St.,176,,176.0,176.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,500536,"AlmiÃ±e, Mandy",Gutierrez St.,210,261,210.0,261.0,51,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500310,"AlmiÃ±e, Nick",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,500827,"Almodiel, Noe",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,500268,"Almodiel, Romulo",Gutierrez St.,2054,,2054.0,2054.0,0,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500775,"Almonte, Emilio",Gutierrez St.,1826,1858,1826.0,1858.0,32,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501250,"Almonte, Nedy",Gutierrez St.,429,456,429.0,456.0,27,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500342,"Almoradie, Roger",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,500423,"AÃ±onuevo, Otto",Gutierrez St.,561,673,561.0,673.0,112,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500516,"Aspa, Ramon",Gutierrez St.,2226,2243,2226.0,2243.0,17,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500429,"Barrun, Jesus",Gutierrez St.,5805,5838,5805.0,5838.0,33,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500435,"Bartolata, Andres",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,501429,"Bartolay, Jojie",Gutierrez St.,874,901,874.0,901.0,27,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500632,"Basical, Rudy",Gutierrez St.,1317,1348,1317.0,1348.0,31,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500337,"Belmes, Nila",Gutierrez St.,4982,5107,4982.0,5107.0,125,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501500,"Bonino, Albena",Gutierrez St.,141,144,141.0,144.0,3,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500392,"Bulalaque, Zelda",Gutierrez St.,4616,4659,4616.0,4659.0,43,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501246,"Canchela, Luis",Gutierrez St.,334,349,334.0,349.0,15,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500490,"Canchela, Teresita",Gutierrez St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Gutierrez Street,500285,"Dejumo, Sergia",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,500289,"Dejumo, Sergia",Gutierrez St.,3573,3599,3573.0,3599.0,26,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500282,"Dejumo, Sergia/Orgiba, Neddy",Gutierrez St.,56,101,56.0,101.0,45,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500453,"Delavin, Dina",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,501406,"Delavin, Analyn",Gutierrez St.,,25,25.0,25.0,0,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500383,"Delavin, Fely",Gutierrez St.,1741,1751,1741.0,1751.0,10,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500338,"Delavin, Marilyn",Gutierrez St.,5263,5352,5263.0,5352.0,89,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500283,"Delavin, Nelson",Gutierrez St.,1872,1901,1872.0,1901.0,29,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501353,"Dilao, Salvador",Gutierrez St.,7712,7761,7712.0,7761.0,49,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500981,"Dilao, Maria",Gutierrez St.,910,935,910.0,935.0,25,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500382,"Espenida, Domingo",Gutierrez St.,301,325,301.0,325.0,24,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501637,"Gebilaguin, Frank",Gutierrez St.,15,19,15.0,19.0,4,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500269,"Gutierrez, Mario",Gutierrez St.,366,413,366.0,413.0,47,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500562,"Gulmatico, Melinda",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Gutierrez Street,500804,"Gutierrez, Genalyn",Gutierrez St.,3692,3700,3692.0,3700.0,8,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500575,"Llacer, Lony",Gutierrez St.,5101,5561,5101.0,5561.0,460,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500336,"Lumberio, Nena",Gutierrez St.,107,128,107.0,128.0,21,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500384,"Ramirez, Josefa",Gutierrez St.,3728,3755,3728.0,3755.0,27,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501375,"Ramirez, Josefa 2",Gutierrez St.,416,422,416.0,422.0,6,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500639,"Rejuso, Dina",Gutierrez St.,1442,1467,1442.0,1467.0,25,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501459,"Sevillano, Lony",Gutierrez St.,298,298,298.0,298.0,0,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501515,"So, Margielyn",Gutierrez St.,1098,1202,1098.0,1202.0,104,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,500699,"Sopsop, Merly",Gutierrez St.,461,501,461.0,501.0,40,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501543,"Villamor, Andrie",Gutierrez St.,404,406,404.0,406.0,2,Corrected,Active
+AUG,2020,Q3,,Gutierrez Street,501099,"Villahermosa, Lita",Gutierrez St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500879,"AlbaÃ±o, Emy/Villaranda, Jerry 2",Jones St.,234,,234.0,234.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500901,"Alapad, Larry",Jones St.,718,,718.0,718.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500343,"AlmiÃ±ana, Hernani",Jones St.,3195,3199,3195.0,3199.0,4,Corrected,Active
+AUG,2020,Q3,,Jones Street,500795,"AlmiÃ±e, Edwin",Jones St.,100,112,100.0,112.0,12,Corrected,Active
+AUG,2020,Q3,,Jones Street,500799,"AlmiÃ±e, Flor",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500165,"AlmiÃ±e, Jose",Jones St.,5016,5044,5016.0,5044.0,28,Corrected,Active
+AUG,2020,Q3,,Jones Street,500653,"Almodal, Noe",Jones St.,1714,1717,1714.0,1717.0,3,Corrected,Active
+AUG,2020,Q3,,Jones Street,501164,"Almodiel, Arlyn",Jones St.,1579,1594,1579.0,1594.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,501315,"Almodiel, Adelisa",Jones St.,1302,1386,1302.0,1386.0,84,Corrected,Active
+AUG,2020,Q3,,Jones Street,501312,"Almodiel, Jose Glen",Jones St.,778,823,778.0,823.0,45,Corrected,Active
+AUG,2020,Q3,,Jones Street,501496,"Almodiel, Nasaile",Jones St.,535,557,535.0,557.0,22,Corrected,Active
+AUG,2020,Q3,,Jones Street,501095,"Almodiel, Marites",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501321,"Almoete, Sonia",Jones St.,1110,1141,1110.0,1141.0,31,Corrected,Active
+AUG,2020,Q3,,Jones Street,500949,"Almoete, Babylyn",Jones St.,1884,1948,1884.0,1948.0,64,Corrected,Active
+AUG,2020,Q3,,Jones Street,500780,"Almoguerra, Edwin",Jones St.,1556,1569,1556.0,1569.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,500737,"Almojuela, Alexander",Jones St.,1678,1704,1678.0,1704.0,26,Corrected,Active
+AUG,2020,Q3,,Jones Street,500960,"Almojuela, Nila",Jones St.,975,978,975.0,978.0,3,Corrected,Active
+AUG,2020,Q3,,Jones Street,500792,"Almonte, Leny",Jones St.,1043,,1043.0,1043.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501032,"Almonte, Lina",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500700,"Almonte, Romeo",Jones St.,2857,2875,2857.0,2875.0,18,Corrected,Active
+AUG,2020,Q3,,Jones Street,501184,"Almosara, Aiza",Jones St.,139,,139.0,139.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501623,"Almosara, Mikee",Jones St.,339,366,339.0,366.0,27,Corrected,Active
+AUG,2020,Q3,,Jones Street,500846,"Amor, Alwin",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500458,"Angustia, Tessie",Jones St.,6084,6140,6084.0,6140.0,56,Corrected,Active
+AUG,2020,Q3,,Jones Street,500849,"Anos, Benito",Jones St.,1807,1833,1807.0,1833.0,26,Corrected,Active
+AUG,2020,Q3,,Jones Street,500291,"Asejo, Elias",Jones St.,1104,1134,1104.0,1134.0,30,Corrected,Active
+AUG,2020,Q3,,Jones Street,500730,"Aspa, Arceli 2",Jones St.,86,106,86.0,106.0,20,Corrected,Active
+AUG,2020,Q3,,Jones Street,500868,"Aspa, Dante",Jones St.,1750,1764,1750.0,1764.0,14,Corrected,Active
+AUG,2020,Q3,,Jones Street,501078,"Aspa, Mabel",Jones St.,42,55,42.0,55.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,501122,"Aspa, Nonito",Jones St.,203,,203.0,203.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500735,"Aspa, Willy",Jones St.,319,338,319.0,338.0,19,Corrected,Active
+AUG,2020,Q3,,Jones Street,501189,"Bailon, Nerry Rose",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500463,"Barredo, Edgar",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501499,"Barrun, Elizabeth",Jones St.,671,691,671.0,691.0,20,Corrected,Active
+AUG,2020,Q3,,Jones Street,500898,"Barrun, Jean",Jones St.,5114,5180,5114.0,5180.0,66,Corrected,Active
+AUG,2020,Q3,,Jones Street,500272,"Barrun, Jesus",Jones St.,2205,2217,2205.0,2217.0,12,Corrected,Active
+AUG,2020,Q3,,Jones Street,501391,"Barrun, Nida/Esparrago, Lady",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,501061,"Barrun, Nedy",Jones St.,877,926,877.0,926.0,49,Corrected,Active
+AUG,2020,Q3,,Jones Street,501054,"Barrun, Ruth",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,501546,"Barsaga, Ben",Jones St.,944,989,944.0,989.0,45,Corrected,Active
+AUG,2020,Q3,,Jones Street,500819,"Barsaga, Bok",Jones St.,1549,1568,1549.0,1568.0,19,Corrected,Active
+AUG,2020,Q3,,Jones Street,501080,"Barsaga, Edgar",Jones St.,1021,1043,1021.0,1043.0,22,Corrected,Active
+AUG,2020,Q3,,Jones Street,501514,"Barsaga, Eddison",Jones St.,583,613,583.0,613.0,30,Corrected,Active
+AUG,2020,Q3,,Jones Street,500850,"Barsaga, Josefa A",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500963,"Barsaga, Josefa B",Jones St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Jones Street,500267,"Barsaga, Jolly",Jones St.,1628,1670,1628.0,1670.0,42,Corrected,Active
+AUG,2020,Q3,,Jones Street,500790,"Barsaga, Lily",Jones St.,828,828,828.0,828.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,500495,"Barsaga, Milagros/Dennis",Jones St.,1271,1332,1271.0,1332.0,61,Corrected,Active
+AUG,2020,Q3,,Jones Street,500173,"Barsaga, Rene",Jones St.,369,397,369.0,397.0,28,Corrected,Active
+AUG,2020,Q3,,Jones Street,501248,"Barsaga, Roberto",Jones St.,1032,1045,1032.0,1045.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,501074,"Bartolata, Elena",Jones St.,632,640,632.0,640.0,8,Corrected,Active
+AUG,2020,Q3,,Jones Street,501057,"Bartolata, Fe",Jones St.,176,191,176.0,191.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,501647,"Bartolata, Flor",Jones St.,184,217,184.0,217.0,33,Corrected,Active
+AUG,2020,Q3,,Jones Street,500610,"Bartolata, Levi",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500956,"Bartolata, Liezel",Jones St.,1405,1417,1405.0,1417.0,12,Corrected,Active
+AUG,2020,Q3,,Jones Street,501501,"Bartolata, Mabel",Jones St.,479,495,479.0,495.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,501677,"Bartolata, Melvin",Jones St.,211,254,211.0,254.0,43,Corrected,Active
+AUG,2020,Q3,,Jones Street,501544,"Bartolata, Sinen",Jones St.,262,265,262.0,265.0,3,Corrected,Active
+AUG,2020,Q3,,Jones Street,500036,"Bartolay, Adan",Jones St.,4077,4085,4077.0,4085.0,8,Corrected,Active
+AUG,2020,Q3,,Jones Street,500545,"Bartolay, Adelfa",Jones St.,2279,2295,2279.0,2295.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,500152,"Bartolay, Amor",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,501299,"Bartolay, Carlito",Jones St.,3067,3181,3067.0,3181.0,114,Corrected,Active
+AUG,2020,Q3,,Jones Street,501195,"Bartolay, Dina",Jones St.,445,456,445.0,456.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,501646,"Bartolay, Eden",Jones St.,81,96,81.0,96.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,501082,"Bartolay, Erlinda",Jones St.,15,22,15.0,22.0,7,Corrected,Active
+AUG,2020,Q3,,Jones Street,500352,"Bartolay, Florien",Jones St.,1951,1962,1951.0,1962.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,501527,"Bartolay, Jarwin",Jones St.,2035,2162,2035.0,2162.0,127,Corrected,Active
+AUG,2020,Q3,,Jones Street,500859,"Bartolay, Juan",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501091,"Bartolay, Rosita",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501060,"Bartolay, Zaldy",Jones St.,1051,1063,1051.0,1063.0,12,Corrected,Active
+AUG,2020,Q3,,Jones Street,500817,"Baruelo, Arnel",Jones St.,1978,1978,1978.0,1978.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,500397,"Baruelo, Charina",Jones St.,1558,1611,1558.0,1611.0,53,Corrected,Active
+AUG,2020,Q3,,Jones Street,500947,"Belmes, Lily",Jones St.,1588,1606,1588.0,1606.0,18,Corrected,Active
+AUG,2020,Q3,,Jones Street,500609,"Bocboc, Ana/Bocboc, Janine",Jones St.,179,210,179.0,210.0,31,Corrected,Active
+AUG,2020,Q3,,Jones Street,500485,"Borilla, Roberto",Jones St.,3567,3638,3567.0,3638.0,71,Corrected,Active
+AUG,2020,Q3,,Jones Street,501058,"Borilla, Dante",Jones St.,547,572,547.0,572.0,25,Corrected,Active
+AUG,2020,Q3,,Jones Street,500655,"Borilla, Myrna",Jones St.,1722,1745,1722.0,1745.0,23,Corrected,Active
+AUG,2020,Q3,,Jones Street,500976,"Borilla, Rolando",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501372,"Borromeo, Leni",Jones St.,873,903,873.0,903.0,30,Corrected,Active
+AUG,2020,Q3,,Jones Street,501548,"Borromeo, Myrna",Jones St.,608,637,608.0,637.0,29,Corrected,Active
+AUG,2020,Q3,,Jones Street,501273,"Borromeo, Rosie",Jones St.,756,761,756.0,761.0,5,Corrected,Active
+AUG,2020,Q3,,Jones Street,501658,"Bueta, Alberto Romulo",Jones St.,56,67,56.0,67.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,501667,"Bueta, Odessey",Jones St.,68,81,68.0,81.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,501356,"Rapsing, Lester",Jones St.,2856,2914,2856.0,2914.0,58,Corrected,Active
+AUG,2020,Q3,,Jones Street,501093,"CaÃ±ares, Carmen",Jones St.,2104,2141,2104.0,2141.0,37,Corrected,Active
+AUG,2020,Q3,,Jones Street,500437,"CaÃ±ares, Nimfa",Jones St.,574,581,574.0,581.0,7,Corrected,Active
+AUG,2020,Q3,,Jones Street,501055,"Cantela, Zaida",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500350,"Cantoria, Efren",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501282,"Cantoria, Efren 2",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501328,"Cantoria, Eduardo",Jones St.,744,775,744.0,775.0,31,Corrected,Active
+AUG,2020,Q3,,Jones Street,500672,"Cantoria, Nora",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500733,"Cerillo, Vicky",Jones St.,1962,1997,1962.0,1997.0,35,Corrected,Active
+AUG,2020,Q3,,Jones Street,500791,"Consirga, Salvacion",Jones St.,1874,1894,1874.0,1894.0,20,Corrected,Active
+AUG,2020,Q3,,Jones Street,501683,"Constantino, Emil",Jones St.,33,42,33.0,42.0,9,Corrected,Active
+AUG,2020,Q3,,Jones Street,500936,"Corsiga, Danny",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501168,"Corsiga, Eden",Jones St.,41,41,41.0,41.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501096,"Corpus, Nelsie",Jones St.,,,,,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Jones Street,500744,"Deinla, Concepcion",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500565,"Deinla, Edgar",Jones St.,2370,2386,2370.0,2386.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,501070,"Deinla, Edgar 2",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500451,"Deinla, Emma",Jones St.,2906,2929,2906.0,2929.0,23,Corrected,Active
+AUG,2020,Q3,,Jones Street,501502,"Deinla, Myrna",Jones St.,2365,,2365.0,2365.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,500865,"Deinla, Rowena",Jones St.,289,307,289.0,307.0,18,Corrected,Active
+AUG,2020,Q3,,Jones Street,501277,"Dejucos, Mary Ann",Jones St.,154,160,154.0,160.0,6,Corrected,Active
+AUG,2020,Q3,,Jones Street,501064,"Dejucos, Nilo",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,501476,"Dejumo, Julissa",Jones St.,207,218,207.0,218.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,500734,"Dejumo, Sanny",Jones St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Jones Street,500462,"Dejumo, Sonia",Jones St.,2157,2157,2157.0,2157.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,500729,"Delavin, Jose Johnny",Jones St.,932,958,932.0,958.0,26,Corrected,Active
+AUG,2020,Q3,,Jones Street,501252,"Delavin, Heldie",Jones St.,192,206,192.0,206.0,14,Corrected,Active
+AUG,2020,Q3,,Jones Street,500731,"Delavin, Nelly",Jones St.,7621,7635,7621.0,7635.0,14,Corrected,Active
+AUG,2020,Q3,,Jones Street,501580,"Delavin, Ruel",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501449,"Delavin, Royal",Jones St.,5486,5549,5486.0,5549.0,63,Corrected,Active
+AUG,2020,Q3,,Jones Street,501433,"Delavin, Sonia",Jones St.,52,65,52.0,65.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,500654,"Delos Santos, Carlos",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500669,"Delos Santos, Eddie",Jones St.,4888,4896,4888.0,4896.0,8,Corrected,Active
+AUG,2020,Q3,,Jones Street,500570,"Delos Santos, Rolando",Jones St.,194,,194.0,194.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501331,"Delos Santos, Ronnie",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501142,"Deonila, Joan",Jones St.,1083,1099,1083.0,1099.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,500047,"Dilao, Adelfa",Jones St.,258,272,258.0,272.0,14,Corrected,Active
+AUG,2020,Q3,,Jones Street,501162,"Dominguiano, Arnel",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500031,"Dominguiano, Ely",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501160,"Dominguiano, Gina",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501149,"Dominguiano, Jonny",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500353,"Dominguiano, Marilyn",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501075,"Dominguiano, Romeo",Jones St.,1130,1212,1130.0,1212.0,82,Corrected,Active
+AUG,2020,Q3,,Jones Street,500854,"Dominguiano, Romeo Jr.",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500963,"Edwards, Josefa",Jones St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Jones Street,501505,"Escorel, Amor",Jones St.,1001,1016,1001.0,1016.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,500656,"Escorel, Geraldine",Jones St.,576,591,576.0,591.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,501651,"Escorel, Margie",Jones St.,152,188,152.0,188.0,36,Corrected,Active
+AUG,2020,Q3,,Jones Street,500454,"Escorel, Nena",Jones St.,3344,3369,3344.0,3369.0,25,Corrected,Active
+AUG,2020,Q3,,Jones Street,501121,"Escorel, Salvie",Jones St.,1591,1594,1591.0,1594.0,3,Corrected,Active
+AUG,2020,Q3,,Jones Street,500421,"Espares, Bernardo",Jones St.,646,668,646.0,668.0,22,Corrected,Active
+AUG,2020,Q3,,Jones Street,501123,"Espares, Domingo",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501351,"Villaranda, Jerry 1",Jones St.,370,370,370.0,370.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,500873,"Espares, Erlinda",Jones St.,2889,2897,2889.0,2897.0,8,Corrected,Active
+AUG,2020,Q3,,Jones Street,500670,"Espares, Francisco",Jones St.,2455,2468,2455.0,2468.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,501137,"Espares, Remigio III",Jones St.,2250,2262,2250.0,2262.0,12,Corrected,Active
+AUG,2020,Q3,,Jones Street,500674,"Espares, Violeta",Jones St.,1642,1670,1642.0,1670.0,28,Corrected,Active
+AUG,2020,Q3,,Jones Street,500198,"Esparrago, Flor",Jones St.,4193,4262,4193.0,4262.0,69,Corrected,Active
+AUG,2020,Q3,,Jones Street,500048,"Esparrago, Ana Grace",Jones St.,770,781,770.0,781.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,500527,"Esparrago,  Zaldy",Jones St.,740,765,740.0,765.0,25,Corrected,Active
+AUG,2020,Q3,,Jones Street,501484,"Esparrago,  Zaldy Jr.",Jones St.,755,771,755.0,771.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,501062,"Esparraguerra, Eleonor",Jones St.,,,,,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Jones Street,500480,"Espenida, Eddie",Jones St.,1915,1944,1915.0,1944.0,29,Corrected,Active
+AUG,2020,Q3,,Jones Street,501439,"Espenilla, Ian",Jones St.,822,858,822.0,858.0,36,Corrected,Active
+AUG,2020,Q3,,Jones Street,500732,"Espenilla, Ronaldo",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500778,"Espenilla, Tessie",Jones St.,1907,1918,1907.0,1918.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,500424,"Espinosa, Edralin",Jones St.,6938,7011,6938.0,7011.0,73,Corrected,Active
+AUG,2020,Q3,,Jones Street,500897,"Espinosa, Elsie",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500548,"Gelotin, Isaias",Jones St.,1112,,1112.0,1112.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,500339,"Genova, Erlinda",Jones St.,1254,1294,1254.0,1294.0,40,Corrected,Active
+AUG,2020,Q3,,Jones Street,501238,"Gerona, Siony",Jones St.,525,,525.0,525.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501366,"Gragas, Jon-Jon",Jones St.,921,957,921.0,957.0,36,Corrected,Active
+AUG,2020,Q3,,Jones Street,501084,"Gragas, Melit",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501108,"Grantos, Rizza",Jones St.,552,569,552.0,569.0,17,Corrected,Active
+AUG,2020,Q3,,Jones Street,500890,"Gubangco, Ronilda",Jones St.,14,23,14.0,23.0,9,Corrected,Active
+AUG,2020,Q3,,Jones Street,500966,"Gutierrez, Elvisa",Jones St.,1079,1089,1079.0,1089.0,10,Corrected,Active
+AUG,2020,Q3,,Jones Street,500351,"Gutierrez, Leny",Jones St.,1857,1887,1857.0,1887.0,30,Corrected,Active
+AUG,2020,Q3,,Jones Street,501368,Health Center/Dist. 2,Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500600,"Heirs of Estor, Domingo",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501205,"Huelva, Jeannet",Jones St.,1476,1713,1476.0,1713.0,237,Corrected,Active
+AUG,2020,Q3,,Jones Street,501267,"Jayubo, Lemuel",Jones St.,554,579,554.0,579.0,25,Corrected,Active
+AUG,2020,Q3,,Jones Street,501066,"Labastida, Lourdes",Jones St.,573,615,573.0,615.0,42,Corrected,Active
+AUG,2020,Q3,,Jones Street,500410,"Laila, Dante",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501071,"Lalaguna, Edna",Jones St.,80,96,80.0,96.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,501586,"Ledesma, Erlinda",Jones St.,302,317,302.0,317.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,500519,"Leonor, Larry",Jones St.,2623,2665,2623.0,2665.0,42,Corrected,Active
+AUG,2020,Q3,,Jones Street,501056,"Letada, Eric",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,500459,"Letada, Lito",Jones St.,7845,7913,7845.0,7913.0,68,Corrected,Active
+AUG,2020,Q3,,Jones Street,500673,"Li, Elisa",Jones St.,2184,2241,2184.0,2241.0,57,Corrected,Active
+AUG,2020,Q3,,Jones Street,501210,"Lignes, Allan",Jones St.,363,370,363.0,370.0,7,Corrected,Active
+AUG,2020,Q3,,Jones Street,501087,"Lignes, Marissa",Jones St.,3832,3864,3832.0,3864.0,32,Corrected,Active
+AUG,2020,Q3,,Jones Street,500874,"Lignes, Ronnie",Jones St.,1764,1779,1764.0,1779.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,500917,"Lim, Nena",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500783,"Lique, Elvie",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500847,"Lique, Olaf",Jones St.,271,297,271.0,297.0,26,Corrected,Active
+AUG,2020,Q3,,Jones Street,501442,"Lique, Glenn",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501430,"Lique, Andres",Jones St.,47,62,47.0,62.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,501541,"Lique, Myla",Jones St.,1543,1574,1543.0,1574.0,31,Corrected,Active
+AUG,2020,Q3,,Jones Street,500239,"Llanto, Antonio",Jones St.,1442,1442,1442.0,1442.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501490,"Llanto, Gina",Jones St.,390,419,390.0,419.0,29,Corrected,Active
+AUG,2020,Q3,,Jones Street,501362,"Llorca, Elisa",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501161,"Luna, Rolando",Jones St.,2732,2743,2732.0,2743.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,501664,"Lupango, Edna",Jones St.,87,100,87.0,100.0,13,Corrected,Active
+AUG,2020,Q3,,Jones Street,500501,"Maglente, Quirino",Jones St.,22,42,22.0,42.0,20,Corrected,Active
+AUG,2020,Q3,,Jones Street,500773,"Marcos, Jose",Jones St.,2155,2184,2155.0,2184.0,29,Corrected,Active
+AUG,2020,Q3,,Jones Street,501136,"Masangkay, Marites",Jones St.,372,381,372.0,381.0,9,Corrected,Active
+AUG,2020,Q3,,Jones Street,501068,"Meniano, Cristina",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500034,"Merillo, Emy",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501130,"Merillo, Judissa",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501392,"Merillo, Nilo",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500951,"Merillo, Nelsie",Jones St.,1646,1656,1646.0,1656.0,10,Corrected,Active
+AUG,2020,Q3,,Jones Street,501350,"Mortiga, Ramir",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500742,"Mortiga, Rex",Jones St.,320,332,320.0,332.0,12,Corrected,Active
+AUG,2020,Q3,,Jones Street,501630,"Mores, Hera Myra",Jones St.,178,203,178.0,203.0,25,Corrected,Active
+AUG,2020,Q3,,Jones Street,501097,"Nuevo, Blanca",Jones St.,439,456,439.0,456.0,17,Corrected,Active
+AUG,2020,Q3,,Jones Street,501582,"NuÃ±ez, Leny",Jones St.,161,168,161.0,168.0,7,Corrected,Active
+AUG,2020,Q3,,Jones Street,501069,"NuÃ±es, Nora/Deinla, Sheryl",Jones St.,120,123,120.0,123.0,3,Corrected,Active
+AUG,2020,Q3,,Jones Street,500855,"Oliva, Ely",Jones St.,1139,1186,1139.0,1186.0,47,Corrected,Active
+AUG,2020,Q3,,Jones Street,501561,"Ongotan, Edwin/Rizardo, Freddie",Jones St.,1164,1258,1164.0,1258.0,94,Corrected,Active
+AUG,2020,Q3,,Jones Street,500828,"Potalba, Joselon",Jones St.,534,589,534.0,589.0,55,Corrected,Active
+AUG,2020,Q3,,Jones Street,500417,"Prac, Pepe",Jones St.,511,529,511.0,529.0,18,Corrected,Active
+AUG,2020,Q3,,Jones Street,501194,"Rapsing, Nilda",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,500035,"Rapsing, Rowena",Jones St.,3963,3988,3963.0,3988.0,25,Corrected,Active
+AUG,2020,Q3,,Jones Street,501672,"Rebadeo, Siony",Jones St.,83,100,83.0,100.0,17,Corrected,Active
+AUG,2020,Q3,,Jones Street,501255,"Recto, John  Rey",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500135,"Refermoso, Lerma",Jones St.,2775,2791,2775.0,2791.0,16,Corrected,Active
+AUG,2020,Q3,,Jones Street,500893,"Rejuso, Arlene",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501230,"Rejuso, Alonzo",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,501059,"Rejuso, Melita",Jones St.,1698,1743,1698.0,1743.0,45,Corrected,Active
+AUG,2020,Q3,,Jones Street,500979,"Rejuso, Regalado Jr.",Jones St.,208,231,208.0,231.0,23,Corrected,Active
+AUG,2020,Q3,,Jones Street,500922,"Reluao, Caridad",Jones St.,1881,2071,1881.0,2071.0,190,Corrected,Active
+AUG,2020,Q3,,Jones Street,500862,"Reluao, Emma/Delavin, Carlo",Jones St.,131,,131.0,131.0,0,Corrected,Active
+AUG,2020,Q3,,Jones Street,501314,"Rianzo, Elmer",Jones St.,89,100,89.0,100.0,11,Corrected,Active
+AUG,2020,Q3,,Jones Street,501090,"Rianzo, Marino",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500426,"Rivera, Erwin",Jones St.,3896,3911,3896.0,3911.0,15,Corrected,Active
+AUG,2020,Q3,,Jones Street,501144,"Rosales, Shiela",Jones St.,881,903,881.0,903.0,22,Corrected,Active
+AUG,2020,Q3,,Jones Street,501073,"Saberon, Danilo",Jones St.,1057,1083,1057.0,1083.0,26,Corrected,Active
+AUG,2020,Q3,,Jones Street,500807,"Santosidad, Mercolin",Jones St.,904,910,904.0,910.0,6,Corrected,Active
+AUG,2020,Q3,,Jones Street,500558,"Serra, Albert",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501140,"Serra, Sheena",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501191,Slaughter House,Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500762,"Sola, Ester",Jones St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Jones Street,501063,(Talipapa Dist.2) Manuel Luis,Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,500344,"Sola, Nelita",Jones St.,3528,3552,3528.0,3552.0,24,Corrected,Active
+AUG,2020,Q3,,Jones Street,501547,"Sola, Levi",Jones St.,439,465,439.0,465.0,26,Corrected,Active
+AUG,2020,Q3,,Jones Street,500573,"Teologo, Marife",Jones St.,337,354,337.0,354.0,17,Corrected,Active
+AUG,2020,Q3,,Jones Street,501376,"Temprosa, Raymond",Jones St.,903,940,903.0,940.0,37,Corrected,Active
+AUG,2020,Q3,,Jones Street,501098,"Temprosa, Sylvia",Jones St.,384,411,384.0,411.0,27,Corrected,Active
+AUG,2020,Q3,,Jones Street,500770,"Tormo, Josie",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Jones Street,501243,"Tugbo, Charlyn",Jones St.,298,306,298.0,306.0,8,Corrected,Active
+AUG,2020,Q3,,Jones Street,500883,"Velo, Ben",Jones St.,1825,1843,1825.0,1843.0,18,Corrected,Active
+AUG,2020,Q3,,Jones Street,501567,"Villanueva, Jonalyn",Jones St.,843,898,843.0,898.0,55,Corrected,Active
+AUG,2020,Q3,,Jones Street,501407,"Villamor, Ariel",Jones St.,782,810,782.0,810.0,28,Corrected,Active
+AUG,2020,Q3,,Jones Street,501163,"Villamor, Jonito",Jones St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,501010,"Adiaton, Alma",Letada St.,742,779,742.0,779.0,37,Corrected,Active
+AUG,2020,Q3,,Letada Street,500244,"Almerol, Jose",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,501247,"AlmiÃ±e, Maricel",Letada St.,735,792,735.0,792.0,57,Corrected,Active
+AUG,2020,Q3,,Letada Street,501388,"AlmiraÃ±ez, Antonio",Letada St.,468,474,468.0,474.0,6,Corrected,Active
+AUG,2020,Q3,,Letada Street,501035,"AlmiraÃ±ez, Danilo",Letada St.,405,418,405.0,418.0,13,Corrected,Active
+AUG,2020,Q3,,Letada Street,500234,"AlmiraÃ±ez, Francisco",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500110,"Almocera, Francisco Sr.",Letada St.,4864,4886,4864.0,4886.0,22,Corrected,Active
+AUG,2020,Q3,,Letada Street,500757,"Almodiel, Purisima",Letada St.,636,654,636.0,654.0,18,Corrected,Active
+AUG,2020,Q3,,Letada Street,500122,"Almoete, Maripaz",Letada St.,1929,1975,1929.0,1975.0,46,Corrected,Active
+AUG,2020,Q3,,Letada Street,501633,"Almoete, Mark Anthony",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500593,"Almonte, Edgar Sr.",Letada St.,2976,2996,2976.0,2996.0,20,Corrected,Active
+AUG,2020,Q3,,Letada Street,500765,"Almonte, Rogelio",Letada St.,1099,1113,1099.0,1113.0,14,Corrected,Active
+AUG,2020,Q3,,Letada Street,501135,"Almonte, Virginia",Letada St.,712,724,712.0,724.0,12,Corrected,Active
+AUG,2020,Q3,,Letada Street,501540,"Alon-Alon, Marita",Letada St.,226,234,226.0,234.0,8,Corrected,Active
+AUG,2020,Q3,,Letada Street,501463,"Aton, Pio",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500341,"Avila, Jelina",Letada St.,472,492,472.0,492.0,20,Corrected,Active
+AUG,2020,Q3,,Letada Street,501697,"Balingasa, Jea",Letada St.,115,119,115.0,119.0,4,Corrected,Active
+AUG,2020,Q3,,Letada Street,500923,"Barrun, Lunita",Letada St.,752,761,752.0,761.0,9,Corrected,Active
+AUG,2020,Q3,,Letada Street,500514,"Barrun, Louie",Letada St.,2774,2913,2774.0,2913.0,139,Corrected,Active
+AUG,2020,Q3,,Letada Street,501272,"Barrun, Rene",Letada St.,1167,1169,1167.0,1169.0,2,Corrected,Active
+AUG,2020,Q3,,Letada Street,500928,"Barruga, Evelyn",Letada St.,1606,1621,1606.0,1621.0,15,Corrected,Active
+AUG,2020,Q3,,Letada Street,500821,"Barruga, Ronaldo",Letada St.,61,74,61.0,74.0,13,Corrected,Active
+AUG,2020,Q3,,Letada Street,500111,"Barsaga, Myla",Letada St.,2654,2674,2654.0,2674.0,20,Corrected,Active
+AUG,2020,Q3,,Letada Street,500800,"Bartolata, Josefino",Letada St.,1187,1187,1187.0,1187.0,0,Corrected,Active
+AUG,2020,Q3,,Letada Street,500078,"Bartolay, Antonio",Letada St.,160,189,160.0,189.0,29,Corrected,Active
+AUG,2020,Q3,,Letada Street,500232,"Bartolay, Fernando",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500159,"Bartolay, Lilia",Letada St.,6583,6648,6583.0,6648.0,65,Corrected,Active
+AUG,2020,Q3,,Letada Street,500126,"Cantoria, Mercedes",Letada St.,159,159,159.0,159.0,0,Corrected,Active
+AUG,2020,Q3,,Letada Street,500955,"Cantuba, Jose",Letada St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Letada Street,500236,"Constantino, Adolfo",Letada St.,1853,1857,1853.0,1857.0,4,Corrected,Active
+AUG,2020,Q3,,Letada Street,500477,"Constantino, Aida",Letada St.,,12,12.0,12.0,0,Corrected,Active
+AUG,2020,Q3,,Letada Street,500242,"Delavin, Edwin",Letada St.,3311,3341,3311.0,3341.0,30,Corrected,Active
+AUG,2020,Q3,,Letada Street,501521,"Delavin, Delmor",Letada St.,432,436,432.0,436.0,4,Corrected,Active
+AUG,2020,Q3,,Letada Street,500176,"Espenilla, Amador",Letada St.,917,965,917.0,965.0,48,Corrected,Active
+AUG,2020,Q3,,Letada Street,500182,"Espinosa, Lily",Letada St.,1115,1122,1115.0,1122.0,7,Corrected,Active
+AUG,2020,Q3,,Letada Street,501461,"Espinosa, Elena",Letada St.,727,801,727.0,801.0,74,Corrected,Active
+AUG,2020,Q3,,Letada Street,500663,"Gabad, Marino",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500858,"Garalde, Jose",Letada St.,786,798,786.0,798.0,12,Corrected,Active
+AUG,2020,Q3,,Letada Street,500554,"Garamay, Rey",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,501308,"Gebilaguin, Valerius",Letada St.,118,144,118.0,144.0,26,Corrected,Active
+AUG,2020,Q3,,Letada Street,500074,"Granado, Edgar",Letada St.,1424,1443,1424.0,1443.0,19,Corrected,Active
+AUG,2020,Q3,,Letada Street,501274,"Granado, Josie (2)",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500073,"Granado, Josie",Letada St.,3259,3259,3259.0,3259.0,0,Corrected,Active
+AUG,2020,Q3,,Letada Street,501225,"Laurio, Mary Lane",Letada St.,218,224,218.0,224.0,6,Corrected,Active
+AUG,2020,Q3,,Letada Street,500403,"Letada, Eduardo",Letada St.,774,792,774.0,792.0,18,Corrected,Active
+AUG,2020,Q3,,Letada Street,500142,"Leynes, Angelo",Letada St.,2370,2411,2370.0,2411.0,41,Corrected,Active
+AUG,2020,Q3,,Letada Street,500427,"Lique, Billy Sr.",Letada St.,187,204,187.0,204.0,17,Corrected,Active
+AUG,2020,Q3,,Letada Street,501530,"Lique, Chita",Letada St.,1007,1027,1007.0,1027.0,20,Corrected,Active
+AUG,2020,Q3,,Letada Street,500077,"Llacer, Emilio Jr.",Letada St.,1808,1817,1808.0,1817.0,9,Corrected,Active
+AUG,2020,Q3,,Letada Street,501180,"Llacer, Emilio Jr. (2)",Letada St.,659,686,659.0,686.0,27,Corrected,Active
+AUG,2020,Q3,,Letada Street,500076,"Llacer, Emilio Sr.",Letada St.,1933,1939,1933.0,1939.0,6,Corrected,Active
+AUG,2020,Q3,,Letada Street,500543,"Magdamit, Maravillosa",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500206,"Merillo, Isidro Sr.",Letada St.,4608,4628,4608.0,4628.0,20,Corrected,Active
+AUG,2020,Q3,,Letada Street,500247,"Mores, Elisa/Mores, Nena",Letada St.,2455,2470,2455.0,2470.0,15,Corrected,Active
+AUG,2020,Q3,,Letada Street,500207,"Namit, Octavio",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500418,"Rejuso, Arnulfo",Letada St.,210,248,210.0,248.0,38,Corrected,Active
+AUG,2020,Q3,,Letada Street,500151,"Rejuso, Romulo",Letada St.,1940,1956,1940.0,1956.0,16,Corrected,Active
+AUG,2020,Q3,,Letada Street,501380,"Relova, Carrel",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,501456,"Sta. Ana, Juvy",Letada St.,775,796,775.0,796.0,21,Corrected,Active
+AUG,2020,Q3,,Letada Street,500168,"San Juan, Teresita",Letada St.,3341,3359,3341.0,3359.0,18,Corrected,Active
+AUG,2020,Q3,,Letada Street,500166,"Sola, Jose",Letada St.,40,49,40.0,49.0,9,Corrected,Active
+AUG,2020,Q3,,Letada Street,501076,"Sola, Jose 2",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500134,"Sola, Manuel",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500658,"Vasquez, Ana",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Letada Street,500124,"Vasquez, Erlinda",Letada St.,372,378,372.0,378.0,6,Corrected,Active
+AUG,2020,Q3,,Letada Street,501399,"Villamor, Arnulfo",Letada St.,441,456,441.0,456.0,15,Corrected,Active
+AUG,2020,Q3,,Letada Street,500578,"Villamor, Arturo",Letada St.,268,314,268.0,314.0,46,Corrected,Active
+AUG,2020,Q3,,Letada Street,500665,"Zacarias, Almira",Letada St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500660,"Alcala, Rene",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,501400,"Alcantara, Sheena",Lique St.,824,830,824.0,830.0,6,Corrected,Active
+AUG,2020,Q3,,Lique Street,500256,"Almodal, Evelyn",Lique St.,5676,5694,5676.0,5694.0,18,Corrected,Active
+AUG,2020,Q3,,Lique Street,500506,"AlmiÃ±e, Filipino",Lique St.,2347,2370,2347.0,2370.0,23,Corrected,Active
+AUG,2020,Q3,,Lique Street,500471,"Almodiel, Josefina",Lique St.,318,318,318.0,318.0,0,Corrected,Active
+AUG,2020,Q3,,Lique Street,500361,"Almoete, Joey",Lique St.,1179,1221,1179.0,1221.0,42,Corrected,Active
+AUG,2020,Q3,,Lique Street,501102,"Almoete, Felipe Sr.",Lique St.,1325,1352,1325.0,1352.0,27,Corrected,Active
+AUG,2020,Q3,,Lique Street,500909,"Almoradie, Evelyn",Lique St.,195,205,195.0,205.0,10,Corrected,Active
+AUG,2020,Q3,,Lique Street,500952,"Altiche, Maricel",Lique St.,260,276,260.0,276.0,16,Corrected,Active
+AUG,2020,Q3,,Lique Street,500191,"Aspa, Jose",Lique St.,438,438,438.0,438.0,0,Corrected,Active
+AUG,2020,Q3,,Lique Street,500722,"Albacite, Helen/Sherly Alcantara",Lique St.,1550,,1550.0,1550.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500688,"Barsaga, Angeles",Lique St.,3556,3556,3556.0,3556.0,0,Corrected,Active
+AUG,2020,Q3,,Lique Street,500728,"Bartolata, Junil",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500163,"Bartolay, Araybe",Lique St.,2357,2386,2357.0,2386.0,29,Corrected,Active
+AUG,2020,Q3,,Lique Street,500856,"Bartolay, Carlos",Lique St.,2173,2203,2173.0,2203.0,30,Corrected,Active
+AUG,2020,Q3,,Lique Street,500221,"Bartolay, Marlon",Lique St.,2557,2578,2557.0,2578.0,21,Corrected,Active
+AUG,2020,Q3,,Lique Street,501333,"Bartolo, Rema",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500621,"Basas, Rusiel",Lique St.,1644,1672,1644.0,1672.0,28,Corrected,Active
+AUG,2020,Q3,,Lique Street,500167,"Borjal, Danilo",Lique St.,3207,3234,3207.0,3234.0,27,Corrected,Active
+AUG,2020,Q3,,Lique Street,500870,"Broqueza, Melencio/GABBYS",Lique St.,9512,9600,9512.0,9600.0,88,Corrected,Active
+AUG,2020,Q3,,Lique Street,500834,"Bulanon, Angel",Lique St.,122,125,122.0,125.0,3,Corrected,Active
+AUG,2020,Q3,,Lique Street,501101,"Cabiles, Arnel",Lique St.,2693,2696,2693.0,2696.0,3,Corrected,Active
+AUG,2020,Q3,,Lique Street,500776,"Cadulas, Noemi",Lique St.,48,66,48.0,66.0,18,Corrected,Active
+AUG,2020,Q3,,Lique Street,501115,"Cerillo, Castor",Lique St.,1631,1652,1631.0,1652.0,21,Corrected,Active
+AUG,2020,Q3,,Lique Street,500311,"Cerillo, Marites",Lique St.,3649,3659,3649.0,3659.0,10,Corrected,Active
+AUG,2020,Q3,,Lique Street,500075,"Cerillo, Ronnie",Lique St.,3596,3607,3596.0,3607.0,11,Corrected,Active
+AUG,2020,Q3,,Lique Street,500079,"Dado, Evangelina",Lique St.,2955,2959,2955.0,2959.0,4,Corrected,Active
+AUG,2020,Q3,,Lique Street,500876,"Deinla, Ludimer",Lique St.,756,771,756.0,771.0,15,Corrected,Active
+AUG,2020,Q3,,Lique Street,500388,"Dejumo, Lydia",Lique St.,3897,3914,3897.0,3914.0,17,Corrected,Active
+AUG,2020,Q3,,Lique Street,500386,"Dejino, Lorna",Lique St.,1834,1845,1834.0,1845.0,11,Corrected,Active
+AUG,2020,Q3,,Lique Street,500697,"Delavin, Cerilo",Lique St.,4473,4510,4473.0,4510.0,37,Corrected,Active
+AUG,2020,Q3,,Lique Street,501326,"Delavin, Ma. Chinel",Lique St.,6659,6665,6659.0,6665.0,6,Corrected,Active
+AUG,2020,Q3,,Lique Street,501166,"Delos Santos, Rico",Lique St.,612,647,612.0,647.0,35,Corrected,Active
+AUG,2020,Q3,,Lique Street,501532,"Delumbria, Arnel",Lique St.,181,190,181.0,190.0,9,Corrected,Active
+AUG,2020,Q3,,Lique Street,500566,"Diano, Ofelia Agnes",Lique St.,9116,9168,9116.0,9168.0,52,Corrected,Active
+AUG,2020,Q3,,Lique Street,500666,"Dilao, Petronio Jr.",Lique St.,5808,5845,5808.0,5845.0,37,Corrected,Active
+AUG,2020,Q3,,Lique Street,501489,"Dilao, Rosa",Lique St.,1,2,1.0,2.0,1,Corrected,Active
+AUG,2020,Q3,,Lique Street,500217,"Ditan, Elisa",Lique St.,437,437,437.0,437.0,0,Corrected,Active
+AUG,2020,Q3,,Lique Street,501504,"Espares, Alberto",Lique St.,206,221,206.0,221.0,15,Corrected,Active
+AUG,2020,Q3,,Lique Street,500500,"Espares, Evelyn",Lique St.,1072,1072,1072.0,1072.0,0,Corrected,Active
+AUG,2020,Q3,,Lique Street,501566,"Esparraguerra, Helen",Lique St.,351,372,351.0,372.0,21,Corrected,Active
+AUG,2020,Q3,,Lique Street,500628,"Espenida, Ederlinda",Lique St.,3364,3400,3364.0,3400.0,36,Corrected,Active
+AUG,2020,Q3,,Lique Street,500533,"Espenilla, Patria",Lique St.,372,386,372.0,386.0,14,Corrected,Active
+AUG,2020,Q3,,Lique Street,500878,"Espenilla, Alejandro",Lique St.,944,,944.0,944.0,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Lique Street,501256,"Espinosa, Corazon",Lique St.,615,,615.0,615.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500687,"Gabion, Rosa",Lique St.,2,7,2.0,7.0,5,Corrected,Active
+AUG,2020,Q3,,Lique Street,500921,"Garamay, Nacer",Lique St.,2012,2021,2012.0,2021.0,9,Corrected,Active
+AUG,2020,Q3,,Lique Street,500611,"Garamay, Rizza",Lique St.,3,10,3.0,10.0,7,Corrected,Active
+AUG,2020,Q3,,Lique Street,500597,"Garamay, Sonia",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500411,"Granado, Rhoda",Lique St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Lique Street,501172,"Gulmatico, Edith",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500589,"Gulmatico, Rowena",Lique St.,128,149,128.0,149.0,21,Corrected,Active
+AUG,2020,Q3,,Lique Street,501497,"Jardin, Carmela",Lique St.,503,520,503.0,520.0,17,Corrected,Active
+AUG,2020,Q3,,Lique Street,500116,"Hayohay, Melvin",Lique St.,2765,2776,2765.0,2776.0,11,Corrected,Active
+AUG,2020,Q3,,Lique Street,501621,"Imperial, Nelrose",Lique St.,223,252,223.0,252.0,29,Corrected,Active
+AUG,2020,Q3,,Lique Street,500385,"Letada, Cyril",Lique St.,2211,2239,2211.0,2239.0,28,Corrected,Active
+AUG,2020,Q3,,Lique Street,500843,"Leyco, Domingo",Lique St.,349,386,349.0,386.0,37,Corrected,Active
+AUG,2020,Q3,,Lique Street,500935,"Lignes, Flora",Lique St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Lique Street,501693,"Llacer, Maureen",Lique St.,3,4,3.0,4.0,1,Corrected,Active
+AUG,2020,Q3,,Lique Street,500491,"Lumberio, Randy",Lique St.,1407,1407,1407.0,1407.0,0,Corrected,Active
+AUG,2020,Q3,,Lique Street,500798,"Lustre, Amabilis",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500942,"Nepomuceno, Ma. Marietta",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,501100,"Merillo, Ariel",Lique St.,1875,2046,1875.0,2046.0,171,Corrected,Active
+AUG,2020,Q3,,Lique Street,500259,"Ongotan, Edwin",Lique St.,2845,2858,2845.0,2858.0,13,Corrected,Active
+AUG,2020,Q3,,Lique Street,500626,"Ontog, Chita",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500567,"Rejuso, Evelyn",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500409,"Rejuso, Jean/Garamay, Norma",Lique St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Lique Street,501145,"Rejuso, Salve",Lique St.,363,,363.0,363.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500216,"Salinas, Julieta",Lique St.,4284,4337,4284.0,4337.0,53,Corrected,Active
+AUG,2020,Q3,,Lique Street,500899,"San Jose, Nelly",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Lique Street,500455,"Segovia, Elena",Lique St.,1624,1630,1624.0,1630.0,6,Corrected,Active
+AUG,2020,Q3,,Lique Street,500107,"Villahermosa, Margie",Lique St.,4859,4876,4859.0,4876.0,17,Corrected,Active
+AUG,2020,Q3,,Lique Street,500119,"Villamor, Anecia",Lique St.,2812,2813,2812.0,2813.0,1,Corrected,Active
+AUG,2020,Q3,,Lique Street,500280,"Villamor, Ceasar Jr.",Lique St.,3446,3447,3446.0,3447.0,1,Corrected,Active
+AUG,2020,Q3,,Lique Street,500279,"Villamor, Maria",Lique St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501656,"AlbaÃ±o, Elvin",Moyot St.,138,167,138.0,167.0,29,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501385,"AlbaÃ±o, Emie",Moyot St.,868,905,868.0,905.0,37,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501106,"Abelgas, Nesselyn",Moyot St.,97,103,97.0,103.0,6,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501593,"Alicante, Bienvenido",Moyot St.,175,175,175.0,175.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500724,"AlmiÃ±e, Edna",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500132,"AlmiÃ±e, Estrella",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501104,"AlmiÃ±e, Oscar",Moyot St.,87,100,87.0,100.0,13,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501668,"Almodal, Khrisna",Moyot St.,220,272,220.0,272.0,52,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501132,"Almodiel, Carlito",Moyot St.,1255,1270,1255.0,1270.0,15,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501606,"Almodiel, Edgar",Moyot St.,72,78,72.0,78.0,6,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501185,"Almodiel, Jocelyn",Moyot St.,515,515,515.0,515.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501119,"Almodiel, Jolly",Moyot St.,1070,1098,1070.0,1098.0,28,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501414,"Almodiel, Rusiel",Moyot St.,106,118,106.0,118.0,12,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500577,"Almoete, Flor",Moyot St.,9181,9264,9181.0,9264.0,83,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500571,"Almoguerra, Melinda",Moyot St.,2252,2275,2252.0,2275.0,23,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500042,"Almojuela, Purisima",Moyot St.,3947,3973,3947.0,3973.0,26,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501594,"Almonte, Jasper",Moyot St.,298,319,298.0,319.0,21,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500706,"Almonte, Lolita",Moyot St.,3596,3600,3596.0,3600.0,4,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501346,"Adorna, Arlene",Moyot St.,1255,1300,1255.0,1300.0,45,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501146,"Almosara, Domingo",Moyot St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Moyot Street,500212,"Almosara, Gerald",Moyot St.,230,243,230.0,243.0,13,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500017,"Almosara, Elsie",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500208,"Anabe, Glenda",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500603,"AÃ±onuevo, Calixto",Moyot St.,2103,2103,2103.0,2103.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500432,"Arranzado, Jay",Moyot St.,85,113,85.0,113.0,28,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500040,"Balacano, Alfredo",Moyot St.,,18,18.0,18.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501214,"Barillo, Vilma",Moyot St.,2948,2986,2948.0,2986.0,38,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501678,"Barrun, Aristotelis",Moyot St.,23,23,23.0,23.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501598,"Barrun, Janeth",Moyot St.,447,467,447.0,467.0,20,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500763,"Barrun, Nilo",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501591,"Baruelo, Danding",Moyot St.,113,124,113.0,124.0,11,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500950,"Barsaga, Realina",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500492,"Bartolabac, Romeo",Moyot St.,418,461,418.0,461.0,43,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500829,"Bartolabac, Romulo",Moyot St.,,8,8.0,8.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501426,"Bartolata, Lita",Moyot St.,795,827,795.0,827.0,32,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501373,"Bartolay, Eden",Moyot St.,492,508,492.0,508.0,16,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501455,"Bartolay, Marry Con",Moyot St.,849,868,849.0,868.0,19,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501444,"Basas, Nida",Moyot St.,258,276,258.0,276.0,18,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501599,"Basas, Nida 2",Moyot St.,651,705,651.0,705.0,54,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501148,"Basas, Richard/SJNHS",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501604,"Basical, Yusep",Moyot St.,161,172,161.0,172.0,11,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501605,"Bautista, John Henry",Moyot St.,85,88,85.0,88.0,3,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501043,"Blanco, Amado Jr.",Moyot St.,8,16,8.0,16.0,8,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500194,"Blanco, Nelia",Moyot St.,12,21,12.0,21.0,9,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501431,"Bunao, Ariel",Moyot St.,526,543,526.0,543.0,17,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501435,"Buetizon, Estifania",Moyot St.,774,793,774.0,793.0,19,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500880,"Cabug, Nemma",Moyot St.,1682,1697,1682.0,1697.0,15,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500041,"Cantoria, Catalina",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500555,"Cantoria, Ely",Moyot St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Moyot Street,501550,"Cantoria, Jose",Moyot St.,281,283,281.0,283.0,2,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500871,"Cantoria, Joriz",Moyot St.,,5,5.0,5.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501244,"Cantoria, Maureen",Moyot St.,166,,166.0,166.0,0,Corrected,Temporarily Closed
+AUG,2020,Q3,,Moyot Street,501471,"Cantoria, Marilou",Moyot St.,167,195,167.0,195.0,28,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500038,"Cantoria, Nerissa",Moyot St.,38,72,38.0,72.0,34,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501612,"Capsa, Maricel",Moyot St.,239,252,239.0,252.0,13,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500916,"Capsa, Rusiel",Moyot St.,1338,1368,1338.0,1368.0,30,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501170,"Cheshire, Christopher James",Moyot St.,1258,1303,1258.0,1303.0,45,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501183,"Concensino, Rita",Moyot St.,1088,1161,1088.0,1161.0,73,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500637,"Constantino, Dolores",Moyot St.,1882,1893,1882.0,1893.0,11,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501412,"De Asis, Irene",Moyot St.,,44,44.0,44.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501138,"Dejucos, Mary Jane",Moyot St.,554,583,554.0,583.0,29,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500499,"Deinla, Lorna",Moyot St.,2534,2551,2534.0,2551.0,17,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501631,"Deinla, Remedios",Moyot St.,80,100,80.0,100.0,20,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501258,"Delariarte, Marivic",Moyot St.,1516,1535,1516.0,1535.0,19,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500406,"Delavin, Caridad",Moyot St.,5810,5865,5810.0,5865.0,55,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500240,"Delavin, Nelly",Moyot St.,6728,6770,6728.0,6770.0,42,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501374,"Delavin, Ma. Chinel",Moyot St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Moyot Street,500052,"Delavin, Nestor",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501193,"Delavin, Rey/Canero, Marilou",Moyot St.,1409,1441,1409.0,1441.0,32,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500785,"Delos Santos, Flora",Moyot St.,,,,,0,Corrected,Unknown
+AUG,2020,Q3,,Moyot Street,501269,"Delos Santos, Margie",Moyot St.,1643,1671,1643.0,1671.0,28,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501390,"Dilao, Andres",Moyot St.,818,869,818.0,869.0,51,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500412,"Dilao, Arceli",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500246,"Duran, Nena",Moyot St.,2228,2242,2228.0,2242.0,14,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501513,"Esparrago, Jessella May",Moyot St.,110,117,110.0,117.0,7,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500954,"Magbalon, Elizabeth",Moyot St.,118,131,118.0,131.0,13,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501405,"Espinosa, Floyd",Moyot St.,1884,1971,1884.0,1971.0,87,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501139,"Espenida, Eden",Moyot St.,1228,1316,1228.0,1316.0,88,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500599,"Espenilla, Adelina",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500716,"Espenilla, Analyn",Moyot St.,3240,,3240.0,3240.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500050,"Espenilla, Evelyn",Moyot St.,2494,2504,2494.0,2504.0,10,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500211,"Espenilla, Dominador",Moyot St.,33,55,33.0,55.0,22,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500037,"Espera, Nory",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500053,"Esplana, Nonita",Moyot St.,3484,3484,3484.0,3484.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501479,"Garamay, Romer",Moyot St.,1230,1282,1230.0,1282.0,52,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500486,"Gebilaguin, Egdono",Moyot St.,1672,1720,1672.0,1720.0,48,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501602,"Gebuilaguin, Lea",Moyot St.,888,972,888.0,972.0,84,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500175,"Gernale, Ma. Naty",Moyot St.,3039,3049,3039.0,3049.0,10,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501389,"Grencio, Joel",Moyot St.,,,,,0,Corrected,Defect
+AUG,2020,Q3,,Moyot Street,501179,"Giray, Josephine",Moyot St.,20,78,20.0,78.0,58,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501609,"Gois, Mary Grace",Moyot St.,451,481,451.0,481.0,30,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500189,"Guarnes, Nove",Moyot St.,1630,1644,1630.0,1644.0,14,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500677,"Gutierrez, Evelyn",Moyot St.,2901,2957,2901.0,2957.0,56,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501603,"Gutierrez, Elvisa",Moyot St.,797,861,797.0,861.0,64,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500016,"Gutierrez, Robert",Moyot St.,1975,1979,1975.0,1979.0,4,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501483,"Hayohay, Muriel",Moyot St.,3012,3037,3012.0,3037.0,25,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501627,"Jardin, Elisa",Moyot St.,574,636,574.0,636.0,62,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501611,"Lado, Eleonor",Moyot St.,311,341,311.0,341.0,30,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500853,"Latagan, David",Moyot St.,19,49,19.0,49.0,30,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500601,"Laureano, Rane",Moyot St.,3237,3259,3237.0,3259.0,22,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500054,"Leonino, Fe",Moyot St.,1951,1960,1951.0,1960.0,9,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500439,"Leyco, Elena",Moyot St.,2373,2406,2373.0,2406.0,33,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501622,"Ligbao, Nora",Moyot St.,215,229,215.0,229.0,14,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500051,"Lignes, Nena",Moyot St.,370,379,370.0,379.0,9,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501628,"Lique, Nida",Moyot St.,371,399,371.0,399.0,28,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500568,LBES,Moyot St.,1240,1274,1240.0,1274.0,34,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500808,"Jaingue, Emma",Moyot St.,76,81,76.0,81.0,5,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501343,"Macoy, Marilou",Moyot St.,1445,1498,1445.0,1498.0,53,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501354,"Mahusay, Gina",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501103,"Malana, Elvie 2",Moyot St.,656,686,656.0,686.0,30,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501302,"Malana, Elvie 3",Moyot St.,1517,1616,1517.0,1616.0,99,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500329,"Malana, Renerio",Moyot St.,267,308,267.0,308.0,41,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501305,"Merillo, Napoleon",Moyot St.,380,401,380.0,401.0,21,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501417,"Monasterio, Angelina",Moyot St.,590,590,590.0,590.0,0,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501551,"Omilgo, Michelle",Moyot St.,559,588,559.0,588.0,29,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500894,"Ongonion, Crisanto",Moyot St.,2021,2033,2021.0,2033.0,12,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500039,"Ongonion, Leonora",Moyot St.,1795,,1795.0,1795.0,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,501231,"Oraa, Editha",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500131,"Palermo, Norie",Moyot St.,1536,1560,1536.0,1560.0,24,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501358,"Pontalba, Joel",Moyot St.,3936,4060,3936.0,4060.0,124,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501107,"Pura, Leny",Moyot St.,515,538,515.0,538.0,23,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500018,"Quijano, Asteria",Moyot St.,4643,4661,4643.0,4661.0,18,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501478,"Rejuso, Andres",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500959,"Rejuso, Arnold",Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500844,"Rosero, Frangie",Moyot St.,1433,1500,1433.0,1500.0,67,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500712,SJNHS-II,Moyot St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Moyot Street,500134,"Sola, Manuel",Moyot St.,2349,2367,2349.0,2367.0,18,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501610,"Sola, Daniel",Moyot St.,502,531,502.0,531.0,29,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501607,"Villamor, Analyn",Moyot St.,553,579,553.0,579.0,26,Corrected,Active
+AUG,2020,Q3,,Moyot Street,501213,"Verano, Eduardo",Moyot St.,592,609,592.0,609.0,17,Corrected,Active
+AUG,2020,Q3,,Moyot Street,500227,"Young, Marleen",Moyot St.,2571,2571,2571.0,2571.0,0,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501113,"Alcantara, Isabel",Villamor St.,438,457,438.0,457.0,19,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501334,"Alcantara, Galahad",Villamor St.,957,977,957.0,977.0,20,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500020,"Alicante, Anacleto",Villamor St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Villamor Street,500346,"Almodiel, Jason",Villamor St.,3139,3176,3139.0,3176.0,37,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500895,"Almoete, Felipe Jr.",Villamor St.,2111,,2111.0,2111.0,0,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500226,"Almoete, Ligaya",Villamor St.,2217,2222,2217.0,2222.0,5,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500885,"AÃ±onuevo, Florante",Villamor St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Villamor Street,500640,"AÃ±onuevo, Lilibeth",Villamor St.,2487,2493,2487.0,2493.0,6,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501325,"Baconawa, Melagen",Villamor St.,11,30,11.0,30.0,19,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501186,"Balingasa, Adril (1)",Villamor St.,613,657,613.0,657.0,44,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501215,"Balingasa, Ma. Elena (3)",Villamor St.,235,250,235.0,250.0,15,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501228,"Balingasa, Joadel (2)",Villamor St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Villamor Street,501217,"Balingasa, Jea (4)",Villamor St.,570,608,570.0,608.0,38,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501257,"Barrun, Ma. Jossette",Villamor St.,2894,2929,2894.0,2929.0,35,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500090,"Barrun, Emma",Villamor St.,1928,1979,1928.0,1979.0,51,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501634,"Benamera, Sharon Mae",Villamor St.,924,977,924.0,977.0,53,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501523,"Diano, Alvin",Villamor St.,700,741,700.0,741.0,41,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500642,"Escorel, Elisa",Villamor St.,3593,3594,3593.0,3594.0,1,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501112,"Espiloy, Nemia",Villamor St.,486,537,486.0,537.0,51,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500092,"Bartolata, Eduardo",Villamor St.,4190,4207,4190.0,4207.0,17,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501012,"Alcantara, Garibalde",Villamor St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Villamor Street,500919,"Granado, Nida",Villamor St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Villamor Street,501110,"Gutierrez, Elmo",Villamor St.,766,787,766.0,787.0,21,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501662,"Latagan, Mercy",Villamor St.,81,95,81.0,95.0,14,Corrected,Active
+AUG,2020,Q3,,Villamor Street,501111,"Laurio, Serenida",Villamor St.,1589,1618,1589.0,1618.0,29,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500641,"Moya, Concepcion",Villamor St.,,,,,0,Corrected,Disconnected
+AUG,2020,Q3,,Villamor Street,500021,"Nacino, Christopher",Villamor St.,1796,1797,1796.0,1797.0,1,Corrected,Active
+AUG,2020,Q3,,Villamor Street,500091,"Ragasa, Fe",Villamor St.,2978,2995,2978.0,2995.0,17,Corrected,Active
+AUG,2020,Q3,Calipat-an,Puro,501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+AUG,2020,Q3,Calipat-an,Puro,501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected
