@@ -1,10 +1,10 @@
 Month,Year,Quarter,District,Street,Control Number,Account Name,Connection Type,Service Address,Previous Reading,Present Reading,Cleaned Previous Reading,Cleaned Present Reading,Cleaned Consumption,Record Status,Connection Status
-MAR,2020,Q1,,Alicante Street,501549,"AlbaÃ±o, Lilane",,Alicante St.,218.0,247.0,218.0,247.0,29,Corrected,Active
+MAR,2020,Q1,District 3,Alicante Street,501549,"Albano, Lilane",Residential,"Alicante St., Dist. 3",218.0,247.0,218.0,247.0,29,Corrected,Active
 MAR,2020,Q1,District 2,Alicante Street,500750,"Aljecera, Marcelino",Residential,"Alicante St., Dist. 2",3030.0,3051.0,3030.0,3051.0,21,Corrected,Active
-MAR,2020,Q1,,Alicante Street,500990,"AlmiÃ±ana, Irus",,Alicante St.,471.0,537.0,471.0,537.0,66,Corrected,Active
-MAR,2020,Q1,,Alicante Street,500505,"AlmiÃ±e, Edison",,Alicante St.,2.0,63.0,2.0,63.0,61,Corrected,Active
-MAR,2020,Q1,,Alicante Street,501542,"AlmiÃ±e, Filben",,Alicante St.,3271.0,3314.0,3271.0,3314.0,43,Corrected,Active
-MAR,2020,Q1,,Alicante Street,500431,"AlmiÃ±e, Franchie",,Alicante St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 4,Alicante Street,500990,"Alminana, Irus",Residential,"Alicante St., Dist. 4",471.0,537.0,471.0,537.0,66,Corrected,Active
+MAR,2020,Q1,District 2,Alicante Street,500505,"Almine, Edison",Residential,"Alicante St., Dist. 2",2.0,63.0,2.0,63.0,61,Corrected,Active
+MAR,2020,Q1,District 1,Alicante Street,501542,"Almine, Filben",Residential,"Alicante St., Dist. 1",3271.0,3314.0,3271.0,3314.0,43,Corrected,Active
+MAR,2020,Q1,District 2,Alicante Street,500431,"Almine, Franchie",Residential,"Alicante St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Alicante Street,500263,"Almodal, Arna",Commercial,"Alicante St., Dist. 2",5228.0,5253.0,5228.0,5253.0,25,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,501240,"Almocera, Owen",Residential,"Alicante St., Dist. 4",67.0,138.0,67.0,138.0,71,Corrected,Active
 MAR,2020,Q1,District 2,Alicante Street,500484,"Almodal, Erlinda",Residential,"Alicante St., Dist. 2",,,,,0,Corrected,Unknown
@@ -22,7 +22,7 @@ MAR,2020,Q1,District 2,Alicante Street,500433,"Almoradie, Marina",Residential,"A
 MAR,2020,Q1,District 2,Alicante Street,500260,"Altiche, Antonio",Residential,"Alicante St., Dist. 2",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Alicante Street,501663,"Altiche, Nenita",Residential,"Alicante St., Dist. 1",56.0,,56.0,56.0,0,Corrected,Active
 MAR,2020,Q1,District 3,Alicante Street,500185,"Aspa, Leny",Residential,"Alicante St., Dist. 3",1518.0,1527.0,1518.0,1527.0,9,Corrected,Active
-MAR,2020,Q1,,Alicante Street,500169,"AÃ±onuevo, Paz",,Alicante St.,3162.0,,3162.0,3162.0,0,Corrected,Active
+MAR,2020,Q1,District 4,Alicante Street,500169,"Anonuevo, Paz",Residential,"Alicante St., Dist. 4",3162.0,,3162.0,3162.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Alicante Street,501232,"Anabe, Antonio",Residential,"Alicante St., Dist. 1",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Alicante Street,500479,"Azares, Jeffrey",Residential,"Alicante St., Dist. 2",64.0,101.0,64.0,101.0,37,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,500009,"Barruga, Expedito",Residential,"Alicante St., Dist. 4",2014.0,2033.0,2014.0,2033.0,19,Corrected,Active
@@ -67,7 +67,7 @@ MAR,2020,Q1,District 3,Alicante Street,500316,"Delariarte, Nicanor",Residential,
 MAR,2020,Q1,District 1,Alicante Street,500357,"Elloso, Amy",Residential,"Alicante St., Dist. 1",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Alicante Street,501105,"Elloso, Amy/Card Bank",Residential,"Alicante St., Dist. 1",239.0,266.0,239.0,266.0,27,Corrected,Active
 MAR,2020,Q1,District 2,Alicante Street,500985,"Escorel, Potito",Residential,"Alicante St., Dist. 2",861.0,863.0,861.0,863.0,2,Corrected,Active
-MAR,2020,Q1,District 4,Flores Street,501022,"EspaÃ±ol, Ave",Residential,"Flores St., Dist. 4",31.0,32.0,31.0,32.0,1,Corrected,Active
+MAR,2020,Q1,District 4,Flores Street,501022,"Espanol, Ave",Residential,"Flores St., Dist. 4",31.0,32.0,31.0,32.0,1,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,501379,"Esparrago, Eden",Residential,"Alicante St., Dist. 4",367.0,371.0,367.0,371.0,4,Corrected,Active
 MAR,2020,Q1,District 2,Alicante Street,500340,"Espares, Junard",Residential,"Alicante St., Dist. 2",3152.0,3296.0,3152.0,3296.0,144,Corrected,Active
 MAR,2020,Q1,District 3,Alicante Street,500552,"Espenida, Nita",Residential,"Alicante St., Dist. 3",3389.0,3428.0,3389.0,3428.0,39,Corrected,Active
@@ -95,7 +95,7 @@ MAR,2020,Q1,District 3,Alicante Street,501518,"Granado, Cecilia",Commercial,"Ali
 MAR,2020,Q1,District 2,Alicante Street,501128,"Ida, Marife",Residential,"Alicante St., Dist. 2",478.0,478.0,478.0,478.0,0,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,500010,"Jardin, Eden",Residential,"Alicante St., Dist. 4",66.0,81.0,66.0,81.0,15,Corrected,Active
 MAR,2020,Q1,District 2,Alicante Street,500907,"Javier, Elena",Commercial,"Alicante St., Dist. 2",1948.0,1971.0,1948.0,1971.0,23,Corrected,Active
-MAR,2020,Q1,,Alicante Street,500910,Kingdom of Jehovaâs Witnesses,,Alicante St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 3,Alicante Street,500910,Kingdom of Jehova's Witnesses,Residential,"Alicante St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Alicante Street,500178,"Laila, Vilma",Residential,"Alicante St., Dist. 4",9023.0,9147.0,9023.0,9147.0,124,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,500559,"Laurio, Josefa",Residential,"Alicante St., Dist. 4",99.0,111.0,99.0,111.0,12,Corrected,Active
 MAR,2020,Q1,District 2,Alicante Street,500284,"Leonor, Loreto (A)",Commercial,"Alicante St., Dist. 2",17042.0,17376.0,17042.0,17376.0,334,Corrected,Active
@@ -143,7 +143,7 @@ MAR,2020,Q1,District 4,Alicante Street,500399,"Villamor, Emily",Residential,"Ali
 MAR,2020,Q1,District 4,Alicante Street,501324,"Villamor, Ricky",Commercial,"Alicante St., Dist. 4",391.0,397.0,391.0,397.0,6,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,501219,"Villamor,Fulceda",Residential,"Alicante St., Dist. 4",858.0,873.0,858.0,873.0,15,Corrected,Active
 MAR,2020,Q1,District 4,Alicante Street,500056,"Villamor, Joel",Residential,"Alicante St., Dist. 4",3244.0,3279.0,3244.0,3279.0,35,Corrected,Active
-MAR,2020,Q1,,Almonte Street,500683,"CaÃ±ares, Marlon",,Almonte St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 3,Almonte Street,500683,"Canares, Marlon",Residential,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Almonte Street,501177,"Delavin, Zonrico",Residential,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Almonte Street,500815,"Delavin, Zonrico 2",Residential,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Almonte Street,501218,"Delavin, Zonrico 3",Commercial,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
@@ -160,7 +160,7 @@ MAR,2020,Q1,District 3,Altarejos Street,500118,"Abejero, Ernesto Jr.",Residentia
 MAR,2020,Q1,District 3,Altarejos Street,501241,"Amante, Nerissa",Residential,"Altarejos St., Dist. 3",1593.0,1618.0,1593.0,1618.0,25,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500072,"Alcantara, Rector",Residential,"Altarejos St., Dist. 3",2143.0,2143.0,2143.0,2143.0,0,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500810,"Almerol, Nilo",Commercial,"Altarejos St., Dist. 3",191.0,208.0,191.0,208.0,17,Corrected,Active
-MAR,2020,Q1,,Altarejos Street,501534,"AlmiÃ±e, Nixon",,Altarejos St.,14.0,16.0,14.0,16.0,2,Corrected,Active
+MAR,2020,Q1,District 3,Altarejos Street,501534,"Almine, Nixon",Residential,"Altarejos St., Dist. 3",14.0,16.0,14.0,16.0,2,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500447,"Almodiel, Fe",Residential,"Altarejos St., Dist. 3",6309.0,6341.0,6309.0,6341.0,32,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500809,"Almodiel, Merly",Residential,"Altarejos St., Dist. 3",1527.0,1539.0,1527.0,1539.0,12,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500483,"Almoete, Aleli",Residential,"Altarejos St., Dist. 3",688.0,707.0,688.0,707.0,19,Corrected,Active
@@ -199,12 +199,12 @@ MAR,2020,Q1,District 3,Altarejos Street,500156,"Delariarte, Vibiana",Residential
 MAR,2020,Q1,District 3,Altarejos Street,500805,"Delavin, Seth",Commercial,"Altarejos St., Dist. 3",3362.0,3369.0,3362.0,3369.0,7,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500652,"Delfin, Nena Fatima",Residential,"Altarejos St., Dist. 3",3955.0,4009.0,3955.0,4009.0,54,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500948,"Delos Santos, Nena",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Altarejos Street,500933,"EspaÃ±ola, Lourdes",,Altarejos St.,2935.0,2963.0,2935.0,2963.0,28,Corrected,Active
+MAR,2020,Q1,District 3,Altarejos Street,500933,"Espanola, Lourdes",Residential,"Altarejos St., Dist. 3",2935.0,2963.0,2935.0,2963.0,28,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500155,"Esparrago, Melchor",Residential,"Altarejos St., Dist. 3",2613.0,2653.0,2613.0,2653.0,40,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500534,"Espenilla, Eden",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Altarejos Street,500137,"Espinosa, Ader",Commercial,"Altarejos St., Dist. 3",5315.0,5342.0,5315.0,5342.0,27,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500587,"Espinosa, Jerol",Residential,"Altarejos St., Dist. 3",3081.0,3084.0,3081.0,3084.0,3,Corrected,Active
-MAR,2020,Q1,,Altarejos Street,501089,"Espinosa, Jerol (B)",,Altarejos St.,4354.0,4365.0,4354.0,4365.0,11,Corrected,Active
+MAR,2020,Q1,District 3,Altarejos Street,501089,"Espinosa, Jerol (B)",Residential,"Altarejos St., Dist. 3",4354.0,4365.0,4354.0,4365.0,11,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500069,"Espinosa, Tito",Residential,"Altarejos St., Dist. 3",191.0,241.0,191.0,241.0,50,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,501153,"Garamay, Eugene",Residential,"Altarejos St., Dist. 3",429.0,467.0,429.0,467.0,38,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500117,"Garamay, Pio",Commercial,"Altarejos St., Dist. 3",2932.0,2995.0,2932.0,2995.0,63,Corrected,Active
@@ -216,7 +216,7 @@ MAR,2020,Q1,District 3,Altarejos Street,500105,"Lignes, Maria",Residential,"Alta
 MAR,2020,Q1,District 3,Altarejos Street,500822,"Lique, Amalia",Commercial,"Altarejos St., Dist. 3",2744.0,2793.0,2744.0,2793.0,49,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500590,"Lumberio, Caridad",Residential,"Altarejos St., Dist. 3",,7057.0,7057.0,7057.0,0,Corrected,Defect
 MAR,2020,Q1,District 3,Altarejos Street,500186,"Marcos, Angelica",Commercial,"Altarejos St., Dist. 3",28.0,54.0,28.0,54.0,26,Corrected,Active
-MAR,2020,Q1,,Altarejos Street,500596,"MiÃ±a, Marife",,Altarejos St.,334.0,375.0,334.0,375.0,41,Corrected,Active
+MAR,2020,Q1,District 3,Altarejos Street,500596,"Mina, Marife",Residential,"Altarejos St., Dist. 3",334.0,375.0,334.0,375.0,41,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,501019,"Nerry, Aldrich",Commercial,"Altarejos St., Dist. 3",3110.0,3116.0,3110.0,3116.0,6,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500768,"Poblete, Ana",Residential,"Altarejos St., Dist. 3",2681.0,2702.0,2681.0,2702.0,21,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500172,"Rejuso, Caridad",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Unknown
@@ -228,13 +228,13 @@ MAR,2020,Q1,District 3,Altarejos Street,501092,"Santiago, Nelsie",Residential,"A
 MAR,2020,Q1,District 3,Altarejos Street,500190,"Sola, Ana",Residential,"Altarejos St., Dist. 3",5192.0,5298.0,5192.0,5298.0,106,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500704,"Sola, Andres Jr.",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 3,Altarejos Street,500070,"Torrecampo, Juden",Residential,"Altarejos St., Dist. 3",2539.0,2585.0,2539.0,2585.0,46,Corrected,Active
-MAR,2020,Q1,District 3,Altarejos Street,500140,"Velo, Lolita",Commercial,"Altarejos St., Dist. 3",4616.0,4675.0,4616.0,4675.0,59,Corrected,Active
+MAR,2020,Q1,District 3,Altarejos Street,500140,"Velo, Lolita",Residential,"Altarejos St., Dist. 3",4616.0,4675.0,4616.0,4675.0,59,Corrected,Active
 MAR,2020,Q1,District 3,Altarejos Street,500616,"Yanson, Danilo",Residential,"Altarejos St., Dist. 3",2084.0,2111.0,2084.0,2111.0,27,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,500772,"Abrera, Julius",Residential,"Amican St., Dist. 3",3765.0,3781.0,3765.0,3781.0,16,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501224,"Almerol, Salvador",Residential,"Amican St., Dist. 3",3652.0,3765.0,3652.0,3765.0,113,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501581,"Almine, Jimmy",Residential,"Amican St., Dist. 3",447.0,509.0,447.0,509.0,62,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501220,"Almocera, Francisco Jr.",Residential,"Amican St., Dist. 3",566.0,589.0,566.0,589.0,23,Corrected,Active
-MAR,2020,Q1,,Amican Street,501284,"AÃ±onuevo, Susan",,Amican St.,465.0,525.0,465.0,525.0,60,Corrected,Active
+MAR,2020,Q1,District 3,Amican Street,501284,"Anonuevo, Susan",Residential,"Amican St., Dist. 3",465.0,525.0,465.0,525.0,60,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501485,"Barsaga, Neselie",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Amican Street,501234,"Bartolay, Leny",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Amican Street,501464,"Bartolay, Erle",Residential,"Amican St., Dist. 3",1031.0,1068.0,1031.0,1068.0,37,Corrected,Active
@@ -247,7 +247,7 @@ MAR,2020,Q1,District 3,Amican Street,501629,"Baruelo, Melben",Residential,"Amica
 MAR,2020,Q1,District 3,Amican Street,501642,"Beroy, Salvacion",Residential,"Amican St., Dist. 3",266.0,313.0,266.0,313.0,47,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501560,"Bragais, Janeth",Residential,"Amican St., Dist. 3",226.0,261.0,226.0,261.0,35,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501427,"Cabiles, Christoper",Residential,"Amican St., Dist. 3",1052.0,1060.0,1052.0,1060.0,8,Corrected,Active
-MAR,2020,Q1,,Amican Street,501568,"CaÃ±ares, Marissa",,Amican St.,231.0,267.0,231.0,267.0,36,Corrected,Active
+MAR,2020,Q1,District 3,Amican Street,501568,"Canares, Marissa",Residential,"Amican St., Dist. 3",231.0,267.0,231.0,267.0,36,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501578,"Cantre, Roger",Residential,"Amican St., Dist. 3",302.0,348.0,302.0,348.0,46,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,501208,"Carranza, Maria",Residential,"Amican St., Dist. 3",767.0,811.0,767.0,811.0,44,Corrected,Active
 MAR,2020,Q1,District 3,Amican Street,500713,"Dejumo, Jomel",Residential,"Amican St., Dist. 3",165.0,189.0,165.0,189.0,24,Corrected,Active
@@ -292,21 +292,21 @@ MAR,2020,Q1,District 1,Bailon Street,500541,"Abejero, Leandro",Residential,"Bail
 MAR,2020,Q1,District 2,Bailon Street,500374,"Acibar, Jenlin",Residential,"Bailon St., Dist. 2",1269.0,1362.0,1269.0,1362.0,93,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500887,"Adiaton, Gomer",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,501292,"Aldave, Nora",Commercial,"Bailon St., Dist. 1",,7910.0,7910.0,7910.0,0,Corrected,Defect
-MAR,2020,Q1,District 1,Bailon Street,501472,"Aldave, Nora 2",Residential,"Bailon St., Dist. 1",925.0,957.0,925.0,957.0,32,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,501472,"Aldave, Nora 2",Commercial,"Bailon St., Dist. 1",925.0,957.0,925.0,957.0,32,Corrected,Active
 MAR,2020,Q1,District 2,Bailon Street,501386,"Albiola, Ofelia",Commercial,"Bailon St., Dist. 2",774.0,812.0,774.0,812.0,38,Corrected,Active
 MAR,2020,Q1,District 2,Bailon Street,501420,"Alcala, Aldrin",Commercial,"Bailon St., Dist. 2",784.0,843.0,784.0,843.0,59,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500288,"Alcantara, Luz-4 (Litay)",,Bailon St.,122.0,149.0,122.0,149.0,27,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501015,"Alcantara, Luz-1 (Jeaneth Bartolata",,Bailon St.,157.0,212.0,157.0,212.0,55,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500957,"Alcantara, Luz-2 (Marivic)",,Bailon St.,,5.0,5.0,5.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501002,"Alcantara, Luz-3 (Luthche V.)",,Bailon St.,,61.0,61.0,61.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501016,"Alcantara, Luz-6  ",,Bailon St.,1517.0,1612.0,1517.0,1612.0,95,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,500288,"Alcantara, Luz-4 (Litay)",Commercial,"Bailon St., Dist. 1",122.0,149.0,122.0,149.0,27,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,501015,"Alcantara, Luz-1 (Jeaneth Bartolata",Commercial,"Bailon St., Dist. 1",157.0,212.0,157.0,212.0,55,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,500957,"Alcantara, Luz-2 (Marivic)",Commercial,"Bailon St., Dist. 1",,5.0,5.0,5.0,0,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,501002,"Alcantara, Luz-3 (Luthche V.)",Commercial,"Bailon St., Dist. 1",,61.0,61.0,61.0,0,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,501016,"Alcantara, Luz-6  ",Commercial,"Bailon St., Dist. 1",1517.0,1612.0,1517.0,1612.0,95,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500748,"Alcantara, Luz (Marl Bueta)",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 1,Bailon Street,501201,"Alcantara, Sheena",Commercial,"Bailon St., Dist. 1",1955.0,1971.0,1955.0,1971.0,16,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500635,"Alicante, Carlos",Residential,"Bailon St., Dist. 1",3922.0,3955.0,3922.0,3955.0,33,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500224,"Almedora, Tomas",Commercial,"Bailon St., Dist. 1",2380.0,2432.0,2380.0,2432.0,52,Corrected,Active
-MAR,2020,Q1,District 1,Bailon Street,500355,"AlmiÃ±e, Manuel Sr.",Commercial,"Bailon St., Dist. 1",347.0,495.0,347.0,495.0,148,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,500355,"Almine, Manuel Sr.",Commercial,"Bailon St., Dist. 1",347.0,495.0,347.0,495.0,148,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500442,"Almodal, Noe",Commercial,"Bailon St., Dist. 1",836.0,1024.0,836.0,1024.0,188,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500389,"Almodiel, Edgar",Commercial,Bailon St. Dist. 2,,,,,0,Corrected,Defect
+MAR,2020,Q1,District 2,Bailon Street,500389,"Almodiel, Edgar",Commercial,"Bailon St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Bailon Street,500686,"Almoete, Gil",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Bailon Street,501221,"Almoete, Alex",Residential,"Bailon St., Dist. 2",1162.0,1228.0,1162.0,1228.0,66,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500835,"Almosara, Janet",Residential,"Bailon St., Dist. 1",6228.0,,6228.0,6228.0,0,Corrected,Active
@@ -320,7 +320,7 @@ MAR,2020,Q1,District 1,Bailon Street,500756,"Altiche, Lolita",Commercial,"Bailon
 MAR,2020,Q1,District 1,Bailon Street,500466,"Altiche, Nonilon",Commercial,"Bailon St., Dist. 1",2607.0,2636.0,2607.0,2636.0,29,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500304,Amitaf Mini Shoppe,Commercial,"Bailon St., Dist. 1",1229.0,1274.0,1229.0,1274.0,45,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500328,"Arcenas, Juancho",Commercial,"Bailon St., Dist. 1",2548.0,2548.0,2548.0,2548.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500371,"Aruc, Grace",Residential,Bailon St. Dist. 2,967.0,1025.0,967.0,1025.0,58,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500371,"Aruc, Grace",Residential,"Bailon St., Dist. 2",967.0,1025.0,967.0,1025.0,58,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500298,"Bailon, Junil",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,501382,"Balingasa, Maria Elena",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Bailon Street,500515,"Ibanez, Stella Marie",Residential,"Bailon St., Dist. 2",2552.0,2568.0,2552.0,2568.0,16,Corrected,Active
@@ -330,20 +330,20 @@ MAR,2020,Q1,District 1,Bailon Street,500349,"Balt, Mora",Commercial,"Bailon St.,
 MAR,2020,Q1,District 1,Bailon Street,500233,"Barruga, Helen",Commercial,"Bailon St., Dist. 1",4125.0,4133.0,4125.0,4133.0,8,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500274,"Barrun, Jose",Commercial,"Bailon St., Dist. 1",4309.0,4427.0,4309.0,4427.0,118,Corrected,Active
 MAR,2020,Q1,District 2,Bailon Street,500996,"Barrun, Judy Ann",Residential,"Bailon St., Dist. 2",970.0,1100.0,970.0,1100.0,130,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500414,"Barrun, LeadiÃ±a",,Bailon St.,202.0,319.0,202.0,319.0,117,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,500414,"Barrun, Leadina",Residential,"Bailon St., Dist. 1",202.0,319.0,202.0,319.0,117,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501276,"Barrun, Normelita",Residential,"Bailon St., Dist. 1",426.0,426.0,426.0,426.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500771,"Barrun, Rolly",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
-MAR,2020,Q1,,Bailon Street,501313,"Bartolata, Ariosto",Commercial,Bailon St. Dist. 2,110.0,126.0,110.0,126.0,16,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500608,"Bartolata, Arthur",Residential,Bailon St. Dist. 2,1856.0,2216.0,1856.0,2216.0,360,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500481,"Bartolata, Amelia",Residential,Bailon St. Dist. 2,3360.0,3479.0,3360.0,3479.0,119,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500631,"Bartolata, Letty",Residential,Bailon St. Dist. 2,466.0,613.0,466.0,613.0,147,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500997,"Bartolata, Rizza",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 2,Bailon Street,501313,"Bartolata, Ariosto",Commercial,"Bailon St., Dist. 2",110.0,126.0,110.0,126.0,16,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500608,"Bartolata, Arthur",Residential,"Bailon St., Dist. 2",1856.0,2216.0,1856.0,2216.0,360,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500481,"Bartolata, Amelia",Residential,"Bailon St., Dist. 2",3360.0,3479.0,3360.0,3479.0,119,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500631,"Bartolata, Letty",Residential,"Bailon St., Dist. 2",466.0,613.0,466.0,613.0,147,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500997,"Bartolata, Rizza",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Bailon Street,500908,"Bernardo, Roma",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bailon Street,500607,BJMP,Residential,Bailon St. Dist. 2,256.0,256.0,256.0,256.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500607,BJMP,Residential,"Bailon St., Dist. 2",256.0,256.0,256.0,256.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500753,"Brabante, Alexander",Residential,"Bailon St., Dist. 1",1755.0,1801.0,1755.0,1801.0,46,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500709,"Butalid, Rainier",Residential,Bailon St. Dist. 2,2150.0,2150.0,2150.0,2150.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500709,"Butalid, Rainier",Residential,"Bailon St., Dist. 2",2150.0,2150.0,2150.0,2150.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501320,"Bonagua, Solima",Residential,"Bailon St., Dist. 1",334.0,349.0,334.0,349.0,15,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500814,Cebuana Lhuillier,Commercial,Bailon St. Dist. 2,575.0,577.0,575.0,577.0,2,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500814,Cebuana Lhuillier,Commercial,"Bailon St., Dist. 2",575.0,577.0,575.0,577.0,2,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501197,"Chavez, Jocelyn",Residential,"Bailon St., Dist. 1",1461.0,1503.0,1461.0,1503.0,42,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501465,CITI DRUG,Residential,"Bailon St., Dist. 1",208.0,,208.0,208.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500231,"De Guzman, Luzviminda",Commercial,"Bailon St., Dist. 1",2320.0,2322.0,2320.0,2322.0,2,Corrected,Active
@@ -355,21 +355,21 @@ MAR,2020,Q1,District 1,Bailon Street,501268,"Dejumo, Rosie",Residential,"Bailon 
 MAR,2020,Q1,District 1,Bailon Street,500420,"Dilao, Tomas Jr.",Commercial,"Bailon St., Dist. 1",4525.0,4654.0,4525.0,4654.0,129,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500991,Domurans Pharmacy (NEW),Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,500404,"Elloso, Amy",Commercial,"Bailon St., Dist. 1",1733.0,1783.0,1733.0,1783.0,50,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500529,"Escorel, Erdie",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bailon Street,500648,"Esparrago, Mary Ann",Residential,Bailon St. Dist. 2,2688.0,2780.0,2688.0,2780.0,92,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500430,"Esparrago, Raquel",Residential,Bailon St. Dist. 2,2467.0,2580.0,2467.0,2580.0,113,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501507,"EspaÃ±ol, Mylen",,Bailon St.,143.0,197.0,143.0,197.0,54,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500715,"Espenida, Cecilia",Commercial,Bailon St. Dist. 2,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Bailon Street,501323,"Espenilla, Ana",Commercial,Bailon St. Dist. 2,19.0,66.0,19.0,66.0,47,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500529,"Escorel, Erdie",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 2,Bailon Street,500648,"Esparrago, Mary Ann",Residential,"Bailon St., Dist. 2",2688.0,2780.0,2688.0,2780.0,92,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500430,"Esparrago, Raquel",Residential,"Bailon St., Dist. 2",2467.0,2580.0,2467.0,2580.0,113,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,501507,"Espanol, Mylen",Residential,"Bailon St., Dist. 2",143.0,197.0,143.0,197.0,54,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500715,"Espenida, Cecilia",Commercial,"Bailon St., Dist. 2",,,,,0,Corrected,Defect
+MAR,2020,Q1,District 2,Bailon Street,501323,"Espenilla, Ana",Commercial,"Bailon St., Dist. 2",19.0,66.0,19.0,66.0,47,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500622,"Espenilla, Linda",Commercial,"Bailon St., Dist. 1",4669.0,4761.0,4669.0,4761.0,92,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500370,"Felipe, Nimfa",Commercial,"Bailon St., Dist. 1",443.0,,443.0,443.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500574,"Flores, Ligaya/Escorel, Lily",Residential,"Bailon St., Dist. 1",1167.0,1172.0,1167.0,1172.0,5,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501118,"Flores, Ligaya (2)",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,500223,"Garamay, Nora",Residential,"Bailon St., Dist. 1",940.0,1160.0,940.0,1160.0,220,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500145,"Garamay, Romer",Residential,"Bailon St., Dist. 1",5009.0,5097.0,5009.0,5097.0,88,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501363,"Gernale, Renato",Commercial,Bailon St. Dist. 2,948.0,1036.0,948.0,1036.0,88,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500335,"Gersalia, Romeo",Commercial,Bailon St. Dist. 2,4760.0,4980.0,4760.0,4980.0,220,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501000,"GuaÃ±ezo, Sabina",,Bailon St.,1437.0,1437.0,1437.0,1437.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,501363,"Gernale, Renato",Commercial,"Bailon St., Dist. 2",948.0,1036.0,948.0,1036.0,88,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500335,"Gersalia, Romeo",Commercial,"Bailon St., Dist. 2",4760.0,4980.0,4760.0,4980.0,220,Corrected,Active
+MAR,2020,Q1,District 1,Bailon Street,501000,"Guanezo, Sabina",Residential,"Bailon St., Dist. 1",1437.0,1437.0,1437.0,1437.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500300,"Gutierrez, Guilan",Residential,"Bailon St., Dist. 1",1114.0,1185.0,1114.0,1185.0,71,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500473,"Gutierrez, Arnel",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,501473,"Gutierrez, Jinelyn",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
@@ -378,15 +378,15 @@ MAR,2020,Q1,District 1,Bailon Street,501675,"Laila, Marivic",Residential,"Bailon
 MAR,2020,Q1,District 1,Bailon Street,500504,"Laila, Zelma",Residential,"Bailon St., Dist. 1",6730.0,6937.0,6730.0,6937.0,207,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501275,"Lanuza, Gideon",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 1,Bailon Street,500833,"Lanuza, Lilia",Residential,"Bailon St., Dist. 1",2325.0,2366.0,2325.0,2366.0,41,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500891,"Leonor, Manuel",Residential,Bailon St. Dist. 2,1855.0,,1855.0,1855.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500989,"Legaspi, Marissa",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bailon Street,501539,"Legaspi, Ryan",Residential,Bailon St. Dist. 2,372.0,432.0,372.0,432.0,60,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500891,"Leonor, Manuel",Residential,"Bailon St., Dist. 2",1855.0,,1855.0,1855.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500989,"Legaspi, Marissa",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 2,Bailon Street,501539,"Legaspi, Ryan",Residential,"Bailon St., Dist. 2",372.0,432.0,372.0,432.0,60,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501654,"Letada, Leni",Residential,"Bailon St., Dist. 1",,47.0,47.0,47.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500425,"Llacer, Dizon",Commercial,Bailon St. Dist. 2,1884.0,1885.0,1884.0,1885.0,1,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500419,"Llacer, Dizon (Romtes)",Commercial,Bailon St. Dist. 2,2386.0,2412.0,2386.0,2412.0,26,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500594,"Llacer, Luz",Commercial,Bailon St. Dist. 2,,78.0,78.0,78.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500394,"Llacer, Manuel",Commercial,Bailon St. Dist. 2,1862.0,1891.0,1862.0,1891.0,29,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500347,"Lorenzo, Meriam",Residential,Bailon St. Dist. 2,2088.0,2118.0,2088.0,2118.0,30,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500425,"Llacer, Dizon",Commercial,"Bailon St., Dist. 2",1884.0,1885.0,1884.0,1885.0,1,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500419,"Llacer, Dizon (Romtes)",Commercial,"Bailon St., Dist. 2",2386.0,2412.0,2386.0,2412.0,26,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500594,"Llacer, Luz",Commercial,"Bailon St., Dist. 2",,78.0,78.0,78.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500394,"Llacer, Manuel",Commercial,"Bailon St., Dist. 2",1862.0,1891.0,1862.0,1891.0,29,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500347,"Lorenzo, Meriam",Residential,"Bailon St., Dist. 2",2088.0,2118.0,2088.0,2118.0,30,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501293,"Macoy, Amor",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,501508,"Macoy, Amor 1",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,501509,"Macoy, Amor 2",Commercial,"Bailon St., Dist. 1",35.0,,35.0,35.0,0,Corrected,Active
@@ -397,20 +397,20 @@ MAR,2020,Q1,District 1,Bailon Street,500416,"Macoy, Vicente",Residential,"Bailon
 MAR,2020,Q1,District 1,Bailon Street,500228,"Menes, Natividad",Commercial,"Bailon St., Dist. 1",3042.0,3120.0,3042.0,3120.0,78,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500998,"Meteoro, Merly",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Bailon Street,500222,"Meteoro, Paulo",Residential,"Bailon St., Dist. 1",3052.0,,3052.0,3052.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500972,Motortrade,Residential,Bailon St. Dist. 2,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 2,Bailon Street,500972,Motortrade,Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Bailon Street,500746,"Moralde, Melvin",Residential,"Bailon St., Dist. 1",2055.0,2068.0,2055.0,2068.0,13,Corrected,Active
-MAR,2020,Q1,,Bailon Street,501001,"Nuevo, Antonio",Commercial,Bailon St. Dist. 2,158.0,267.0,158.0,267.0,109,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,501001,"Nuevo, Antonio",Commercial,"Bailon St., Dist. 2",158.0,267.0,158.0,267.0,109,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500598,"Nuevo, Susan",Commercial,"Bailon St., Dist. 1",4491.0,4534.0,4491.0,4534.0,43,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501338,"Nuevo, Susan 1",Commercial,"Bailon St., Dist. 1",,11.0,11.0,11.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501339,"Nuevo, Susan 2",Commercial,"Bailon St., Dist. 1",31.0,65.0,31.0,65.0,34,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501340,"Nuevo, Susan 3",Commercial,"Bailon St., Dist. 1",37.0,,37.0,37.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501341,"Nuevo, Susan 4",Commercial,"Bailon St., Dist. 1",9.0,,9.0,9.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501342,"Nuevo, Susan 5",Commercial,"Bailon St., Dist. 1",69.0,,69.0,69.0,0,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500869,"Ontog, Joseph",Residential,Bailon St. Dist. 2,1591.0,1648.0,1591.0,1648.0,57,Corrected,Active
-MAR,2020,Q1,,Bailon Street,500464,"Orias, Eden",Residential,Bailon St. Dist. 2,605.0,779.0,605.0,779.0,174,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500869,"Ontog, Joseph",Residential,"Bailon St., Dist. 2",1591.0,1648.0,1591.0,1648.0,57,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500464,"Orias, Eden",Residential,"Bailon St., Dist. 2",605.0,779.0,605.0,779.0,174,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500312,"Orias, Lolita/Cielo",Residential,"Bailon St., Dist. 1",4992.0,5070.0,4992.0,5070.0,78,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500708,"Orteza, Blas",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bailon Street,500333,"Pensader, Elvie",Commercial,Bailon St. Dist. 2,4389.0,,4389.0,4389.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500333,"Pensader, Elvie",Commercial,"Bailon St., Dist. 2",4389.0,,4389.0,4389.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500867,"Perez, Joji",Commercial,"Bailon St., Dist. 1",2264.0,2308.0,2264.0,2308.0,44,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501295,"Perez, Joji 2",Residential,"Bailon St., Dist. 1",687.0,751.0,687.0,751.0,64,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500365,"Rejuso, Jean",Commercial,"Bailon St., Dist. 1",5346.0,5398.0,5346.0,5398.0,52,Corrected,Active
@@ -422,7 +422,7 @@ MAR,2020,Q1,District 1,Bailon Street,500579,"Romero, Ana",Commercial,"Bailon St.
 MAR,2020,Q1,District 1,Bailon Street,500229,"Romero, Jose",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,501457,"Remosura, Robert",Commercial,"Bailon St., Dist. 1",1041.0,1081.0,1041.0,1081.0,40,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,501117,"San Pablo, Mabel",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
-MAR,2020,Q1,,Bailon Street,500372,"Sanz, Leilane",Commercial,Bailon St. Dist. 2,2396.0,2454.0,2396.0,2454.0,58,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500372,"Sanz, Leilane",Commercial,"Bailon St., Dist. 2",2396.0,2454.0,2396.0,2454.0,58,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500496,"Saul, Nora",Commercial,"Bailon St., Dist. 1",2228.0,2233.0,2228.0,2233.0,5,Corrected,Active
 MAR,2020,Q1,District 1,Bailon Street,500299,"So, Alma",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Bailon Street,500539,Tambunting,Commercial,"Bailon St., Dist. 1",,7.0,7.0,7.0,0,Corrected,Active
@@ -430,8 +430,8 @@ MAR,2020,Q1,District 1,Bailon Street,500230,"Villamor, Romulo",Residential,"Bail
 MAR,2020,Q1,District 1,Bailon Street,500999,"Zaison, Emie",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Balcavem Street,501402,"Alapad, Araceli",Residential,"Balcavem St., Dist. 2",173.0,181.0,173.0,181.0,8,Corrected,Active
 MAR,2020,Q1,District 2,Balcavem Street,500992,"Alapad, Ronnel",Residential,"Balcavem St., Dist. 2",1435.0,1471.0,1435.0,1471.0,36,Corrected,Active
-MAR,2020,Q1,District 2,Balcavem Street,501151,"AlmiÃ±e, Daisy/Garamay, Carlos",Residential,"Balcavem St., Dist. 2",1274.0,1316.0,1274.0,1316.0,42,Corrected,Active
-MAR,2020,Q1,,Balcavem Street,501004,"AlmiÃ±e, Emelyn",,Balcavem St.,400.0,452.0,400.0,452.0,52,Corrected,Active
+MAR,2020,Q1,District 2,Balcavem Street,501151,"Almine, Daisy/Garamay, Carlos",Residential,"Balcavem St., Dist. 2",1274.0,1316.0,1274.0,1316.0,42,Corrected,Active
+MAR,2020,Q1,District 2,Don Juan Street,501004,"Almine, Emelyn",Residential,"Don Juan St., Dist. 2",400.0,452.0,400.0,452.0,52,Corrected,Active
 MAR,2020,Q1,District 2,Balcavem Street,501150,"Escorel, Elisa",Residential,"Balcavem St., Dist. 2",622.0,625.0,622.0,625.0,3,Corrected,Active
 MAR,2020,Q1,District 2,Balcavem Street,501625,"Almodal, Meriam",Residential,"Balcavem St., Dist. 2",169.0,187.0,169.0,187.0,18,Corrected,Active
 MAR,2020,Q1,District 2,Balcavem Street,500083,"Almoguerra, Virginia",Residential,"Balcavem St., Dist. 2",3118.0,3148.0,3118.0,3148.0,30,Corrected,Active
@@ -522,10 +522,10 @@ MAR,2020,Q1,District 3,Balintong Street,500962,"Barrun, Efren",Residential,"Bali
 MAR,2020,Q1,District 3,Balintong Street,501052,"Bartolay, Amor",Commercial,"Balintong St., Dist. 3",400.0,443.0,400.0,443.0,43,Corrected,Active
 MAR,2020,Q1,District 3,Balintong Street,500428,"Bartolay, Jessie",Residential,"Balintong St., Dist. 3",4117.0,4138.0,4117.0,4138.0,21,Corrected,Active
 MAR,2020,Q1,District 3,Balintong Street,501482,"Bartolata, Ronnie",Residential,"Balintong St., Dist. 3",,,,,0,Corrected,Defect
-MAR,2020,Q1,,Balintong Street,500444,"CaÃ±ares, Chita",,Balintong St.,2160.0,2188.0,2160.0,2188.0,28,Corrected,Active
+MAR,2020,Q1,District 3,Balintong Street,500444,"Canares, Chita",Commercial,"Balintong St., Dist. 3",2160.0,2188.0,2160.0,2188.0,28,Corrected,Active
 MAR,2020,Q1,District 3,Balintong Street,500253,Saved by Grace,Residential,"Balintong St., Dist. 3",1590.0,1613.0,1590.0,1613.0,23,Corrected,Active
 MAR,2020,Q1,District 3,Balintong Street,500184,"Pensader, Elvie",Residential,"Balintong St., Dist. 3",607.0,665.0,607.0,665.0,58,Corrected,Active
-MAR,2020,Q1,,Balintong Street,500918,"Dela PeÃ±a, Aladino Jr.",,Balintong St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 3,Balintong Street,500918,"Dela Pena, Aladino Jr.",Residential,"Balintong St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Balintong Street,501387,"Delavin, Jean",Residential,"Balintong St., Dist. 3",3703.0,3908.0,3703.0,3908.0,205,Corrected,Active
 MAR,2020,Q1,District 3,Balintong Street,500467,"Delavin, Luz",Residential,"Balintong St., Dist. 3",1130.0,1162.0,1130.0,1162.0,32,Corrected,Active
 MAR,2020,Q1,District 3,Balintong Street,500068,"Delavin, Maria",Residential,"Balintong St., Dist. 3",2578.0,2622.0,2578.0,2622.0,44,Corrected,Active
@@ -557,129 +557,129 @@ MAR,2020,Q1,District 4,Barsaga Street,500023,"Esparraguerra, Mario",Residential,
 MAR,2020,Q1,District 4,Barsaga Street,501679,"Epenilla, Vicente",Residential,"Barsaga St., Dist. 4",,71.0,71.0,71.0,0,Corrected,Active
 MAR,2020,Q1,District 4,Barsaga Street,501287,"Gulmatico, Roger",Residential,"Barsaga St., Dist. 4",,30.0,30.0,30.0,0,Corrected,Active
 MAR,2020,Q1,District 4,Barsaga Street,501318,"Mercadejas, Ludy",Residential,"Barsaga St., Dist. 4",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Barsaga Street,500698,TISELCO-II,,Barsaga St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,500560,"Abejero, Mabel",,Bartolabac St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 4,Barsaga Street,500698,TISELCO-II,Commercial,"Barsaga St., Dist. 4",,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,500560,"Abejero, Mabel",Residential,Bartolabac St.,,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Bartolabac Street,501003,"Albiola, Michelle",Residential,"Bartolabac St., Dist. 3",461.0,517.0,461.0,517.0,56,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500319,"Alcantara, Carlos",Residential,"Bartolabac St., Dist. 3",1251.0,1273.0,1251.0,1273.0,22,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500364,"Alcantara, Ruina",Residential,"Bartolabac St., Dist. 3",,14.0,14.0,14.0,0,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500945,"AÃ±onuevo, Glen",,Bartolabac St.,631.0,678.0,631.0,678.0,47,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501682,"AlmiÃ±e, Ailyn",,Bartolabac St.,13.0,42.0,13.0,42.0,29,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500994,"AlmiÃ±e, Edwin",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,500971,"AlmiÃ±e, Rhea",,Bartolabac St.,20.0,48.0,20.0,48.0,28,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500441,"Almodal, Noe",,Bartolabac St.,413.0,522.0,413.0,522.0,109,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500625,"Almoete, Alianne",,Bartolabac St.,434.0,493.0,434.0,493.0,59,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500945,"Anonuevo, Glen",Residential,Bartolabac St.,631.0,678.0,631.0,678.0,47,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501682,"Almine, Ailyn",Commercial,Bartolabac St.,13.0,42.0,13.0,42.0,29,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500994,"Almine, Edwin",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 3,Bartolabac Street,500971,"Almine, Rhea",Residential,"Bartolabac St., Dist. 3",20.0,48.0,20.0,48.0,28,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500441,"Almodal, Noe",Residential,Bartolabac St.,413.0,522.0,413.0,522.0,109,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500625,"Almoete, Alianne",Residential,Bartolabac St.,434.0,493.0,434.0,493.0,59,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,501454,"Almoete, Florante Jr.",Residential,"Bartolabac St., Dist. 3",1231.0,1305.0,1231.0,1305.0,74,Corrected,Active
 MAR,2020,Q1,District 1,Bartolabac Street,500281,"Almoete, Florante",Residential,"Bartolabac St., Dist. 1",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bartolabac Street,500322,"Almojuela, Rey",,Bartolabac St.,2352.0,2396.0,2352.0,2396.0,44,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500309,"Almoradie, Verwayne",,Bartolabac St.,146.0,182.0,146.0,182.0,36,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500510,"Almosara, Veneranda",,Bartolabac St.,3773.0,3872.0,3773.0,3872.0,99,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501251,"Almosara, Jose",,Bartolabac St.,452.0,541.0,452.0,541.0,89,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500863,"Artiola, Elsie",,Bartolabac St.,929.0,957.0,929.0,957.0,28,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500322,"Almojuela, Rey",Residential,Bartolabac St.,2352.0,2396.0,2352.0,2396.0,44,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500309,"Almoradie, Verwayne",Residential,Bartolabac St.,146.0,182.0,146.0,182.0,36,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500510,"Almosara, Veneranda",Residential,Bartolabac St.,3773.0,3872.0,3773.0,3872.0,99,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501251,"Almosara, Jose",Residential,Bartolabac St.,452.0,541.0,452.0,541.0,89,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500863,"Artiola, Elsie",Commercial,Bartolabac St.,929.0,957.0,929.0,957.0,28,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500532,"Balangnang, Nelinda",Commercial,"Bartolabac St., Dist. 3",1315.0,1395.0,1315.0,1395.0,80,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500679,"Ballesteros, Jose Hans",Residential,"Bartolabac St., Dist. 3",1638.0,1653.0,1638.0,1653.0,15,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500294,"Bandelaria, Anabelle",,Bartolabac St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bartolabac Street,500315,"Bartolata, Vicente",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,500379,"Bartolay, Benito",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,500294,"Bandelaria, Anabelle",Residential,Bartolabac St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Bartolabac Street,500315,"Bartolata, Vicente",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,500379,"Bartolay, Benito",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Bartolabac Street,500287,"Bartolay,Marilyn",Residential,"Bartolabac St., Dist. 3",2479.0,2507.0,2479.0,2507.0,28,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501519,"Bartolay, Ronnie",,Bartolabac St.,473.0,505.0,473.0,505.0,32,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501519,"Bartolay, Ronnie",Residential,Bartolabac St.,473.0,505.0,473.0,505.0,32,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500301,"Bartolay, Pedro",Residential,"Bartolabac St., Dist. 3",1391.0,1656.0,1391.0,1656.0,265,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501223,"Barrun, Ruth",,Bartolabac St.,2671.0,2734.0,2671.0,2734.0,63,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501223,"Barrun, Ruth",Commercial,Bartolabac St.,2671.0,2734.0,2671.0,2734.0,63,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500540,"Binayug, Ana",Residential,"Bartolabac St., Dist. 3",570.0,639.0,570.0,639.0,69,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501047,"Cabug, Marivic",,Bartolabac St.,626.0,661.0,626.0,661.0,35,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500387,"Cantoria, Erlinda",,Bartolabac St.,770.0,771.0,770.0,771.0,1,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500581,"Cantoria, Helen",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,501047,"Cabug, Marivic",Residential,Bartolabac St.,626.0,661.0,626.0,661.0,35,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500387,"Cantoria, Erlinda",Residential,Bartolabac St.,770.0,771.0,770.0,771.0,1,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500581,"Cantoria, Helen",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Bartolabac Street,500286,"Carranza, Divina",Residential,"Bartolabac St., Dist. 3",3947.0,3986.0,3947.0,3986.0,39,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500296,"Cervantes, Alita",,Bartolabac St.,2364.0,2418.0,2364.0,2418.0,54,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500296,"Cervantes, Alita",Commercial,Bartolabac St.,2364.0,2418.0,2364.0,2418.0,54,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500767,"Deinla, Noel",Residential,"Bartolabac St., Dist. 3",3516.0,3516.0,3516.0,3516.0,0,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501416,"Dejumo, Anita",,Bartolabac St.,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Bartolabac Street,500667,"Dejumo, Jasmin",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,501254,"Dejumo, Marian",,Bartolabac St.,33.0,60.0,33.0,60.0,27,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501279,"Delavin, Myla",,Bartolabac St.,537.0,557.0,537.0,557.0,20,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500777,"Delavin, Nelson",,Bartolabac St.,87.0,128.0,87.0,128.0,41,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501416,"Dejumo, Anita",Residential,Bartolabac St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Bartolabac Street,500667,"Dejumo, Jasmin",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,501254,"Dejumo, Marian",Residential,Bartolabac St.,33.0,60.0,33.0,60.0,27,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501279,"Delavin, Myla",Residential,Bartolabac St.,537.0,557.0,537.0,557.0,20,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500777,"Delavin, Nelson",Commercial,Bartolabac St.,87.0,128.0,87.0,128.0,41,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500440,"Delavin, Nonito",Residential,"Bartolabac St., Dist. 3",1734.0,1744.0,1734.0,1744.0,10,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501204,"Dilao, Leny",,Bartolabac St.,770.0,825.0,770.0,825.0,55,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501460,"Delos Santos, Rex",,Bartolabac St.,1024.0,1031.0,1024.0,1031.0,7,Corrected,Active
-MAR,2020,Q1,District 1,Bartolabac Street,500293,"Escorel, Gerlie/Gutierrez, Elisa Dist 1)",,Bartolabac St. 1,1787.0,1835.0,1787.0,1835.0,48,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501204,"Dilao, Leny",Residential,Bartolabac St.,770.0,825.0,770.0,825.0,55,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501460,"Delos Santos, Rex",Residential,Bartolabac St.,1024.0,1031.0,1024.0,1031.0,7,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500293,"Escorel, Gerlie/Gutierrez, Elisa Dist 1)",Residential,Bartolabac St.,1787.0,1835.0,1787.0,1835.0,48,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500774,Espares Pepito,Commercial,"Bartolabac St., Dist. 3",1809.0,1853.0,1809.0,1853.0,44,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500953,"Esparrago, Eden",Residential,"Bartolabac St., Dist. 3",796.0,853.0,796.0,853.0,57,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,501458,"Elloso, Margie",Residential,"Bartolabac St., Dist. 3",157.0,167.0,157.0,167.0,10,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,501174,"Garbo, Ike",Residential,"Bartolabac St., Dist. 3",602.0,680.0,602.0,680.0,78,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501242,"Genova, Ranny",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,500367,"Ghandali, Mila",,Bartolabac St.,378.0,539.0,378.0,539.0,161,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500680,"Grafilo, Josefina",,Bartolabac St.,675.0,713.0,675.0,713.0,38,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500557,"Grafilo, Oscar",,Bartolabac St.,,20.0,20.0,20.0,0,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501242,"Genova, Ranny",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,500367,"Ghandali, Mila",Residential,Bartolabac St.,378.0,539.0,378.0,539.0,161,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500680,"Grafilo, Josefina",Residential,Bartolabac St.,675.0,713.0,675.0,713.0,38,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500557,"Grafilo, Oscar",Residential,Bartolabac St.,,20.0,20.0,20.0,0,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500619,"Escorel, Elisa (Dist. 3)",Residential,"Bartolabac St., Dist. 3",1861.0,1899.0,1861.0,1899.0,38,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500604,"Gutierrez, Juan",,Bartolabac St.,3963.0,4112.0,3963.0,4112.0,149,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501018,"Huelva, Guillerma",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,500604,"Gutierrez, Juan",Residential,Bartolabac St.,3963.0,4112.0,3963.0,4112.0,149,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501018,"Huelva, Guillerma",Commercial,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Bartolabac Street,500707,"Jardin, Sonie",Residential,"Bartolabac St., Dist. 3",294.0,,294.0,294.0,0,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,501202,"Julaton, Erlina",Residential,"Bartolabac St., Dist. 3",584.0,610.0,584.0,610.0,26,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501017,"Liao, Liz",,Bartolabac St.,727.0,771.0,727.0,771.0,44,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500295,"Loma, Ruby",,Bartolabac St.,5388.0,5427.0,5388.0,5427.0,39,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501017,"Liao, Liz",Residential,Bartolabac St.,727.0,771.0,727.0,771.0,44,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500295,"Loma, Ruby",Residential,Bartolabac St.,5388.0,5427.0,5388.0,5427.0,39,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500542,"Macabuhay, Wilfredo",Commercial,"Bartolabac St., Dist. 3",593.0,619.0,593.0,619.0,26,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501261,"Marino, Jonathan",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,501152,"Nepumuceno, Nena",,Bartolabac St.,3220.0,3239.0,3220.0,3239.0,19,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501261,"Marino, Jonathan",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,501152,"Nepumuceno, Nena",Residential,Bartolabac St.,3220.0,3239.0,3220.0,3239.0,19,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,501537,"Reluao, Ernis",Residential,"Bartolabac St., Dist. 3",207.0,218.0,207.0,218.0,11,Corrected,Active
 MAR,2020,Q1,District 3,Bartolabac Street,500218,"Reluao, Monina",Residential,"Bartolabac St., Dist. 3",702.0,740.0,702.0,740.0,38,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,501207,"Serra, Albert",,Bartolabac St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bartolabac Street,500317,"Villahermosa, Rogel",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,500784,"Villahermosa, Bernardo",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolabac Street,501517,"Villamor, Jose",,Bartolabac St.,992.0,1103.0,992.0,1103.0,111,Corrected,Active
-MAR,2020,Q1,,Bartolabac Street,500494,"Villamor, Lilia",,Bartolabac St.,79.0,99.0,79.0,99.0,20,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,501207,"Serra, Albert",Residential,Bartolabac St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Bartolabac Street,500317,"Villahermosa, Rogel",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,500784,"Villahermosa, Bernardo",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Bartolabac Street,501517,"Villamor, Jose",Residential,Bartolabac St.,992.0,1103.0,992.0,1103.0,111,Corrected,Active
+MAR,2020,Q1,,Bartolabac Street,500494,"Villamor, Lilia",Residential,Bartolabac St.,79.0,99.0,79.0,99.0,20,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500123,"Adiaton, Rodrigo",Residential,"Bartolay St., Dist. 3",4960.0,5116.0,4960.0,5116.0,156,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,501039,"Alcantara, Rene",Residential,"Bartolay St., Dist. 3",458.0,489.0,458.0,489.0,31,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500179,"Almodal, Gemma",Residential,"Bartolay St., Dist. 3",2122.0,2162.0,2122.0,2162.0,40,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500302,"Almoete, Gilbert",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bartolay Street,500098,"Almoete, Mitchell",Residential,Bartolay St. Dist. 4,3280.0,3368.0,3280.0,3368.0,88,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500939,"Almoete, Pio",Residential,Bartolay St. Dist. 4,847.0,867.0,847.0,867.0,20,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500098,"Almoete, Mitchell",Residential,"Bartolay St., Dist. 4",3280.0,3368.0,3280.0,3368.0,88,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500939,"Almoete, Pio",Residential,"Bartolay St., Dist. 4",847.0,867.0,847.0,867.0,20,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500209,"Almonte, Cecilio",Residential,"Bartolay St., Dist. 3",6192.0,6266.0,6192.0,6266.0,74,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500109,"Balingasa, Zenaida-A",,Bartolay St.,5412.0,5492.0,5412.0,5492.0,80,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500109,"Balingasa, Zenaida-A",Residential,"Bartolay St., Dist. 4",5412.0,5492.0,5412.0,5492.0,80,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,501085,"Bandelaria, Marcial",Residential,"Bartolay St., Dist. 1",,74.0,74.0,74.0,0,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500710,"Barrun, Nida",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 3,Bartolay Street,500099,"Barrun, Simi",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolay Street,501685,"Bartolata, Alexander",Residential,Bartolay St. Dist. 4,,63.0,63.0,63.0,0,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,501422,"Bartolata, Evelyn",Residential,Bartolay St. Dist. 4,36.0,66.0,36.0,66.0,30,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500974,"Bartolay, Rene",Residential,Bartolay St. Dist. 4,1843.0,1966.0,1843.0,1966.0,123,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,501685,"Bartolata, Alexander",Residential,"Bartolay St., Dist. 4",,63.0,63.0,63.0,0,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,501422,"Bartolata, Evelyn",Residential,"Bartolay St., Dist. 4",36.0,66.0,36.0,66.0,30,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500974,"Bartolay, Rene",Residential,"Bartolay St., Dist. 4",1843.0,1966.0,1843.0,1966.0,123,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500154,"Barsaga, Adalia",Residential,"Bartolay St., Dist. 3",1155.0,1165.0,1155.0,1165.0,10,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,501692,"Barsaga, Frankjo",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Bartolay Street,500359,"Barsaga, Maria",Residential,"Bartolay St., Dist. 3",3698.0,3739.0,3698.0,3739.0,41,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500308,"Barsaga, Solomon",Residential,"Bartolay St., Dist. 1",3813.0,3840.0,3813.0,3840.0,27,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500588,"Baruelo, Ricky",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Bartolay Street,501673,"Cabiles, Luz",Residential,"Bartolay St., Dist. 3",,28.0,28.0,28.0,0,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500676,"Camposano, Jesus",Residential,Bartolay St. Dist. 4,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Bartolay Street,500125,"CaÃ±ares, Evangelina",,Bartolay St.,658.0,658.0,658.0,658.0,0,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500659,"Cantonjos, Caritina",Residential,Bartolay St. Dist. 4,2920.0,2954.0,2920.0,2954.0,34,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,501125,"Cantonjos, Editha",Residential,Bartolay St. Dist. 4,469.0,475.0,469.0,475.0,6,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500602,"Cantonjos, Ronnel",Residential,Bartolay St. Dist. 4,4067.0,4103.0,4067.0,4103.0,36,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500676,"Camposano, Jesus",Residential,"Bartolay St., Dist. 4",,,,,0,Corrected,Defect
+MAR,2020,Q1,District 1,Bartolay Street,500125,"Canares, Evangelina",Residential,"Bartolay St., Dist. 1",658.0,658.0,658.0,658.0,0,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500659,"Cantonjos, Caritina",Residential,"Bartolay St., Dist. 4",2920.0,2954.0,2920.0,2954.0,34,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,501125,"Cantonjos, Editha",Residential,"Bartolay St., Dist. 4",469.0,475.0,469.0,475.0,6,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500602,"Cantonjos, Ronnel",Residential,"Bartolay St., Dist. 4",4067.0,4103.0,4067.0,4103.0,36,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500457,"Cantoria, Ronnie",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bartolay Street,500946,"Carranza, Leonida",Residential,Bartolay St. Dist. 4,1099.0,1194.0,1099.0,1194.0,95,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500946,"Carranza, Leonida",Residential,"Bartolay St., Dist. 4",1099.0,1194.0,1099.0,1194.0,95,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500290,"Deinla, Regalado",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Bartolay Street,501190,"Dejumo, Allan",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolay Street,500133,"Delavin, Edgar/Veterbo, Judith",Residential,Bartolay St. Dist. 4,2384.0,2398.0,2384.0,2398.0,14,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,501695,"Delariarte, Melinda",Residential,Bartolay St. Dist. 4,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bartolay Street,500647,"Delos Santos, Emerson",Residential,Bartolay St. Dist. 1,5826.0,,5826.0,5826.0,0,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,501053,"EspaÃ±ola, Sonia",,Bartolay St.,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Bartolay Street,501545,"Esparrago, Maricar",Residential,Bartolay St. Dist. 4,168.0,201.0,168.0,201.0,33,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500721,"Espinosa, Benito",Residential,Bartolay St. Dist. 4,628.0,628.0,628.0,628.0,0,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500133,"Delavin, Edgar/Veterbo, Judith",Residential,"Bartolay St., Dist. 4",2384.0,2398.0,2384.0,2398.0,14,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,501695,"Delariarte, Melinda",Residential,"Bartolay St., Dist. 4",,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 1,Bartolay Street,500647,"Delos Santos, Emerson",Residential,"Bartolay St., Dist. 1",5826.0,,5826.0,5826.0,0,Corrected,Active
+MAR,2020,Q1,District 3,Bartolay Street,501053,"Espanola, Sonia",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Defect
+MAR,2020,Q1,District 4,Bartolay Street,501545,"Esparrago, Maricar",Residential,"Bartolay St., Dist. 4",168.0,201.0,168.0,201.0,33,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500721,"Espinosa, Benito",Residential,"Bartolay St., Dist. 4",628.0,628.0,628.0,628.0,0,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,501236,"Espinosa, Manette",Residential,"Bartolay St., Dist. 3",3379.0,3675.0,3379.0,3675.0,296,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500201,"Espinosa, Nemia",Residential,Bartolay St. Dist. 3,5265.0,5316.0,5265.0,5316.0,51,Corrected,Active
+MAR,2020,Q1,District 3,Bartolay Street,500201,"Espinosa, Nemia",Residential,"Bartolay St., Dist. 3",5265.0,5316.0,5265.0,5316.0,51,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500255,"Feliciano, Vilda",Residential,"Bartolay St., Dist. 1",1828.0,1854.0,1828.0,1854.0,26,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500252,"Gilaga, Ricky",Residential,"Bartolay St., Dist. 1",1813.0,,1813.0,1813.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500393,"Grajo, Gloria",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Bartolay Street,501029,"Jerusalem, Lanie",Residential,"Bartolay St., Dist. 1",127.0,161.0,127.0,161.0,34,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,501083,"Lique, Levi",Residential,Bartolay St. Dist. 4,532.0,560.0,532.0,560.0,28,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500303,"Lique, Ricky",Residential,Bartolay St. Dist. 4,2856.0,2884.0,2856.0,2884.0,28,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500192,"Macoy, Ed/Ofelia",Residential,Bartolay St. Dist. 4,2099.0,2136.0,2099.0,2136.0,37,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,501083,"Lique, Levi",Residential,"Bartolay St., Dist. 4",532.0,560.0,532.0,560.0,28,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500303,"Lique, Ricky",Residential,"Bartolay St., Dist. 4",2856.0,2884.0,2856.0,2884.0,28,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500192,"Macoy, Ed/Ofelia",Residential,"Bartolay St., Dist. 4",2099.0,2136.0,2099.0,2136.0,37,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500306,"Merillo, Elmor",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Bartolay Street,500044,"Meteoro, Lino",Residential,"Bartolay St., Dist. 1",14317.0,14372.0,14317.0,14372.0,55,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500837,"Meteoro, Norman",Residential,"Bartolay St., Dist. 1",4405.0,4483.0,4405.0,4483.0,78,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500538,"Navarro, Nonita",Residential,Bartolay St. Dist. 3,2691.0,2737.0,2691.0,2737.0,46,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500747,"NuÃ±ez, Carmela",,Bartolay St.,501.0,532.0,501.0,532.0,31,Corrected,Active
+MAR,2020,Q1,District 3,Bartolay Street,500538,"Navarro, Nonita",Residential,"Bartolay St., Dist. 3",2691.0,2737.0,2691.0,2737.0,46,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500747,"Nunez, Carmela",Residential,"Bartolay St., Dist. 4",501.0,532.0,501.0,532.0,31,Corrected,Active
 MAR,2020,Q1,District 3,Bartolay Street,500130,"Romblon, Romeo",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Bartolay Street,501466,"Valdez, Jocelyn",Residential,Bartolay St. Dist. 4,213.0,268.0,213.0,268.0,55,Corrected,Active
-MAR,2020,Q1,,Bartolay Street,500938,"Vasquez, Noel",Residential,Bartolay St. Dist. 4,3776.0,3842.0,3776.0,3842.0,66,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,501466,"Valdez, Jocelyn",Residential,"Bartolay St., Dist. 4",213.0,268.0,213.0,268.0,55,Corrected,Active
+MAR,2020,Q1,District 4,Bartolay Street,500938,"Vasquez, Noel",Residential,"Bartolay St., Dist. 4",3776.0,3842.0,3776.0,3842.0,66,Corrected,Active
 MAR,2020,Q1,District 1,Bartolay Street,500413,"Villamor, Jeneth",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 4,Bartolay Street,500714,"Villamor, Nena",Residential,"Bartolay St., Dist. 4",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Don Juan Street,501114,"AlbaÃ±o, Emie",,Don Juan St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 2,Don Juan Street,501114,"Albano, Emie",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Don Juan Street,500143,"Almodiel, Edgar",Residential,"Don Juan St., Dist. 2",4571.0,4605.0,4571.0,4605.0,34,Corrected,Active
 MAR,2020,Q1,District 2,Don Juan Street,501524,"Almonicar, Albert",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Don Juan Street,500925,"Almonicar, Felomino",Residential,"Don Juan St., Dist. 2",273.0,321.0,273.0,321.0,48,Corrected,Active
@@ -688,7 +688,7 @@ MAR,2020,Q1,District 2,Don Juan Street,500661,"Almonte, Carlos",Residential,"Don
 MAR,2020,Q1,District 2,Don Juan Street,500764,"Almonte, Ronnie",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Don Juan Street,501198,"Almonte, Ronnie 2",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Don Juan Street,500645,"Altiche, Nenita",Residential,"Don Juan St., Dist. 2",494.0,555.0,494.0,555.0,61,Corrected,Active
-MAR,2020,Q1,,Don Juan Street,501126,"AÃ±onuevo, Cherily",,Don Juan St.,1698.0,1787.0,1698.0,1787.0,89,Corrected,Active
+MAR,2020,Q1,District 2,Don Juan Street,501126,"Anonuevo, Cherily",Residential,"Don Juan St., Dist. 2",1698.0,1787.0,1698.0,1787.0,89,Corrected,Active
 MAR,2020,Q1,District 2,Don Juan Street,501486,"Aspa, Marilou 2",Residential,"Don Juan St., Dist. 2",643.0,,643.0,643.0,0,Corrected,Defect
 MAR,2020,Q1,District 2,Don Juan Street,500958,"Barrun, Jesus",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Don Juan Street,501297,"Barsaga, Melanie",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
@@ -744,9 +744,9 @@ MAR,2020,Q1,District 4,Esparrago Street,500085,"Almojuela, Darwin",Residential,"
 MAR,2020,Q1,District 4,Esparrago Street,501154,"Almojuela, Domarie",Residential,"Esparrago St., Dist. 4",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 3,Letada Street,500593,"Almonte, Edgar",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 2,Bailon Street,501689,"Almosara, Salvacion",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Esparrago Street,500801,"Almosera, Rosie-I",,Esparrago St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Esparrago Street,500802,"Almosera, Rosie-II",,Esparrago St.,435.0,438.0,435.0,438.0,3,Corrected,Active
-MAR,2020,Q1,,Esparrago Street,500803,"Almosera, Rosie-III",,Esparrago St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 4,Esparrago Street,500801,"Almosera, Rosie-I",Residential,"Esparrago St., Dist. 4",,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 4,Esparrago Street,500802,"Almosera, Rosie-II",Residential,"Esparrago St., Dist. 4",435.0,438.0,435.0,438.0,3,Corrected,Active
+MAR,2020,Q1,District 4,Esparrago Street,500803,"Almosera, Rosie-III",Residential,"Esparrago St., Dist. 4",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Esparrago Street,501033,"Amor, Candelaria",Residential,"Esparrago St., Dist. 3",1125.0,1189.0,1125.0,1189.0,64,Corrected,Active
 MAR,2020,Q1,District 3,Esparrago Street,501348,"Arcenas, Francis",Residential,"Esparrago St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Esparrago Street,501398,"Arcenas, Francis 2",Residential,"Esparrago St., Dist. 3",,,,,0,Corrected,Unknown
@@ -780,7 +780,7 @@ MAR,2020,Q1,District 4,Esparrago Street,500001,"Encinares, Roberto",Residential,
 MAR,2020,Q1,District 2,Esparrago Street,501552,"Escorel, Cerconsecion",Residential,"Esparrago St., Dist. 2",113.0,126.0,113.0,126.0,13,Corrected,Active
 MAR,2020,Q1,District 2,Esparrago Street,500886,"Espares, Julieta",Residential,"Esparrago St., Dist. 2",1512.0,1512.0,1512.0,1512.0,0,Corrected,Active
 MAR,2020,Q1,District 2,Esparrago Street,501480,"Espares, Jennefer",Residential,"Esparrago St., Dist. 2",399.0,440.0,399.0,440.0,41,Corrected,Active
-MAR,2020,Q1,,Esparrago Street,501452,"EspaÃ±ol, Corazon",,Esparrago St.,814.0,849.0,814.0,849.0,35,Corrected,Active
+MAR,2020,Q1,District 2,Esparrago Street,501452,"Espanol, Corazon",Residential,"Esparrago St., Dist. 2",814.0,849.0,814.0,849.0,35,Corrected,Active
 MAR,2020,Q1,District 2,Esparrago Street,501266,"Esparraguerra, Artemio",Residential,"Esparrago St., Dist. 2",33.0,52.0,33.0,52.0,19,Corrected,Active
 MAR,2020,Q1,District 1,Esparrago Street,501384,"Espenida, Christy",Residential,"Esparrago St., Dist. 1",702.0,719.0,702.0,719.0,17,Corrected,Active
 MAR,2020,Q1,District 3,Esparrago Street,500644,"Espinosa, Carla",Residential,"Esparrago St., Dist. 3",2093.0,,2093.0,2093.0,0,Corrected,Active
@@ -838,14 +838,14 @@ MAR,2020,Q1,District 3,Espinosa Street,501196,"Neri, Maribel",Residential,"Espin
 MAR,2020,Q1,District 3,Espinosa Street,500196,"Ramilo, Rosa",Residential,"Espinosa St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Espinosa Street,501469,"Rejuso, Noli",Residential,"Espinosa St., Dist. 3",1028.0,,1028.0,1028.0,0,Corrected,Defect
 MAR,2020,Q1,District 3,Espinosa Street,500864,"Sola, Herne",Commercial,"Espinosa St., Dist. 3",1212.0,1284.0,1212.0,1284.0,72,Corrected,Active
-MAR,2020,Q1,,Fabmar Street,501565,"AlbaÃ±o, Helen",,Fabmar St.,88.0,107.0,88.0,107.0,19,Corrected,Active
+MAR,2020,Q1,District 2,Fabmar Street,501565,"Albano, Helen",Residential,"Fabmar St., Dist. 2",88.0,107.0,88.0,107.0,19,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501670,"Almodiel,Marife",Residential,"Fabmar St., Dist. 2",,45.0,45.0,45.0,0,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501635,"Almoete, Romy 1",Commercial,"Fabmar St., Dist. 2",34.0,63.0,34.0,63.0,29,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501636,"Almoete, Romy 2",Residential,"Fabmar St., Dist. 2",23.0,31.0,23.0,31.0,8,Corrected,Active
-MAR,2020,Q1,,Fabmar Street,501364,"AlmiÃ±e, Stella",,Fabmar St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,District 2,Fabmar Street,501364,"Almine, Stella",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Fabmar Street,501409,"Almoguerra, Sonia",Residential,"Fabmar St., Dist. 2",624.0,696.0,624.0,696.0,72,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501619,"Almonicar, Cesar",Residential,"Fabmar St., Dist. 2",136.0,175.0,136.0,175.0,39,Corrected,Active
-MAR,2020,Q1,District 2,Fabmar Street,500787,"Almonicar, Jose",Commercial,"Fabmar St., Dist. 2",240.0,287.0,240.0,287.0,47,Corrected,Active
+MAR,2020,Q1,District 2,Fabmar Street,500787,"Almonicar, Jose",Residential,"Fabmar St., Dist. 2",240.0,287.0,240.0,287.0,47,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500682,"Almosara, Celin",Residential,"Fabmar St., Dist. 2",2460.0,2515.0,2460.0,2515.0,55,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501587,"Almosara, Elvie",Residential,"Fabmar St., Dist. 2",542.0,617.0,542.0,617.0,75,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500902,"Almosara, Jinky",Residential,"Fabmar St., Dist. 2",1569.0,1595.0,1569.0,1595.0,26,Corrected,Active
@@ -860,8 +860,8 @@ MAR,2020,Q1,District 2,Fabmar Street,501245,"Barrun, Amelia",Residential,"Fabmar
 MAR,2020,Q1,District 2,Fabmar Street,500914,"Barrun, Emma",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Fabmar Street,501655,"Barrun, Marlon",Residential,"Fabmar St., Dist. 2",32.0,75.0,32.0,75.0,43,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500553,"Barsaga, Esperanza",Residential,"Fabmar St., Dist. 2",1754.0,1770.0,1754.0,1770.0,16,Corrected,Active
-MAR,2020,Q1,Burgos,Upper Bliss,501694,"Bartolabac, Nick",Residential,"Upper, Bliss",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500829,"Bartolabac, Romulo",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,"Upper, Bliss",501694,"Bartolabac, Nick",Residential,"Upper, Bliss",,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500829,"Bartolabac, Romulo",Residential,Moyot St.,,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Fabmar Street,501045,"Bartolata, Dory",Residential,"Fabmar St., Dist. 2",463.0,572.0,463.0,572.0,109,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500331,"Bartolata, Eusebio",Residential,"Fabmar St., Dist. 2",4477.0,4546.0,4477.0,4546.0,69,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500892,"Bartolay, Agnes",Residential,"Fabmar St., Dist. 2",122.0,145.0,122.0,145.0,23,Corrected,Active
@@ -877,7 +877,7 @@ MAR,2020,Q1,District 2,Fabmar Street,501355,"Bocboc, Evelyn",Residential,"Fabmar
 MAR,2020,Q1,District 2,Fabmar Street,500881,"Bocboc, Lily",Residential,"Fabmar St., Dist. 2",391.0,430.0,391.0,430.0,39,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500779,"Bocboc, Sonia",Residential,"Fabmar St., Dist. 2",1614.0,1629.0,1614.0,1629.0,15,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501370,"Capsa, Alex",Residential,"Fabmar St., Dist. 2",1014.0,1124.0,1014.0,1124.0,110,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500916,"Capsa, Rochelle",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Moyot Street,500916,"Capsa, Rochelle",Residential,Moyot St.,,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Fabmar Street,501665,"Cantoria, Michael",Residential,"Fabmar St., Dist. 2",75.0,185.0,75.0,185.0,110,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501037,"Cerillo, Ronnie",Residential,"Fabmar St., Dist. 2",346.0,421.0,346.0,421.0,75,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501281,"Constantino, Lalyn",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
@@ -906,7 +906,7 @@ MAR,2020,Q1,District 2,Fabmar Street,501049,"Delos Santos, Flora",Residential,"F
 MAR,2020,Q1,District 2,Fabmar Street,501498,"Dignos, Melba",Residential,"Fabmar St., Dist. 2",710.0,767.0,710.0,767.0,57,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501159,DPWH QC,Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Fabmar Street,500450,"Espares, Siony",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Defect
-MAR,2020,Q1,,Fabmar Street,501200,"EspaÃ±ola, Nedy",,Fabmar St.,3203.0,3310.0,3203.0,3310.0,107,Corrected,Active
+MAR,2020,Q1,District 2,Fabmar Street,501200,"Espanola, Nedy",Residential,"Fabmar St., Dist. 2",3203.0,3310.0,3203.0,3310.0,107,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501575,"Esparrago, Lorenia",Residential,"Fabmar St., Dist. 2",229.0,285.0,229.0,285.0,56,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501626,"Esparrago, Mikay",Residential,"Fabmar St., Dist. 2",264.0,303.0,264.0,303.0,39,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500580,"Esparrguerra, Antonio",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
@@ -941,7 +941,7 @@ MAR,2020,Q1,District 2,Fabmar Street,501597,"Merillo, Amadeo",Residential,"Fabma
 MAR,2020,Q1,District 2,Fabmar Street,500313,"Mira, Cesar",Residential,"Fabmar St., Dist. 2",211.0,243.0,211.0,243.0,32,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501671,"Mira, Jerald",Residential,"Fabmar St., Dist. 2",,54.0,54.0,54.0,0,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500884,"Mira, Joel",Residential,"Fabmar St., Dist. 2",632.0,632.0,632.0,632.0,0,Corrected,Active
-MAR,2020,Q1,,Fabmar Street,500851,"Ora-a, Chin",,Fabmar St.,311.0,325.0,311.0,325.0,14,Corrected,Active
+MAR,2020,Q1,District 2,Fabmar Street,500851,"Ora-a, Chin",Residential,"Fabmar St., Dist. 2",311.0,325.0,311.0,325.0,14,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501369,"Parado, Josie",Residential,"Fabmar St., Dist. 2",942.0,1069.0,942.0,1069.0,127,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501688,"Pinaranda, Maricel",Residential,"Fabmar St., Dist. 2",3.0,9.0,3.0,9.0,6,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501576,"Planas, Marites",Residential,"Fabmar St., Dist. 2",249.0,269.0,249.0,269.0,20,Corrected,Active
@@ -951,15 +951,15 @@ MAR,2020,Q1,District 2,Fabmar Street,500961,"Rejuso, Maria",Residential,"Fabmar 
 MAR,2020,Q1,District 2,Fabmar Street,500334,"Rejuso, Rolly",Residential,"Fabmar St., Dist. 2",544.0,622.0,544.0,622.0,78,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501345,"Rejuso, Rolando",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Fabmar Street,501601,"Relente, Berjean",Residential,"Fabmar St., Dist. 2",275.0,335.0,275.0,335.0,60,Corrected,Active
-MAR,2020,Q1,Burgos,Talaba,501569,"Robles, Julieta",Residential,"Talaba, Burgos",334.0,355.0,334.0,355.0,21,Corrected,Active
-MAR,2020,Q1,District 2,Fabmar Street,500646,"Sola, Cesar",Commercial,"Fabmar St., Dist. 2",1265.0,1287.0,1265.0,1287.0,22,Corrected,Active
+MAR,2020,Q1,,"Talaba, Burgos",501569,"Robles, Julieta",Residential,"Talaba, Burgos",334.0,355.0,334.0,355.0,21,Corrected,Active
+MAR,2020,Q1,District 2,Fabmar Street,500646,"Sola, Cesar",Residential,"Fabmar St., Dist. 2",1265.0,1287.0,1265.0,1287.0,22,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501681,"Sola, Margie",Residential,"Fabmar St., Dist. 2",32.0,97.0,32.0,97.0,65,Corrected,Active
-MAR,2020,Q1,District 2,Fabmar Street,500522,"Roxas, Renalyn",Residential,"Fabmar St., Dist. 2",174.0,183.0,174.0,183.0,9,Corrected,Active
+MAR,2020,Q1,District 2,Fabmar Street,500522,"Roxas, Renalyn",Commercial,"Fabmar St., Dist. 2",174.0,183.0,174.0,183.0,9,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501525,"Villamor, Arnel",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Fabmar Street,501570,"Waitkus, Dolored",Residential,"Fabmar St., Dist. 2",291.0,315.0,291.0,315.0,24,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,501584,"Agao, Marites",Residential,"Flores St., Dist. 3",78.0,92.0,78.0,92.0,14,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500615,"Agao, Necita",Residential,"Flores St., Dist. 3",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Flores Street,500468,"AlbaÃ±o, Lanie",,Flores St.,3591.0,3620.0,3591.0,3620.0,29,Corrected,Active
+MAR,2020,Q1,District 3,Flores Street,500468,"Albano, Lanie",Residential,"Flores St., Dist. 3",3591.0,3620.0,3591.0,3620.0,29,Corrected,Active
 MAR,2020,Q1,District 4,Grafilo Street,501493,"Alcantara, Sheryll",Residential,"Grafilo St., Dist. 4",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Flores Street,501211,"Aldana, Dolores",Residential,"Flores St., Dist. 3",479.0,544.0,479.0,544.0,65,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500177,"Aljecera, Tito",Residential,"Flores St., Dist. 3",1412.0,1538.0,1412.0,1538.0,126,Corrected,Active
@@ -976,7 +976,7 @@ MAR,2020,Q1,District 4,Flores Street,500797,"Altizon, Florili",Residential,"Flor
 MAR,2020,Q1,District 4,Flores Street,500788,"Amican, Helen",Residential,"Flores St., Dist. 4",3091.0,3098.0,3091.0,3098.0,7,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,501040,"Aspa, Elicer",Residential,"Flores St., Dist. 3",1312.0,1331.0,1312.0,1331.0,19,Corrected,Active
 MAR,2020,Q1,District 4,Flores Street,501361,"Balingasa, Micah",Residential,"Flores St., Dist. 4",664.0,664.0,664.0,664.0,0,Corrected,Active
-MAR,2020,Q1,,Flores Street,500127,"Balingasa, Zenaida-B",,Flores St.,3545.0,3567.0,3545.0,3567.0,22,Corrected,Active
+MAR,2020,Q1,District 4,Flores Street,500127,"Balingasa, Zenaida-B",Residential,"Flores St., Dist. 4",3545.0,3567.0,3545.0,3567.0,22,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500063,"Barsaga, Edita",Residential,"Flores St., Dist. 3",3647.0,3697.0,3647.0,3697.0,50,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500727,"Bartolata, Leo",Commercial,"Flores St., Dist. 3",3718.0,3749.0,3718.0,3749.0,31,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500104,"Bartolata, Vivina",Residential,"Flores St., Dist. 3",,,,,0,Corrected,Defect
@@ -992,7 +992,7 @@ MAR,2020,Q1,District 3,Flores Street,501296,"Dejumo, Jessie",Residential,"Flores
 MAR,2020,Q1,District 3,Flores Street,500150,"Delos Santos, Bienvenido",Residential,"Flores St., Dist. 3",762.0,853.0,762.0,853.0,91,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500634,"Delos Santos, Marben",Residential,"Flores St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Flores Street,500102,"Delos Santos, Neria",Residential,"Flores St., Dist. 4",2011.0,2062.0,2011.0,2062.0,51,Corrected,Active
-MAR,2020,Q1,,Flores Street,500180,"Delos Santos, Rosario",,Flores St.,2925.0,2981.0,2925.0,2981.0,56,Corrected,Active
+MAR,2020,Q1,District 3,Espinosa Street,500180,"Delos Santos, Rosario",Commercial,"Espinosa St., Dist. 3",2925.0,2981.0,2925.0,2981.0,56,Corrected,Active
 MAR,2020,Q1,District 4,Flores Street,501044,"Deonila, Meruche",Residential,"Flores St., Dist. 4",1725.0,1752.0,1725.0,1752.0,27,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,500057,"Dilao, Rosa",Residential,"Flores St., Dist. 3",317.0,347.0,317.0,347.0,30,Corrected,Active
 MAR,2020,Q1,District 3,Flores Street,501156,"Dilao, Rosa (2)",Commercial,"Flores St., Dist. 3",4438.0,4531.0,4438.0,4531.0,93,Corrected,Active
@@ -1017,7 +1017,7 @@ MAR,2020,Q1,District 3,Flores Street,500518,"Magdaraog, Lilibeth",Residential,"F
 MAR,2020,Q1,District 3,Flores Street,501253,"Medina, Ma. Lucila",Residential,"Flores St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Flores Street,500141,"Mingoy, Felipe",Commercial,"Flores St., Dist. 4",7037.0,7104.0,7037.0,7104.0,67,Corrected,Active
 MAR,2020,Q1,District 4,Flores Street,501051,"Moya, Monina",Residential,"Flores St., Dist. 4",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Flores Street,501624,"Nuevo, Jeloveme",,Flores St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 3,Flores Street,501624,"Nuevo, Jeloveme",Commercial,"Flores St., Dist. 3",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Flores Street,500550,"Ongotan, Telesporo",Residential,"Flores St., Dist. 4",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Flores Street,501187,"Pascua, Jean",Residential,"Flores St., Dist. 3",1015.0,1040.0,1015.0,1040.0,25,Corrected,Active
 MAR,2020,Q1,District 4,Flores Street,500100,"Payawal, Redentor",Residential,"Flores St., Dist. 4",2728.0,2729.0,2728.0,2729.0,1,Corrected,Active
@@ -1035,7 +1035,7 @@ MAR,2020,Q1,District 4,Alicante Street,500056,"Villamor, Joel",Residential,"Alic
 MAR,2020,Q1,District 2,Fabmar Street,500526,"Villamor, Rosalina",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Grafilo Street,500096,"Almodal, Ana",Residential,"Grafilo St., Dist. 4",1336.0,1354.0,1336.0,1354.0,18,Corrected,Active
 MAR,2020,Q1,District 4,Grafilo Street,500695,"Almoete, Artus",Residential,"Grafilo St., Dist. 4",121.0,183.0,121.0,183.0,62,Corrected,Active
-MAR,2020,Q1,Burgos,Talaba,nan,"Bartolata, Edison",,"Talaba, Burgos",,20.0,20.0,20.0,0,Corrected,Active
+MAR,2020,Q1,,Grafilo Street,000nan,"Bartolata, Edison",,Grafilo St.,,20.0,20.0,20.0,0,Corrected,Active
 MAR,2020,Q1,District 4,Grafilo Street,500193,"Bartolata, Eduardo",Residential,"Grafilo St., Dist. 4",1551.0,1591.0,1551.0,1591.0,40,Corrected,Active
 MAR,2020,Q1,District 4,Grafilo Street,501143,"Bartolata, Janette",Residential,"Grafilo St., Dist. 4",44.0,60.0,44.0,60.0,16,Corrected,Active
 MAR,2020,Q1,District 4,Grafilo Street,500932,"Bermillo, Lea",Residential,"Grafilo St., Dist. 4",,,,,0,Corrected,Disconnected
@@ -1046,56 +1046,56 @@ MAR,2020,Q1,District 4,Grafilo Street,500358,"Letada, Ambrocio",Residential,"Gra
 MAR,2020,Q1,District 4,Grafilo Street,500786,"Letada, Ferdinand",Residential,"Grafilo St., Dist. 4",3263.0,3276.0,3263.0,3276.0,13,Corrected,Active
 MAR,2020,Q1,District 4,Grafilo Street,500022,"Llacer, Lony",Residential,"Grafilo St., Dist. 4",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 4,Grafilo Street,501563,"Ongotan, Elsie",Residential,"Grafilo St., Dist. 4",155.0,165.0,155.0,165.0,10,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500536,"AlmiÃ±e, Mandy",,Gutierrez St.,17.0,98.0,17.0,98.0,81,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500310,"AlmiÃ±e, Nick",,Gutierrez St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Gutierrez Street,500827,"Almodiel, Noe",,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 1,Gutierrez Street,500536,"Almine, Mandy",Residential,"Gutierrez St., Dist. 1",17.0,98.0,17.0,98.0,81,Corrected,Active
+MAR,2020,Q1,District 1,Gutierrez Street,500310,"Almine, Nick",Residential,"Gutierrez St., Dist. 1",,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500827,"Almodiel, Noe",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Gutierrez Street,500268,"Almodiel, Romulo",Residential,"Gutierrez St., Dist. 1",1998.0,2029.0,1998.0,2029.0,31,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500775,"Almonte, Emilio",,Gutierrez St.,1698.0,1761.0,1698.0,1761.0,63,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500775,"Almonte, Emilio",Residential,Gutierrez St.,1698.0,1761.0,1698.0,1761.0,63,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,501250,"Almonte, Nedy",Residential,"Gutierrez St., Dist. 1",323.0,375.0,323.0,375.0,52,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500342,"Almoradie, Roger",,Gutierrez St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Gutierrez Street,500423,"AÃ±onuevo, Otto",,Gutierrez St.,422.0,531.0,422.0,531.0,109,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500516,"Aspa, Ramon",,Gutierrez St.,2113.0,2179.0,2113.0,2179.0,66,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500342,"Almoradie, Roger",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500423,"Anonuevo, Otto",Residential,Gutierrez St.,422.0,531.0,422.0,531.0,109,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500516,"Aspa, Ramon",Residential,Gutierrez St.,2113.0,2179.0,2113.0,2179.0,66,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,500429,"Barrun, Jesus",Residential,"Gutierrez St., Dist. 1",5703.0,5743.0,5703.0,5743.0,40,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500435,"Bartolata, Andres",,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500435,"Bartolata, Andres",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Gutierrez Street,501429,"Bartolay, Jojie",Residential,"Gutierrez St., Dist. 1",738.0,811.0,738.0,811.0,73,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500632,"Basical, Rudy",,Gutierrez St.,1226.0,1261.0,1226.0,1261.0,35,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500632,"Basical, Rudy",Residential,Gutierrez St.,1226.0,1261.0,1226.0,1261.0,35,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,500337,"Belmes, Nila",Residential,"Gutierrez St., Dist. 1",4653.0,4792.0,4653.0,4792.0,139,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,501500,"Bonino, Albena",,Gutierrez St.,128.0,134.0,128.0,134.0,6,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500392,"Bulalaque, Zelda",,Gutierrez St.,4396.0,4512.0,4396.0,4512.0,116,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,501246,"Canchela, Luis",,Gutierrez St.,243.0,290.0,243.0,290.0,47,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500490,"Canchela, Teresita",,Gutierrez St.,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Gutierrez Street,500285,"Dejumo, Sergia",,Gutierrez St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Gutierrez Street,500289,"Dejumo, Sergia",,Gutierrez St.,3386.0,3509.0,3386.0,3509.0,123,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500282,"Dejumo, Sergia",,Gutierrez St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Gutierrez Street,500453,"Delavin, Dina",,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,501500,"Bonino, Albena",Commercial,Gutierrez St.,128.0,134.0,128.0,134.0,6,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500392,"Bulalaque, Zelda",Residential,Gutierrez St.,4396.0,4512.0,4396.0,4512.0,116,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,501246,"Canchela, Luis",Residential,Gutierrez St.,243.0,290.0,243.0,290.0,47,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500490,"Canchela, Teresita",Residential,Gutierrez St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Gutierrez Street,500285,"Dejumo, Sergia",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500289,"Dejumo, Sergia",Residential,Gutierrez St.,3386.0,3509.0,3386.0,3509.0,123,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500282,"Dejumo, Sergia",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500453,"Delavin, Dina",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Gutierrez Street,501406,"Delavin, Analyn",Residential,"Gutierrez St., Dist. 1",,,,,0,Corrected,Defect
-MAR,2020,Q1,,Gutierrez Street,500383,"Delavin, Fely",,Gutierrez St.,1699.0,1723.0,1699.0,1723.0,24,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500383,"Delavin, Fely",Residential,Gutierrez St.,1699.0,1723.0,1699.0,1723.0,24,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,500338,"Delavin, Marilyn",Residential,"Gutierrez St., Dist. 1",4759.0,5035.0,4759.0,5035.0,276,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500283,"Delavin, Nelson",,Gutierrez St.,1787.0,1827.0,1787.0,1827.0,40,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500283,"Delavin, Nelson",Residential,Gutierrez St.,1787.0,1827.0,1787.0,1827.0,40,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,501353,"Dilao, Salvador",Residential,"Gutierrez St., Dist. 1",7501.0,7613.0,7501.0,7613.0,112,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500981,"Dilao, Maria",,Gutierrez St.,796.0,845.0,796.0,845.0,49,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500382,"Espenida, Domingo",,Gutierrez St.,209.0,253.0,209.0,253.0,44,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,501637,"Gebilaguin, Frank",,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500981,"Dilao, Maria",Residential,Gutierrez St.,796.0,845.0,796.0,845.0,49,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500382,"Espenida, Domingo",Residential,Gutierrez St.,209.0,253.0,209.0,253.0,44,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,501637,"Gebilaguin, Frank",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 1,Gutierrez Street,500269,"Gutierrez, Mario",Residential,"Gutierrez St., Dist. 1",161.0,261.0,161.0,261.0,100,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500562,"Gulmatico, Melinda",,Gutierrez St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Gutierrez Street,500804,"Gutierez, Genalyn",,Gutierrez St.,3654.0,3674.0,3654.0,3674.0,20,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500562,"Gulmatico, Melinda",Residential,Gutierrez St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Gutierrez Street,500804,"Gutierez, Genalyn",Residential,Gutierrez St.,3654.0,3674.0,3654.0,3674.0,20,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,500575,"Llacer, Lony",Industrial,"Gutierrez St., Dist. 1",3241.0,4381.0,3241.0,4381.0,1140,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500336,"Lumberio, Nena",,Gutierrez St.,36.0,70.0,36.0,70.0,34,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500384,"Ramirez, Josefa",,Gutierrez St.,3602.0,3661.0,3602.0,3661.0,59,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,501375,"Ramirez, Josefa 2",,Gutierrez St.,411.0,,411.0,411.0,0,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500639,"Rejuso, Dina",,Gutierrez St.,1344.0,1399.0,1344.0,1399.0,55,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500336,"Lumberio, Nena",Residential,Gutierrez St.,36.0,70.0,36.0,70.0,34,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500384,"Ramirez, Josefa",Residential,Gutierrez St.,3602.0,3661.0,3602.0,3661.0,59,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,501375,"Ramirez, Josefa 2",Commercial,Gutierrez St.,411.0,,411.0,411.0,0,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500639,"Rejuso, Dina",Residential,Gutierrez St.,1344.0,1399.0,1344.0,1399.0,55,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,501459,"Sevillano, Lony",Residential,"Gutierrez St., Dist. 1",214.0,285.0,214.0,285.0,71,Corrected,Active
 MAR,2020,Q1,District 1,Gutierrez Street,501515,"So, Margielyn",Commercial,"Gutierrez St., Dist. 1",491.0,780.0,491.0,780.0,289,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,500699,"Sopsop, Merly",,Gutierrez St.,266.0,366.0,266.0,366.0,100,Corrected,Active
-MAR,2020,Q1,,Gutierrez Street,501543,"Villamor, Andrie",,Gutierrez St.,393.0,398.0,393.0,398.0,5,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,500699,"Sopsop, Merly",Residential,Gutierrez St.,266.0,366.0,266.0,366.0,100,Corrected,Active
+MAR,2020,Q1,,Gutierrez Street,501543,"Villamor, Andrie",Residential,Gutierrez St.,393.0,398.0,393.0,398.0,5,Corrected,Active
 MAR,2020,Q1,District 2,Balcavem Street,501099,"Villahermosa, Lita",Residential,"Balcavem St., Dist. 2",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,District 2,Jones Street,500879,"AlbaÃ±o, Emy/Villaranda, Jerry 2",Residential,"Jones St., Dist. 2",171.0,188.0,171.0,188.0,17,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500879,"Albano, Emy/Villaranda, Jerry 2",Residential,"Jones St., Dist. 2",171.0,188.0,171.0,188.0,17,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500901,"Alapad, Larry",Residential,"Jones St., Dist. 2",608.0,,608.0,608.0,0,Corrected,Active
-MAR,2020,Q1,,Jones Street,500343,"AlmiÃ±ana, Hernani",,Jones St.,3181.0,3184.0,3181.0,3184.0,3,Corrected,Active
-MAR,2020,Q1,,Jones Street,500795,"AlmiÃ±e, Edwin",,Jones St.,57.0,75.0,57.0,75.0,18,Corrected,Active
-MAR,2020,Q1,,Jones Street,500799,"AlmiÃ±e, Flor",,Jones St.,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Jones Street,500165,"AlmiÃ±e, Jose",,Jones St.,4910.0,4951.0,4910.0,4951.0,41,Corrected,Active
-MAR,2020,Q1,District 2,Jones Street,500653,"Almodal, Noe",Commercial,"Jones St., Dist. 2",1694.0,1699.0,1694.0,1699.0,5,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500343,"Alminana, Hernani",Residential,"Jones St., Dist. 2",3181.0,3184.0,3181.0,3184.0,3,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500795,"Almine, Edwin",Residential,"Jones St., Dist. 2",57.0,75.0,57.0,75.0,18,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500799,"Almine, Flor",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 2,Jones Street,500165,"Almine, Jose",Residential,"Jones St., Dist. 2",4910.0,4951.0,4910.0,4951.0,41,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500653,"Almodal, Noe",Residential,"Jones St., Dist. 2",1694.0,1699.0,1694.0,1699.0,5,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501164,"Almodiel, Arlyn",Residential,"Jones St., Dist. 2",1523.0,1547.0,1523.0,1547.0,24,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501315,"Almodiel, Adelisa",Residential,"Jones St., Dist. 2",1173.0,1239.0,1173.0,1239.0,66,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501312,"Almodiel, Jose Glen",Residential,"Jones St., Dist. 2",622.0,678.0,622.0,678.0,56,Corrected,Active
@@ -1122,7 +1122,7 @@ MAR,2020,Q1,District 2,Jones Street,501122,"Aspa, Nonito",Residential,"Jones St.
 MAR,2020,Q1,District 2,Jones Street,500735,"Aspa, Willy",Residential,"Jones St., Dist. 2",252.0,281.0,252.0,281.0,29,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501189,"Bailon, Nerry Rose",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 2,Jones Street,500463,"Barredo, Edgar",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Unknown
-MAR,2020,Q1,District 2,Jones Street,501499,"Barrun, Elizabeth",Commercial,"Jones St., Dist. 2",597.0,624.0,597.0,624.0,27,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,501499,"Barrun, Elizabeth",Residential,"Jones St., Dist. 2",597.0,624.0,597.0,624.0,27,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500898,"Barrun, Jean",Residential,"Jones St., Dist. 2",4818.0,,4818.0,4818.0,0,Corrected,Defect
 MAR,2020,Q1,District 2,Jones Street,500272,"Barrun, Jesus",Residential,"Jones St., Dist. 2",2149.0,2170.0,2149.0,2170.0,21,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,501655,"Barrun, Marlon",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Unknown
@@ -1175,8 +1175,8 @@ MAR,2020,Q1,District 2,Jones Street,501273,"Borromeo, Rosie",Residential,"Jones 
 MAR,2020,Q1,District 2,Jones Street,501658,"Bueta, Alberto Romulo",Residential,"Jones St., Dist. 2",15.0,32.0,15.0,32.0,17,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501667,"Bueta, Odessey",Residential,"Jones St., Dist. 2",25.0,39.0,25.0,39.0,14,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501356,"Rapsing, Lester",Residential,"Jones St., Dist. 2",2629.0,2724.0,2629.0,2724.0,95,Corrected,Active
-MAR,2020,Q1,,Jones Street,501093,"CaÃ±ares, Carmen",,Jones St.,2027.0,,2027.0,2027.0,0,Corrected,Active
-MAR,2020,Q1,,Jones Street,500437,"CaÃ±ares, Nimfa",,Jones St.,550.0,559.0,550.0,559.0,9,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,501093,"Canares, Carmen",Residential,"Jones St., Dist. 2",2027.0,,2027.0,2027.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500437,"Canares, Nimfa",Residential,"Jones St., Dist. 2",550.0,559.0,550.0,559.0,9,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501055,"Cantela, Zaida",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Jones Street,500350,"Cantoria, Efren",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Jones Street,501282,"Cantoria, Efren 2",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
@@ -1242,13 +1242,13 @@ MAR,2020,Q1,District 2,Jones Street,500732,"Espenilla, Ronaldo",Residential,"Jon
 MAR,2020,Q1,District 2,Jones Street,500778,"Espenilla, Tessie",Residential,"Jones St., Dist. 2",1981.0,,1981.0,1981.0,0,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500424,"Espinosa, Edralin",Residential,"Jones St., Dist. 2",6824.0,6877.0,6824.0,6877.0,53,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500897,"Espinosa, Elsie",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Bailon Street,500128,"Gebelaguin, Dito",Residential,Bailon St. Dist. 2,984.0,,984.0,984.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Bailon Street,500128,"Gebelaguin, Dito",Residential,"Bailon St., Dist. 2",984.0,,984.0,984.0,0,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500548,"Gelotin, Isaias",Residential,"Jones St., Dist. 2",864.0,975.0,864.0,975.0,111,Corrected,Active
-MAR,2020,Q1,,Jones Street,500339,"Genova, Erlinda",,Jones St.,1046.0,1101.0,1046.0,1101.0,55,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,500339,"Genova, Erlinda",Residential,"Jones St., Dist. 2",1046.0,1101.0,1046.0,1101.0,55,Corrected,Active
 MAR,2020,Q1,District 2,Balcavem Street,500701,"Genova, Noemi",Residential,"Balcavem St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Don Juan Street,501238,"Gerona, Siony",Residential,"Don Juan St., Dist. 2",525.0,525.0,525.0,525.0,0,Corrected,Active
 MAR,2020,Q1,District 2,Don Juan Street,501432,"Gogolin, Rona Shiela",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Jones Street,501366,"Gragas, Jon-Jon",,Jones St.,715.0,826.0,715.0,826.0,111,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,501366,"Gragas, Jon-Jon",Residential,"Jones St., Dist. 2",715.0,826.0,715.0,826.0,111,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501084,"Gragas, Melit",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 2,Jones Street,501108,"Grantos, Rizza",Commercial,"Jones St., Dist. 2",510.0,522.0,510.0,522.0,12,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500890,"Gubangco, Ronilda",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Defect
@@ -1291,8 +1291,8 @@ MAR,2020,Q1,District 2,Jones Street,501350,"Mortiga, Ramir",Residential,"Jones S
 MAR,2020,Q1,District 2,Jones Street,500742,"Mortiga, Rex",Residential,"Jones St., Dist. 2",273.0,290.0,273.0,290.0,17,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501630,"Mores, Hera Myra",Residential,"Jones St., Dist. 2",118.0,142.0,118.0,142.0,24,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501097,"Nuevo, Blanca",Residential,"Jones St., Dist. 2",368.0,391.0,368.0,391.0,23,Corrected,Active
-MAR,2020,Q1,,Jones Street,501582,"NuÃ±ez, Leny",,Jones St.,122.0,,122.0,122.0,0,Corrected,Active
-MAR,2020,Q1,District 2,Jones Street,501069,"NuÃ±es, Nora/Deinla, Sheryl",Residential,"Jones St., Dist. 2",104.0,113.0,104.0,113.0,9,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,501582,"Nunez, Leny",Residential,"Jones St., Dist. 2",122.0,,122.0,122.0,0,Corrected,Active
+MAR,2020,Q1,District 2,Jones Street,501069,"Nunes, Nora/Deinla, Sheryl",Residential,"Jones St., Dist. 2",104.0,113.0,104.0,113.0,9,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500855,"Oliva, Ely",Residential,"Jones St., Dist. 2",1039.0,1068.0,1039.0,1068.0,29,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,501561,"Ongotan, Edwin",Residential,"Jones St., Dist. 2",928.0,1030.0,928.0,1030.0,102,Corrected,Active
 MAR,2020,Q1,District 2,Jones Street,500828,"Potalba, Joselon",Residential,"Jones St., Dist. 2",362.0,429.0,362.0,429.0,67,Corrected,Active
@@ -1332,10 +1332,10 @@ MAR,2020,Q1,District 2,Jones Street,501407,"Villamor, Ariel",Residential,"Jones 
 MAR,2020,Q1,District 2,Jones Street,501163,"Villamor, Jonito",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Letada Street,501010,"Adiaton, Alma",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Letada Street,500244,"Almerol, Jose",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Letada Street,501247,"AlmiÃ±e, Maricel",,Letada St.,486.0,600.0,486.0,600.0,114,Corrected,Active
-MAR,2020,Q1,,Letada Street,501388,"AlmiraÃ±ez, Antonio",,Letada St.,439.0,456.0,439.0,456.0,17,Corrected,Active
-MAR,2020,Q1,,Letada Street,501035,"AlmiraÃ±ez, Danilo",,Letada St.,341.0,371.0,341.0,371.0,30,Corrected,Active
-MAR,2020,Q1,,Letada Street,500234,"AlmiraÃ±ez, Francisco",,Letada St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,District 3,Letada Street,501247,"Almine, Maricel",Residential,"Letada St., Dist. 3",486.0,600.0,486.0,600.0,114,Corrected,Active
+MAR,2020,Q1,District 3,Letada Street,501388,"Almiranez, Antonio",Residential,"Letada St., Dist. 3",439.0,456.0,439.0,456.0,17,Corrected,Active
+MAR,2020,Q1,District 3,Letada Street,501035,"Almiranez, Danilo",Residential,"Letada St., Dist. 3",341.0,371.0,341.0,371.0,30,Corrected,Active
+MAR,2020,Q1,District 3,Letada Street,500234,"Almiranez, Francisco",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Letada Street,500110,"Almocera, Francisco Sr.",Residential,"Letada St., Dist. 3",4755.0,4778.0,4755.0,4778.0,23,Corrected,Active
 MAR,2020,Q1,District 3,Letada Street,500757,"Almodiel, Purisima",Residential,"Letada St., Dist. 3",479.0,563.0,479.0,563.0,84,Corrected,Active
 MAR,2020,Q1,District 3,Letada Street,500122,"Almoete, Maripaz",Residential,"Letada St., Dist. 3",1684.0,1808.0,1684.0,1808.0,124,Corrected,Active
@@ -1343,7 +1343,7 @@ MAR,2020,Q1,District 3,Letada Street,501633,"Almoete, Mark Anthony",Residential,
 MAR,2020,Q1,District 3,Letada Street,500593,"Almonte, Edgar Sr.",Residential,"Letada St., Dist. 3",2887.0,2922.0,2887.0,2922.0,35,Corrected,Active
 MAR,2020,Q1,District 3,Letada Street,500765,"Almonte, Rogelio",Residential,"Letada St., Dist. 3",993.0,1046.0,993.0,1046.0,53,Corrected,Active
 MAR,2020,Q1,District 3,Letada Street,501135,"Almonte, Virginia",Residential,"Letada St., Dist. 3",649.0,,649.0,649.0,0,Corrected,Active
-MAR,2020,Q1,,Letada Street,501540,"Alon-Alon, Marita",,Letada St.,186.0,204.0,186.0,204.0,18,Corrected,Active
+MAR,2020,Q1,District 3,Letada Street,501540,"Alon-Alon, Marita",Residential,"Letada St., Dist. 3",186.0,204.0,186.0,204.0,18,Corrected,Active
 MAR,2020,Q1,District 3,Letada Street,501463,"Aton, Pio",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 3,Letada Street,500341,"Avila, Jelina",Residential,"Letada St., Dist. 3",313.0,395.0,313.0,395.0,82,Corrected,Active
 MAR,2020,Q1,District 3,Letada Street,500923,"Barrun, Lunita",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Unknown
@@ -1400,7 +1400,7 @@ MAR,2020,Q1,District 3,Letada Street,500665,"Zacarias, Almira",Residential,"Leta
 MAR,2020,Q1,District 1,Lique Street,500660,"Alcala, Rene",Residential,"Lique St., Dist. 1",,,,,0,Corrected,Disconnected
 MAR,2020,Q1,District 1,Lique Street,501400,"Alcantara, Sheena",Commercial,"Lique St., Dist. 1",739.0,777.0,739.0,777.0,38,Corrected,Active
 MAR,2020,Q1,District 1,Lique Street,500256,"Almodal, Evelyn",Commercial,"Lique St., Dist. 1",5613.0,5637.0,5613.0,5637.0,24,Corrected,Active
-MAR,2020,Q1,,Lique Street,500506,"AlmiÃ±e, Filipino",,Lique St.,2267.0,2293.0,2267.0,2293.0,26,Corrected,Active
+MAR,2020,Q1,District 1,Lique Street,500506,"Almine, Filipino",Residential,"Lique St., Dist. 1",2267.0,2293.0,2267.0,2293.0,26,Corrected,Active
 MAR,2020,Q1,District 1,Lique Street,500471,"Almodiel, Josefina",Residential,"Lique St., Dist. 1",318.0,318.0,318.0,318.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Lique Street,500361,"Almoete, Joey",Residential,"Lique St., Dist. 1",1030.0,1089.0,1030.0,1089.0,59,Corrected,Active
 MAR,2020,Q1,District 3,Lique Street,501102,"Almoete, Felipe Sr.",Residential,"Lique St., Dist. 3",1239.0,1271.0,1239.0,1271.0,32,Corrected,Active
@@ -1472,145 +1472,145 @@ MAR,2020,Q1,District 4,Lique Street,500107,"Villahermosa, Margie",Commercial,"Li
 MAR,2020,Q1,District 3,Lique Street,500119,"Villamor, Anecia",Residential,"Lique St., Dist. 3",2812.0,2812.0,2812.0,2812.0,0,Corrected,Active
 MAR,2020,Q1,District 1,Lique Street,500280,"Villamor, Ceasar Jr.",Residential,"Lique St., Dist. 1",3402.0,3403.0,3402.0,3403.0,1,Corrected,Active
 MAR,2020,Q1,District 3,Lique Street,500279,"Villamor, Maria",Residential,"Lique St., Dist. 3",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501656,"AlbaÃ±o, Elvin",,Moyot St.,21.0,74.0,21.0,74.0,53,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501385,"AlbaÃ±o, Emie",,Moyot St.,837.0,837.0,837.0,837.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501106,"Abelgas, Nesselyn",Residential,Moyot St. ,68.0,79.0,68.0,79.0,11,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501593,"Alicante, Bienvenido",Residential,Moyot St. ,152.0,166.0,152.0,166.0,14,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500724,"AlmiÃ±e, Edna",,Moyot St.,219.0,,219.0,219.0,0,Corrected,Disconnected
-MAR,2020,Q1,,Moyot Street,500132,"AlmiÃ±e, Estrella",,Moyot St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501104,"AlmiÃ±e, Oscar",,Moyot St.,12.0,39.0,12.0,39.0,27,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501668,"Almodal, Khrisna",Residential,Moyot St. ,,65.0,65.0,65.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501132,"Almodiel, Carlito",Residential,Moyot St. ,1165.0,1188.0,1165.0,1188.0,23,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501606,"Almodiel, Edgar",Residential,Moyot St. ,41.0,57.0,41.0,57.0,16,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501185,"Almodiel, Jocelyn",Residential,Moyot St. ,515.0,515.0,515.0,515.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501119,"Almodiel, Jolly",Residential,Moyot St. ,982.0,1014.0,982.0,1014.0,32,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501414,"Almodiel, Rusiel",Residential,Moyot St. ,52.0,78.0,52.0,78.0,26,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500577,"Almoete, Flor",Residential,Moyot St. Dist. 1,8882.0,8981.0,8882.0,8981.0,99,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500571,"Almoguerra, Melinda",Commercial,Moyot St. ,2142.0,2200.0,2142.0,2200.0,58,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500042,"Almojuela, Purisima",Residential,Moyot St. ,3902.0,3912.0,3902.0,3912.0,10,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501594,"Almonte, Jasper",Residential,Moyot St. ,213.0,245.0,213.0,245.0,32,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500706,"Almonte, Lolita",Residential,Moyot St. ,3581.0,3587.0,3581.0,3587.0,6,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501346,"Adorna, Arlene",Residential,Moyot St. ,1087.0,1180.0,1087.0,1180.0,93,Corrected,Active
+MAR,2020,Q1,District 2,Moyot Street,501656,"Albano, Elvin",Residential,"Moyot St., Dist. 2",21.0,74.0,21.0,74.0,53,Corrected,Active
+MAR,2020,Q1,District 2,Moyot Street,501385,"Albano, Emie",Residential,"Moyot St., Dist. 2",837.0,837.0,837.0,837.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501106,"Abelgas, Nesselyn",Residential,Moyot St.,68.0,79.0,68.0,79.0,11,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501593,"Alicante, Bienvenido",Residential,Moyot St.,152.0,166.0,152.0,166.0,14,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500724,"Almine, Edna",Residential,Moyot St.,219.0,,219.0,219.0,0,Corrected,Disconnected
+MAR,2020,Q1,,Moyot Street,500132,"Almine, Estrella",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,501104,"Almine, Oscar",Residential,Moyot St.,12.0,39.0,12.0,39.0,27,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501668,"Almodal, Khrisna",Residential,Moyot St.,,65.0,65.0,65.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501132,"Almodiel, Carlito",Residential,Moyot St.,1165.0,1188.0,1165.0,1188.0,23,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501606,"Almodiel, Edgar",Residential,Moyot St.,41.0,57.0,41.0,57.0,16,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501185,"Almodiel, Jocelyn",Residential,Moyot St.,515.0,515.0,515.0,515.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501119,"Almodiel, Jolly",Residential,Moyot St.,982.0,1014.0,982.0,1014.0,32,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501414,"Almodiel, Rusiel",Residential,Moyot St.,52.0,78.0,52.0,78.0,26,Corrected,Active
+MAR,2020,Q1,District 1,Moyot Street,500577,"Almoete, Flor",Residential,"Moyot St., Dist. 1",8882.0,8981.0,8882.0,8981.0,99,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500571,"Almoguerra, Melinda",Commercial,Moyot St.,2142.0,2200.0,2142.0,2200.0,58,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500042,"Almojuela, Purisima",Residential,Moyot St.,3902.0,3912.0,3902.0,3912.0,10,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501594,"Almonte, Jasper",Residential,Moyot St.,213.0,245.0,213.0,245.0,32,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500706,"Almonte, Lolita",Residential,Moyot St.,3581.0,3587.0,3581.0,3587.0,6,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501346,"Adorna, Arlene",Residential,Moyot St.,1087.0,1180.0,1087.0,1180.0,93,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500682,"Almosara, Celin",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501146,"Almosara, Domingo",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,500212,"Almosara, Gerald",Residential,Moyot St. ,183.0,201.0,183.0,201.0,18,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500017,"Almosara, Elsie",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500208,"Anabe, Glenda",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500603,"AÃ±onuevo, Calixto",,Moyot St.,2103.0,2103.0,2103.0,2103.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500432,"Arranzado, Jay",Residential,Moyot St. ,2016.0,2092.0,2016.0,2092.0,76,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500040,"Balacano, Alfredo",Residential,Moyot St. ,4679.0,4679.0,4679.0,4679.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501214,"Barillo, Vilma",Residential,Moyot St. ,2638.0,2823.0,2638.0,2823.0,185,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501678,"Barrun, Aristotelis",Residential,Moyot St. ,10.0,21.0,10.0,21.0,11,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501598,"Barrun, Janeth",Residential,Moyot St. ,278.0,347.0,278.0,347.0,69,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500763,"Barrun, Nilo",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Moyot Street,501591,"Baruelo, Danding",Residential,Moyot St. ,67.0,81.0,67.0,81.0,14,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500950,"Barsaga, Realina",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500492,"Bartolabac, Romeo",Commercial,Moyot St. ,107.0,270.0,107.0,270.0,163,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501426,"Bartolata, Lita",Residential,Moyot St. ,722.0,722.0,722.0,722.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501373,"Bartolay, Eden",Residential,Moyot St. ,399.0,446.0,399.0,446.0,47,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501455,"Bartolay, Marry Con",Residential,Moyot St. ,754.0,797.0,754.0,797.0,43,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501444,"Basas, Nida",Residential,Moyot St. ,196.0,223.0,196.0,223.0,27,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501599,"Basas, Nida 2",Residential,Moyot St. ,412.0,524.0,412.0,524.0,112,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501148,"Basas, Richard/SJNHS",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501604,"Basical, Yusep",Residential,Moyot St. ,112.0,135.0,112.0,135.0,23,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501605,"Bautista, John Henry",Residential,Moyot St. ,78.0,81.0,78.0,81.0,3,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501043,"Blanco, Amado Jr.",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,500194,"Blanco, Nelia",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,501431,"Bunao, Ariel",Residential,Moyot St. ,406.0,487.0,406.0,487.0,81,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501435,"Buetizon, Estifania",Residential,Moyot St. ,591.0,689.0,591.0,689.0,98,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500880,"Cabug, Nemma",Residential,Moyot St. ,1605.0,1633.0,1605.0,1633.0,28,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500041,"Cantoria, Catalina",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500555,"Cantoria, Ely",Residential,Moyot St. ,509.0,532.0,509.0,532.0,23,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501550,"Cantoria, Jose",Residential,Moyot St. ,207.0,237.0,207.0,237.0,30,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500871,"Cantoria, Joriz",Residential,Moyot St. ,682.0,682.0,682.0,682.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501244,"Cantoria, Maureen",Residential,Moyot St. ,166.0,,166.0,166.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501471,"Cantoria, Marilou",Residential,Moyot St. ,95.0,122.0,95.0,122.0,27,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500038,"Cantoria, Nerissa",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,501612,"Capsa, Maricel",Residential,Moyot St. ,178.0,208.0,178.0,208.0,30,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500916,"Capsa, Rusiel",Residential,Moyot St. ,1174.0,1277.0,1174.0,1277.0,103,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501170,"Cheshire, Christopher James",Residential,Moyot St. ,1057.0,1151.0,1057.0,1151.0,94,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501183,"Concensino, Rita",Residential,Moyot St. ,911.0,972.0,911.0,972.0,61,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500637,"Constantino, Dolores",Residential,Moyot St. ,1776.0,1776.0,1776.0,1776.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501412,"De Asis, Irene",Residential,Moyot St. ,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,501146,"Almosara, Domingo",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,500212,"Almosara, Gerald",Residential,Moyot St.,183.0,201.0,183.0,201.0,18,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500017,"Almosara, Elsie",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500208,"Anabe, Glenda",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500603,"Anonuevo, Calixto",Residential,Moyot St.,2103.0,2103.0,2103.0,2103.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500432,"Arranzado, Jay",Residential,Moyot St.,2016.0,2092.0,2016.0,2092.0,76,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500040,"Balacano, Alfredo",Residential,Moyot St.,4679.0,4679.0,4679.0,4679.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501214,"Barillo, Vilma",Residential,Moyot St.,2638.0,2823.0,2638.0,2823.0,185,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501678,"Barrun, Aristotelis",Residential,Moyot St.,10.0,21.0,10.0,21.0,11,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501598,"Barrun, Janeth",Commercial,Moyot St.,278.0,347.0,278.0,347.0,69,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500763,"Barrun, Nilo",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Moyot Street,501591,"Baruelo, Danding",Residential,Moyot St.,67.0,81.0,67.0,81.0,14,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500950,"Barsaga, Realina",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500492,"Bartolabac, Romeo",Commercial,Moyot St.,107.0,270.0,107.0,270.0,163,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501426,"Bartolata, Lita",Residential,Moyot St.,722.0,722.0,722.0,722.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501373,"Bartolay, Eden",Residential,Moyot St.,399.0,446.0,399.0,446.0,47,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501455,"Bartolay, Marry Con",Residential,Moyot St.,754.0,797.0,754.0,797.0,43,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501444,"Basas, Nida",Residential,Moyot St.,196.0,223.0,196.0,223.0,27,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501599,"Basas, Nida 2",Residential,Moyot St.,412.0,524.0,412.0,524.0,112,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501148,"Basas, Richard/SJNHS",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,501604,"Basical, Yusep",Residential,Moyot St.,112.0,135.0,112.0,135.0,23,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501605,"Bautista, John Henry",Residential,Moyot St.,78.0,81.0,78.0,81.0,3,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501043,"Blanco, Amado Jr.",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,500194,"Blanco, Nelia",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,501431,"Bunao, Ariel",Residential,Moyot St.,406.0,487.0,406.0,487.0,81,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501435,"Buetizon, Estifania",Residential,Moyot St.,591.0,689.0,591.0,689.0,98,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500880,"Cabug, Nemma",Residential,Moyot St.,1605.0,1633.0,1605.0,1633.0,28,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500041,"Cantoria, Catalina",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500555,"Cantoria, Ely",Residential,Moyot St.,509.0,532.0,509.0,532.0,23,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501550,"Cantoria, Jose",Residential,Moyot St.,207.0,237.0,207.0,237.0,30,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500871,"Cantoria, Joriz",Residential,Moyot St.,682.0,682.0,682.0,682.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501244,"Cantoria, Maureen",Residential,Moyot St.,166.0,,166.0,166.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501471,"Cantoria, Marilou",Residential,Moyot St.,95.0,122.0,95.0,122.0,27,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500038,"Cantoria, Nerissa",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,501612,"Capsa, Maricel",Residential,Moyot St.,178.0,208.0,178.0,208.0,30,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500916,"Capsa, Rusiel",Residential,Moyot St.,1174.0,1277.0,1174.0,1277.0,103,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501170,"Cheshire, Christopher James",Residential,Moyot St.,1057.0,1151.0,1057.0,1151.0,94,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501183,"Concensino, Rita",Residential,Moyot St.,911.0,972.0,911.0,972.0,61,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500637,"Constantino, Dolores",Residential,Moyot St.,1776.0,1776.0,1776.0,1776.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501412,"De Asis, Irene",Residential,Moyot St.,,,,,0,Corrected,Defect
 MAR,2020,Q1,District 2,Fabmar Street,501138,"Dejucos, Mary Jane",Residential,"Fabmar St., Dist. 2",386.0,474.0,386.0,474.0,88,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500499,"Deinla, Lorna",Residential,Moyot St. ,2455.0,2491.0,2455.0,2491.0,36,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501631,"Deinla, Remedios",Residential,Moyot St. ,52.0,58.0,52.0,58.0,6,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501258,"Delariarte, Marivic",Residential,Moyot St. ,1434.0,1476.0,1434.0,1476.0,42,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500406,"Delavin, Caridad",Residential,Moyot St. ,5624.0,5703.0,5624.0,5703.0,79,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500240,"Delavin, Nelly",Residential,Moyot St. ,6571.0,6624.0,6571.0,6624.0,53,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501374,"Delavin, Ma. Chinel",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,500052,"Delavin, Nestor",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501193,"Delavin, Rey",Residential,Moyot St. ,1349.0,1409.0,1349.0,1409.0,60,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500785,"Delos Santos, Flora",Commercial,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,501269,"Delos Santos, Margie",Commercial,Moyot St. ,1499.0,1575.0,1499.0,1575.0,76,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501390,"Dilao, Andres",Residential,Moyot St. ,563.0,689.0,563.0,689.0,126,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500412,"Dilao, Arceli",Residential,Moyot St. Dist. 1,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500246,"Duran, Nena",Residential,Moyot St. ,2148.0,2181.0,2148.0,2181.0,33,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501513,"Esparrago, Jessella May",Residential,Moyot St. ,61.0,,61.0,61.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500954,"Magbalon, Elizabeth",Residential,Moyot St. ,62.0,83.0,62.0,83.0,21,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501405,"Espinosa, Floyd",Residential,Moyot St. ,1481.0,1634.0,1481.0,1634.0,153,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501139,"Espenida, Eden",Residential,Moyot St. ,844.0,,844.0,844.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500599,"Espenilla, Adelina",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500716,"Espenilla, Analyn",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,500050,"Espenilla, Evelyn",Residential,Moyot St. ,2388.0,2446.0,2388.0,2446.0,58,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500211,"Espenilla, Dominador",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,500037,"Espera, Nory",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500053,"Esplana, Nonita",Commercial,Moyot St. ,3484.0,3484.0,3484.0,3484.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501479,"Garamay, Romer",Residential,Moyot St. ,967.0,1097.0,967.0,1097.0,130,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500486,"Gebilaguin, Egdono",Industrial,Moyot St. ,1415.0,1539.0,1415.0,1539.0,124,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501602,"Gebuilaguin, Lea",Residential,Moyot St. ,650.0,783.0,650.0,783.0,133,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500175,"Gernale, Ma. Naty",Residential,Moyot St. ,2996.0,3010.0,2996.0,3010.0,14,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501389,"Grencio, Joel",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,501179,Giray Josephine,Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAR,2020,Q1,,Moyot Street,501609,"Gois, Mary Grace",Residential,Moyot St. ,246.0,324.0,246.0,324.0,78,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500189,"Guarnes, Nove",Residential,Moyot St. ,1571.0,1582.0,1571.0,1582.0,11,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500499,"Deinla, Lorna",Residential,Moyot St.,2455.0,2491.0,2455.0,2491.0,36,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501631,"Deinla, Remedios",Residential,Moyot St.,52.0,58.0,52.0,58.0,6,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501258,"Delariarte, Marivic",Residential,Moyot St.,1434.0,1476.0,1434.0,1476.0,42,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500406,"Delavin, Caridad",Residential,Moyot St.,5624.0,5703.0,5624.0,5703.0,79,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500240,"Delavin, Nelly",Residential,Moyot St.,6571.0,6624.0,6571.0,6624.0,53,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501374,"Delavin, Ma. Chinel",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,500052,"Delavin, Nestor",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,501193,"Delavin, Rey",Residential,Moyot St.,1349.0,1409.0,1349.0,1409.0,60,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500785,"Delos Santos, Flora",Commercial,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,501269,"Delos Santos, Margie",Commercial,Moyot St.,1499.0,1575.0,1499.0,1575.0,76,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501390,"Dilao, Andres",Residential,Moyot St.,563.0,689.0,563.0,689.0,126,Corrected,Active
+MAR,2020,Q1,District 1,Moyot Street,500412,"Dilao, Arceli",Residential,"Moyot St., Dist. 1",,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500246,"Duran, Nena",Residential,Moyot St.,2148.0,2181.0,2148.0,2181.0,33,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501513,"Esparrago, Jessella May",Residential,Moyot St.,61.0,,61.0,61.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500954,"Magbalon, Elizabeth",Residential,Moyot St.,62.0,83.0,62.0,83.0,21,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501405,"Espinosa, Floyd",Residential,Moyot St.,1481.0,1634.0,1481.0,1634.0,153,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501139,"Espenida, Eden",Residential,Moyot St.,844.0,,844.0,844.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500599,"Espenilla, Adelina",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500716,"Espenilla, Analyn",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,500050,"Espenilla, Evelyn",Residential,Moyot St.,2388.0,2446.0,2388.0,2446.0,58,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500211,"Espenilla, Dominador",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,500037,"Espera, Nory",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500053,"Esplana, Nonita",Commercial,Moyot St.,3484.0,3484.0,3484.0,3484.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501479,"Garamay, Romer",Residential,Moyot St.,967.0,1097.0,967.0,1097.0,130,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500486,"Gebilaguin, Egdono",Industrial,Moyot St.,1415.0,1539.0,1415.0,1539.0,124,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501602,"Gebuilaguin, Lea",Residential,Moyot St.,650.0,783.0,650.0,783.0,133,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500175,"Gernale, Ma. Naty",Residential,Moyot St.,2996.0,3010.0,2996.0,3010.0,14,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501389,"Grencio, Joel",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,501179,Giray Josephine,Residential,Moyot St.,,,,,0,Corrected,Defect
+MAR,2020,Q1,,Moyot Street,501609,"Gois, Mary Grace",Residential,Moyot St.,246.0,324.0,246.0,324.0,78,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500189,"Guarnes, Nove",Residential,Moyot St.,1571.0,1582.0,1571.0,1582.0,11,Corrected,Active
 MAR,2020,Q1,District 2,Fabmar Street,500677,"Gutierrez, Evelyn",Residential,"Fabmar St., Dist. 2",2121.0,2561.0,2121.0,2561.0,440,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501603,"Gutierrez, Elvisa",Residential,Moyot St. ,502.0,640.0,502.0,640.0,138,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500016,"Gutierrez, Robert",Residential,Moyot St. ,1975.0,1975.0,1975.0,1975.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501483,"Hayohay, Muriel",Residential,Moyot St. ,2901.0,2949.0,2901.0,2949.0,48,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501627,"Jardin, Elisa",Residential,Moyot St. ,311.0,418.0,311.0,418.0,107,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501611,"Lado, Eleonor",Residential,Moyot St. ,209.0,254.0,209.0,254.0,45,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500853,"Latagan, David",Residential,Moyot St. ,1590.0,1590.0,1590.0,1590.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500601,"Laureano, Rane",Residential,Moyot St. ,3102.0,3176.0,3102.0,3176.0,74,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500054,"Leonino, Fe",Residential,Moyot St. ,1901.0,1932.0,1901.0,1932.0,31,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500439,"Leyco, Elena",Residential,Moyot St. ,2242.0,2291.0,2242.0,2291.0,49,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501622,"Ligbao, Nora",Residential,Moyot St. ,141.0,174.0,141.0,174.0,33,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500051,"Lignes, Nena",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501628,"Lique, Nida",Residential,Moyot St. ,231.0,300.0,231.0,300.0,69,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500568,LBES,Residential,Moyot St. ,1144.0,1219.0,1144.0,1219.0,75,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500808,"Jaingue, Emma",Residential,Moyot St. ,70.0,76.0,70.0,76.0,6,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501343,"Macoy, Marilou",Residential,Moyot St. ,1384.0,,1384.0,1384.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501354,"Mahusay, Gina",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,501103,"Malana, Elvie 2",Commercial,Moyot St. ,505.0,578.0,505.0,578.0,73,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501302,"Malana, Elvie 3",Commercial,Moyot St. ,1065.0,1274.0,1065.0,1274.0,209,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500329,"Malana, Renerio",Residential,Moyot St. ,11.0,11.0,11.0,11.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501305,"Merillo, Napoleon",Residential,Moyot St. ,287.0,326.0,287.0,326.0,39,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501417,"Monasterio, Angelina",Residential,Moyot St. ,560.0,565.0,560.0,565.0,5,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501551,"Omilgo, Michelle",Residential,Moyot St. ,399.0,461.0,399.0,461.0,62,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500894,"Ongonion, Crisanto",Residential,Moyot St. ,1998.0,2004.0,1998.0,2004.0,6,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500039,"Ongonion, Leonora",Commercial,Moyot St. ,1795.0,1795.0,1795.0,1795.0,0,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501231,"Oraa, Editha",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAR,2020,Q1,,Moyot Street,500131,"Palermo, Norie",Residential,Moyot St. ,1359.0,1441.0,1359.0,1441.0,82,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501358,"Pontalba, Joel",Residential,Moyot St. ,3312.0,3620.0,3312.0,3620.0,308,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501107,"Pura, Leny",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500018,"Quijano, Asteria",Residential,Moyot St. ,4494.0,4586.0,4494.0,4586.0,92,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501478,"Rejuso, Andres",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500959,"Rejuso, Arnold",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Moyot Street,500844,"Rosero, Frangie",Residential,Moyot St. ,1178.0,1313.0,1178.0,1313.0,135,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500712,SJNHS-II,,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,501603,"Gutierrez, Elvisa",Residential,Moyot St.,502.0,640.0,502.0,640.0,138,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500016,"Gutierrez, Robert",Residential,Moyot St.,1975.0,1975.0,1975.0,1975.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501483,"Hayohay, Muriel",Residential,Moyot St.,2901.0,2949.0,2901.0,2949.0,48,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501627,"Jardin, Elisa",Residential,Moyot St.,311.0,418.0,311.0,418.0,107,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501611,"Lado, Eleonor",Residential,Moyot St.,209.0,254.0,209.0,254.0,45,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500853,"Latagan, David",Residential,Moyot St.,1590.0,1590.0,1590.0,1590.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500601,"Laureano, Rane",Residential,Moyot St.,3102.0,3176.0,3102.0,3176.0,74,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500054,"Leonino, Fe",Residential,Moyot St.,1901.0,1932.0,1901.0,1932.0,31,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500439,"Leyco, Elena",Residential,Moyot St.,2242.0,2291.0,2242.0,2291.0,49,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501622,"Ligbao, Nora",Residential,Moyot St.,141.0,174.0,141.0,174.0,33,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500051,"Lignes, Nena",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,501628,"Lique, Nida",Residential,Moyot St.,231.0,300.0,231.0,300.0,69,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500568,LBES,Residential,Moyot St.,1144.0,1219.0,1144.0,1219.0,75,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500808,"Jaingue, Emma",Residential,Moyot St.,70.0,76.0,70.0,76.0,6,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501343,"Macoy, Marilou",Residential,Moyot St.,1384.0,,1384.0,1384.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501354,"Mahusay, Gina",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,501103,"Malana, Elvie 2",Commercial,Moyot St.,505.0,578.0,505.0,578.0,73,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501302,"Malana, Elvie 3",Commercial,Moyot St.,1065.0,1274.0,1065.0,1274.0,209,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500329,"Malana, Renerio",Residential,Moyot St.,11.0,11.0,11.0,11.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501305,"Merillo, Napoleon",Residential,Moyot St.,287.0,326.0,287.0,326.0,39,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501417,"Monasterio, Angelina",Residential,Moyot St.,560.0,565.0,560.0,565.0,5,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501551,"Omilgo, Michelle",Residential,Moyot St.,399.0,461.0,399.0,461.0,62,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500894,"Ongonion, Crisanto",Residential,Moyot St.,1998.0,2004.0,1998.0,2004.0,6,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500039,"Ongonion, Leonora",Commercial,Moyot St.,1795.0,1795.0,1795.0,1795.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501231,"Oraa, Editha",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,Moyot Street,500131,"Palermo, Norie",Residential,Moyot St.,1359.0,1441.0,1359.0,1441.0,82,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501358,"Pontalba, Joel",Residential,Moyot St.,3312.0,3620.0,3312.0,3620.0,308,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501107,"Pura, Leny",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500018,"Quijano, Asteria",Residential,Moyot St.,4494.0,4586.0,4494.0,4586.0,92,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501478,"Rejuso, Andres",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500959,"Rejuso, Arnold",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAR,2020,Q1,,Moyot Street,500844,"Rosero, Frangie",Residential,Moyot St.,1178.0,1313.0,1178.0,1313.0,135,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500712,SJNHS-II,Residential,Moyot St.,,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 3,Letada Street,500134,"Sola, Manuel",Residential,"Letada St., Dist. 3",2234.0,2286.0,2234.0,2286.0,52,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501610,"Sola, Daniel",Residential,Moyot St. ,340.0,423.0,340.0,423.0,83,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501607,"Villamor, Analyn",Residential,Moyot St. ,405.0,465.0,405.0,465.0,60,Corrected,Active
-MAR,2020,Q1,,Moyot Street,501213,"Verano, Eduardo",Residential,Moyot St. ,523.0,548.0,523.0,548.0,25,Corrected,Active
-MAR,2020,Q1,,Moyot Street,500227,"Young, Marleen",Residential,Moyot St. ,2571.0,2571.0,2571.0,2571.0,0,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501610,"Sola, Daniel",Residential,Moyot St.,340.0,423.0,340.0,423.0,83,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501607,"Villamor, Analyn",Residential,Moyot St.,405.0,465.0,405.0,465.0,60,Corrected,Active
+MAR,2020,Q1,,Moyot Street,501213,"Verano, Eduardo",Residential,Moyot St.,523.0,548.0,523.0,548.0,25,Corrected,Active
+MAR,2020,Q1,,Moyot Street,500227,"Young, Marleen",Residential,Moyot St.,2571.0,2571.0,2571.0,2571.0,0,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,501113,"Alcantara, Isabel",Residential,"Villamor St., Dist. 4",351.0,393.0,351.0,393.0,42,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,501334,"Alcantara, Galahad",Residential,"Villamor St., Dist. 4",855.0,905.0,855.0,905.0,50,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,500020,"Alicante, Anacleto",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Villamor Street,500346,"Almodiel, Jason",Residential,"Villamor St., Dist. 4",2951.0,3046.0,2951.0,3046.0,95,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,500895,"Almoete, Felipe Jr.",Residential,"Villamor St., Dist. 4",2083.0,2110.0,2083.0,2110.0,27,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,500226,"Almoete, Ligaya",Residential,"Villamor St., Dist. 4",2194.0,2206.0,2194.0,2206.0,12,Corrected,Active
-MAR,2020,Q1,,Villamor Street,500885,"AÃ±onuevo, Florante",,Villamor St.,,,,,0,Corrected,Unknown
-MAR,2020,Q1,,Villamor Street,500640,"AÃ±onuevo, Lilibeth",,Villamor St.,2458.0,2474.0,2458.0,2474.0,16,Corrected,Active
+MAR,2020,Q1,District 4,Villamor Street,500885,"Anonuevo, Florante",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Unknown
+MAR,2020,Q1,District 4,Villamor Street,500640,"Anonuevo, Lilibeth",Residential,"Villamor St., Dist. 4",2458.0,2474.0,2458.0,2474.0,16,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,501186,"Balingasa, Adril (1)",Residential,"Villamor St., Dist. 4",447.0,528.0,447.0,528.0,81,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,501215,"Balingasa, Ma. Elena (3)",Residential,"Villamor St., Dist. 4",162.0,203.0,162.0,203.0,41,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,501228,"Balingasa, Joadel (2)",Residential,"Villamor St., Dist. 4",676.0,,676.0,676.0,0,Corrected,Active
@@ -1630,5 +1630,5 @@ MAR,2020,Q1,District 4,Villamor Street,501111,"Laurio, Serenida",Residential,"Vi
 MAR,2020,Q1,District 4,Villamor Street,500641,"Moya, Conception",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Unknown
 MAR,2020,Q1,District 4,Villamor Street,500021,"Nacino, Christopher",Residential,"Villamor St., Dist. 4",1784.0,1787.0,1784.0,1787.0,3,Corrected,Active
 MAR,2020,Q1,District 4,Villamor Street,500091,"Ragasa, Fe",Residential,"Villamor St., Dist. 4",2894.0,2938.0,2894.0,2938.0,44,Corrected,Active
-MAR,2020,Q1,Calipat-an,Puro,501109,"Almocera, Ricky",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
-MAR,2020,Q1,Calipat-an,Puro,501381,"Gaurano, Clutario",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,"Puro, Calipat-an",501109,"Almocera, Ricky",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAR,2020,Q1,,"Puro, Calipat-an",501381,"Gaurano, Clutario",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected

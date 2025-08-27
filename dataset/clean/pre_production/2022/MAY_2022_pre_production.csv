@@ -1,11 +1,11 @@
 Month,Year,Quarter,District,Street,Control Number,Account Name,Connection Type,Service Address,Previous Reading,Present Reading,Cleaned Previous Reading,Cleaned Present Reading,Cleaned Consumption,Record Status,Connection Status
-MAY,2022,Q2,,Alicante Street,501549,"AlbaÃ±o, Lilane",,Alicante St.,523.0,523.0,523.0,523.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Alicante Street,501549,"Albano, Lilane",Residential,"Alicante St., Dist. 3",523.0,523.0,523.0,523.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Alicante Street,500750,"Aljecera, Marcelino",Residential,"Alicante St., Dist. 2",3262.0,3262.0,3262.0,3262.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,500990,"AlmiÃ±ana, Irus",,Alicante St.,1309.0,1309.0,1309.0,1309.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,501704,"AlmiÃ±ana, Violeta",,Alicante St.,138.0,138.0,138.0,138.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,500505,"AlmiÃ±e, Edison",,Alicante St.,852.0,852.0,852.0,852.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,501542,"AlmiÃ±e, Filben",,Alicante St.,3785.0,3785.0,3785.0,3785.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,500431,"AlmiÃ±e, Franchie",,Alicante St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 4,Alicante Street,500990,"Alminana, Irus",Residential,"Alicante St., Dist. 4",1309.0,1309.0,1309.0,1309.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Alicante Street,501704,"Alminana, Violeta",Residential,"Alicante St., Dist. 4",138.0,138.0,138.0,138.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Alicante Street,500505,"Almine, Edison",Residential,"Alicante St., Dist. 2",852.0,852.0,852.0,852.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Alicante Street,501542,"Almine, Filben",Residential,"Alicante St., Dist. 1",3785.0,3785.0,3785.0,3785.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Alicante Street,500431,"Almine, Franchie",Residential,"Alicante St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Alicante Street,500263,"Almodal, Arna",Commercial,"Alicante St., Dist. 2",6468.0,6468.0,6468.0,6468.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Alicante Street,501240,"Almocera, Owen",Residential,"Alicante St., Dist. 4",792.0,792.0,792.0,792.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Alicante Street,500484,"Almodal, Erlinda/Almodal, Judem",Residential,"Alicante St., Dist. 2",1104.0,1104.0,1104.0,1104.0,0,Corrected,Active
@@ -23,7 +23,7 @@ MAY,2022,Q2,District 2,Alicante Street,500433,"Almoradie, Marina",Residential,"A
 MAY,2022,Q2,District 2,Alicante Street,500260,"Altiche, Antonio",Residential,"Alicante St., Dist. 2",1767.0,1767.0,1767.0,1767.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Alicante Street,501663,"Altiche, Nenita",Residential,"Alicante St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Alicante Street,500185,"Aspa, Leny",Residential,"Alicante St., Dist. 3",1607.0,1607.0,1607.0,1607.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,500169,"AÃ±onuevo, Paz",,Alicante St.,3218.0,3218.0,3218.0,3218.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Alicante Street,500169,"Anonuevo, Paz",Residential,"Alicante St., Dist. 4",3218.0,3218.0,3218.0,3218.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Alicante Street,501232,"Anabe, Antonio",Residential,"Alicante St., Dist. 1",292.0,292.0,292.0,292.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Alicante Street,500479,"Azares, Jeffrey",Residential,"Alicante St., Dist. 2",1286.0,1286.0,1286.0,1286.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Alicante Street,500009,"Barruga, Expedito",Residential,"Alicante St., Dist. 4",2080.0,2080.0,2080.0,2080.0,0,Corrected,Active
@@ -107,7 +107,7 @@ MAY,2022,Q2,District 2,Alicante Street,501128,"Ida, Marife",Residential,"Alicant
 MAY,2022,Q2,District 2,Alicante Street,500793,Iglesia ni Cristo,Residential,"Alicante St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Alicante Street,500010,"Jardin, Eden",Residential,"Alicante St., Dist. 4",324.0,324.0,324.0,324.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Alicante Street,500907,"Javier, Elena",Commercial,"Alicante St., Dist. 2",2202.0,2202.0,2202.0,2202.0,0,Corrected,Active
-MAY,2022,Q2,,Alicante Street,500910,Kingdom of Jehovaâs Witnesses,,Alicante St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 3,Alicante Street,500910,Kingdom of Jehova's Witnesses,Residential,"Alicante St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Alicante Street,500178,"Laila, Vilma",Residential,"Alicante St., Dist. 4",10345.0,10345.0,10345.0,10345.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Alicante Street,500559,"Laurio, Josefa",Residential,"Alicante St., Dist. 4",209.0,209.0,209.0,209.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Alicante Street,500284,"Leonor, Loreto (A)",Commercial,"Alicante St., Dist. 2",21956.0,21956.0,21956.0,21956.0,0,Corrected,Active
@@ -164,9 +164,9 @@ MAY,2022,Q2,District 4,Alicante Street,501324,"Villamor, Ricky",Commercial,"Alic
 MAY,2022,Q2,District 4,Alicante Street,501749,"Villamor, Rosalie",Residential,"Alicante St., Dist. 4",5822.0,5822.0,5822.0,5822.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Alicante Street,501219,"Villamor, Fulceda",Residential,"Alicante St., Dist. 4",1116.0,1116.0,1116.0,1116.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Alicante Street,500056,"Villamor, Joel",Residential,"Alicante St., Dist. 4",3737.0,3737.0,3737.0,3737.0,0,Corrected,Active
-MAY,2022,Q2,,Almonte Street,500547,"Barruga, Evelyn",,Almonte St.,279.0,279.0,279.0,279.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Almonte Street,500547,"Barruga, Evelyn",Commercial,"Almonte St., Dist. 3",279.0,279.0,279.0,279.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Almonte Street,500612,"Barruga, Evelyn (Patricia's Place)",Residential,"Almonte St., Dist. 3",259.0,259.0,259.0,259.0,0,Corrected,Active
-MAY,2022,Q2,,Almonte Street,500683,"CaÃ±ares, Marlon",,Almonte St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 3,Almonte Street,500683,"Canares, Marlon",Residential,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Almonte Street,501177,"Delavin, Zonrico",Residential,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Almonte Street,500815,"Delavin, Zonrico 2",Residential,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Almonte Street,501218,"Delavin, Zonrico 3",Commercial,"Almonte St., Dist. 3",,,,,0,Corrected,Disconnected
@@ -184,7 +184,7 @@ MAY,2022,Q2,District 3,Altarejos Street,500118,"Abejero, Ernesto Jr.",Residentia
 MAY,2022,Q2,District 3,Altarejos Street,501241,"Amante, Nerissa",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Altarejos Street,500072,"Alcantara, Rector",Residential,"Altarejos St., Dist. 3",2143.0,2143.0,2143.0,2143.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500810,"Almerol, Nilo",Commercial,"Altarejos St., Dist. 3",364.0,364.0,364.0,364.0,0,Corrected,Active
-MAY,2022,Q2,,Altarejos Street,501534,"AlmiÃ±e, Nixon",,Altarejos St.,33.0,33.0,33.0,33.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Altarejos Street,501534,"Almine, Nixon",Residential,"Altarejos St., Dist. 3",33.0,33.0,33.0,33.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500447,"Almodiel, Fe",Residential,"Altarejos St., Dist. 3",6901.0,6901.0,6901.0,6901.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500809,"Almodiel, Merly",Residential,"Altarejos St., Dist. 3",1697.0,1697.0,1697.0,1697.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500483,"Almoete, Aleli",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
@@ -217,7 +217,7 @@ MAY,2022,Q2,District 3,Altarejos Street,500071,"Bartolay, Licel",Industrial,"Alt
 MAY,2022,Q2,District 3,Altarejos Street,501415,"Bartolay, Roald",Residential,"Altarejos St., Dist. 3",201.0,201.0,201.0,201.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500204,"Bartolay, Victor",Commercial,"Altarejos St., Dist. 3",702.0,702.0,702.0,702.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,501419,"Cabiles, Solon",Residential,"Altarejos St., Dist. 3",2814.0,2814.0,2814.0,2814.0,0,Corrected,Active
-MAY,2022,Q2,,Altarejos Street,501089,"Canares, Ephraim",,Altarejos St.,5091.0,5091.0,5091.0,5091.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Altarejos Street,501089,"Canares, Ephraim",Residential,"Altarejos St., Dist. 3",5091.0,5091.0,5091.0,5091.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500200,"Cantre, Vilma",Residential,"Altarejos St., Dist. 3",2561.0,2561.0,2561.0,2561.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500888,"Carillo, Mida",Residential,"Altarejos St., Dist. 3",984.0,984.0,984.0,984.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,501165,"Dejumo, Adam",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Disconnected
@@ -228,7 +228,7 @@ MAY,2022,Q2,District 3,Altarejos Street,500156,"Delariarte, Vibiana",Residential
 MAY,2022,Q2,District 3,Altarejos Street,500652,"Delfin, Nena Fatima",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Altarejos Street,500948,"Delos Santos, Nena",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Altarejos Street,500620,"Del Rosario, Raymond",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Altarejos Street,500933,"EspaÃ±ola, Lourdes",,Altarejos St.,4267.0,4267.0,4267.0,4267.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Altarejos Street,500933,"Espanola, Lourdes",Residential,"Altarejos St., Dist. 3",4267.0,4267.0,4267.0,4267.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500155,"Esparrago, Nemia",Residential,"Altarejos St., Dist. 3",2954.0,2954.0,2954.0,2954.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500534,"Espenilla, Eden",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Altarejos Street,500137,"Espinosa, Ader",Commercial,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
@@ -244,7 +244,7 @@ MAY,2022,Q2,District 3,Altarejos Street,500105,"Lignes, Maria",Residential,"Alta
 MAY,2022,Q2,District 3,Altarejos Street,500822,"Lique, Amalia",Commercial,"Altarejos St., Dist. 3",3131.0,3131.0,3131.0,3131.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500590,"Lumberio, Caridad",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Altarejos Street,501751,"Lumberio, Nanelyn",Residential,"Altarejos St., Dist. 3",152.0,152.0,152.0,152.0,0,Corrected,Active
-MAY,2022,Q2,,Altarejos Street,500596,"MiÃ±a, Marife",,Altarejos St.,1205.0,1205.0,1205.0,1205.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Altarejos Street,500596,"Mina, Marife",Residential,"Altarejos St., Dist. 3",1205.0,1205.0,1205.0,1205.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,501019,"Nerry, Aldrich",Commercial,"Altarejos St., Dist. 3",3107.0,3107.0,3107.0,3107.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500768,"Poblete, Ana",Residential,"Altarejos St., Dist. 3",3104.0,3104.0,3104.0,3104.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,501891,"Rejuso, Fatima",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Unknown
@@ -256,7 +256,7 @@ MAY,2022,Q2,District 3,Altarejos Street,501092,"Santiago, Nelsie",Residential,"A
 MAY,2022,Q2,District 3,Altarejos Street,500190,"Sola, Ana",Residential,"Altarejos St., Dist. 3",5986.0,5986.0,5986.0,5986.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Altarejos Street,500704,"Sola, Andres Jr.",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 3,Altarejos Street,500070,"Torrecampo, Juden",Residential,"Altarejos St., Dist. 3",2949.0,2949.0,2949.0,2949.0,0,Corrected,Active
-MAY,2022,Q2,District 3,Altarejos Street,500140,"Velo, Lolita",Commercial,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
+MAY,2022,Q2,District 3,Altarejos Street,500140,"Velo, Lolita",Residential,"Altarejos St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Altarejos Street,500616,"Yanson, Danilo",Residential,"Altarejos St., Dist. 3",2435.0,2435.0,2435.0,2435.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,500772,"Abrera, Julius",Residential,"Amican St., Dist. 3",4067.0,4067.0,4067.0,4067.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,501224,"Almerol, Salvador",Residential,"Amican St., Dist. 3",5227.0,5227.0,5227.0,5227.0,0,Corrected,Active
@@ -266,7 +266,7 @@ MAY,2022,Q2,District 3,Amican Street,500113,"Almocera, Rowena",Residential,"Amic
 MAY,2022,Q2,District 3,Amican Street,501898,"Almodiel, Jenny",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 3,Amican Street,501899,"Almoete, Joey",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 3,Amican Street,501720,"Almoete, Roderick",Residential,"Amican St., Dist. 3",371.0,371.0,371.0,371.0,0,Corrected,Active
-MAY,2022,Q2,,Amican Street,501284,"AÃ±onuevo, Susan",,Amican St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,District 3,Amican Street,501284,"Anonuevo, Susan",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Amican Street,501485,"Barsaga, Neselie",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Amican Street,501234,"Bartolay, Leny",Residential,"Amican St., Dist. 3",1004.0,1004.0,1004.0,1004.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,501464,"Bartolay, Erle",Residential,"Amican St., Dist. 3",1576.0,1576.0,1576.0,1576.0,0,Corrected,Active
@@ -279,7 +279,7 @@ MAY,2022,Q2,District 3,Amican Street,501642,"Beroy, Salvacion",Residential,"Amic
 MAY,2022,Q2,District 3,Amican Street,501560,"Bragais, Janeth",Residential,"Amican St., Dist. 3",577.0,577.0,577.0,577.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,501427,"Cabiles, Christoper",Residential,"Amican St., Dist. 3",1916.0,1916.0,1916.0,1916.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,500530,"Cabug, Roberto",Residential,"Amican St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Amican Street,501568,"CaÃ±ares, Marissa",,Amican St.,755.0,755.0,755.0,755.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Amican Street,501568,"Canares, Marissa",Residential,"Amican St., Dist. 3",755.0,755.0,755.0,755.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,501578,"Cantre, Roger",Residential,"Amican St., Dist. 3",1240.0,1240.0,1240.0,1240.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,501208,"Carranza, Maria",Residential,"Amican St., Dist. 3",1348.0,1348.0,1348.0,1348.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Amican Street,500713,"Dejumo, Jomel",Residential,"Amican St., Dist. 3",313.0,313.0,313.0,313.0,0,Corrected,Active
@@ -329,21 +329,21 @@ MAY,2022,Q2,District 1,Bailon Street,500541,"Abejero, Leandro",Residential,"Bail
 MAY,2022,Q2,District 2,Bailon Street,500374,"Acibar, Jenlin",Residential,"Bailon St., Dist. 2",2785.0,2785.0,2785.0,2785.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500887,"Adiaton, Gomer",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501292,"Aldave, Nora",Commercial,"Bailon St., Dist. 1",7693.0,7693.0,7693.0,7693.0,0,Corrected,Active
-MAY,2022,Q2,District 1,Bailon Street,501472,"Aldave, Nora 2",Residential,"Bailon St., Dist. 1",1645.0,1645.0,1645.0,1645.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,501472,"Aldave, Nora 2",Commercial,"Bailon St., Dist. 1",1645.0,1645.0,1645.0,1645.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,501386,"Albiola, Ofelia",Commercial,"Bailon St., Dist. 2",1095.0,1095.0,1095.0,1095.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,501420,"Alcala, Aldrin",Commercial,"Bailon St., Dist. 2",884.0,884.0,884.0,884.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500288,"Alcantara, Luz-4 (Litay)",,Bailon St.,436.0,436.0,436.0,436.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,501015,"Alcantara, Luz-1 (Jeaneth Bartolata",,Bailon St.,545.0,545.0,545.0,545.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500957,"Alcantara, Luz-2 (Marivic)",,Bailon St.,294.0,294.0,294.0,294.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,501002,"Alcantara, Luz-3 (Luthche V.)",,Bailon St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,501016,"Alcantara, Luz-6  ",,Bailon St.,89.0,89.0,89.0,89.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,500288,"Alcantara, Luz-4 (Litay)",Commercial,"Bailon St., Dist. 1",436.0,436.0,436.0,436.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,501015,"Alcantara, Luz-1 (Jeaneth Bartolata",Commercial,"Bailon St., Dist. 1",545.0,545.0,545.0,545.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,500957,"Alcantara, Luz-2 (Marivic)",Commercial,"Bailon St., Dist. 1",294.0,294.0,294.0,294.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,501002,"Alcantara, Luz-3 (Luthche V.)",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 1,Bailon Street,501016,"Alcantara, Luz-6  ",Commercial,"Bailon St., Dist. 1",89.0,89.0,89.0,89.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500748,"Alcantara, Luz (Marl Bueta)",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 1,Bailon Street,501201,"Alcantara, Sheena",Commercial,"Bailon St., Dist. 1",2185.0,2185.0,2185.0,2185.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500635,"Alicante, Carlos",Residential,"Bailon St., Dist. 1",5144.0,5144.0,5144.0,5144.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500224,"Almedora, Tomas",Commercial,"Bailon St., Dist. 1",2851.0,2851.0,2851.0,2851.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,501857,"Almine, Catherine",Residential,"Bailon St., Dist. 2",39.0,39.0,39.0,39.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500442,"Almodal, Noe",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bailon Street,500389,"Almodiel, Edgar",Commercial,Bailon St. Dist. 2,1315.0,1315.0,1315.0,1315.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500389,"Almodiel, Edgar",Commercial,"Bailon St., Dist. 2",1315.0,1315.0,1315.0,1315.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,500686,"Almoete, Gil",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Bailon Street,501221,"Almoete, Alex",Residential,"Bailon St., Dist. 2",1779.0,1779.0,1779.0,1779.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500835,"Almosara, Janet",Residential,"Bailon St., Dist. 1",1421.0,1421.0,1421.0,1421.0,0,Corrected,Active
@@ -357,7 +357,7 @@ MAY,2022,Q2,District 1,Bailon Street,500466,"Altiche, Nonilon",Commercial,"Bailo
 MAY,2022,Q2,District 1,Bailon Street,500304,Amitaf Mini Shoppe,Commercial,"Bailon St., Dist. 1",1735.0,1735.0,1735.0,1735.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500328,"Arcenas, Juancho",Commercial,"Bailon St., Dist. 1",3402.0,3402.0,3402.0,3402.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,501761,"Artiaga, Vilma",Residential,"Bailon St., Dist. 2",399.0,399.0,399.0,399.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500371,"Aruc, Grace",Residential,Bailon St. Dist. 2,1512.0,1512.0,1512.0,1512.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500371,"Aruc, Grace",Residential,"Bailon St., Dist. 2",1512.0,1512.0,1512.0,1512.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500298,"Bailon, Junil",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Bailon Street,500806,"Badilla, Pepito",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501382,"Balingasa, Maria Elena",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Unknown
@@ -367,26 +367,26 @@ MAY,2022,Q2,District 1,Bailon Street,500349,"Balt, Mona",Commercial,"Bailon St.,
 MAY,2022,Q2,District 1,Bailon Street,500233,"Barruga, Helen",Commercial,"Bailon St., Dist. 1",4502.0,4502.0,4502.0,4502.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500274,"Barrun, Jose",Commercial,"Bailon St., Dist. 1",5489.0,5489.0,5489.0,5489.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,500996,"Barrun, Judy Ann",Residential,"Bailon St., Dist. 2",2014.0,2014.0,2014.0,2014.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500414,"Barrun, LeadiÃ±a",,Bailon St.,1648.0,1648.0,1648.0,1648.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,500414,"Barrun, Leadina",Residential,"Bailon St., Dist. 1",1648.0,1648.0,1648.0,1648.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500771,"Barrun, Rolly",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bailon Street,501313,"Bartolata, Ariosto",Commercial,Bailon St. Dist. 2,284.0,284.0,284.0,284.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500608,"Bartolata, Arthur",Residential,Bailon St. Dist. 2,3421.0,3421.0,3421.0,3421.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500481,"Bartolata, Amelia",Residential,Bailon St. Dist. 2,4547.0,4547.0,4547.0,4547.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500631,"Bartolata, Letty",Residential,Bailon St. Dist. 2,1447.0,1447.0,1447.0,1447.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,501313,"Bartolata, Ariosto",Commercial,"Bailon St., Dist. 2",284.0,284.0,284.0,284.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500608,"Bartolata, Arthur",Residential,"Bailon St., Dist. 2",3421.0,3421.0,3421.0,3421.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500481,"Bartolata, Amelia",Residential,"Bailon St., Dist. 2",4547.0,4547.0,4547.0,4547.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500631,"Bartolata, Letty",Residential,"Bailon St., Dist. 2",1447.0,1447.0,1447.0,1447.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Bailon Street,501792,"Bartolata, Marjorie",Residential,"Bailon St., Dist. 2",209.0,209.0,209.0,209.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500997,"Bartolata, Rizza",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,500997,"Bartolata, Rizza",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501288,"Bartolay, Nomel",Residential,"Bailon St., Dist. 1",948.0,948.0,948.0,948.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500840,"Bartolay, Josie (2)",Commercial,"Bailon St., Dist. 1",233.0,233.0,233.0,233.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500908,"Bernardo, Roma",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,500607,BJMP,Residential,Bailon St. Dist. 2,,,,,0,Corrected,Defect
+MAY,2022,Q2,District 2,Bailon Street,500607,BJMP,Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 1,Bailon Street,500753,"Brabante, Alexander",Residential,"Bailon St., Dist. 1",2345.0,2345.0,2345.0,2345.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500896,"Bunao, Nove",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,500709,"Butalid, Rainier",Residential,Bailon St. Dist. 2,2170.0,2170.0,2170.0,2170.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500896,"Bunao, Nove",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,500709,"Butalid, Rainier",Residential,"Bailon St., Dist. 2",2170.0,2170.0,2170.0,2170.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501320,"Bonagua, Solima",Residential,"Bailon St., Dist. 1",627.0,627.0,627.0,627.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501117,"Cadiz, Gina 1",Residential,"Bailon St., Dist. 1",646.0,646.0,646.0,646.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500210,"Cadiz, Gina 2",Commercial,"Bailon St., Dist. 1",401.0,401.0,401.0,401.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500355,"Cadiz, Gina 3",Commercial,"Bailon St., Dist. 1",6786.0,6786.0,6786.0,6786.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500814,Cebuana Lhuillier,Commercial,Bailon St. Dist. 2,591.0,591.0,591.0,591.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500814,Cebuana Lhuillier,Commercial,"Bailon St., Dist. 2",591.0,591.0,591.0,591.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501197,"Chavez, Jocelyn",Residential,"Bailon St., Dist. 1",1991.0,1991.0,1991.0,1991.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501465,CITI DRUG,Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501276,"Contapay, Cristina",Residential,"Bailon St., Dist. 1",579.0,579.0,579.0,579.0,0,Corrected,Active
@@ -402,13 +402,13 @@ MAY,2022,Q2,District 1,Bailon Street,500420,"Dilao, Tomas Jr.",Commercial,"Bailo
 MAY,2022,Q2,District 1,Bailon Street,500991,Domurans Pharmacy (NEW),Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,500627,DPWH MSDEO,Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,500404,"Elloso, Amy",Commercial,"Bailon St., Dist. 1",80.0,80.0,80.0,80.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500529,"Escorel, Erdie",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,500648,"Esparrago, Mary Ann",Residential,Bailon St. Dist. 2,3715.0,3715.0,3715.0,3715.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500430,"Esparrago, Raquel",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Defect
+MAY,2022,Q2,District 2,Bailon Street,500529,"Escorel, Erdie",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,500648,"Esparrago, Mary Ann",Residential,"Bailon St., Dist. 2",3715.0,3715.0,3715.0,3715.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500430,"Esparrago, Raquel",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 2,Bailon Street,501785,"Esparraguerra, Ave",Residential,"Bailon St., Dist. 2",103.0,103.0,103.0,103.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,501507,"EspaÃ±ol, Mylen",,Bailon St.,937.0,937.0,937.0,937.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500715,"Espenida, Cecilia",Commercial,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,501323,"Espenilla, Ana",Commercial,Bailon St. Dist. 2,420.0,420.0,420.0,420.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,501507,"Espanol, Mylen",Residential,"Bailon St., Dist. 2",937.0,937.0,937.0,937.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500715,"Espenida, Cecilia",Commercial,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,501323,"Espenilla, Ana",Commercial,"Bailon St., Dist. 2",420.0,420.0,420.0,420.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500622,"Espenilla, Linda",Commercial,"Bailon St., Dist. 1",5635.0,5635.0,5635.0,5635.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500370,"Felipe, Nimfa",Commercial,"Bailon St., Dist. 1",1029.0,1029.0,1029.0,1029.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500574,"Escorel, Lily",Residential,"Bailon St., Dist. 1",1333.0,1333.0,1333.0,1333.0,0,Corrected,Active
@@ -416,10 +416,10 @@ MAY,2022,Q2,District 1,Bailon Street,501118,"Flores, Ligaya (2)",Residential,"Ba
 MAY,2022,Q2,District 1,Bailon Street,501843,"Fruto, Neque Godfrey",Industrial,"Bailon St., Dist. 1",112.0,112.0,112.0,112.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500223,"Garamay, Nora",Residential,"Bailon St., Dist. 1",546.0,546.0,546.0,546.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500145,"Garamay, Romer",Residential,"Bailon St., Dist. 1",5770.0,5770.0,5770.0,5770.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500128,"Gebilaguin, Vito",Residential,Bailon St. Dist. 2,2178.0,2178.0,2178.0,2178.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,501363,"Gernale, Renato",Commercial,Bailon St. Dist. 2,1641.0,1641.0,1641.0,1641.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500335,"Gersalia, Romeo",Commercial,Bailon St. Dist. 2,7069.0,7069.0,7069.0,7069.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,501000,"GuaÃ±ezo, Sabina",,Bailon St.,1529.0,1529.0,1529.0,1529.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500128,"Gebilaguin, Vito",Residential,"Bailon St., Dist. 2",2178.0,2178.0,2178.0,2178.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,501363,"Gernale, Renato",Commercial,"Bailon St., Dist. 2",1641.0,1641.0,1641.0,1641.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500335,"Gersalia, Romeo",Commercial,"Bailon St., Dist. 2",7069.0,7069.0,7069.0,7069.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bailon Street,501000,"Guanezo, Sabina",Residential,"Bailon St., Dist. 1",1529.0,1529.0,1529.0,1529.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500300,"Gutierrez, Guilan",Residential,"Bailon St., Dist. 1",1941.0,1941.0,1941.0,1941.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500473,"Gutierrez, Arnel",Residential,"Bailon St., Dist. 1",6206.0,6206.0,6206.0,6206.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501473,"Gutierrez, Jinelyn",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
@@ -430,16 +430,16 @@ MAY,2022,Q2,District 1,Bailon Street,501675,"Laila, Marivic",Residential,"Bailon
 MAY,2022,Q2,District 1,Bailon Street,500504,"Laila, Zelma",Residential,"Bailon St., Dist. 1",7662.0,7662.0,7662.0,7662.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501275,"Lanuza, Gideon",Residential,"Bailon St., Dist. 1",1009.0,1009.0,1009.0,1009.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500833,"Lanuza, Lilia",Residential,"Bailon St., Dist. 1",2687.0,2687.0,2687.0,2687.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500891,"Leonor, Manuel",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,500989,"Legaspi, Marissa",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,501539,"Legaspi, Ryan",Residential,Bailon St. Dist. 2,921.0,921.0,921.0,921.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500891,"Leonor, Manuel",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,500989,"Legaspi, Marissa",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,501539,"Legaspi, Ryan",Residential,"Bailon St., Dist. 2",921.0,921.0,921.0,921.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501654,"Letada, Lenie",Residential,"Bailon St., Dist. 1",427.0,427.0,427.0,427.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500425,"Llacer, Dizon",Commercial,Bailon St. Dist. 2,1967.0,1967.0,1967.0,1967.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500419,"Llacer, Dizon (Romtes)",Commercial,Bailon St. Dist. 2,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Bailon Street,500594,"Llacer, Luz",Commercial,Bailon St. Dist. 2,931.0,931.0,931.0,931.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500394,"Llacer, Manuel",Commercial,Bailon St. Dist. 2,2153.0,2153.0,2153.0,2153.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500649,"Loduvice, Ruel",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,500347,"Lorenzo, Meriam",Residential,Bailon St. Dist. 2,2865.0,2865.0,2865.0,2865.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500425,"Llacer, Dizon",Commercial,"Bailon St., Dist. 2",1967.0,1967.0,1967.0,1967.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500419,"Llacer, Dizon (Romtes)",Commercial,"Bailon St., Dist. 2",,,,,0,Corrected,Unknown
+MAY,2022,Q2,District 2,Bailon Street,500594,"Llacer, Luz",Commercial,"Bailon St., Dist. 2",931.0,931.0,931.0,931.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500394,"Llacer, Manuel",Commercial,"Bailon St., Dist. 2",2153.0,2153.0,2153.0,2153.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500649,"Loduvice, Ruel",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,500347,"Lorenzo, Meriam",Residential,"Bailon St., Dist. 2",2865.0,2865.0,2865.0,2865.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501293,"Macoy, Amor",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501508,"Macoy, Amor 1",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501509,"Macoy, Amor 2",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
@@ -452,20 +452,20 @@ MAY,2022,Q2,District 1,Bailon Street,500228,"Menes, Natividad",Commercial,"Bailo
 MAY,2022,Q2,District 1,Bailon Street,501819,"Menes, Natividad 2",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 1,Bailon Street,500998,"Meteoro, Merly",Residential,"Bailon St., Dist. 1",506.0,506.0,506.0,506.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500222,"Meteoro, Paulo",Residential,"Bailon St., Dist. 1",3906.0,3906.0,3906.0,3906.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500972,Motortrade,Residential,Bailon St. Dist. 2,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Bailon Street,500972,Motortrade,Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,500746,"Moralde, Melvin",Residential,"Bailon St., Dist. 1",2107.0,2107.0,2107.0,2107.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,501001,"Nuevo, Antonino",Commercial,Bailon St. Dist. 2,2232.0,2232.0,2232.0,2232.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,501001,"Nuevo, Antonino",Commercial,"Bailon St., Dist. 2",2232.0,2232.0,2232.0,2232.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500598,"Nuevo, Susan",Commercial,"Bailon St., Dist. 1",4803.0,4803.0,4803.0,4803.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501338,"Nuevo, Susan 1",Commercial,"Bailon St., Dist. 1",189.0,189.0,189.0,189.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501339,"Nuevo, Susan 2",Commercial,"Bailon St., Dist. 1",224.0,224.0,224.0,224.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501340,"Nuevo, Susan 3",Commercial,"Bailon St., Dist. 1",154.0,154.0,154.0,154.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501341,"Nuevo, Susan 4",Commercial,"Bailon St., Dist. 1",290.0,290.0,290.0,290.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501342,"Nuevo, Susan 5",Commercial,"Bailon St., Dist. 1",332.0,332.0,332.0,332.0,0,Corrected,Active
-MAY,2022,Q2,,Bailon Street,500869,"Ontog, Joseph",Residential,Bailon St. Dist. 2,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bailon Street,500464,"Orias, Eden",Residential,Bailon St. Dist. 2,1958.0,1958.0,1958.0,1958.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500869,"Ontog, Joseph",Residential,"Bailon St., Dist. 2",,,,,0,Corrected,Defect
+MAY,2022,Q2,District 2,Bailon Street,500464,"Orias, Eden",Residential,"Bailon St., Dist. 2",1958.0,1958.0,1958.0,1958.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500312,"Orias, Cielo",Residential,"Bailon St., Dist. 1",6084.0,6084.0,6084.0,6084.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500708,"Orteza, Blas",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bailon Street,500333,"Pensader, Elvie",Commercial,Bailon St. Dist. 2,4395.0,4395.0,4395.0,4395.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500333,"Pensader, Elvie",Commercial,"Bailon St., Dist. 2",4395.0,4395.0,4395.0,4395.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500867,"Perez, Joji",Commercial,"Bailon St., Dist. 1",2798.0,2798.0,2798.0,2798.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501295,"Perez, Joji 2",Residential,"Bailon St., Dist. 1",1269.0,1269.0,1269.0,1269.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500365,"Rejuso, Jean",Commercial,"Bailon St., Dist. 1",6271.0,6271.0,6271.0,6271.0,0,Corrected,Active
@@ -476,7 +476,7 @@ MAY,2022,Q2,District 1,Bailon Street,500579,"Romero, Ana",Commercial,"Bailon St.
 MAY,2022,Q2,District 1,Bailon Street,500229,"Romero, Jose",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 1,Bailon Street,501457,"Remosura, Robert",Commercial,"Bailon St., Dist. 1",1818.0,1818.0,1818.0,1818.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,501884,Rural Bank of San Jacinto,Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Bailon Street,500372,"Sanz, Leilane",Commercial,Bailon St. Dist. 2,3125.0,3125.0,3125.0,3125.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Bailon Street,500372,"Sanz, Leilane",Commercial,"Bailon St., Dist. 2",3125.0,3125.0,3125.0,3125.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bailon Street,500496,"Saul, Nora",Commercial,"Bailon St., Dist. 1",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 1,Bailon Street,500299,"So, Alma",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Bailon Street,501896,"Sumulat, Kristine",Residential,"Bailon St., Dist. 1",,,,,0,Corrected,Unknown
@@ -487,7 +487,7 @@ MAY,2022,Q2,District 2,Balcavem Street,501402,"Alapad, Araceli",Residential,"Bal
 MAY,2022,Q2,District 2,Balcavem Street,501883,"Alapad, Nancy",Residential,"Balcavem St., Dist. 2",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 2,Balcavem Street,501760,"Alapad, Ramon Jr.",Residential,"Balcavem St., Dist. 2",206.0,206.0,206.0,206.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Balcavem Street,500992,"Alapad, Ronnie",Residential,"Balcavem St., Dist. 2",172.0,172.0,172.0,172.0,0,Corrected,Active
-MAY,2022,Q2,,Balcavem Street,501004,"AlmiÃ±e, Emelyn",,Balcavem St.,1093.0,1093.0,1093.0,1093.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Don Juan Street,501004,"Almine, Emelyn",Residential,"Don Juan St., Dist. 2",1093.0,1093.0,1093.0,1093.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Balcavem Street,501625,"Almodal, Meriam",Residential,"Balcavem St., Dist. 2",572.0,572.0,572.0,572.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Balcavem Street,500083,"Almoguerra, Virginia",Residential,"Balcavem St., Dist. 2",3548.0,3548.0,3548.0,3548.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Balcavem Street,501237,"Almoguerra, Amalia",Residential,"Balcavem St., Dist. 2",1228.0,1228.0,1228.0,1228.0,0,Corrected,Active
@@ -590,8 +590,8 @@ MAY,2022,Q2,District 3,Balintong Street,500428,"Bartolay, Jessie",Residential,"B
 MAY,2022,Q2,District 3,Balintong Street,501877,"Bartolata, Lony",Commercial,"Balintong St., Dist. 3",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 3,Balintong Street,501482,"Bartolata, Ronnie",Residential,"Balintong St., Dist. 3",364.0,364.0,364.0,364.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Balintong Street,500525,Brgy. Hall Dist. 3,Residential,"Balintong St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Balintong Street,500444,"CaÃ±ares, Chita",,Balintong St.,2742.0,2742.0,2742.0,2742.0,0,Corrected,Active
-MAY,2022,Q2,,Balintong Street,500918,"Dela PeÃ±a, Aladino Jr.",,Balintong St.,56.0,56.0,56.0,56.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Balintong Street,500444,"Canares, Chita",Commercial,"Balintong St., Dist. 3",2742.0,2742.0,2742.0,2742.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Balintong Street,500918,"Dela Pena, Aladino Jr.",Residential,"Balintong St., Dist. 3",56.0,56.0,56.0,56.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Balintong Street,501387,"Delavin, Jean",Residential,"Balintong St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Balintong Street,500467,"Delavin, Luz",Residential,"Balintong St., Dist. 3",1711.0,1711.0,1711.0,1711.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Balintong Street,500068,"Delavin, Maria",Residential,"Balintong St., Dist. 3",3052.0,3052.0,3052.0,3052.0,0,Corrected,Active
@@ -623,161 +623,161 @@ MAY,2022,Q2,District 4,Barsaga Street,501226,"Bartolay, Michael",Commercial,"Bar
 MAY,2022,Q2,District 4,Barsaga Street,500023,"Bartolay, Christian",Residential,"Barsaga St., Dist. 4",3074.0,3074.0,3074.0,3074.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Barsaga Street,501371,"Bartolay, Salvador",Residential,"Barsaga St., Dist. 4",975.0,975.0,975.0,975.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Barsaga Street,501014,Brgy. Hall Dist. 4,Residential,"Barsaga St., Dist. 4",156.0,156.0,156.0,156.0,0,Corrected,Active
-MAY,2022,Q2,,Barsaga Street,501890,"Bronola, Jean",,Barsaga St.,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,Moyot Street,501890,"Bronola, Jean",Residential,Moyot St.,,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 4,Barsaga Street,500693,"Cantoria, Ma. Luisa",Residential,"Barsaga St., Dist. 4",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Barsaga Street,500219,"Clutario, Augusto",Residential,"Barsaga St., Dist. 4",885.0,885.0,885.0,885.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Barsaga Street,501679,"Espenilla, Vicente",Residential,"Barsaga St., Dist. 4",773.0,773.0,773.0,773.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Barsaga Street,501287,"Gulmatico, Roger",Residential,"Barsaga St., Dist. 4",351.0,351.0,351.0,351.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Barsaga Street,501318,"Mercadejas, Ludy",Residential,"Barsaga St., Dist. 4",48.0,48.0,48.0,48.0,0,Corrected,Active
-MAY,2022,Q2,,Barsaga Street,500698,TISELCO-II,,Barsaga St.,550.0,550.0,550.0,550.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500560,"Abejero, Mabel",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 4,Barsaga Street,500698,TISELCO-II,Commercial,"Barsaga St., Dist. 4",550.0,550.0,550.0,550.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500560,"Abejero, Mabel",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolabac Street,501003,"Albiola, Michelle",Residential,"Bartolabac St., Dist. 3",1121.0,1121.0,1121.0,1121.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500319,"Alcantara, Carlos",Residential,"Bartolabac St., Dist. 3",1454.0,1454.0,1454.0,1454.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500364,"Alcantara, Ruina",Residential,"Bartolabac St., Dist. 3",730.0,730.0,730.0,730.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500945,"AÃ±onuevo, Glen",,Bartolabac St.,1433.0,1433.0,1433.0,1433.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501682,"AlmiÃ±e, Ailyn",,Bartolabac St.,695.0,695.0,695.0,695.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500994,"AlmiÃ±e, Edwin",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500971,"AlmiÃ±e, Rhea",,Bartolabac St.,502.0,502.0,502.0,502.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500441,"Almodal, Noe",,Bartolabac St.,1924.0,1924.0,1924.0,1924.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500625,"Almoete, Alianne",,Bartolabac St.,1564.0,1564.0,1564.0,1564.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500945,"Anonuevo, Glen",Residential,Bartolabac St.,1433.0,1433.0,1433.0,1433.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501682,"Almine, Ailyn",Commercial,Bartolabac St.,695.0,695.0,695.0,695.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500994,"Almine, Edwin",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 3,Bartolabac Street,500971,"Almine, Rhea",Residential,"Bartolabac St., Dist. 3",502.0,502.0,502.0,502.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500441,"Almodal, Noe",Residential,Bartolabac St.,1924.0,1924.0,1924.0,1924.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500625,"Almoete, Alianne",Residential,Bartolabac St.,1564.0,1564.0,1564.0,1564.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,501454,"Almoete, Florante Jr.",Residential,"Bartolabac St., Dist. 3",2753.0,2753.0,2753.0,2753.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolabac Street,500281,"Almoete, Florante",Residential,"Bartolabac St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolabac Street,500725,"Almonte, Cenon",Residential,"Bartolabac St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500322,"Almojuela, Rey",,Bartolabac St.,2696.0,2696.0,2696.0,2696.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500309,"Almoradie, Verwayne",,Bartolabac St.,861.0,861.0,861.0,861.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501708,"Almosara, Cristobal",,Bartolabac St.,50.0,50.0,50.0,50.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500510,"Almosara, Veneranda",,Bartolabac St.,4392.0,4392.0,4392.0,4392.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501251,"Almosara, Jose",,Bartolabac St.,1084.0,1084.0,1084.0,1084.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500657,"Almosara, Melba",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500811,"Altiche, Nacer",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500546,"Altiche, Pepe",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500863,"Artiola, Elsie",,Bartolabac St.,1250.0,1250.0,1250.0,1250.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501734,"Aton, Helen",,Bartolabac St.,255.0,255.0,255.0,255.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500322,"Almojuela, Rey",Residential,Bartolabac St.,2696.0,2696.0,2696.0,2696.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500309,"Almoradie, Verwayne",Residential,Bartolabac St.,861.0,861.0,861.0,861.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501708,"Almosara, Cristobal",Residential,Bartolabac St.,50.0,50.0,50.0,50.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500510,"Almosara, Veneranda",Residential,Bartolabac St.,4392.0,4392.0,4392.0,4392.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501251,"Almosara, Jose",Residential,Bartolabac St.,1084.0,1084.0,1084.0,1084.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500657,"Almosara, Melba",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500811,"Altiche, Nacer",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500546,"Altiche, Pepe",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500863,"Artiola, Elsie",Commercial,Bartolabac St.,1250.0,1250.0,1250.0,1250.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501734,"Aton, Helen",Residential,Bartolabac St.,255.0,255.0,255.0,255.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500532,"Balangbang, Nelinda",Commercial,"Bartolabac St., Dist. 3",2603.0,2603.0,2603.0,2603.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500679,"Ballesteros, Jose Hans",Residential,"Bartolabac St., Dist. 3",2124.0,2124.0,2124.0,2124.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500294,"Bandelaria, Anabelle",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500315,"Bartolata, Vicente",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500379,"Bartolay, Benito",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500294,"Bandelaria, Anabelle",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500315,"Bartolata, Vicente",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500379,"Bartolay, Benito",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolabac Street,500287,"Bartolay, Marilyn",Residential,"Bartolabac St., Dist. 3",2981.0,2981.0,2981.0,2981.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501519,"Bartolay, Ronnie",,Bartolabac St.,927.0,927.0,927.0,927.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501519,"Bartolay, Ronnie",Residential,Bartolabac St.,927.0,927.0,927.0,927.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500301,"Bartolay, Pedro",Residential,"Bartolabac St., Dist. 3",4744.0,4744.0,4744.0,4744.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501223,"Barrun, Ruth",,Bartolabac St.,3744.0,3744.0,3744.0,3744.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501743,"Baruelo, Pretty",,Bartolabac St.,515.0,515.0,515.0,515.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501223,"Barrun, Ruth",Commercial,Bartolabac St.,3744.0,3744.0,3744.0,3744.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501743,"Baruelo, Pretty",Residential,Bartolabac St.,515.0,515.0,515.0,515.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500540,"Binayug, Ana",Residential,"Bartolabac St., Dist. 3",1553.0,1553.0,1553.0,1553.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501723,"Borromeo, Christine Joy",,Bartolabac St.,179.0,179.0,179.0,179.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501047,"Cabug, Marivic",,Bartolabac St.,992.0,992.0,992.0,992.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500387,"Cantoria, Erlinda",,Bartolabac St.,1179.0,1179.0,1179.0,1179.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500581,"Cantoria, Helen",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,501723,"Borromeo, Christine Joy",Commercial,Bartolabac St.,179.0,179.0,179.0,179.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501047,"Cabug, Marivic",Residential,Bartolabac St.,992.0,992.0,992.0,992.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500387,"Cantoria, Erlinda",Residential,Bartolabac St.,1179.0,1179.0,1179.0,1179.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500581,"Cantoria, Helen",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolabac Street,500286,"Carranza, Divina",Residential,"Bartolabac St., Dist. 3",4626.0,4626.0,4626.0,4626.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500296,"Cervantes, Alita",,Bartolabac St.,2832.0,2832.0,2832.0,2832.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500296,"Cervantes, Alita",Commercial,Bartolabac St.,2832.0,2832.0,2832.0,2832.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500767,"Deinla, Noel",Residential,"Bartolabac St., Dist. 3",3516.0,3516.0,3516.0,3516.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501416,"Dejumo, Anita",,Bartolabac St.,644.0,644.0,644.0,644.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500667,"Dejumo, Jasmin",,Bartolabac St.,581.0,581.0,581.0,581.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501254,"Dejumo, Marian",,Bartolabac St.,384.0,384.0,384.0,384.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501887,"Delavin, Janice",,Bartolabac St.,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Bartolabac Street,501279,"Delavin, Myla",,Bartolabac St.,71.0,71.0,71.0,71.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500777,"Delavin, Nelson",,Bartolabac St.,611.0,611.0,611.0,611.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501416,"Dejumo, Anita",Residential,Bartolabac St.,644.0,644.0,644.0,644.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500667,"Dejumo, Jasmin",Residential,Bartolabac St.,581.0,581.0,581.0,581.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501254,"Dejumo, Marian",Residential,Bartolabac St.,384.0,384.0,384.0,384.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501887,"Delavin, Janice",Residential,Bartolabac St.,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,Bartolabac Street,501279,"Delavin, Myla",Residential,Bartolabac St.,71.0,71.0,71.0,71.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500777,"Delavin, Nelson",Commercial,Bartolabac St.,611.0,611.0,611.0,611.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500440,"Delavin, Nonito",Residential,"Bartolabac St., Dist. 3",1799.0,1799.0,1799.0,1799.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501204,"Dilao, Leny",,Bartolabac St.,1679.0,1679.0,1679.0,1679.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501460,"Delos Santos, Rex",,Bartolabac St.,1069.0,1069.0,1069.0,1069.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501204,"Dilao, Leny",Residential,Bartolabac St.,1679.0,1679.0,1679.0,1679.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501460,"Delos Santos, Rex",Residential,Bartolabac St.,1069.0,1069.0,1069.0,1069.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500774,Espares Pepito,Commercial,"Bartolabac St., Dist. 3",2294.0,2294.0,2294.0,2294.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500953,"Esparrago, Eden",Residential,"Bartolabac St., Dist. 3",1261.0,1261.0,1261.0,1261.0,0,Corrected,Active
 MAY,2022,Q2,,Bartolabac Street,500512,"Espenida, Lea",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolabac Street,501458,"Elloso, Margie",Residential,"Bartolabac St., Dist. 3",371.0,371.0,371.0,371.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500619,"Escorel, Elisa (Dist. 3)",Residential,"Bartolabac St., Dist. 3",2031.0,2031.0,2031.0,2031.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,501174,"Garbo, Ike",Residential,"Bartolabac St., Dist. 3",1432.0,1432.0,1432.0,1432.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501242,"Genova, Evans",,Bartolabac St.,1729.0,1729.0,1729.0,1729.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500367,"Ghandali, Mila",,Bartolabac St.,1111.0,1111.0,1111.0,1111.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500680,"Grafilo, Josefina",,Bartolabac St.,222.0,222.0,222.0,222.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500557,"Grafilo, Oscar",,Bartolabac St.,353.0,353.0,353.0,353.0,0,Corrected,Active
-MAY,2022,Q2,District 1,Bartolabac Street,500293,"Gutierrez, Elisa Dist 1",,Bartolabac St. 1,2458.0,2458.0,2458.0,2458.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500604,"Gutierrez, Juan",,Bartolabac St.,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bartolabac Street,501018,"Huelva, Guillerma",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,501707,"Inoc, Melvin",,Bartolabac St.,130.0,130.0,130.0,130.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501242,"Genova, Evans",Residential,Bartolabac St.,1729.0,1729.0,1729.0,1729.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500367,"Ghandali, Mila",Residential,Bartolabac St.,1111.0,1111.0,1111.0,1111.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500680,"Grafilo, Josefina",Residential,Bartolabac St.,222.0,222.0,222.0,222.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500557,"Grafilo, Oscar",Residential,Bartolabac St.,353.0,353.0,353.0,353.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500293,"Gutierrez, Elisa Dist 1",Residential,Bartolabac St.,2458.0,2458.0,2458.0,2458.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500604,"Gutierrez, Juan",Residential,Bartolabac St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Bartolabac Street,501018,"Huelva, Guillerma",Commercial,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,501707,"Inoc, Melvin",Residential,Bartolabac St.,130.0,130.0,130.0,130.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500707,"Jardin, Sonia",Residential,"Bartolabac St., Dist. 3",578.0,578.0,578.0,578.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,501202,"Julaton, Erlina",Residential,"Bartolabac St., Dist. 3",1101.0,1101.0,1101.0,1101.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501017,"Liao, Liz",,Bartolabac St.,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Bartolabac Street,501784,"Lique, Proserfina",,Bartolabac St.,188.0,188.0,188.0,188.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500295,"Loma, Ruby",,Bartolabac St.,274.0,274.0,274.0,274.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501017,"Liao, Liz",Residential,Bartolabac St.,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,Bartolabac Street,501784,"Lique, Proserfina",Residential,Bartolabac St.,188.0,188.0,188.0,188.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500295,"Loma, Ruby",Residential,Bartolabac St.,274.0,274.0,274.0,274.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500542,"Macabuhay, Wilfredo",Commercial,"Bartolabac St., Dist. 3",1067.0,1067.0,1067.0,1067.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,501261,"Marino, Jonathan",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,501152,"Nepumuceno, Nena",,Bartolabac St.,3434.0,3434.0,3434.0,3434.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500489,"Ongotan, Arles",,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,501261,"Marino, Jonathan",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,501152,"Nepumuceno, Nena",Residential,Bartolabac St.,3434.0,3434.0,3434.0,3434.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500489,"Ongotan, Arles",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolabac Street,501537,"Reluao, Ernis",Residential,"Bartolabac St., Dist. 3",472.0,472.0,472.0,472.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolabac Street,500218,"Reluao, Monina",Residential,"Bartolabac St., Dist. 3",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bartolabac Street,501207,"Serra, Albert",,Bartolabac St.,627.0,627.0,627.0,627.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolabac Street,500317,"Villahermosa, Rogel",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500784,"Villahermosa, Bernardo",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,501517,"Villamor, Jose",,Bartolabac St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolabac Street,500494,"Villamor, Lilia",,Bartolabac St.,475.0,475.0,475.0,475.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,501207,"Serra, Albert",Residential,Bartolabac St.,627.0,627.0,627.0,627.0,0,Corrected,Active
+MAY,2022,Q2,,Bartolabac Street,500317,"Villahermosa, Rogel",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500784,"Villahermosa, Bernardo",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,501517,"Villamor, Jose",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Bartolabac Street,500494,"Villamor, Lilia",Residential,Bartolabac St.,475.0,475.0,475.0,475.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500123,"Adiaton, Rodrigo",Residential,"Bartolay St., Dist. 3",6067.0,6067.0,6067.0,6067.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,501783,"Alcantara, Glen",Residential,"Bartolay St., Dist. 3",111.0,111.0,111.0,111.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,501039,"Alcantara, Rene",Residential,"Bartolay St., Dist. 3",252.0,252.0,252.0,252.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500179,"Almodal, Gemma",Residential,"Bartolay St., Dist. 3",2463.0,2463.0,2463.0,2463.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500302,"Almoete, Gilbert",Residential,"Bartolay St., Dist. 1",557.0,557.0,557.0,557.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500098,"Almoete, Mitchell",Residential,Bartolay St. Dist. 4,4067.0,4067.0,4067.0,4067.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500939,"Almoete, Pio",Residential,Bartolay St. Dist. 4,984.0,984.0,984.0,984.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500098,"Almoete, Mitchell",Residential,"Bartolay St., Dist. 4",4067.0,4067.0,4067.0,4067.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500939,"Almoete, Pio",Residential,"Bartolay St., Dist. 4",984.0,984.0,984.0,984.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500209,"Almonte, Cecilio",Residential,"Bartolay St., Dist. 3",6762.0,6762.0,6762.0,6762.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500109,"Balingasa, Zenaida-A",,Bartolay St.,6140.0,6140.0,6140.0,6140.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500109,"Balingasa, Zenaida-A",Residential,"Bartolay St., Dist. 4",6140.0,6140.0,6140.0,6140.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,501085,"Bandelaria, Marcial",Residential,"Bartolay St., Dist. 1",824.0,824.0,824.0,824.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500710,"Barrun, Nida",Residential,"Bartolay St., Dist. 3",81.0,81.0,81.0,81.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500099,"Barrun, Simi",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolay Street,501685,"Bartolata, Alexander",Residential,Bartolay St. Dist. 4,527.0,527.0,527.0,527.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,501422,"Bartolata, Evelyn",Residential,Bartolay St. Dist. 4,329.0,329.0,329.0,329.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500974,"Bartolay, Rene",Residential,Bartolay St. Dist. 4,2942.0,2942.0,2942.0,2942.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,501685,"Bartolata, Alexander",Residential,"Bartolay St., Dist. 4",527.0,527.0,527.0,527.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,501422,"Bartolata, Evelyn",Residential,"Bartolay St., Dist. 4",329.0,329.0,329.0,329.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500974,"Bartolay, Rene",Residential,"Bartolay St., Dist. 4",2942.0,2942.0,2942.0,2942.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500154,"Barsaga, Adalia",Residential,"Bartolay St., Dist. 3",1326.0,1326.0,1326.0,1326.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,501692,"Barsaga, Frankjo",Residential,"Bartolay St., Dist. 3",323.0,323.0,323.0,323.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500359,"Barsaga, Maria",Residential,"Bartolay St., Dist. 3",4361.0,4361.0,4361.0,4361.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500308,"Barsaga, Solomon",Residential,"Bartolay St., Dist. 1",4782.0,4782.0,4782.0,4782.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500588,"Baruelo, Ricky",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolay Street,501673,"Cabiles, Luz",Residential,"Bartolay St., Dist. 3",250.0,250.0,250.0,250.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500676,"Camposano, Jesus",Residential,Bartolay St. Dist. 4,23.0,23.0,23.0,23.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500125,"CaÃ±ares, Evangelina",,Bartolay St.,841.0,841.0,841.0,841.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500659,"Cantonjos, Caritina",Residential,Bartolay St. Dist. 4,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bartolay Street,501125,"Cantonjos, Editha",Residential,Bartolay St. Dist. 4,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bartolay Street,500602,"Cantonjos, Ronnel",Residential,Bartolay St. Dist. 4,4482.0,4482.0,4482.0,4482.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500946,"Carranza, Leonida",Residential,Bartolay St. Dist. 4,2293.0,2293.0,2293.0,2293.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500676,"Camposano, Jesus",Residential,"Bartolay St., Dist. 4",23.0,23.0,23.0,23.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bartolay Street,500125,"Canares, Evangelina",Residential,"Bartolay St., Dist. 1",841.0,841.0,841.0,841.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500659,"Cantonjos, Caritina",Residential,"Bartolay St., Dist. 4",,,,,0,Corrected,Defect
+MAY,2022,Q2,District 4,Bartolay Street,501125,"Cantonjos, Editha",Residential,"Bartolay St., Dist. 4",,,,,0,Corrected,Defect
+MAY,2022,Q2,District 4,Bartolay Street,500602,"Cantonjos, Ronnel",Residential,"Bartolay St., Dist. 4",4482.0,4482.0,4482.0,4482.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500946,"Carranza, Leonida",Residential,"Bartolay St., Dist. 4",2293.0,2293.0,2293.0,2293.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500290,"Deinla, Regalado",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Bartolay Street,501190,"Dejumo, Allan",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolay Street,501695,"Delariarte, Melinda",Residential,Bartolay St. Dist. 4,304.0,304.0,304.0,304.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500647,"Delos Santos, Emerson",Residential,Bartolay St. Dist. 1,7170.0,7170.0,7170.0,7170.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,501053,"EspaÃ±ola, Sonia",,Bartolay St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolay Street,501545,"Esparrago, Maricar",Residential,Bartolay St. Dist. 4,507.0,507.0,507.0,507.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500721,"Espinosa, Benito",Residential,Bartolay St. Dist. 4,732.0,732.0,732.0,732.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,501695,"Delariarte, Melinda",Residential,"Bartolay St., Dist. 4",304.0,304.0,304.0,304.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Bartolay Street,500647,"Delos Santos, Emerson",Residential,"Bartolay St., Dist. 1",7170.0,7170.0,7170.0,7170.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Bartolay Street,501053,"Espanola, Sonia",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 4,Bartolay Street,501545,"Esparrago, Maricar",Residential,"Bartolay St., Dist. 4",507.0,507.0,507.0,507.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500721,"Espinosa, Benito",Residential,"Bartolay St., Dist. 4",732.0,732.0,732.0,732.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,501236,"Espinosa, Manette",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Bartolay Street,500201,"Espinosa, Nemia",Residential,Bartolay St. Dist. 3,5994.0,5994.0,5994.0,5994.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Bartolay Street,500201,"Espinosa, Nemia",Residential,"Bartolay St., Dist. 3",5994.0,5994.0,5994.0,5994.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500255,"Feliciano, Vilda",Residential,"Bartolay St., Dist. 1",2116.0,2116.0,2116.0,2116.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500252,"Gilaga, Ricky",Residential,"Bartolay St., Dist. 1",46.0,46.0,46.0,46.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500457,"Gilaga, Selma",Residential,"Bartolay St., Dist. 1",1265.0,1265.0,1265.0,1265.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500393,"Grajo, Gloria",Residential,"Bartolay St., Dist. 1",30.0,30.0,30.0,30.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,501029,"Jerusalem, Lanie",Residential,"Bartolay St., Dist. 1",421.0,421.0,421.0,421.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,501851,"Leonor, Lorito",Residential,Bartolay St. Dist. 3,11.0,11.0,11.0,11.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,501083,"Lique, Levi",Residential,Bartolay St. Dist. 4,814.0,814.0,814.0,814.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500303,"Lique, Ricky",Residential,Bartolay St. Dist. 4,2968.0,2968.0,2968.0,2968.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500192,"Macoy, Ofelia",Residential,Bartolay St. Dist. 4,2484.0,2484.0,2484.0,2484.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Bartolay Street,501851,"Leonor, Lorito",Residential,"Bartolay St., Dist. 3",11.0,11.0,11.0,11.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,501083,"Lique, Levi",Residential,"Bartolay St., Dist. 4",814.0,814.0,814.0,814.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500303,"Lique, Ricky",Residential,"Bartolay St., Dist. 4",2968.0,2968.0,2968.0,2968.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500192,"Macoy, Ofelia",Residential,"Bartolay St., Dist. 4",2484.0,2484.0,2484.0,2484.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,501876,"Merillo, Anilyn",Residential,"Bartolay St., Dist. 1",19.0,19.0,19.0,19.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500306,"Merillo, Elmor",Residential,"Bartolay St., Dist. 1",2705.0,2705.0,2705.0,2705.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500044,"Meteoro, Lino",Residential,"Bartolay St., Dist. 1",14941.0,14941.0,14941.0,14941.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500837,"Meteoro, Norman",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Bartolay Street,500538,"Navarro, Nonita",Residential,Bartolay St. Dist. 3,2772.0,2772.0,2772.0,2772.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500747,"NuÃ±ez, Carmela",,Bartolay St.,949.0,949.0,949.0,949.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Bartolay Street,500538,"Navarro, Nonita",Residential,"Bartolay St., Dist. 3",2772.0,2772.0,2772.0,2772.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500747,"Nunez, Carmela",Residential,"Bartolay St., Dist. 4",949.0,949.0,949.0,949.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Bartolay Street,500130,"Romblon, Romeo",Residential,"Bartolay St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Bartolay Street,501710,"So, Agnes",Residential,Bartolay St. Dist. 4,215.0,215.0,215.0,215.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,501466,"Valdez, Jocelyn",Residential,Bartolay St. Dist. 4,525.0,525.0,525.0,525.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500938,"Vasquez, Noel",Residential,Bartolay St. Dist. 4,4338.0,4338.0,4338.0,4338.0,0,Corrected,Active
-MAY,2022,Q2,,Bartolay Street,500133,"Veterbo, Judith",Residential,Bartolay St. Dist. 4,2637.0,2637.0,2637.0,2637.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,501710,"So, Agnes",Residential,"Bartolay St., Dist. 4",215.0,215.0,215.0,215.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,501466,"Valdez, Jocelyn",Residential,"Bartolay St., Dist. 4",525.0,525.0,525.0,525.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500938,"Vasquez, Noel",Residential,"Bartolay St., Dist. 4",4338.0,4338.0,4338.0,4338.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Bartolay Street,500133,"Veterbo, Judith",Residential,"Bartolay St., Dist. 4",2637.0,2637.0,2637.0,2637.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Bartolay Street,500413,"Villamor, Jeneth",Residential,"Bartolay St., Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Bartolay Street,500714,"Villamor, Nena",Residential,"Bartolay St., Dist. 4",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,Burgos,Binaliw,501820,"Almoguerra, Myda",Residential,"Binaliw, Burgos",15.0,15.0,15.0,15.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Binaliw,501867,"Avila, Jhoy",Residential,"Binaliw, Burgos",12.0,12.0,12.0,12.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Binaliw,501868,"Barrun, Wenceslao",Residential,"Binaliw, Burgos",4.0,4.0,4.0,4.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Binaliw,501823,"Bartolata, Perla",Residential,"Binaliw, Burgos",90.0,90.0,90.0,90.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Binaliw,501835,"Bartolata, Hanilyn",Residential,"Binaliw, Burgos",117.0,117.0,117.0,117.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Binaliw,501858,"Espinosa, Arlene",Residential,"Binaliw, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Binaliw,501840,"Jardin, Sonia",Residential,"Binaliw, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Binaliw,501871,"Paje, Alicia",,"Binaliw, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Binaliw,501696,Waterpark,Industrial,"Binaliw, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Don Juan Street,501114,"AlbaÃ±o, Emie",,Don Juan St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,"Binaliw, Burgos",501820,"Almoguerra, Myda",Residential,"Binaliw, Burgos",15.0,15.0,15.0,15.0,0,Corrected,Active
+MAY,2022,Q2,,"Binaliw, Burgos",501867,"Avila, Jhoy",Residential,"Binaliw, Burgos",12.0,12.0,12.0,12.0,0,Corrected,Active
+MAY,2022,Q2,,"Binaliw, Burgos",501868,"Barrun, Wenceslao",Residential,"Binaliw, Burgos",4.0,4.0,4.0,4.0,0,Corrected,Active
+MAY,2022,Q2,,"Binaliw, Burgos",501823,"Bartolata, Perla",Residential,"Binaliw, Burgos",90.0,90.0,90.0,90.0,0,Corrected,Active
+MAY,2022,Q2,,"Binaliw, Burgos",501835,"Bartolata, Hanilyn",Residential,"Binaliw, Burgos",117.0,117.0,117.0,117.0,0,Corrected,Active
+MAY,2022,Q2,,"Binaliw, Burgos",501858,"Espinosa, Arlene",Residential,"Binaliw, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Binaliw, Burgos",501840,"Jardin, Sonia",Residential,"Binaliw, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501871,"Paje, Alicia",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Binaliw, Burgos",501696,Waterpark,Industrial,"Binaliw, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,District 2,Don Juan Street,501114,"Albano, Emie",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Don Juan Street,501715,"Almodal, Clark",Residential,"Don Juan St., Dist. 2",227.0,227.0,227.0,227.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,500143,"Almodiel, Edgar",Residential,"Don Juan St., Dist. 2",4947.0,4947.0,4947.0,4947.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,501524,"Almonicar, Albert",Residential,"Don Juan St., Dist. 2",250.0,250.0,250.0,250.0,0,Corrected,Active
@@ -788,7 +788,7 @@ MAY,2022,Q2,District 2,Don Juan Street,500764,"Almonte, Ronnie",Residential,"Don
 MAY,2022,Q2,District 2,Don Juan Street,501198,"Almonte, Ronnie 2",Residential,"Don Juan St., Dist. 2",996.0,996.0,996.0,996.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,501491,"Almosara, Junil",Residential,"Don Juan St., Dist. 2",870.0,870.0,870.0,870.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,500645,"Altiche, Nenita",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Don Juan Street,501126,"AÃ±onuevo, Cherily",,Don Juan St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,District 2,Don Juan Street,501126,"Anonuevo, Cherily",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 2,Don Juan Street,501486,"Aspa, Marilou 2",Residential,"Don Juan St., Dist. 2",561.0,561.0,561.0,561.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,501536,"Baconawa, Allan",Residential,"Don Juan St., Dist. 2",533.0,533.0,533.0,533.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,500958,"Barrun, Jesus",Residential,"Don Juan St., Dist. 2",187.0,187.0,187.0,187.0,0,Corrected,Active
@@ -850,9 +850,9 @@ MAY,2022,Q2,District 4,Esparrago Street,501141,"Almoguerra, Karena",Commercial,"
 MAY,2022,Q2,District 1,Esparrago Street,501034,"Almoguerra, Rudy",Residential,"Esparrago St., Dist. 1",1544.0,1586.0,1544.0,1586.0,42,Corrected,Active
 MAY,2022,Q2,District 4,Esparrago Street,500085,"Almojuela, Darwin",Residential,"Esparrago St., Dist. 4",4647.0,4676.0,4647.0,4676.0,29,Corrected,Active
 MAY,2022,Q2,District 4,Esparrago Street,501154,"Almojuela, Domarie",Residential,"Esparrago St., Dist. 4",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Esparrago Street,500801,"Almosera, Rosie-I",,Esparrago St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Esparrago Street,500802,"Almosera, Rosie-II",,Esparrago St.,495.0,495.0,495.0,495.0,0,Corrected,Active
-MAY,2022,Q2,,Esparrago Street,500803,"Almosera, Rosie-III",,Esparrago St.,257.0,265.0,257.0,265.0,8,Corrected,Active
+MAY,2022,Q2,District 4,Esparrago Street,500801,"Almosera, Rosie-I",Residential,"Esparrago St., Dist. 4",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 4,Esparrago Street,500802,"Almosera, Rosie-II",Residential,"Esparrago St., Dist. 4",495.0,495.0,495.0,495.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Esparrago Street,500803,"Almosera, Rosie-III",Residential,"Esparrago St., Dist. 4",257.0,265.0,257.0,265.0,8,Corrected,Active
 MAY,2022,Q2,District 3,Esparrago Street,501033,"Amor, Candelaria",Residential,"Esparrago St., Dist. 3",1357.0,1363.0,1357.0,1363.0,6,Corrected,Active
 MAY,2022,Q2,District 3,Esparrago Street,501892,"Ancheta, Rona",Residential,"Esparrago St., Dist. 3",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 3,Esparrago Street,501348,"Arcenas, Francis",Residential,"Esparrago St., Dist. 3",,,,,0,Corrected,Disconnected
@@ -889,7 +889,7 @@ MAY,2022,Q2,District 4,Esparrago Street,500001,"Encinares, Roberto",Residential,
 MAY,2022,Q2,District 2,Esparrago Street,501552,"Escorel, Cerconsecion",Residential,"Esparrago St., Dist. 2",374.0,387.0,374.0,387.0,13,Corrected,Active
 MAY,2022,Q2,District 2,Esparrago Street,500886,"Espares, Julieta",Residential,"Esparrago St., Dist. 2",2273.0,2346.0,2273.0,2346.0,73,Corrected,Active
 MAY,2022,Q2,District 2,Esparrago Street,501480,"Espares, Jennefer",Residential,"Esparrago St., Dist. 2",773.0,781.0,773.0,781.0,8,Corrected,Active
-MAY,2022,Q2,,Esparrago Street,501452,"EspaÃ±ol, Corazon",,Esparrago St.,1089.0,1110.0,1089.0,1110.0,21,Corrected,Active
+MAY,2022,Q2,District 2,Esparrago Street,501452,"Espanol, Corazon",Residential,"Esparrago St., Dist. 2",1089.0,1110.0,1089.0,1110.0,21,Corrected,Active
 MAY,2022,Q2,District 2,Esparrago Street,501266,"Esparraguerra, Artemio",Residential,"Esparrago St., Dist. 2",336.0,344.0,336.0,344.0,8,Corrected,Active
 MAY,2022,Q2,District 1,Esparrago Street,501384,"Espenida, Christy",Residential,"Esparrago St., Dist. 1",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Esparrago Street,500644,"Espinosa, Carla",Residential,"Esparrago St., Dist. 3",,,,,0,Corrected,Disconnected
@@ -901,7 +901,7 @@ MAY,2022,Q2,District 2,Esparrago Street,501030,"Grencio, Inlec",Residential,"Esp
 MAY,2022,Q2,District 2,Esparrago Street,501684,"Grencio, Jerry",Residential,"Esparrago St., Dist. 2",572.0,621.0,572.0,621.0,49,Corrected,Active
 MAY,2022,Q2,District 2,Esparrago Street,500926,"Gueta, Andregal",Residential,"Esparrago St., Dist. 2",484.0,504.0,484.0,504.0,20,Corrected,Active
 MAY,2022,Q2,District 2,Esparrago Street,501347,"Gueta, Nora",Residential,"Esparrago St., Dist. 2",1705.0,1727.0,1705.0,1727.0,22,Corrected,Active
-MAY,2022,Q2,,Esparrago Street,501880,"Hoyo-a, Rafael",,Esparrago St.,116.0,154.0,116.0,154.0,38,Corrected,Active
+MAY,2022,Q2,District 2,Esparrago Street,501880,"Hoyo-a, Rafael",Residential,"Esparrago St., Dist. 2",116.0,154.0,116.0,154.0,38,Corrected,Active
 MAY,2022,Q2,District 4,Esparrago Street,500238,"Jimenez, Lope",Residential,"Esparrago St., Dist. 4",3276.0,3280.0,3276.0,3280.0,4,Corrected,Active
 MAY,2022,Q2,District 2,Esparrago Street,500410,"Laila, Dante",Residential,"Esparrago St., Dist. 2",56.0,59.0,56.0,59.0,3,Corrected,Active
 MAY,2022,Q2,District 4,Esparrago Street,501081,"Labusto, Lito",Residential,"Esparrago St., Dist. 4",,,,,0,Corrected,Disconnected
@@ -945,7 +945,7 @@ MAY,2022,Q2,District 3,Espinosa Street,500139,"Almodiel, Ranny",Residential,"Esp
 MAY,2022,Q2,,Bartolabac Street,500675,"Aspa, Marilie",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Espinosa Street,501397,"Barruga, Maria Luisa",Residential,"Espinosa St., Dist. 3",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 1,Espinosa Street,500391,"Barsaga, Rudy",Residential,"Espinosa St., Dist. 1",254.0,254.0,254.0,254.0,0,Corrected,Active
-MAY,2022,Q2,,Espinosa Street,500180,"Delos Santos, Rosario",,Espinosa St.,3342.0,3342.0,3342.0,3342.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Espinosa Street,500180,"Delos Santos, Rosario",Commercial,"Espinosa St., Dist. 3",3342.0,3342.0,3342.0,3342.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Espinosa Street,500292,"Elloso, Ramir",Residential,"Espinosa St., Dist. 1",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 3,Espinosa Street,501120,"Espares, Darwin",Residential,"Espinosa St., Dist. 3",1396.0,1396.0,1396.0,1396.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Espinosa Street,500630,"Espinosa, Carmen",Residential,"Espinosa St., Dist. 3",,,,,0,Corrected,Defect
@@ -957,17 +957,17 @@ MAY,2022,Q2,District 3,Espinosa Street,500196,"Ramilo, Rosa",Residential,"Espino
 MAY,2022,Q2,District 3,Espinosa Street,501469,"Rejuso, Noli",Residential,"Espinosa St., Dist. 3",909.0,909.0,909.0,909.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Espinosa Street,500904,"Rosales, Shiela",Residential,"Espinosa St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Espinosa Street,500864,"Sola, Hernie",Commercial,"Espinosa St., Dist. 3",2226.0,2226.0,2226.0,2226.0,0,Corrected,Active
-MAY,2022,Q2,,Fabmar Street,501565,"AlbaÃ±o, Helen",,Fabmar St.,503.0,525.0,503.0,525.0,22,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,501565,"Albano, Helen",Residential,"Fabmar St., Dist. 2",503.0,525.0,503.0,525.0,22,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,500738,"Alborilla, Juanita",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Fabmar Street,501725,"Alcantara, Lita",Residential,"Fabmar St., Dist. 2",570.0,811.0,570.0,811.0,241,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501670,"Almodiel, Marife",Residential,"Fabmar St., Dist. 2",301.0,,301.0,301.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501635,"Almoete, Romy 1",Commercial,"Fabmar St., Dist. 2",284.0,286.0,284.0,286.0,2,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501636,"Almoete, Romy 2",Residential,"Fabmar St., Dist. 2",151.0,157.0,151.0,157.0,6,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501779,"Almonte, May",Commercial,"Fabmar St., Dist. 2",162.0,191.0,162.0,191.0,29,Corrected,Active
-MAY,2022,Q2,,Fabmar Street,501364,"AlmiÃ±e, Stella",,Fabmar St.,941.0,1001.0,941.0,1001.0,60,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,501364,"Almine, Stella",Residential,"Fabmar St., Dist. 2",941.0,1001.0,941.0,1001.0,60,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501409,"Almoguerra, Sonia",Residential,"Fabmar St., Dist. 2",353.0,390.0,353.0,390.0,37,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501619,"Almonicar, Cesar",Residential,"Fabmar St., Dist. 2",882.0,984.0,882.0,984.0,102,Corrected,Active
-MAY,2022,Q2,District 2,Fabmar Street,500787,"Almonicar, Jose",Commercial,"Fabmar St., Dist. 2",770.0,786.0,770.0,786.0,16,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,500787,"Almonicar, Jose",Residential,"Fabmar St., Dist. 2",770.0,786.0,770.0,786.0,16,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,500755,"Almosara, Alex",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Fabmar Street,500682,"Almosara, Celin",Residential,"Fabmar St., Dist. 2",2963.0,2987.0,2963.0,2987.0,24,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501587,"Almosara, Elvie",Residential,"Fabmar St., Dist. 2",1290.0,1318.0,1290.0,1318.0,28,Corrected,Active
@@ -987,7 +987,7 @@ MAY,2022,Q2,District 2,Fabmar Street,500914,"Barrun, Emma",Residential,"Fabmar S
 MAY,2022,Q2,District 2,Fabmar Street,501655,"Barrun, Marlon",Residential,"Fabmar St., Dist. 2",1139.0,1184.0,1139.0,1184.0,45,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501893,"Barrun, Mildred",Residential,"Fabmar St., Dist. 2",,9.0,9.0,9.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,500553,"Barsaga, Esperanza",Residential,"Fabmar St., Dist. 2",2081.0,2098.0,2081.0,2098.0,17,Corrected,Active
-MAY,2022,Q2,Burgos,Upper Bliss,501694,"Bartolabac, Nick",Residential,"Upper, Bliss",,,,,0,Corrected,Defect
+MAY,2022,Q2,,"Upper, Bliss",501694,"Bartolabac, Nick",Residential,"Upper, Bliss",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 2,Fabmar Street,501045,"Bartolata, Dory",Residential,"Fabmar St., Dist. 2",1136.0,1145.0,1136.0,1145.0,9,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,500331,"Bartolata, Eusebio",Residential,"Fabmar St., Dist. 2",5577.0,,5577.0,5577.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501573,"Bartolata, Oro",Residential,"Fabmar St., Dist. 2",432.0,439.0,432.0,439.0,7,Corrected,Active
@@ -1023,7 +1023,7 @@ MAY,2022,Q2,District 2,Fabmar Street,500931,"Deinla, Emelita",Commercial,"Fabmar
 MAY,2022,Q2,District 2,Fabmar Street,501592,"Dejino, Evangeline",Residential,"Fabmar St., Dist. 2",1633.0,1738.0,1633.0,1738.0,105,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501572,"Dejucos, Alice",Residential,"Fabmar St., Dist. 2",706.0,723.0,706.0,723.0,17,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501564,"Dejucos, Elsie",Residential,"Fabmar St., Dist. 2",745.0,750.0,745.0,750.0,5,Corrected,Active
-MAY,2022,Q2,District 2,Fabmar Street,501769,"Dejucos, Clinton",Residential,"Fabmar St., Dist. 2",1962.0,1962.0,1962.0,1962.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,501769,"Dejucos, Clinton",Commercial,"Fabmar St., Dist. 2",1962.0,1962.0,1962.0,1962.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501767,"Dejucos, Gilbert",Residential,"Fabmar St., Dist. 2",347.0,347.0,347.0,347.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501615,"Dejucos, Joben",Residential,"Fabmar St., Dist. 2",985.0,985.0,985.0,985.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501138,"Dejucos, Mary Jane",Residential,"Fabmar St., Dist. 2",1039.0,1039.0,1039.0,1039.0,0,Corrected,Active
@@ -1046,7 +1046,7 @@ MAY,2022,Q2,District 2,Fabmar Street,501845,"Dignos, Melvin",Residential,"Fabmar
 MAY,2022,Q2,District 2,Fabmar Street,501842,"Dilao, Daisy",Residential,"Fabmar St., Dist. 2",35.0,35.0,35.0,35.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501159,DPWH QC,Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Fabmar Street,500450,"Espares, Siony",Residential,"Fabmar St., Dist. 2",130.0,130.0,130.0,130.0,0,Corrected,Active
-MAY,2022,Q2,,Fabmar Street,501200,"EspaÃ±ola, Nedy",,Fabmar St.,4287.0,4287.0,4287.0,4287.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,501200,"Espanola, Nedy",Residential,"Fabmar St., Dist. 2",4287.0,4287.0,4287.0,4287.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501713,"Esparrago, Emesa",Residential,"Fabmar St., Dist. 2",535.0,535.0,535.0,535.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501575,"Esparrago, Lorenia",Residential,"Fabmar St., Dist. 2",719.0,719.0,719.0,719.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501626,"Esparrago, Mikay",Residential,"Fabmar St., Dist. 2",502.0,502.0,502.0,502.0,0,Corrected,Active
@@ -1087,7 +1087,7 @@ MAY,2022,Q2,District 2,Fabmar Street,500313,"Mira, Cesar",Residential,"Fabmar St
 MAY,2022,Q2,District 2,Fabmar Street,501671,"Mira, Jerald",Residential,"Fabmar St., Dist. 2",259.0,259.0,259.0,259.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,500884,"Mira, Joel",Residential,"Fabmar St., Dist. 2",733.0,733.0,733.0,733.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501774,"Mira, Joel 2",Residential,"Fabmar St., Dist. 2",679.0,679.0,679.0,679.0,0,Corrected,Active
-MAY,2022,Q2,,Fabmar Street,500851,"Ora-a, Chin",,Fabmar St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Fabmar Street,500851,"Ora-a, Chin",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Fabmar Street,501777,"Orgiba, Neddy",Residential,"Fabmar St., Dist. 2",71.0,71.0,71.0,71.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501369,"Parado, Josie",Residential,"Fabmar St., Dist. 2",1802.0,1802.0,1802.0,1802.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501688,"Pinaranda, Maricel",Residential,"Fabmar St., Dist. 2",314.0,314.0,314.0,314.0,0,Corrected,Active
@@ -1100,10 +1100,10 @@ MAY,2022,Q2,District 2,Fabmar Street,500334,"Rejuso, Rolly",Residential,"Fabmar 
 MAY,2022,Q2,District 2,Fabmar Street,501345,"Rejuso, Rolando",Residential,"Fabmar St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Fabmar Street,501601,"Relente, Berjean",Residential,"Fabmar St., Dist. 2",810.0,810.0,810.0,810.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501775,"Rivera, Jhony",Residential,"Fabmar St., Dist. 2",288.0,288.0,288.0,288.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501569,"Robles, Julieta",Residential,"Talaba, Burgos",510.0,510.0,510.0,510.0,0,Corrected,Active
-MAY,2022,Q2,District 2,Fabmar Street,500522,"Roxas, Reynalin",Residential,"Fabmar St., Dist. 2",978.0,978.0,978.0,978.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501569,"Robles, Julieta",Residential,"Talaba, Burgos",510.0,510.0,510.0,510.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,500522,"Roxas, Reynalin",Commercial,"Fabmar St., Dist. 2",978.0,978.0,978.0,978.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501701,RTC,Residential,"Fabmar St., Dist. 2",224.0,224.0,224.0,224.0,0,Corrected,Active
-MAY,2022,Q2,District 2,Fabmar Street,500646,"Sola, Cesar",Commercial,"Fabmar St., Dist. 2",1493.0,1493.0,1493.0,1493.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Fabmar Street,500646,"Sola, Cesar",Residential,"Fabmar St., Dist. 2",1493.0,1493.0,1493.0,1493.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501681,"Sola, Margie",Residential,"Fabmar St., Dist. 2",819.0,819.0,819.0,819.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501763,"Versoza, Val",Residential,"Fabmar St., Dist. 2",87.0,87.0,87.0,87.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Fabmar Street,501525,"Villamor, Arnel",Residential,"Fabmar St., Dist. 2",439.0,439.0,439.0,439.0,0,Corrected,Active
@@ -1113,7 +1113,7 @@ MAY,2022,Q2,District 2,Fabmar Street,500526,"Villamor, Rosalina",Residential,"Fa
 MAY,2022,Q2,District 2,Fabmar Street,501570,"Waitkus, Dolores",Residential,"Fabmar St., Dist. 2",608.0,608.0,608.0,608.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,501584,"Agao, Marites",Residential,"Flores St., Dist. 3",195.0,195.0,195.0,195.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,500615,"Agao, Necita",Residential,"Flores St., Dist. 3",350.0,350.0,350.0,350.0,0,Corrected,Active
-MAY,2022,Q2,,Flores Street,500468,"AlbaÃ±o, Lanie",,Flores St.,4721.0,4721.0,4721.0,4721.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Flores Street,500468,"Albano, Lanie",Residential,"Flores St., Dist. 3",4721.0,4721.0,4721.0,4721.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,501211,"Aldana, Dolores",Residential,"Flores St., Dist. 3",1158.0,1158.0,1158.0,1158.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,500177,"Aljecera, Tito",Residential,"Flores St., Dist. 3",2423.0,2423.0,2423.0,2423.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,500060,"Almocera, Leni",Residential,"Flores St., Dist. 3",1989.0,1989.0,1989.0,1989.0,0,Corrected,Active
@@ -1130,7 +1130,7 @@ MAY,2022,Q2,District 4,Flores Street,500788,"Amican, Helen",Residential,"Flores 
 MAY,2022,Q2,District 3,Flores Street,501040,"Aspa, Elicer",Residential,"Flores St., Dist. 3",1620.0,1620.0,1620.0,1620.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,501746,"Avila, Mary Rose",Commercial,"Flores St., Dist. 3",258.0,258.0,258.0,258.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Flores Street,501361,"Balingasa, Micah",Residential,"Flores St., Dist. 4",1233.0,1233.0,1233.0,1233.0,0,Corrected,Active
-MAY,2022,Q2,,Flores Street,500127,"Balingasa, Zenaida-B",,Flores St.,3696.0,3696.0,3696.0,3696.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Flores Street,500127,"Balingasa, Zenaida-B",Residential,"Flores St., Dist. 4",3696.0,3696.0,3696.0,3696.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,500063,"Barsaga, Editha",Residential,"Flores St., Dist. 3",4207.0,4207.0,4207.0,4207.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,500727,"Bartolata, Leo",Commercial,"Flores St., Dist. 3",4313.0,4313.0,4313.0,4313.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Flores Street,501778,"Bartolata, Mae",Residential,"Flores St., Dist. 4",202.0,202.0,202.0,202.0,0,Corrected,Active
@@ -1182,7 +1182,7 @@ MAY,2022,Q2,District 3,Flores Street,500518,"Magdaraog, Lilibeth",Residential,"F
 MAY,2022,Q2,District 3,Flores Street,501253,"Medina, Ma. Lucila",Residential,"Flores St., Dist. 3",12.0,12.0,12.0,12.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Flores Street,500141,"Mingoy, Felipe",Commercial,"Flores St., Dist. 4",7905.0,7905.0,7905.0,7905.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Flores Street,501051,"Moya, Monina",Residential,"Flores St., Dist. 4",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Flores Street,501624,"Nuevo, Jeloveme",,Flores St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 3,Flores Street,501624,"Nuevo, Jeloveme",Commercial,"Flores St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Flores Street,500550,"Ongotan, Telesporo",Residential,"Flores St., Dist. 4",6267.0,6267.0,6267.0,6267.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Flores Street,501187,"Pascua, Jean",Residential,"Flores St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 4,Flores Street,500100,"Payawal, Redentor",Residential,"Flores St., Dist. 4",3191.0,3191.0,3191.0,3191.0,0,Corrected,Active
@@ -1211,60 +1211,60 @@ MAY,2022,Q2,District 4,Grafilo Street,500022,"Llacer, Dizon",Residential,"Grafil
 MAY,2022,Q2,District 4,Grafilo Street,501563,"Ongonion, Elsie",Residential,"Grafilo St., Dist. 4",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Grafilo Street,501493,"Reluao, Sheryl",Residential,"Grafilo St., Dist. 4",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Grafilo Street,501797,"So, Edgar",Residential,"Grafilo St., Dist. 4",33.0,34.0,33.0,34.0,1,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500536,"AlmiÃ±e, Mandy",,Gutierrez St.,1464.0,1489.0,1464.0,1489.0,25,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500310,"AlmiÃ±e, Nick",,Gutierrez St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Gutierrez Street,500827,"Almodiel, Noe",,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 1,Gutierrez Street,500536,"Almine, Mandy",Residential,"Gutierrez St., Dist. 1",1464.0,1489.0,1464.0,1489.0,25,Corrected,Active
+MAY,2022,Q2,District 1,Gutierrez Street,500310,"Almine, Nick",Residential,"Gutierrez St., Dist. 1",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500827,"Almodiel, Noe",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Gutierrez Street,500268,"Almodiel, Romulo",Residential,"Gutierrez St., Dist. 1",2189.0,2189.0,2189.0,2189.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500775,"Almonte, Emilio",,Gutierrez St.,2374.0,2413.0,2374.0,2413.0,39,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500775,"Almonte, Emilio",Residential,Gutierrez St.,2374.0,2413.0,2374.0,2413.0,39,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,501250,"Almonte, Nedy",Residential,"Gutierrez St., Dist. 1",770.0,785.0,770.0,785.0,15,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500342,"Almoradie, Roger",,Gutierrez St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Gutierrez Street,500423,"AÃ±onuevo, Otto",,Gutierrez St.,1269.0,1293.0,1269.0,1293.0,24,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500516,"Aspa, Nora",,Gutierrez St.,2539.0,2545.0,2539.0,2545.0,6,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500342,"Almoradie, Roger",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500423,"Anonuevo, Otto",Residential,Gutierrez St.,1269.0,1293.0,1269.0,1293.0,24,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500516,"Aspa, Nora",Residential,Gutierrez St.,2539.0,2545.0,2539.0,2545.0,6,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,500429,"Barrun, Jesus",Residential,"Gutierrez St., Dist. 1",6310.0,6332.0,6310.0,6332.0,22,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500435,"Bartolata, Andres",,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500435,"Bartolata, Andres",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Gutierrez Street,501429,"Bartolay, Jojie",Residential,"Gutierrez St., Dist. 1",1361.0,1390.0,1361.0,1390.0,29,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500632,"Basical, Rudy",,Gutierrez St.,1851.0,1859.0,1851.0,1859.0,8,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500632,"Basical, Rudy",Residential,Gutierrez St.,1851.0,1859.0,1851.0,1859.0,8,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,500337,"Belmes, Nila",Residential,"Gutierrez St., Dist. 1",6652.0,6705.0,6652.0,6705.0,53,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,501500,"Bonino, Albena",,Gutierrez St.,270.0,278.0,270.0,278.0,8,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,501802,"Bonino, Dinno",,Gutierrez St.,83.0,103.0,83.0,103.0,20,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,501500,"Bonino, Albena",Commercial,Gutierrez St.,270.0,278.0,270.0,278.0,8,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,501802,"Bonino, Dinno",Residential,Gutierrez St.,83.0,103.0,83.0,103.0,20,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,501897,"Borromeo, Gener",Residential,"Gutierrez St., Dist. 1",,2.0,2.0,2.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500392,"Bulalaque, Zelda",,Gutierrez St.,5342.0,5381.0,5342.0,5381.0,39,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,501246,"Canchela, Luis",,Gutierrez St.,472.0,472.0,472.0,472.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500490,"Canchela, Teresita",,Gutierrez St.,886.0,900.0,886.0,900.0,14,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500285,"Dejumo, Sergia",,Gutierrez St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Gutierrez Street,500289,"Dejumo, Sergia",,Gutierrez St.,4090.0,4129.0,4090.0,4129.0,39,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500453,"Delavin, Dina",,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500392,"Bulalaque, Zelda",Residential,Gutierrez St.,5342.0,5381.0,5342.0,5381.0,39,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,501246,"Canchela, Luis",Residential,Gutierrez St.,472.0,472.0,472.0,472.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500490,"Canchela, Teresita",Residential,Gutierrez St.,886.0,900.0,886.0,900.0,14,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500285,"Dejumo, Sergia",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500289,"Dejumo, Sergia",Residential,Gutierrez St.,4090.0,4129.0,4090.0,4129.0,39,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500453,"Delavin, Dina",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 1,Gutierrez Street,501406,"Delavin, Analyn",Residential,"Gutierrez St., Dist. 1",270.0,282.0,270.0,282.0,12,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500383,"Delavin, Fely",,Gutierrez St.,850.0,850.0,850.0,850.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500383,"Delavin, Fely",Residential,Gutierrez St.,850.0,850.0,850.0,850.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,500338,"Delavin, Marilyn",Residential,"Gutierrez St., Dist. 1",241.0,241.0,241.0,241.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500283,"Delavin, Nelson",,Gutierrez St.,2200.0,2200.0,2200.0,2200.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500283,"Delavin, Nelson",Residential,Gutierrez St.,2200.0,2200.0,2200.0,2200.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,501353,"Dilao, Salvador",Residential,"Gutierrez St., Dist. 1",8404.0,8404.0,8404.0,8404.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500981,"Dilao, Maria",,Gutierrez St.,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Gutierrez Street,501637,"Gebilaguin, Frank",,Gutierrez St.,53.0,53.0,53.0,53.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500981,"Dilao, Maria",Residential,Gutierrez St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Gutierrez Street,501637,"Gebilaguin, Frank",Residential,Gutierrez St.,53.0,53.0,53.0,53.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,501798,"Gorembao, Demetrio",Residential,"Gutierrez St., Dist. 1",80.0,80.0,80.0,80.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,500269,"Gutierrez, Mario",Residential,"Gutierrez St., Dist. 1",1182.0,1182.0,1182.0,1182.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500562,"Gulmatico, Melinda",,Gutierrez St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Gutierrez Street,500804,"Gutierrez, Genalyn",,Gutierrez St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Gutierrez Street,500336,"Lumberio, Nena",,Gutierrez St.,281.0,281.0,281.0,281.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500382,"Malana, Ruel",,Gutierrez St.,723.0,723.0,723.0,723.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,501739,"Melchor, Helen",,Gutierrez St.,2225.0,2225.0,2225.0,2225.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500282,"Orgiba, Neddy",,Gutierrez St.,556.0,556.0,556.0,556.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500384,"Ramirez, Josefa",,Gutierrez St.,4284.0,4284.0,4284.0,4284.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,501375,"Ramirez, Josefa 2",,Gutierrez St.,594.0,594.0,594.0,594.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500639,"Rejuso, Dina",,Gutierrez St.,1769.0,1769.0,1769.0,1769.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500562,"Gulmatico, Melinda",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500804,"Gutierrez, Genalyn",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500336,"Lumberio, Nena",Residential,Gutierrez St.,281.0,281.0,281.0,281.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500382,"Malana, Ruel",Residential,Gutierrez St.,723.0,723.0,723.0,723.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,501739,"Melchor, Helen",Residential,Gutierrez St.,2225.0,2225.0,2225.0,2225.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500282,"Orgiba, Neddy",Residential,Gutierrez St.,556.0,556.0,556.0,556.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500384,"Ramirez, Josefa",Residential,Gutierrez St.,4284.0,4284.0,4284.0,4284.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,501375,"Ramirez, Josefa 2",Commercial,Gutierrez St.,594.0,594.0,594.0,594.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,500639,"Rejuso, Dina",Residential,Gutierrez St.,1769.0,1769.0,1769.0,1769.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,501459,"Sevillano, Lony",Residential,"Gutierrez St., Dist. 1",2223.0,2223.0,2223.0,2223.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,500575,"Sevillano, Lony 2",Industrial,"Gutierrez St., Dist. 1",8933.0,8933.0,8933.0,8933.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Gutierrez Street,501515,"So, Margielyn",Commercial,"Gutierrez St., Dist. 1",3037.0,3037.0,3037.0,3037.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,500699,"Sopsop, Merly",,Gutierrez St.,1312.0,1312.0,1312.0,1312.0,0,Corrected,Active
-MAY,2022,Q2,,Gutierrez Street,501543,"Villamor, Andrie",,Gutierrez St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Gutierrez Street,500699,"Sopsop, Merly",Residential,Gutierrez St.,1312.0,1312.0,1312.0,1312.0,0,Corrected,Active
+MAY,2022,Q2,,Gutierrez Street,501543,"Villamor, Andrie",Residential,Gutierrez St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Balcavem Street,501099,"Villahermosa, Lita",Residential,"Balcavem St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,500901,"Alapad, Larry",Residential,"Jones St., Dist. 2",1140.0,1140.0,1140.0,1140.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501870,"Alcantara, Amy/Cantela, Laiza",Residential,"Jones St., Dist. 2",5.0,5.0,5.0,5.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,500343,"AlmiÃ±ana, Hanani",,Jones St.,3368.0,3368.0,3368.0,3368.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,500795,"AlmiÃ±e, Edwin",,Jones St.,282.0,282.0,282.0,282.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,500799,"AlmiÃ±e, Flor",,Jones St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Jones Street,500165,"AlmiÃ±e, Jose",,Jones St.,5482.0,5482.0,5482.0,5482.0,0,Corrected,Active
-MAY,2022,Q2,District 2,Jones Street,500653,"Almodal, Noe",Commercial,"Jones St., Dist. 2",1776.0,1776.0,1776.0,1776.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,500343,"Alminana, Hanani",Residential,"Jones St., Dist. 2",3368.0,3368.0,3368.0,3368.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,500795,"Almine, Edwin",Residential,"Jones St., Dist. 2",282.0,282.0,282.0,282.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,500799,"Almine, Flor",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Jones Street,500165,"Almine, Jose",Residential,"Jones St., Dist. 2",5482.0,5482.0,5482.0,5482.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,500653,"Almodal, Noe",Residential,"Jones St., Dist. 2",1776.0,1776.0,1776.0,1776.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501164,"Almodiel, Arlyn",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,501315,"Almodiel, Adelisa",Residential,"Jones St., Dist. 2",2131.0,2131.0,2131.0,2131.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501312,"Almodiel, Jose Glen",Residential,"Jones St., Dist. 2",1332.0,1332.0,1332.0,1332.0,0,Corrected,Active
@@ -1294,7 +1294,7 @@ MAY,2022,Q2,District 2,Jones Street,500735,"Aspa, Willy",Residential,"Jones St.,
 MAY,2022,Q2,District 2,Jones Street,501189,"Bailon, Nerry Rose",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,500463,"Barredo, Edgar",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,500761,"Barrun, Adolfo",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,District 2,Jones Street,501499,"Barrun, Elizabeth",Commercial,"Jones St., Dist. 2",947.0,947.0,947.0,947.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,501499,"Barrun, Elizabeth",Residential,"Jones St., Dist. 2",947.0,947.0,947.0,947.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500898,"Barrun, Jean",Residential,"Jones St., Dist. 2",6661.0,6661.0,6661.0,6661.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500272,"Barrun, Jesus",Residential,"Jones St., Dist. 2",2451.0,2451.0,2451.0,2451.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501714,"Barrun, Marivic",Residential,"Jones St., Dist. 2",704.0,704.0,704.0,704.0,0,Corrected,Active
@@ -1348,8 +1348,8 @@ MAY,2022,Q2,District 2,Jones Street,501273,"Borromeo, Rosie",Residential,"Jones 
 MAY,2022,Q2,District 2,Jones Street,501658,"Bueta, Alberto Romulo",Residential,"Jones St., Dist. 2",256.0,256.0,256.0,256.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501667,"Bueta, Odessey",Residential,"Jones St., Dist. 2",277.0,277.0,277.0,277.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501718,"Buenacida, Marites",Residential,"Jones St., Dist. 2",434.0,434.0,434.0,434.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,501093,"CaÃ±ares, Carmen",,Jones St.,2661.0,2661.0,2661.0,2661.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,500437,"CaÃ±ares, Nimfa",,Jones St.,692.0,692.0,692.0,692.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,501093,"Canares, Carmen",Residential,"Jones St., Dist. 2",2661.0,2661.0,2661.0,2661.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,500437,"Canares, Nimfa",Residential,"Jones St., Dist. 2",692.0,692.0,692.0,692.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501055,"Cantela, Zaida",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,500350,"Cantoria, Efren",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,501282,"Cantoria, Efren 2",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
@@ -1422,11 +1422,11 @@ MAY,2022,Q2,District 2,Jones Street,500778,"Espenilla, Tessie",Residential,"Jone
 MAY,2022,Q2,District 2,Jones Street,500424,"Espinosa, Edralin",Residential,"Jones St., Dist. 2",7601.0,7601.0,7601.0,7601.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500897,"Espinosa, Elsie",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,500482,"Espinosa, Melchor",Residential,"Jones St., Dist. 2",141.0,141.0,141.0,141.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,501814,"Garais, May-ann",,Jones St.,96.0,96.0,96.0,96.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,501814,"Garais, May-ann",Residential,"Jones St., Dist. 2",96.0,96.0,96.0,96.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500548,"Gelotin, Isaias",Residential,"Jones St., Dist. 2",2047.0,2047.0,2047.0,2047.0,0,Corrected,Active
-MAY,2022,Q2,,Jones Street,500339,"Genova, Erlinda",,Jones St.,2443.0,2443.0,2443.0,2443.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,500339,"Genova, Erlinda",Residential,"Jones St., Dist. 2",2443.0,2443.0,2443.0,2443.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Don Juan Street,501238,"Gerona, Siony",Residential,"Don Juan St., Dist. 2",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Jones Street,501366,"Gragas, Jon-Jon",,Jones St.,1792.0,1792.0,1792.0,1792.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,501366,"Gragas, Jon-Jon",Residential,"Jones St., Dist. 2",1792.0,1792.0,1792.0,1792.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501084,"Gragas, Melit",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 2,Jones Street,501108,"Grantos, Rizza",Commercial,"Jones St., Dist. 2",967.0,967.0,967.0,967.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501726,"Day Care Center c/o Gubangco, Lino",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Unknown
@@ -1478,7 +1478,7 @@ MAY,2022,Q2,District 2,Jones Street,501350,"Mortiga, Ramir",Residential,"Jones S
 MAY,2022,Q2,District 2,Jones Street,500742,"Mortiga, Rex",Residential,"Jones St., Dist. 2",588.0,588.0,588.0,588.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,501630,"Mores, Hera Myra",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 2,Jones Street,501097,"Nuevo, Blanca",Residential,"Jones St., Dist. 2",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Jones Street,501582,"NuÃ±ez, Leny",,Jones St.,316.0,316.0,316.0,316.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Jones Street,501582,"Nunez, Leny",Residential,"Jones St., Dist. 2",316.0,316.0,316.0,316.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500855,"Oliva, Ely",Residential,"Jones St., Dist. 2",3160.0,3160.0,3160.0,3160.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500828,"Pontalba, Joselon",Residential,"Jones St., Dist. 2",1283.0,1283.0,1283.0,1283.0,0,Corrected,Active
 MAY,2022,Q2,District 2,Jones Street,500417,"Prac, Pepe",Residential,"Jones St., Dist. 2",680.0,680.0,680.0,680.0,0,Corrected,Active
@@ -1526,10 +1526,10 @@ MAY,2022,Q2,District 3,Letada Street,501010,"Adiaton, Alma",Residential,"Letada 
 MAY,2022,Q2,District 3,Letada Street,501791,"Adiaton, Nanette",Residential,"Letada St., Dist. 3",15.0,15.0,15.0,15.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Letada Street,500820,"Alcantara, Isabel",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Letada Street,500244,"Almerol, Jose",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Letada Street,501247,"AlmiÃ±e, Maricel",,Letada St.,1620.0,1620.0,1620.0,1620.0,0,Corrected,Active
-MAY,2022,Q2,,Letada Street,501388,"AlmiraÃ±ez, Antonio",,Letada St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Letada Street,501035,"AlmiraÃ±ez, Danilo",,Letada St.,568.0,568.0,568.0,568.0,0,Corrected,Active
-MAY,2022,Q2,,Letada Street,500234,"AlmiraÃ±ez, Francisco",,Letada St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 3,Letada Street,501247,"Almine, Maricel",Residential,"Letada St., Dist. 3",1620.0,1620.0,1620.0,1620.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Letada Street,501388,"Almiranez, Antonio",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 3,Letada Street,501035,"Almiranez, Danilo",Residential,"Letada St., Dist. 3",568.0,568.0,568.0,568.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Letada Street,500234,"Almiranez, Francisco",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Letada Street,500110,"Almocera, Francisco Sr.",Residential,"Letada St., Dist. 3",5440.0,5440.0,5440.0,5440.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Letada Street,500757,"Almodiel, Purisima",Residential,"Letada St., Dist. 3",1171.0,1171.0,1171.0,1171.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Letada Street,500122,"Almoete, Maripaz",Residential,"Letada St., Dist. 3",3263.0,3263.0,3263.0,3263.0,0,Corrected,Active
@@ -1537,7 +1537,7 @@ MAY,2022,Q2,District 3,Letada Street,501633,"Almoete, Mark Anthony",Residential,
 MAY,2022,Q2,District 3,Letada Street,500593,"Almonte, Edgar Sr.",Residential,"Letada St., Dist. 3",3227.0,3227.0,3227.0,3227.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Letada Street,500765,"Almonte, Rogelio",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Defect
 MAY,2022,Q2,District 3,Letada Street,501135,"Almonte, Virginia",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Defect
-MAY,2022,Q2,,Letada Street,501540,"Alon-Alon, Marita",,Letada St.,401.0,401.0,401.0,401.0,0,Corrected,Active
+MAY,2022,Q2,District 3,Letada Street,501540,"Alon-Alon, Marita",Residential,"Letada St., Dist. 3",401.0,401.0,401.0,401.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Letada Street,501463,"Aton, Pio",Residential,"Letada St., Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Letada Street,500341,"Avila, Jelina",Residential,"Letada St., Dist. 3",846.0,846.0,846.0,846.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Letada Street,501697,"Balingasa, Jea",Residential,"Letada St., Dist. 3",143.0,143.0,143.0,143.0,0,Corrected,Active
@@ -1602,7 +1602,7 @@ MAY,2022,Q2,District 3,Letada Street,500665,"Zacarias, Almira",Residential,"Leta
 MAY,2022,Q2,District 1,Lique Street,500660,"Alcala, Felix Jr.",Residential,"Lique St., Dist. 1",1623.0,1623.0,1623.0,1623.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Lique Street,501400,"Alcantara, Sheena",Commercial,"Lique St., Dist. 1",264.0,264.0,264.0,264.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Lique Street,500256,"Almodal, Evelyn",Commercial,"Lique St., Dist. 1",5949.0,5949.0,5949.0,5949.0,0,Corrected,Active
-MAY,2022,Q2,,Lique Street,500506,"AlmiÃ±e, Filipino",,Lique St.,2888.0,2888.0,2888.0,2888.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Lique Street,500506,"Almine, Filipino",Residential,"Lique St., Dist. 1",2888.0,2888.0,2888.0,2888.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Lique Street,500471,"Almodiel, Josefina",Residential,"Lique St., Dist. 1",324.0,324.0,324.0,324.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Lique Street,501705,"Almodiel, Ullysis",Residential,"Lique St., Dist. 4",345.0,345.0,345.0,345.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Lique Street,500361,"Almoete, Joey",Residential,"Lique St., Dist. 1",1922.0,1922.0,1922.0,1922.0,0,Corrected,Active
@@ -1677,199 +1677,199 @@ MAY,2022,Q2,District 3,Lique Street,500119,"Villamor, Anecia",Residential,"Lique
 MAY,2022,Q2,District 3,Lique Street,501644,"Villamor, Arthus Jr.",Residential,"Lique St., Dist. 3",254.0,254.0,254.0,254.0,0,Corrected,Active
 MAY,2022,Q2,District 1,Lique Street,500280,"Villamor, Ceasar Jr.",Residential,"Lique St., Dist. 1",3469.0,3469.0,3469.0,3469.0,0,Corrected,Active
 MAY,2022,Q2,District 3,Lique Street,500279,"Villamor, Maria",Residential,"Lique St., Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501656,"AlbaÃ±o, Elvin",,Moyot St.,589.0,589.0,589.0,589.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501385,"AlbaÃ±o, Emie",,Moyot St.,1182.0,1182.0,1182.0,1182.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501855,"AlbaÃ±o, Jugie",,Moyot St.,26.0,26.0,26.0,26.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501106,"Abelgas, Nesselyn",Residential,Moyot St. ,309.0,309.0,309.0,309.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501593,"Alicante, Bienvenido",Residential,Moyot St. ,380.0,380.0,380.0,380.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500724,"AlmiÃ±e, Edna",,Moyot St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500132,"AlmiÃ±e, Estrella/Merillo, Analyn",,Moyot St.,226.0,226.0,226.0,226.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500528,"AlmiÃ±e, Nila",,Moyot St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501104,"AlmiÃ±e, Oscar",,Moyot St.,502.0,502.0,502.0,502.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501668,"Almodal, Khrisna",Residential,Moyot St. ,1306.0,1306.0,1306.0,1306.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501132,"Almodiel, Carlito",Residential,Moyot St. ,1738.0,1738.0,1738.0,1738.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501606,"Almodiel, Edgar",Residential,Moyot St. ,179.0,179.0,179.0,179.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501185,"Almodiel, Joselyn",Residential,Moyot St. ,515.0,515.0,515.0,515.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501119,"Almodiel, Jolly",Residential,Moyot St. ,766.0,766.0,766.0,766.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501414,"Almodiel, Rusiel",Residential,Moyot St. ,379.0,379.0,379.0,379.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500577,"Almoete, Flor",Residential,Moyot St. Dist. 1,599.0,599.0,599.0,599.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501862,"Almoguerra, Kenneth",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Moyot Street,500571,"Almoguerra, Melinda",Commercial,Moyot St. ,2603.0,2603.0,2603.0,2603.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500042,"Almojuela, Purisima",Residential,Moyot St. ,4645.0,4645.0,4645.0,4645.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501594,"Almonte, Jasper",Residential,Moyot St. ,656.0,656.0,656.0,656.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500706,"Almonte, Lolita",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501346,"Adorna, Arlene",Residential,Moyot St. ,326.0,326.0,326.0,326.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501146,"Almosara, Domingo",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,500212,"Almosara, Gerald",Residential,Moyot St. ,450.0,450.0,450.0,450.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500017,"Almosara, Elsie",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500208,"Anabe, Glenda",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500603,"AÃ±onuevo, Calixto",,Moyot St.,2107.0,2107.0,2107.0,2107.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500432,"Arranzado, Jay",Residential,Moyot St. ,602.0,602.0,602.0,602.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500040,"Balacano, Alfredo",Residential,Moyot St. ,617.0,617.0,617.0,617.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501214,"Barillo, Vilma",Residential,Moyot St. ,3603.0,3603.0,3603.0,3603.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501678,"Barrun, Aristotelis",Residential,Moyot St. ,436.0,436.0,436.0,436.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501598,"Barrun, Janeth",Residential,Moyot St. ,840.0,840.0,840.0,840.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500175,"Barrun, Ma. Naty",Residential,Moyot St. ,3391.0,3391.0,3391.0,3391.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500763,"Barrun, Nilo",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501591,"Baruelo, Danding",Residential,Moyot St. ,277.0,277.0,277.0,277.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500745,"Barsaga, Evelyn",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500950,"Barsaga, Realina",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500492,"Bartolabac, Romeo",Commercial,Moyot St. ,1060.0,1060.0,1060.0,1060.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500829,"Bartolabac, Romulo",Residential,Moyot St. ,956.0,956.0,956.0,956.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501426,"Bartolata, Lita",Residential,Moyot St. ,989.0,989.0,989.0,989.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501373,"Bartolay, Eden",Residential,Moyot St. ,807.0,807.0,807.0,807.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501455,"Bartolay, Marry Con",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501444,"Basas, Nida",Residential,Moyot St. ,502.0,502.0,502.0,502.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501599,"Basas, Nida 2",Residential,Moyot St. ,2121.0,2121.0,2121.0,2121.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501148,"Basas, Richard/SJNHS",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501604,"Basical, Yusep",Residential,Moyot St. ,470.0,470.0,470.0,470.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501605,"Bautista, John Henry",Residential,Moyot St. ,271.0,271.0,271.0,271.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501043,"Blanco, Amado Jr.",Residential,Moyot St. ,255.0,255.0,255.0,255.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500194,"Blanco, Nelia",Residential,Moyot St. ,312.0,312.0,312.0,312.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501431,"Bunao, Ariel",Residential,Moyot St. ,1020.0,1020.0,1020.0,1020.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501435,"Buetizon, Estifania",Residential,Moyot St. ,1079.0,1079.0,1079.0,1079.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500880,"Cabug, Nemma",Residential,Moyot St. ,1946.0,1946.0,1946.0,1946.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501193,"Canero, Marilou",Residential,Moyot St. ,2085.0,2085.0,2085.0,2085.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501776,"Cantela, Joy",Residential,Moyot St. ,57.0,57.0,57.0,57.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500041,"Cantoria, Catalina",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500555,"Cantoria, Ely",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501550,"Cantoria, Jose",Residential,Moyot St. ,711.0,711.0,711.0,711.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500871,"Cantoria, Joriz",Residential,Moyot St. ,642.0,642.0,642.0,642.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501244,"Cantoria, Maureen",Residential,Moyot St. ,532.0,532.0,532.0,532.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501471,"Cantoria, Marilou",Residential,Moyot St. ,831.0,831.0,831.0,831.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500038,"Cantoria, Nerissa",Residential,Moyot St. ,813.0,813.0,813.0,813.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501612,"Capsa, Maricel",Residential,Moyot St. ,522.0,522.0,522.0,522.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500916,"Capsa, Rusiel",Residential,Moyot St. ,2781.0,2781.0,2781.0,2781.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501170,"Cheshire, Christopher James",Residential,Moyot St. ,1887.0,1887.0,1887.0,1887.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501183,"Concensino, Rita",Residential,Moyot St. ,1973.0,1973.0,1973.0,1973.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500637,"Constantino, Dolores",Residential,Moyot St. ,2241.0,2241.0,2241.0,2241.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501412,"De Asis, Irene",Residential,Moyot St. ,761.0,761.0,761.0,761.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500499,"Deinla, Lorna",Residential,Moyot St. ,2767.0,2767.0,2767.0,2767.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501631,"Deinla, Remedios",Residential,Moyot St. ,228.0,228.0,228.0,228.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501721,"Dejucos, Melchor",Residential,Moyot St. ,100.0,100.0,100.0,100.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501258,"Delariarte, Marivic",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,500406,"Delavin, Caridad",Residential,Moyot St. ,6533.0,6533.0,6533.0,6533.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500240,"Delavin, Nelly",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501470,"Delavin, Nonito",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Moyot Street,501374,"Delavin, Ma. Chinel",Residential,Moyot St. ,94.0,94.0,94.0,94.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500052,"Delavin, Nestor",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500422,"Delavin, Roderick",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500785,"Delos Santos, Flora",Commercial,Moyot St. ,380.0,380.0,380.0,380.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501269,"Delos Santos, Margie",Commercial,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501390,"Dilao, Andres",Residential,Moyot St. ,2034.0,2034.0,2034.0,2034.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500412,"Dilao, Arceli",Residential,Moyot St. Dist. 1,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500246,"Duran, Nena",Residential,Moyot St. ,2364.0,2364.0,2364.0,2364.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501513,"Esparrago, Jessella May",Residential,Moyot St. ,597.0,597.0,597.0,597.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501861,"Esparraguerra, Aida",Residential,Moyot St. ,102.0,102.0,102.0,102.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501789,"Espinosa, Arman Silvestre",Residential,Moyot St. ,82.0,82.0,82.0,82.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501405,"Espinosa, Floyd",Residential,Moyot St. ,2982.0,2982.0,2982.0,2982.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501139,"Espenida, Eden",Residential,Moyot St. ,2676.0,2676.0,2676.0,2676.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500599,"Espenilla, Adelina",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500716,"Espenilla, Analyn",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,500549,"Espenilla, Carlos",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500050,"Espenilla, Evelyn",Residential,Moyot St. ,2834.0,2834.0,2834.0,2834.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500211,"Espenilla, Dominador",Residential,Moyot St. ,453.0,453.0,453.0,453.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500037,"Espera, Nory",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500053,"Esplana, Nonita",Commercial,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501815,"Fernandez, Raymart Vincent",Residential,Moyot St. ,200.0,200.0,200.0,200.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501810,"Gallego, Mary Fe",Residential,Moyot St. ,50.0,50.0,50.0,50.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501719,"Garamay, Marites",Residential,Moyot St. ,257.0,257.0,257.0,257.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501479,"Garamay, Romer",Residential,Moyot St. ,1902.0,1902.0,1902.0,1902.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500486,"Gebilaguin, Egdono",Industrial,Moyot St. ,3303.0,3303.0,3303.0,3303.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501602,"Gebilaguin, Lea",Residential,Moyot St. ,1931.0,1931.0,1931.0,1931.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501733,"Gebilaguin, Nilda",Residential,Moyot St. ,28.0,28.0,28.0,28.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501389,"Grencio, Joel",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501860,"Gido, Ruel",Residential,Moyot St. ,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,Moyot Street,501818,"Giga, Marlou",Residential,Moyot St. ,23.0,23.0,23.0,23.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501179,"Giray, Josephine",Residential,Moyot St. ,1007.0,1007.0,1007.0,1007.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501609,"Gois, Mely Grace",Residential,Moyot St. ,738.0,738.0,738.0,738.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500189,"Guarnes, Nove",Residential,Moyot St. ,1857.0,1857.0,1857.0,1857.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501603,"Gutierrez, Elvisa",Residential,Moyot St. ,2012.0,2012.0,2012.0,2012.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500016,"Gutierrez, Robert",Residential,Moyot St. ,304.0,304.0,304.0,304.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501483,"Hayohay, Muriel",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,500808,"Jaingue, Emma",Residential,Moyot St. ,109.0,109.0,109.0,109.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501627,"Jardin, Elisa",Residential,Moyot St. ,1521.0,1521.0,1521.0,1521.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501611,"Lado, Eleonor",Residential,Moyot St. ,670.0,670.0,670.0,670.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500853,"Latagan, David",Residential,Moyot St. ,809.0,809.0,809.0,809.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500601,"Laureano, Rane",Residential,Moyot St. ,3552.0,3552.0,3552.0,3552.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500054,"Leonino, Fe",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,500439,"Leyco, Elena",Residential,Moyot St. ,2973.0,2973.0,2973.0,2973.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501622,"Ligbao, Nora",Residential,Moyot St. ,503.0,503.0,503.0,503.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500051,"Lignes, Nena",Residential,Moyot St. ,531.0,531.0,531.0,531.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501628,"Lique, Nida",Residential,Moyot St. ,964.0,964.0,964.0,964.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500568,LBES,Residential,Moyot St. ,1996.0,1996.0,1996.0,1996.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501169,Luna Rowena,Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501343,"Macoy, Marilou",Residential,Moyot St. ,1841.0,1841.0,1841.0,1841.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500954,"Magbalon, Elizabeth",Residential,Moyot St. ,434.0,434.0,434.0,434.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501354,"Mahusay, Gina",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501103,"Malana, Elvie 2",Commercial,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,501302,"Malana, Elvie 3",Commercial,Moyot St. ,2916.0,2916.0,2916.0,2916.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500329,"Malana, Renerio",Residential,Moyot St. ,1527.0,1527.0,1527.0,1527.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501809,"Maravilla, Nacor",Residential,Moyot St. ,12.0,12.0,12.0,12.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501305,"Merillo, Napoleon",Residential,Moyot St. ,1344.0,1344.0,1344.0,1344.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501417,"Monasterio, Angelina",Residential,Moyot St. ,665.0,665.0,665.0,665.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500664,NAPOCOR,Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501551,"Omilgo, Michelle",Residential,Moyot St. ,1088.0,1088.0,1088.0,1088.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500894,"Ongonion, Crisanto",Residential,Moyot St. ,2201.0,2201.0,2201.0,2201.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500039,"Ongonion, Leonora",Commercial,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501231,"Oraa, Editha",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,500131,"Palermo, Norie",Residential,Moyot St. ,2371.0,2371.0,2371.0,2371.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501358,"Pontalba, Joel",Residential,Moyot St. ,5726.0,5726.0,5726.0,5726.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501107,"Pura, Leny",Residential,Moyot St. ,,,,,0,Corrected,Defect
-MAY,2022,Q2,,Moyot Street,500018,"Quijano, Asteria",Residential,Moyot St. ,3966.0,3966.0,3966.0,3966.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501478,"Rejuso, Andres",Residential,Moyot St. ,362.0,362.0,362.0,362.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500959,"Rejuso, Arnold",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501740,"Rodavia, Carmen",Residential,Moyot St. ,12.0,12.0,12.0,12.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500844,"Rosero, Frangie",Residential,Moyot St. ,2308.0,2308.0,2308.0,2308.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500712,SJNHS-II,,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 2,Moyot Street,501656,"Albano, Elvin",Residential,"Moyot St., Dist. 2",589.0,589.0,589.0,589.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Moyot Street,501385,"Albano, Emie",Residential,"Moyot St., Dist. 2",1182.0,1182.0,1182.0,1182.0,0,Corrected,Active
+MAY,2022,Q2,District 2,Moyot Street,501855,"Albano, Jugie",Residential,"Moyot St., Dist. 2",26.0,26.0,26.0,26.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501106,"Abelgas, Nesselyn",Residential,Moyot St.,309.0,309.0,309.0,309.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501593,"Alicante, Bienvenido",Residential,Moyot St.,380.0,380.0,380.0,380.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500724,"Almine, Edna",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500132,"Almine, Estrella/Merillo, Analyn",Residential,Moyot St.,226.0,226.0,226.0,226.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500528,"Almine, Nila",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501104,"Almine, Oscar",Residential,Moyot St.,502.0,502.0,502.0,502.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501668,"Almodal, Khrisna",Residential,Moyot St.,1306.0,1306.0,1306.0,1306.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501132,"Almodiel, Carlito",Residential,Moyot St.,1738.0,1738.0,1738.0,1738.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501606,"Almodiel, Edgar",Residential,Moyot St.,179.0,179.0,179.0,179.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501185,"Almodiel, Joselyn",Residential,Moyot St.,515.0,515.0,515.0,515.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501119,"Almodiel, Jolly",Residential,Moyot St.,766.0,766.0,766.0,766.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501414,"Almodiel, Rusiel",Residential,Moyot St.,379.0,379.0,379.0,379.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Moyot Street,500577,"Almoete, Flor",Residential,"Moyot St., Dist. 1",599.0,599.0,599.0,599.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501862,"Almoguerra, Kenneth",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,Moyot Street,500571,"Almoguerra, Melinda",Commercial,Moyot St.,2603.0,2603.0,2603.0,2603.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500042,"Almojuela, Purisima",Residential,Moyot St.,4645.0,4645.0,4645.0,4645.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501594,"Almonte, Jasper",Residential,Moyot St.,656.0,656.0,656.0,656.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500706,"Almonte, Lolita",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501346,"Adorna, Arlene",Residential,Moyot St.,326.0,326.0,326.0,326.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501146,"Almosara, Domingo",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,500212,"Almosara, Gerald",Residential,Moyot St.,450.0,450.0,450.0,450.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500017,"Almosara, Elsie",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500208,"Anabe, Glenda",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500603,"Anonuevo, Calixto",Residential,Moyot St.,2107.0,2107.0,2107.0,2107.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500432,"Arranzado, Jay",Residential,Moyot St.,602.0,602.0,602.0,602.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500040,"Balacano, Alfredo",Residential,Moyot St.,617.0,617.0,617.0,617.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501214,"Barillo, Vilma",Residential,Moyot St.,3603.0,3603.0,3603.0,3603.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501678,"Barrun, Aristotelis",Residential,Moyot St.,436.0,436.0,436.0,436.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501598,"Barrun, Janeth",Commercial,Moyot St.,840.0,840.0,840.0,840.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500175,"Barrun, Ma. Naty",Residential,Moyot St.,3391.0,3391.0,3391.0,3391.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500763,"Barrun, Nilo",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501591,"Baruelo, Danding",Residential,Moyot St.,277.0,277.0,277.0,277.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500745,"Barsaga, Evelyn",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500950,"Barsaga, Realina",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500492,"Bartolabac, Romeo",Commercial,Moyot St.,1060.0,1060.0,1060.0,1060.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500829,"Bartolabac, Romulo",Residential,Moyot St.,956.0,956.0,956.0,956.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501426,"Bartolata, Lita",Residential,Moyot St.,989.0,989.0,989.0,989.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501373,"Bartolay, Eden",Residential,Moyot St.,807.0,807.0,807.0,807.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501455,"Bartolay, Marry Con",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501444,"Basas, Nida",Residential,Moyot St.,502.0,502.0,502.0,502.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501599,"Basas, Nida 2",Residential,Moyot St.,2121.0,2121.0,2121.0,2121.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501148,"Basas, Richard/SJNHS",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501604,"Basical, Yusep",Residential,Moyot St.,470.0,470.0,470.0,470.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501605,"Bautista, John Henry",Residential,Moyot St.,271.0,271.0,271.0,271.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501043,"Blanco, Amado Jr.",Residential,Moyot St.,255.0,255.0,255.0,255.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500194,"Blanco, Nelia",Residential,Moyot St.,312.0,312.0,312.0,312.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501431,"Bunao, Ariel",Residential,Moyot St.,1020.0,1020.0,1020.0,1020.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501435,"Buetizon, Estifania",Residential,Moyot St.,1079.0,1079.0,1079.0,1079.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500880,"Cabug, Nemma",Residential,Moyot St.,1946.0,1946.0,1946.0,1946.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501193,"Canero, Marilou",Residential,Moyot St.,2085.0,2085.0,2085.0,2085.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501776,"Cantela, Joy",Residential,Moyot St.,57.0,57.0,57.0,57.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500041,"Cantoria, Catalina",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500555,"Cantoria, Ely",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501550,"Cantoria, Jose",Residential,Moyot St.,711.0,711.0,711.0,711.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500871,"Cantoria, Joriz",Residential,Moyot St.,642.0,642.0,642.0,642.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501244,"Cantoria, Maureen",Residential,Moyot St.,532.0,532.0,532.0,532.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501471,"Cantoria, Marilou",Residential,Moyot St.,831.0,831.0,831.0,831.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500038,"Cantoria, Nerissa",Residential,Moyot St.,813.0,813.0,813.0,813.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501612,"Capsa, Maricel",Residential,Moyot St.,522.0,522.0,522.0,522.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500916,"Capsa, Rusiel",Residential,Moyot St.,2781.0,2781.0,2781.0,2781.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501170,"Cheshire, Christopher James",Residential,Moyot St.,1887.0,1887.0,1887.0,1887.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501183,"Concensino, Rita",Residential,Moyot St.,1973.0,1973.0,1973.0,1973.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500637,"Constantino, Dolores",Residential,Moyot St.,2241.0,2241.0,2241.0,2241.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501412,"De Asis, Irene",Residential,Moyot St.,761.0,761.0,761.0,761.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500499,"Deinla, Lorna",Residential,Moyot St.,2767.0,2767.0,2767.0,2767.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501631,"Deinla, Remedios",Residential,Moyot St.,228.0,228.0,228.0,228.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501721,"Dejucos, Melchor",Residential,Moyot St.,100.0,100.0,100.0,100.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501258,"Delariarte, Marivic",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,500406,"Delavin, Caridad",Residential,Moyot St.,6533.0,6533.0,6533.0,6533.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500240,"Delavin, Nelly",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501470,"Delavin, Nonito",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,Moyot Street,501374,"Delavin, Ma. Chinel",Residential,Moyot St.,94.0,94.0,94.0,94.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500052,"Delavin, Nestor",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500422,"Delavin, Roderick",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500785,"Delos Santos, Flora",Commercial,Moyot St.,380.0,380.0,380.0,380.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501269,"Delos Santos, Margie",Commercial,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501390,"Dilao, Andres",Residential,Moyot St.,2034.0,2034.0,2034.0,2034.0,0,Corrected,Active
+MAY,2022,Q2,District 1,Moyot Street,500412,"Dilao, Arceli",Residential,"Moyot St., Dist. 1",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500246,"Duran, Nena",Residential,Moyot St.,2364.0,2364.0,2364.0,2364.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501513,"Esparrago, Jessella May",Residential,Moyot St.,597.0,597.0,597.0,597.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501861,"Esparraguerra, Aida",Residential,Moyot St.,102.0,102.0,102.0,102.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501789,"Espinosa, Arman Silvestre",Residential,Moyot St.,82.0,82.0,82.0,82.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501405,"Espinosa, Floyd",Residential,Moyot St.,2982.0,2982.0,2982.0,2982.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501139,"Espenida, Eden",Residential,Moyot St.,2676.0,2676.0,2676.0,2676.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500599,"Espenilla, Adelina",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500716,"Espenilla, Analyn",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,500549,"Espenilla, Carlos",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500050,"Espenilla, Evelyn",Residential,Moyot St.,2834.0,2834.0,2834.0,2834.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500211,"Espenilla, Dominador",Residential,Moyot St.,453.0,453.0,453.0,453.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500037,"Espera, Nory",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500053,"Esplana, Nonita",Commercial,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501815,"Fernandez, Raymart Vincent",Residential,Moyot St.,200.0,200.0,200.0,200.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501810,"Gallego, Mary Fe",Residential,Moyot St.,50.0,50.0,50.0,50.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501719,"Garamay, Marites",Residential,Moyot St.,257.0,257.0,257.0,257.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501479,"Garamay, Romer",Residential,Moyot St.,1902.0,1902.0,1902.0,1902.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500486,"Gebilaguin, Egdono",Industrial,Moyot St.,3303.0,3303.0,3303.0,3303.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501602,"Gebilaguin, Lea",Residential,Moyot St.,1931.0,1931.0,1931.0,1931.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501733,"Gebilaguin, Nilda",Residential,Moyot St.,28.0,28.0,28.0,28.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501389,"Grencio, Joel",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501860,"Gido, Ruel",Residential,Moyot St.,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,Moyot Street,501818,"Giga, Marlou",Residential,Moyot St.,23.0,23.0,23.0,23.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501179,"Giray, Josephine",Residential,Moyot St.,1007.0,1007.0,1007.0,1007.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501609,"Gois, Mely Grace",Residential,Moyot St.,738.0,738.0,738.0,738.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500189,"Guarnes, Nove",Residential,Moyot St.,1857.0,1857.0,1857.0,1857.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501603,"Gutierrez, Elvisa",Residential,Moyot St.,2012.0,2012.0,2012.0,2012.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500016,"Gutierrez, Robert",Residential,Moyot St.,304.0,304.0,304.0,304.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501483,"Hayohay, Muriel",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,500808,"Jaingue, Emma",Residential,Moyot St.,109.0,109.0,109.0,109.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501627,"Jardin, Elisa",Residential,Moyot St.,1521.0,1521.0,1521.0,1521.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501611,"Lado, Eleonor",Residential,Moyot St.,670.0,670.0,670.0,670.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500853,"Latagan, David",Residential,Moyot St.,809.0,809.0,809.0,809.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500601,"Laureano, Rane",Residential,Moyot St.,3552.0,3552.0,3552.0,3552.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500054,"Leonino, Fe",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,500439,"Leyco, Elena",Residential,Moyot St.,2973.0,2973.0,2973.0,2973.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501622,"Ligbao, Nora",Residential,Moyot St.,503.0,503.0,503.0,503.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500051,"Lignes, Nena",Residential,Moyot St.,531.0,531.0,531.0,531.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501628,"Lique, Nida",Residential,Moyot St.,964.0,964.0,964.0,964.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500568,LBES,Residential,Moyot St.,1996.0,1996.0,1996.0,1996.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501169,Luna Rowena,Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501343,"Macoy, Marilou",Residential,Moyot St.,1841.0,1841.0,1841.0,1841.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500954,"Magbalon, Elizabeth",Residential,Moyot St.,434.0,434.0,434.0,434.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501354,"Mahusay, Gina",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501103,"Malana, Elvie 2",Commercial,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,501302,"Malana, Elvie 3",Commercial,Moyot St.,2916.0,2916.0,2916.0,2916.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500329,"Malana, Renerio",Residential,Moyot St.,1527.0,1527.0,1527.0,1527.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501809,"Maravilla, Nacor",Residential,Moyot St.,12.0,12.0,12.0,12.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501305,"Merillo, Napoleon",Residential,Moyot St.,1344.0,1344.0,1344.0,1344.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501417,"Monasterio, Angelina",Residential,Moyot St.,665.0,665.0,665.0,665.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500664,NAPOCOR,Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501551,"Omilgo, Michelle",Residential,Moyot St.,1088.0,1088.0,1088.0,1088.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500894,"Ongonion, Crisanto",Residential,Moyot St.,2201.0,2201.0,2201.0,2201.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500039,"Ongonion, Leonora",Commercial,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501231,"Oraa, Editha",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,500131,"Palermo, Norie",Residential,Moyot St.,2371.0,2371.0,2371.0,2371.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501358,"Pontalba, Joel",Residential,Moyot St.,5726.0,5726.0,5726.0,5726.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501107,"Pura, Leny",Residential,Moyot St.,,,,,0,Corrected,Defect
+MAY,2022,Q2,,Moyot Street,500018,"Quijano, Asteria",Residential,Moyot St.,3966.0,3966.0,3966.0,3966.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501478,"Rejuso, Andres",Residential,Moyot St.,362.0,362.0,362.0,362.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500959,"Rejuso, Arnold",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501740,"Rodavia, Carmen",Residential,Moyot St.,12.0,12.0,12.0,12.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500844,"Rosero, Frangie",Residential,Moyot St.,2308.0,2308.0,2308.0,2308.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500712,SJNHS-II,Residential,Moyot St.,,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 3,Letada Street,500134,"Sola, Manuel",Residential,"Letada St., Dist. 3",2782.0,2782.0,2782.0,2782.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501610,"Sola, Daniel",Residential,Moyot St. ,1242.0,1242.0,1242.0,1242.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500614,"Tolentino, Pamela",Residential,Moyot St. ,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Moyot Street,501607,"Villamor, Analyn",Residential,Moyot St. ,1280.0,1280.0,1280.0,1280.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,501213,"Verano, Eduardo",Residential,Moyot St. ,903.0,903.0,903.0,903.0,0,Corrected,Active
-MAY,2022,Q2,,Moyot Street,500227,"Young, Marleen",Residential,Moyot St. ,2571.0,2571.0,2571.0,2571.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501793,"Alminana, William Don",,NHA Duplex,286.0,286.0,286.0,286.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501786,"Almine, June Vincent",,NHA Duplex,307.0,307.0,307.0,307.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501881,"Almodiel, Jerome",,NHA Duplex,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,NHA Duplex,501895,"Almosara, Gloria",,NHA Duplex,,,,,0,Corrected,Unknown
-MAY,2022,Q2,,NHA Duplex,501807,"Altiche, Jean",,NHA Duplex,159.0,159.0,159.0,159.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501787,"Aspa, Ben",,NHA Duplex,156.0,156.0,156.0,156.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501795,"Cantoria, Mary Jane",,NHA Duplex,527.0,527.0,527.0,527.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501610,"Sola, Daniel",Residential,Moyot St.,1242.0,1242.0,1242.0,1242.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500614,"Tolentino, Pamela",Residential,Moyot St.,,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,Moyot Street,501607,"Villamor, Analyn",Residential,Moyot St.,1280.0,1280.0,1280.0,1280.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,501213,"Verano, Eduardo",Residential,Moyot St.,903.0,903.0,903.0,903.0,0,Corrected,Active
+MAY,2022,Q2,,Moyot Street,500227,"Young, Marleen",Residential,Moyot St.,2571.0,2571.0,2571.0,2571.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501793,"Alminana, William Don",Residential,NHA Duplex,286.0,286.0,286.0,286.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501786,"Almine, June Vincent",Residential,NHA Duplex,307.0,307.0,307.0,307.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501881,"Almodiel, Jerome",Residential,NHA Duplex,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,NHA Duplex,501895,"Almosara, Gloria",Residential,NHA Duplex,,,,,0,Corrected,Unknown
+MAY,2022,Q2,,NHA Duplex,501807,"Altiche, Jean",Residential,NHA Duplex,159.0,159.0,159.0,159.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501787,"Aspa, Ben",Residential,NHA Duplex,156.0,156.0,156.0,156.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501795,"Cantoria, Mary Jane",Residential,NHA Duplex,527.0,527.0,527.0,527.0,0,Corrected,Active
 MAY,2022,Q2,Lipata,Fabmar Street,501853,"Dejucos, Jonel",Residential,"Fabmar St., Lipata",27.0,27.0,27.0,27.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501790,Escorel Wenico,,NHA Duplex,81.0,81.0,81.0,81.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501788,"Esparrago, Jesus",,NHA Duplex,379.0,379.0,379.0,379.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501700,"Galero, Guin Carlo",,NHA Duplex,1033.0,1033.0,1033.0,1033.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501874,"Gelotin, Maria",,NHA Duplex,47.0,47.0,47.0,47.0,0,Corrected,Active
-MAY,2022,Q2,,NHA Duplex,501794,"Villamor, Marlon",,NHA Duplex,191.0,191.0,191.0,191.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501852,"Afable, Florina",Residential,"Talaba, Burgos",5.0,5.0,5.0,5.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501822,"Almine, Loida",Residential,"Talaba, Burgos",61.0,61.0,61.0,61.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501831,"Almoete, Rafael",Residential,"Talaba, Burgos",148.0,148.0,148.0,148.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501811,"Almosara, Medy",Residential,"Talaba, Burgos",114.0,114.0,114.0,114.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501848,"Arcenas, John Chris",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501836,"Bartolata, Nobe",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501832,"Bartolay, Ruel",Residential,"Talaba, Burgos",30.0,30.0,30.0,30.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501844,"Barrun, Jerson",Residential,"Talaba, Burgos",84.0,84.0,84.0,84.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501875,"Cantela, Arlou",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Binaliw,501885,"Dejucos, Gina",Residential,"Binaliw, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501830,"Dejumo, Rosemalyn",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501854,"Delavin, Mila",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501859,"Demabasa, Benjay",Residential,"Talaba, Burgos",18.0,18.0,18.0,18.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501846,"Emata, Anelyn",Residential,"Talaba, Burgos",31.0,31.0,31.0,31.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501833,"Floresta, Marjorie",Residential,"Talaba, Burgos",55.0,55.0,55.0,55.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501834,"Gebilaguin, Juan",Residential,"Talaba, Burgos",20.0,20.0,20.0,20.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501829,"Gebilaguin, Melba",Residential,"Talaba, Burgos",71.0,71.0,71.0,71.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501821,"Gutierrez, Liza",,"Talaba, Burgos",7.0,7.0,7.0,7.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501849,"Julaton, Marlon",,"Talaba, Burgos",58.0,58.0,58.0,58.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501824,"Letada, Nida",,"Talaba, Burgos",19.0,19.0,19.0,19.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501856,"Llanto, Judex",,"Talaba, Burgos",22.0,22.0,22.0,22.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501826,"Morilla, Edna (1)",Residential,"Talaba, Burgos",51.0,51.0,51.0,51.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501827,"Morilla, Edna (2)",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501828,"Morilla, Edna (3)",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Talaba,501825,"Oliva, Maricel",Residential,"Talaba, Burgos",36.0,36.0,36.0,36.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501839,"Romero, Cecil",Residential,"Talaba, Burgos",34.0,34.0,34.0,34.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501841,"Romero, Marta",Residential,"Talaba, Burgos",19.0,19.0,19.0,19.0,0,Corrected,Active
-MAY,2022,Q2,Burgos,Talaba,501869,"Sola, John Marvin",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2022,Q2,Burgos,Tangnan,501990,"Cavestany, Myleen",,"Tangnan, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,NHA Duplex,501790,Escorel Wenico,Residential,NHA Duplex,81.0,81.0,81.0,81.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501788,"Esparrago, Jesus",Residential,NHA Duplex,379.0,379.0,379.0,379.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501700,"Galero, Guin Carlo",Residential,NHA Duplex,1033.0,1033.0,1033.0,1033.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501874,"Gelotin, Maria",Residential,NHA Duplex,47.0,47.0,47.0,47.0,0,Corrected,Active
+MAY,2022,Q2,,NHA Duplex,501794,"Villamor, Marlon",Residential,NHA Duplex,191.0,191.0,191.0,191.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501852,"Afable, Florina",Residential,"Talaba, Burgos",5.0,5.0,5.0,5.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501822,"Almine, Loida",Residential,"Talaba, Burgos",61.0,61.0,61.0,61.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501831,"Almoete, Rafael",Residential,"Talaba, Burgos",148.0,148.0,148.0,148.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501811,"Almosara, Medy",Residential,"Talaba, Burgos",114.0,114.0,114.0,114.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501848,"Arcenas, John Chris",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501836,"Bartolata, Nobe",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501832,"Bartolay, Ruel",Residential,"Talaba, Burgos",30.0,30.0,30.0,30.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501844,"Barrun, Jerson",Residential,"Talaba, Burgos",84.0,84.0,84.0,84.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501875,"Cantela, Arlou",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Binaliw, Burgos",501885,"Dejucos, Gina",Residential,"Binaliw, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501830,"Dejumo, Rosemalyn",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501854,"Delavin, Mila",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501859,"Demabasa, Benjay",Residential,"Talaba, Burgos",18.0,18.0,18.0,18.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501846,"Emata, Anelyn",Residential,"Talaba, Burgos",31.0,31.0,31.0,31.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501833,"Floresta, Marjorie",Residential,"Talaba, Burgos",55.0,55.0,55.0,55.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501834,"Gebilaguin, Juan",Residential,"Talaba, Burgos",20.0,20.0,20.0,20.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501829,"Gebilaguin, Melba",Residential,"Talaba, Burgos",71.0,71.0,71.0,71.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501821,"Gutierrez, Liza",Residential,"Talaba, Burgos",7.0,7.0,7.0,7.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501849,"Julaton, Marlon",Commercial,"Talaba, Burgos",58.0,58.0,58.0,58.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501824,"Letada, Nida",Residential,"Talaba, Burgos",19.0,19.0,19.0,19.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501856,"Llanto, Judex",Residential,"Talaba, Burgos",22.0,22.0,22.0,22.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501826,"Morilla, Edna (1)",Residential,"Talaba, Burgos",51.0,51.0,51.0,51.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501827,"Morilla, Edna (2)",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501828,"Morilla, Edna (3)",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Talaba, Burgos",501825,"Oliva, Maricel",Residential,"Talaba, Burgos",36.0,36.0,36.0,36.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501839,"Romero, Cecil",Residential,"Talaba, Burgos",34.0,34.0,34.0,34.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501841,"Romero, Marta",Residential,"Talaba, Burgos",19.0,19.0,19.0,19.0,0,Corrected,Active
+MAY,2022,Q2,,"Talaba, Burgos",501869,"Sola, John Marvin",Residential,"Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2022,Q2,,"Upper, Bliss",501990,"Cavestany, Myleen",Residential,"Upper, Bliss",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 4,Villamor Street,501113,"Alcantara, Isabel",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Unknown
 MAY,2022,Q2,District 4,Villamor Street,501334,"Alcantara, Galahad",Residential,"Villamor St., Dist. 4",1401.0,1401.0,1401.0,1401.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,501012,"Alcantara, Garibalde",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Disconnected
@@ -1877,8 +1877,8 @@ MAY,2022,Q2,District 4,Villamor Street,500020,"Alicante, Anacleto",Residential,"
 MAY,2022,Q2,District 4,Villamor Street,500346,"Almodiel, Jason",Residential,"Villamor St., Dist. 4",3645.0,3645.0,3645.0,3645.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,500895,"Almoete, Felipe Jr.",Residential,"Villamor St., Dist. 4",2119.0,2119.0,2119.0,2119.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,500226,"Almoete, Ligaya",Residential,"Villamor St., Dist. 4",2318.0,2318.0,2318.0,2318.0,0,Corrected,Active
-MAY,2022,Q2,,Villamor Street,500885,"AÃ±onuevo, Florante",,Villamor St.,,,,,0,Corrected,Disconnected
-MAY,2022,Q2,,Villamor Street,500640,"AÃ±onuevo, Lilibeth",,Villamor St.,2554.0,2554.0,2554.0,2554.0,0,Corrected,Active
+MAY,2022,Q2,District 4,Villamor Street,500885,"Anonuevo, Florante",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,District 4,Villamor Street,500640,"Anonuevo, Lilibeth",Residential,"Villamor St., Dist. 4",2554.0,2554.0,2554.0,2554.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,501325,"Baconawa, Melagen",Residential,"Villamor St., Dist. 4",320.0,320.0,320.0,320.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,501186,"Balingasa, Adril (1)",Residential,"Villamor St., Dist. 4",1178.0,1178.0,1178.0,1178.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,501215,"Balingasa, Ma. Elena (3)",Residential,"Villamor St., Dist. 4",405.0,405.0,405.0,405.0,0,Corrected,Active
@@ -1900,5 +1900,5 @@ MAY,2022,Q2,District 4,Villamor Street,501111,"Laurio, Serenida",Residential,"Vi
 MAY,2022,Q2,District 4,Villamor Street,500641,"Moya, Concepcion",Residential,"Villamor St., Dist. 4",,,,,0,Corrected,Disconnected
 MAY,2022,Q2,District 4,Villamor Street,500021,"Nacino, Christopher",Residential,"Villamor St., Dist. 4",1828.0,1828.0,1828.0,1828.0,0,Corrected,Active
 MAY,2022,Q2,District 4,Villamor Street,500091,"Ragasa, Fe",Residential,"Villamor St., Dist. 4",3328.0,3328.0,3328.0,3328.0,0,Corrected,Active
-MAY,2022,Q2,Calipat-an,Puro,501109,"Almocera, Ricky",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
-MAY,2022,Q2,Calipat-an,Puro,501381,"Gaurano, Clutario",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,"Puro, Calipat-an",501109,"Almocera, Ricky",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAY,2022,Q2,,"Puro, Calipat-an",501381,"Gaurano, Clutario",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
