@@ -986,7 +986,7 @@ SEP,2023,Q3,District 3,Espinosa Street,500139,"Almodiel, Ranny",Residential,"Esp
 SEP,2023,Q3,,Bartolabac Street,500675,"Aspa, Marilie",Residential,Bartolabac St.,,,,,0,Corrected,Disconnected
 SEP,2023,Q3,District 3,Espinosa Street,501397,"Barruga, Maria Luisa",Residential,"Espinosa St, Dist. 3",,,,,0,Corrected,Disconnected
 SEP,2023,Q3,District 1,Espinosa Street,500391,"Barsaga, Rudy",Residential,"Espinosa St, Dist. 1",24.0,43.0,24.0,43.0,19,Corrected,Active
-SEP,2023,Q3,,Espinosa Street,000nan,"Brabante, Ricky",,Espinosa St.,,19.0,19.0,19.0,0,Corrected,Active
+SEP,2023,Q3,Burgos,Upper Bliss,nan,"Brabante, Ricky",Residential,"Upper, Bliss",,19.0,19.0,19.0,0,Corrected,Active
 SEP,2023,Q3,District 3,Espinosa Street,500180,"Delos Santos, Rosario",Commercial,"Espinosa St, Dist. 3",3488.0,3502.0,3488.0,3502.0,14,Corrected,Active
 SEP,2023,Q3,District 1,Espinosa Street,500292,"Elloso, Ramir",Residential,"Espinosa St, Dist. 1",1927.0,1966.0,1927.0,1966.0,39,Corrected,Active
 SEP,2023,Q3,District 3,Espinosa Street,501120,"Espares, Darwin",Residential,"Espinosa St, Dist. 3",2728.0,2838.0,2728.0,2838.0,110,Corrected,Active
@@ -1095,7 +1095,7 @@ SEP,2023,Q3,District 2,Fabmar Street,501842,"Dilao, Daisy",Residential,"Fabmar S
 SEP,2023,Q3,District 2,Fabmar Street,501159,DPWH QC,Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Unknown
 SEP,2023,Q3,District 2,Fabmar Street,500450,"Espares, Siony",Residential,"Fabmar St, Dist. 2",353.0,354.0,353.0,354.0,1,Corrected,Active
 SEP,2023,Q3,District 2,Fabmar Street,501200,"Espanola, Nedy",Residential,"Fabmar St, Dist. 2",5485.0,5499.0,5485.0,5499.0,14,Corrected,Active
-SEP,2023,Q3,,Fabmar Street,000nan,"Espanola, Romel",,Fabmar St.,29.0,39.0,29.0,39.0,10,Corrected,Active
+SEP,2023,Q3,Burgos,Upper Bliss,nan,"Espanola, Romel",Residential,"Upper, Bliss",29.0,39.0,29.0,39.0,10,Corrected,Active
 SEP,2023,Q3,District 2,Fabmar Street,501713,"Esparrago, Emesa",Residential,"Fabmar St, Dist. 2",1040.0,1064.0,1040.0,1064.0,24,Corrected,Active
 SEP,2023,Q3,District 2,Fabmar Street,501575,"Esparrago, Lorenia",Residential,"Fabmar St, Dist. 2",1008.0,1022.0,1008.0,1022.0,14,Corrected,Active
 SEP,2023,Q3,District 2,Fabmar Street,501626,"Esparrago, Mikay",Residential,"Fabmar St, Dist. 2",691.0,707.0,691.0,707.0,16,Corrected,Active
@@ -1986,7 +1986,7 @@ SEP,2023,Q3,Burgos,Talaba,501827,"Morilla, Edna (2)",Residential,"Talaba, Burgos
 SEP,2023,Q3,Burgos,Talaba,501828,"Morilla, Edna (3)",Residential,"Talaba, Burgos",58.0,70.0,58.0,70.0,12,Corrected,Active
 SEP,2023,Q3,Burgos,Talaba,501825,"Oliva, Maricel",Residential,"Talaba, Burgos",267.0,277.0,267.0,277.0,10,Corrected,Active
 SEP,2023,Q3,Burgos,Talaba,501839,"Romero, Cecil",Residential,"Talaba, Burgos",316.0,329.0,316.0,329.0,13,Corrected,Active
-SEP,2023,Q3,Burgos,Talaba,000nan,"Robles, Juieta",,"Talaba, Burgos",,,,,0,Corrected,Defect
+SEP,2023,Q3,Burgos,Upper Bliss,nan,"Robles, Juieta",Residential,"Upper, Bliss",,,,,0,Corrected,Defect
 SEP,2023,Q3,Burgos,Talaba,502008,"Romero, Maribel",Residential,"Talaba, Burgos",91.0,103.0,91.0,103.0,12,Corrected,Active
 SEP,2023,Q3,Burgos,Talaba,501841,"Romero, Marta",Residential,"Talaba, Burgos",245.0,245.0,245.0,245.0,0,Corrected,Active
 SEP,2023,Q3,Burgos,Talaba,501869,"Sola, John Marvin",Residential,"Talaba, Burgos",143.0,150.0,143.0,150.0,7,Corrected,Active
@@ -2035,7 +2035,7 @@ SEP,2023,Q3,District 4,Villamor Street,500226,"Almoete, Ligaya",Residential,"Vil
 SEP,2023,Q3,District 4,Villamor Street,500885,"Anonuevo, Florante",Residential,"Villamor St, Dist. 4",,,,,0,Corrected,Disconnected
 SEP,2023,Q3,District 4,Villamor Street,500640,"Anonuevo, Lilibeth",Residential,"Villamor St, Dist. 4",2765.0,2778.0,2765.0,2778.0,13,Corrected,Active
 SEP,2023,Q3,District 4,Villamor Street,501325,"Baconawa, Melagen",Residential,"Villamor St, Dist. 4",,,,,0,Corrected,Disconnected
-SEP,2023,Q3,,Villamor Street,000nan,"Balingasa, Adril (1)",,Villamor St.,1329.0,,1329.0,1329.0,0,Corrected,Defect
+SEP,2023,Q3,Burgos,Upper Bliss,nan,"Balingasa, Adril (1)",Residential,"Upper, Bliss",1329.0,,1329.0,1329.0,0,Corrected,Defect
 SEP,2023,Q3,District 4,Villamor Street,501215,"Balingasa, Ma. Elena (3)",Residential,"Villamor St, Dist. 4",803.0,814.0,803.0,814.0,11,Corrected,Active
 SEP,2023,Q3,District 4,Villamor Street,501228,"Balingasa, Joadel (2)",Residential,"Villamor St, Dist. 4",571.0,,571.0,571.0,0,Corrected,Defect
 SEP,2023,Q3,District 4,Villamor Street,501217,"Balingasa, Jea (4)",Residential,"Villamor St, Dist. 4",1099.0,1099.0,1099.0,1099.0,0,Corrected,Active

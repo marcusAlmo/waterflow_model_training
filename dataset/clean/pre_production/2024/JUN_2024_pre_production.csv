@@ -1129,7 +1129,7 @@ JUN,2024,Q2,District 2,Fabmar Street,501575,"Esparrago, Lorenia",Residential,"Fa
 JUN,2024,Q2,District 2,Fabmar Street,501626,"Esparrago, Mikay",Residential,"Fabmar St, Dist. 2",819,839,819.0,839.0,20,Corrected,Active
 JUN,2024,Q2,District 2,Fabmar Street,500580,"Esparraguerra, Antonio",Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Disconnected
 JUN,2024,Q2,District 2,Fabmar Street,501987,"Esparraguerra, Edgar",Residential,"Fabmar St, Dist. 2",56,58,56.0,58.0,2,Corrected,Active
-JUN,2024,Q2,,Fabmar Street,050964,"Esparraguerra, Irish",,Fabmar St.,111,123,111.0,123.0,12,Corrected,Active
+JUN,2024,Q2,District 2,Fabmar Street,50964,"Esparraguerra, Irish",Residential,"Fabmar St, Dist. 2",111,123,111.0,123.0,12,Corrected,Active
 JUN,2024,Q2,District 2,Fabmar Street,500969,"Esparraguerra, Joy",Residential,"Fabmar St, Dist. 2",139,147,139.0,147.0,8,Corrected,Active
 JUN,2024,Q2,District 2,Fabmar Street,501652,"Esparraguerra, Liza",Residential,"Fabmar St, Dist. 2",738,754,738.0,754.0,16,Corrected,Active
 JUN,2024,Q2,District 2,Fabmar Street,501600,"Esparraguerra, Nelsie",Residential,"Fabmar St, Dist. 2",1300,1314,1300.0,1314.0,14,Corrected,Active
@@ -2128,4 +2128,4 @@ JUN,2024,Q2,District 4,Villamor Street,500021,"Nacino, Christopher",Residential,
 JUN,2024,Q2,District 4,Villamor Street,500091,"Ragasa, Fe",Residential,"Villamor St, Dist. 4",3902,3933,3902.0,3933.0,31,Corrected,Active
 JUN,2024,Q2,Calipat-an,Puro,501109,"Almocera, Ricky",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
 JUN,2024,Q2,Calipat-an,Puro,501381,"Gaurano, Clutario",,"Puro, Calipat-an",,,,,0,Corrected,Disconnected
-JUN,2024,Q2,,,000nan,,,,,,,,0,Corrected,Unknown
+JUN,2024,Q2,Burgos,Upper Bliss,nan,,Residential,"Upper, Bliss",,,,,0,Corrected,Unknown

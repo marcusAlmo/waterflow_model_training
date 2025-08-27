@@ -272,7 +272,7 @@ MAY,2020,Q2,District 3,Amican Street,501440,"Laila, Rhea",Residential,"Amican St
 MAY,2020,Q2,District 3,Amican Street,500162,"Lique, Jeanne",Residential,"Amican St, Dist. 3",7161.0,7186.0,7161.0,7186.0,25,Corrected,Active
 MAY,2020,Q2,District 3,Amican Street,501557,"Llanto, Arnel",Residential,"Amican St, Dist. 3",143.0,157.0,143.0,157.0,14,Corrected,Active
 MAY,2020,Q2,District 3,Amican Street,500816,"Marfil, Gina",Residential,"Amican St, Dist. 3",,,,,0,Corrected,Disconnected
-MAY,2020,Q2,,Amican Street,000nan,"Ongonion, Sonia",,Amican St.,,144.0,144.0,144.0,0,Corrected,Active
+MAY,2020,Q2,Burgos,Upper Bliss,nan,"Ongonion, Sonia",Residential,"Upper, Bliss",,144.0,144.0,144.0,0,Corrected,Active
 MAY,2020,Q2,District 3,Amican Street,501559,"Portrias, Macario Jr.",Residential,"Amican St, Dist. 3",131.0,150.0,131.0,150.0,19,Corrected,Active
 MAY,2020,Q2,District 3,Amican Street,500080,"Rejuso, Rene",Residential,"Amican St, Dist. 3",103.0,118.0,103.0,118.0,15,Corrected,Active
 MAY,2020,Q2,District 3,Amican Street,501528,"Reluao, Ernes",Residential,"Amican St, Dist. 3",170.0,170.0,170.0,170.0,0,Corrected,Active
@@ -690,7 +690,7 @@ MAY,2020,Q2,District 2,Don Juan Street,501198,"Almonte, Ronnie 2",Residential,"D
 MAY,2020,Q2,District 2,Don Juan Street,500645,"Altiche, Nenita",Residential,"Don Juan St, Dist. 2",555.0,572.0,555.0,572.0,17,Corrected,Active
 MAY,2020,Q2,District 2,Don Juan Street,501126,"Anonuevo, Cherily",Residential,"Don Juan St, Dist. 2",1787.0,1822.0,1787.0,1822.0,35,Corrected,Active
 MAY,2020,Q2,District 2,Don Juan Street,501486,"Aspa, Marilou 2",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Defect
-MAY,2020,Q2,,Don Juan Street,000nan,"Baconawa, Allan",,Don Juan St.,,13.0,13.0,13.0,0,Corrected,Active
+MAY,2020,Q2,Burgos,Upper Bliss,nan,"Baconawa, Allan",Residential,"Upper, Bliss",,13.0,13.0,13.0,0,Corrected,Active
 MAY,2020,Q2,District 2,Don Juan Street,500958,"Barrun, Jesus",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Defect
 MAY,2020,Q2,District 2,Don Juan Street,501297,"Barsaga, Melanie",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Defect
 MAY,2020,Q2,District 2,Don Juan Street,500407,"Bartolabac, Elvisa",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Defect
@@ -1348,7 +1348,7 @@ MAY,2020,Q2,District 3,Letada Street,501135,"Almonte, Virginia",Residential,"Let
 MAY,2020,Q2,District 3,Letada Street,501540,"Alon-Alon, Marita",Residential,"Letada St, Dist. 3",204.0,213.0,204.0,213.0,9,Corrected,Active
 MAY,2020,Q2,District 3,Letada Street,501463,"Aton, Pio",Residential,"Letada St, Dist. 3",,,,,0,Corrected,Disconnected
 MAY,2020,Q2,District 3,Letada Street,500341,"Avila, Jelina",Residential,"Letada St, Dist. 3",395.0,428.0,395.0,428.0,33,Corrected,Active
-MAY,2020,Q2,,Letada Street,000nan,"Balingasa, Adril",,Letada St.,,,,,0,Corrected,Unknown
+MAY,2020,Q2,Burgos,Upper Bliss,nan,"Balingasa, Adril",Residential,"Upper, Bliss",,,,,0,Corrected,Unknown
 MAY,2020,Q2,District 3,Letada Street,500923,"Barrun, Lunita",Residential,"Letada St, Dist. 3",735.0,739.0,735.0,739.0,4,Corrected,Active
 MAY,2020,Q2,District 3,Letada Street,500514,"Barrun, Louie",Residential,"Letada St, Dist. 3",2415.0,2549.0,2415.0,2549.0,134,Corrected,Active
 MAY,2020,Q2,District 3,Letada Street,501272,"Barrun, Rene",Residential,"Letada St, Dist. 3",1158.0,1162.0,1158.0,1162.0,4,Corrected,Active

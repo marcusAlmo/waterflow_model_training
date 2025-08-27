@@ -450,7 +450,7 @@ APR,2024,Q2,District 1,Bailon Street,500473,"Gutierrez, Arnel",Residential,"Bail
 APR,2024,Q2,District 1,Bailon Street,501473,"Gutierrez, Jinelyn",Residential,"Bailon St, Dist. 1",,,,,0,Corrected,Disconnected
 APR,2024,Q2,District 2,Bailon Street,500515,"Ibanez, Stella Mariz",Residential,"Bailon St, Dist. 2",2768,2772,2768.0,2772.0,4,Corrected,Active
 APR,2024,Q2,District 1,Bailon Street,500297,"Jorres, Jerry",Commercial,"Bailon St, Dist. 1",32,40,32.0,40.0,8,Corrected,Active
-APR,2024,Q2,,Bailon Street,000000,Kho Shipping Lines,,Bailon St.,2051,2158,2051.0,2158.0,107,Corrected,Active
+APR,2024,Q2,,Bailon Street,0,Kho Shipping Lines,,Bailon St.,2051,2158,2051.0,2158.0,107,Corrected,Active
 APR,2024,Q2,District 1,Bailon Street,501675,"Laila, Marivic",Residential,"Bailon St, Dist. 1",1197,1218,1197.0,1218.0,21,Corrected,Active
 APR,2024,Q2,District 1,Bailon Street,500504,"Laila, Zelma/Laila, Eugene",Residential,"Bailon St, Dist. 1",21,25,21.0,25.0,4,Corrected,Active
 APR,2024,Q2,District 1,Bailon Street,501275,"Lanuza, Gideon",Residential,"Bailon St, Dist. 1",2487,2539,2487.0,2539.0,52,Corrected,Active
@@ -626,7 +626,7 @@ APR,2024,Q2,District 3,Balintong Street,500444,"Canares, Chita",Commercial,"Bali
 APR,2024,Q2,District 3,Balintong Street,502049,"Delos Santos, Jeric/ Delos Santos, Arnel",Residential,"Balintong St, Dist. 3",56,72,56.0,72.0,16,Corrected,Active
 APR,2024,Q2,District 3,Balintong Street,500918,"Dela Pena, Henry",Residential,"Balintong St, Dist. 3",307,319,307.0,319.0,12,Corrected,Active
 APR,2024,Q2,District 3,Balintong Street,501387,"Delavin, Jean",Residential,"Balintong St, Dist. 3",34,61,34.0,61.0,27,Corrected,Active
-APR,2024,Q2,,Balintong Street,000nan,"Delavin, Luz",,Balintong St.,212, ,,,0,Corrected,Unknown
+APR,2024,Q2,Burgos,Upper Bliss,nan,"Delavin, Luz",Residential,"Upper, Bliss",212, ,,,0,Corrected,Unknown
 APR,2024,Q2,District 3,Balintong Street,500068,"Delavin, Maria",Residential,"Balintong St, Dist. 3",4055,4087,4055.0,4087.0,32,Corrected,Active
 APR,2024,Q2,District 3,Balintong Street,501680,"Delavin, Shena",Commercial,"Balintong St, Dist. 3",2792,2908,2792.0,2908.0,116,Corrected,Active
 APR,2024,Q2,District 3,Balintong Street,500937,"Eduarte, Desiree Joy",Residential,"Balintong St, Dist. 3",1649,1678,1649.0,1678.0,29,Corrected,Active
@@ -1128,7 +1128,7 @@ APR,2024,Q2,District 2,Fabmar Street,501575,"Esparrago, Lorenia",Residential,"Fa
 APR,2024,Q2,District 2,Fabmar Street,501626,"Esparrago, Mikay",Residential,"Fabmar St, Dist. 2",776,795,776.0,795.0,19,Corrected,Active
 APR,2024,Q2,District 2,Fabmar Street,500580,"Esparraguerra, Antonio",Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Disconnected
 APR,2024,Q2,District 2,Fabmar Street,501987,"Esparraguerra, Edgar",Residential,"Fabmar St, Dist. 2",52,54,52.0,54.0,2,Corrected,Active
-APR,2024,Q2,,Fabmar Street,050964,"Esparraguerra, Irish",,Fabmar St.,82,99,82.0,99.0,17,Corrected,Active
+APR,2024,Q2,District 2,Fabmar Street,50964,"Esparraguerra, Irish",Residential,"Fabmar St, Dist. 2",82,99,82.0,99.0,17,Corrected,Active
 APR,2024,Q2,District 2,Fabmar Street,500969,"Esparraguerra, Joy",Residential,"Fabmar St, Dist. 2",122,128,122.0,128.0,6,Corrected,Active
 APR,2024,Q2,District 2,Fabmar Street,501652,"Esparraguerra, Liza",Residential,"Fabmar St, Dist. 2",712,725,712.0,725.0,13,Corrected,Active
 APR,2024,Q2,District 2,Fabmar Street,501600,"Esparraguerra, Nelsie",Residential,"Fabmar St, Dist. 2",1268,1288,1268.0,1288.0,20,Corrected,Active
@@ -2028,7 +2028,7 @@ APR,2024,Q2,Burgos,Talaba,501920,"Delavin, Carlo (3)",Commercial,"Talaba, Burgos
 APR,2024,Q2,Burgos,Talaba,501973,"Delavin, Carlo (4)/ SJMC Construction Service",Commercial,"Talaba, Burgos",3347,3699,3347.0,3699.0,352,Corrected,Active
 APR,2024,Q2,Burgos,Talaba,501974,"Delavin, Carlo (5)/ SMDF Construction",Commercial,"Talaba, Burgos",534,546,534.0,546.0,12,Corrected,Active
 APR,2024,Q2,Burgos,Talaba,501854,"Arcenas, John Francis",Residential,"Talaba, Burgos",314,328,314.0,328.0,14,Corrected,Active
-APR,2024,Q2,Burgos,Talaba,000nan,DENR/ Chrizelle So,,"Talaba, Burgos",1723,2184,1723.0,2184.0,461,Corrected,Active
+APR,2024,Q2,Burgos,Upper Bliss,nan,DENR/ Chrizelle So,Residential,"Upper, Bliss",1723,2184,1723.0,2184.0,461,Corrected,Active
 APR,2024,Q2,Burgos,Talaba,502020,"DIZON, SANDRA",Commercial,"Talaba, Burgos",584,632,584.0,632.0,48,Corrected,Active
 APR,2024,Q2,Burgos,Talaba,501859,"Demabasa, Benjay",Residential,"Talaba, Burgos",232,247,232.0,247.0,15,Corrected,Active
 APR,2024,Q2,Burgos,Talaba,501846,"Emata, Anelyn",Residential,"Talaba, Burgos",461,493,461.0,493.0,32,Corrected,Active

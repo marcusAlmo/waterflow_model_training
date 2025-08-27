@@ -696,20 +696,20 @@ FEB,2020,Q1,District 2,Don Juan Street,500324,"Bunao, Nogemia",Residential,"Don 
 FEB,2020,Q1,District 2,Don Juan Street,500174,Delos Santos Flora,Residential,"Don Juan St, Dist. 2",2453.0,,2453.0,2453.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,501259,"Delos Santos, Teddy",Residential,"Don Juan St, Dist. 2",79.0,,79.0,79.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,501383,"Demabasa, Maricel",Residential,"Don Juan St, Dist. 2",637.0,,637.0,637.0,0,Corrected,Active
-FEB,2020,Q1,,Don Juan Street,000nan,"Dilao, Catalina",,Don Juan St.,90.0,,90.0,90.0,0,Corrected,Active
+FEB,2020,Q1,Burgos,Upper Bliss,nan,"Dilao, Catalina",Residential,"Upper, Bliss",90.0,,90.0,90.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,501556,"Dilao, Krusaldo",Residential,"Don Juan St, Dist. 2",125.0,,125.0,125.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500470,"Dilao, Fernando",Residential,"Don Juan St, Dist. 2",113.0,,113.0,113.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500245,"Diolola, Juan",Residential,"Don Juan St, Dist. 2",2091.0,,2091.0,2091.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500556,"Encinares, Romeo",Residential,"Don Juan St, Dist. 2",2196.0,,2196.0,2196.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500275,"Espares, Janet",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
-FEB,2020,Q1,,Don Juan Street,000nan,"Espenilla, Adrian",,Don Juan St.,115.0,,115.0,115.0,0,Corrected,Active
+FEB,2020,Q1,Burgos,Upper Bliss,nan,"Espenilla, Adrian",Residential,"Upper, Bliss",115.0,,115.0,115.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500276,"Gelua, Jesus",Residential,"Don Juan St, Dist. 2",285.0,,285.0,285.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500913,"Genova, Miniseto",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
 FEB,2020,Q1,District 2,Don Juan Street,501554,"Gerna, Edenia",Residential,"Don Juan St, Dist. 2",174.0,,174.0,174.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Balcavem Street,500438,"Gueta, Norma (1)",Residential,"Balcavem St, Dist. 2",,,,,0,Corrected,Unknown
 FEB,2020,Q1,District 2,Don Juan Street,500446,"Gueta, Norma (2)",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
 FEB,2020,Q1,District 2,Don Juan Street,501264,"Gutierrez, Rizza",Residential,"Don Juan St, Dist. 2",138.0,,138.0,138.0,0,Corrected,Active
-FEB,2020,Q1,,Don Juan Street,000nan,"Gogolin, Rona Shiela",,Don Juan St.,,,,,0,Corrected,Defect
+FEB,2020,Q1,Burgos,Upper Bliss,nan,"Gogolin, Rona Shiela",Residential,"Upper, Bliss",,,,,0,Corrected,Defect
 FEB,2020,Q1,District 2,Don Juan Street,500818,"Laila, Dante",Residential,"Don Juan St, Dist. 2",4235.0,,4235.0,4235.0,0,Corrected,Active
 FEB,2020,Q1,District 2,Don Juan Street,500860,"Lique, Rowena",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
 FEB,2020,Q1,District 2,Don Juan Street,500273,"Merillo, Dominga,",Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
@@ -881,7 +881,7 @@ FEB,2020,Q1,District 2,Fabmar Street,501585,"Coloso, Catelin",Residential,"Fabma
 FEB,2020,Q1,District 2,Fabmar Street,500354,"Coloso, Josephine",Residential,"Fabmar St, Dist. 2",504.0,534.0,504.0,534.0,30,Corrected,Active
 FEB,2020,Q1,District 2,Fabmar Street,501555,"Coloso, Nilda",Residential,"Fabmar St, Dist. 2",232.0,237.0,232.0,237.0,5,Corrected,Active
 FEB,2020,Q1,District 2,Fabmar Street,501046,"Dado, Edemar",Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Unknown
-FEB,2020,Q1,,Fabmar Street,000nan,"Dayap, Julius",,Fabmar St.,47.0,48.0,47.0,48.0,1,Corrected,Active
+FEB,2020,Q1,Burgos,Upper Bliss,nan,"Dayap, Julius",Residential,"Upper, Bliss",47.0,48.0,47.0,48.0,1,Corrected,Active
 FEB,2020,Q1,District 2,Fabmar Street,501173,"Dayap, Sheryl",Residential,"Fabmar St, Dist. 2",452.0,479.0,452.0,479.0,27,Corrected,Active
 FEB,2020,Q1,District 2,Fabmar Street,501403,"Delavin, Maricris",Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Defect
 FEB,2020,Q1,District 2,Fabmar Street,500931,"Deinla, Emelita",Commercial,"Fabmar St, Dist. 2",1378.0,1382.0,1378.0,1382.0,4,Corrected,Active
@@ -1428,7 +1428,7 @@ FEB,2020,Q1,District 1,Lique Street,501489,"Dilao, Rosa",Residential,"Lique St, 
 FEB,2020,Q1,District 3,Lique Street,500217,"Ditan, Elisa",Residential,"Lique St, Dist. 3",,,,,0,Corrected,Unknown
 FEB,2020,Q1,District 4,Lique Street,501504,"Espares, Alberto",Residential,"Lique St, Dist. 4",108.0,133.0,108.0,133.0,25,Corrected,Active
 FEB,2020,Q1,District 4,Lique Street,500500,"Espares, Evelyn",Residential,"Lique St, Dist. 4",1071.0,1071.0,1071.0,1071.0,0,Corrected,Active
-FEB,2020,Q1,,Lique Street,000nan,"Esparraguerra, Helen",,Lique St.,236.0,249.0,236.0,249.0,13,Corrected,Active
+FEB,2020,Q1,Burgos,Upper Bliss,nan,"Esparraguerra, Helen",Residential,"Upper, Bliss",236.0,249.0,236.0,249.0,13,Corrected,Active
 FEB,2020,Q1,District 1,Lique Street,500628,"Espenida, Ederlinda",Residential,"Lique St, Dist. 1",3211.0,3231.0,3211.0,3231.0,20,Corrected,Active
 FEB,2020,Q1,District 3,Lique Street,500533,"Espenilla, Patria",Residential,"Lique St, Dist. 3",321.0,321.0,321.0,321.0,0,Corrected,Active
 FEB,2020,Q1,District 4,Lique Street,500878,"Espenilla, Alejandro",Residential,"Lique St, Dist. 4",944.0,,944.0,944.0,0,Corrected,Active
@@ -1525,7 +1525,7 @@ FEB,2020,Q1,,Moyot Street,500637,"Constantino, Dolores",Residential,Moyot St.,17
 FEB,2020,Q1,,Moyot Street,501412,"De Asis, Irene",Residential,Moyot St.,,,,,0,Corrected,Defect
 FEB,2020,Q1,District 2,Fabmar Street,501138,"Dejucos, Mary Jane",Residential,"Fabmar St, Dist. 2",386.0,,386.0,386.0,0,Corrected,Active
 FEB,2020,Q1,,Moyot Street,500499,"Deinla, Lorna",Residential,Moyot St.,2455.0,,2455.0,2455.0,0,Corrected,Active
-FEB,2020,Q1,,Moyot Street,000nan,"Deinla, Remedios",,Moyot St.,52.0,,52.0,52.0,0,Corrected,Active
+FEB,2020,Q1,Burgos,Upper Bliss,nan,"Deinla, Remedios",Residential,"Upper, Bliss",52.0,,52.0,52.0,0,Corrected,Active
 FEB,2020,Q1,,Moyot Street,501258,"Delariarte, Marivic",Residential,Moyot St.,1434.0,,1434.0,1434.0,0,Corrected,Active
 FEB,2020,Q1,,Moyot Street,500406,"Delavin,Caridad",Residential,Moyot St.,5624.0,,5624.0,5624.0,0,Corrected,Active
 FEB,2020,Q1,,Moyot Street,500240,"Delavin, Nelly",Residential,Moyot St.,6561.0,6571.0,6561.0,6571.0,10,Corrected,Active

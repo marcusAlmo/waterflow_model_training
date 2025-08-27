@@ -450,7 +450,7 @@ MAY,2024,Q2,District 1,Bailon Street,500473,"Gutierrez, Arnel",Residential,"Bail
 MAY,2024,Q2,District 1,Bailon Street,501473,"Gutierrez, Jinelyn",Residential,"Bailon St, Dist. 1",,,,,0,Corrected,Disconnected
 MAY,2024,Q2,District 2,Bailon Street,500515,"Ibanez, Stella Mariz",Residential,"Bailon St, Dist. 2",2772,2774,2772.0,2774.0,2,Corrected,Active
 MAY,2024,Q2,District 1,Bailon Street,500297,"Jorres, Jerry",Commercial,"Bailon St, Dist. 1",40,46,40.0,46.0,6,Corrected,Active
-MAY,2024,Q2,,Bailon Street,000000,Kho Shipping Lines,,Bailon St.,2158,2206,2158.0,2206.0,48,Corrected,Active
+MAY,2024,Q2,,Bailon Street,0,Kho Shipping Lines,,Bailon St.,2158,2206,2158.0,2206.0,48,Corrected,Active
 MAY,2024,Q2,District 1,Bailon Street,501675,"Laila, Marivic",Residential,"Bailon St, Dist. 1",1218,1244,1218.0,1244.0,26,Corrected,Active
 MAY,2024,Q2,District 1,Bailon Street,500504,"Laila, Zelma/Laila, Eugene",Residential,"Bailon St, Dist. 1",25,35,25.0,35.0,10,Corrected,Active
 MAY,2024,Q2,District 1,Bailon Street,501275,"Lanuza, Gideon",Residential,"Bailon St, Dist. 1",2539,2569,2539.0,2569.0,30,Corrected,Active
@@ -1129,7 +1129,7 @@ MAY,2024,Q2,District 2,Fabmar Street,501575,"Esparrago, Lorenia",Residential,"Fa
 MAY,2024,Q2,District 2,Fabmar Street,501626,"Esparrago, Mikay",Residential,"Fabmar St, Dist. 2",795,819,795.0,819.0,24,Corrected,Active
 MAY,2024,Q2,District 2,Fabmar Street,500580,"Esparraguerra, Antonio",Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Disconnected
 MAY,2024,Q2,District 2,Fabmar Street,501987,"Esparraguerra, Edgar",Residential,"Fabmar St, Dist. 2",54,56,54.0,56.0,2,Corrected,Active
-MAY,2024,Q2,,Fabmar Street,050964,"Esparraguerra, Irish",,Fabmar St.,99,111,99.0,111.0,12,Corrected,Active
+MAY,2024,Q2,District 2,Fabmar Street,50964,"Esparraguerra, Irish",Residential,"Fabmar St, Dist. 2",99,111,99.0,111.0,12,Corrected,Active
 MAY,2024,Q2,District 2,Fabmar Street,500969,"Esparraguerra, Joy",Residential,"Fabmar St, Dist. 2",128,139,128.0,139.0,11,Corrected,Active
 MAY,2024,Q2,District 2,Fabmar Street,501652,"Esparraguerra, Liza",Residential,"Fabmar St, Dist. 2",725,738,725.0,738.0,13,Corrected,Active
 MAY,2024,Q2,District 2,Fabmar Street,501600,"Esparraguerra, Nelsie",Residential,"Fabmar St, Dist. 2",1288,1300,1288.0,1300.0,12,Corrected,Active

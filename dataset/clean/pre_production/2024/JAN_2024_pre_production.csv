@@ -1698,7 +1698,7 @@ JAN,2024,Q1,District 3,Letada Street,500247,"Mores, Nena",Residential,"Letada St
 JAN,2024,Q1,District 3,Letada Street,501967,"Namit, Nerdim",Residential,"Letada St, Dist. 3",119,131,119.0,131.0,12,Corrected,Active
 JAN,2024,Q1,District 3,Letada Street,500207,"Namit, Octavio",Residential,"Letada St, Dist. 3",,,,,0,Corrected,Disconnected
 JAN,2024,Q1,District 3,Letada Street,501922,"Ongonion, Mark Anthony",Residential,"Letada St, Dist. 3",368,382,368.0,382.0,14,Corrected,Active
-JAN,2024,Q1,,Letada Street,000nan,"Padilla, Kristian King",,Letada St.,8,8,8.0,8.0,0,Corrected,Active
+JAN,2024,Q1,Burgos,Upper Bliss,nan,"Padilla, Kristian King",Residential,"Upper, Bliss",8,8,8.0,8.0,0,Corrected,Active
 JAN,2024,Q1,District 3,Letada Street,500754,"Real, Lito",Residential,"Letada St, Dist. 3",92,106,92.0,106.0,14,Corrected,Active
 JAN,2024,Q1,District 3,Letada Street,500418,"Rejuso, Arnulfo",Residential,"Letada St, Dist. 3",101,115,101.0,115.0,14,Corrected,Active
 JAN,2024,Q1,District 3,Letada Street,500691,"Rejuso, Fe (Salvacion)",Residential,"Letada St, Dist. 3",,,,,0,Corrected,Disconnected
@@ -2004,7 +2004,7 @@ JAN,2024,Q1,Burgos,Talaba,501972,"Anabe, Segundino",Residential,"Talaba, Burgos"
 JAN,2024,Q1,Burgos,Talaba,501848,"Arcenas, John Chris",Residential,"Talaba, Burgos",27,44,27.0,44.0,17,Corrected,Active
 JAN,2024,Q1,Burgos,Talaba,502069,"Bartolay,Eden",Residential,"Talaba, Burgos",56,68,56.0,68.0,12,Corrected,Active
 JAN,2024,Q1,Burgos,Talaba,501836,"Bartolata, Nobe",Residential,"Talaba, Burgos",454,470,454.0,470.0,16,Corrected,Active
-JAN,2024,Q1,Burgos,Talaba,000nan,"Bartolata, Celeste",,"Talaba, Burgos",,6,6.0,6.0,0,Corrected,Active
+JAN,2024,Q1,Burgos,Upper Bliss,nan,"Bartolata, Celeste",Residential,"Upper, Bliss",,6,6.0,6.0,0,Corrected,Active
 JAN,2024,Q1,Burgos,Talaba,501832,"Bartolay, Ruel",Residential,"Talaba, Burgos",266,275,266.0,275.0,9,Corrected,Active
 JAN,2024,Q1,Burgos,Talaba,501844,"Barrun, Jerson",Residential,"Talaba, Burgos",507,507,507.0,507.0,0,Corrected,Active
 JAN,2024,Q1,Burgos,Talaba,502058,"Barsaga, Ferdinand",Residential,"Talaba, Burgos",78,91,78.0,91.0,13,Corrected,Active
