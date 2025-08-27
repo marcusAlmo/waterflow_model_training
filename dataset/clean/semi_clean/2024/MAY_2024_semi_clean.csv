@@ -814,19 +814,19 @@ MAY,2024,Q2,,Bartolay Street,500938,"Vasquez, Noel/Gregoncio, Sampangga",Bartola
 MAY,2024,Q2,,Bartolay Street,500133,"Veterbo, Judith",Bartolay St.,,3167,3167.0,3167.0,0,Corrected,Defect
 MAY,2024,Q2,,Bartolay Street,500413,"Villamor, Jeneth",Bartolay St.,,,,,0,Corrected,Disconnected
 MAY,2024,Q2,,Bartolay Street,500714,"Villamor, Nena/Arturo",Bartolay St.,142,162,142.0,162.0,20,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501838,Almine Virginia,"Binaliw, Burgos",824,922,824.0,922.0,98,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501820,"Almoguerra, Myda","Binaliw, Burgos",220,231,220.0,231.0,11,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501867,"Avila, Jhoy","Binaliw, Burgos",363,371,363.0,371.0,8,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501868,"Barrun, Wenceslao","Binaliw, Burgos",41,41,41.0,41.0,0,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",502096,"Bartolata, Nida","Binaliw, Burgos",258,305,258.0,305.0,47,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501823,"Bartolata, Perla","Binaliw, Burgos",710,732,710.0,732.0,22,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501835,"Bartolata, Hanilyn/Marilou Avila","Binaliw, Burgos",547,566,547.0,566.0,19,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501952,"Bartolay, Lina","Binaliw, Burgos",825,850,825.0,850.0,25,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501885,"Dejucos, Gina","Binaliw, Burgos",241,247,241.0,247.0,6,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501971,"Dela Cruz, Diana","Binaliw, Burgos",351,354,351.0,354.0,3,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501858,"Espinosa, Arlene","Binaliw, Burgos",,,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Binaliw, Burgos",501840,"Jardin, Sonia","Binaliw, Burgos",839,866,839.0,866.0,27,Corrected,Active
-MAY,2024,Q2,,"Binaliw, Burgos",501696,Waterpark,"Binaliw, Burgos",992,1361,992.0,1361.0,369,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501838,Almine Virginia,"Binaliw, Burgos",824,922,824.0,922.0,98,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501820,"Almoguerra, Myda","Binaliw, Burgos",220,231,220.0,231.0,11,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501867,"Avila, Jhoy","Binaliw, Burgos",363,371,363.0,371.0,8,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501868,"Barrun, Wenceslao","Binaliw, Burgos",41,41,41.0,41.0,0,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,502096,"Bartolata, Nida","Binaliw, Burgos",258,305,258.0,305.0,47,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501823,"Bartolata, Perla","Binaliw, Burgos",710,732,710.0,732.0,22,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501835,"Bartolata, Hanilyn/Marilou Avila","Binaliw, Burgos",547,566,547.0,566.0,19,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501952,"Bartolay, Lina","Binaliw, Burgos",825,850,825.0,850.0,25,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501885,"Dejucos, Gina","Binaliw, Burgos",241,247,241.0,247.0,6,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501971,"Dela Cruz, Diana","Binaliw, Burgos",351,354,351.0,354.0,3,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501858,"Espinosa, Arlene","Binaliw, Burgos",,,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Binaliw,501840,"Jardin, Sonia","Binaliw, Burgos",839,866,839.0,866.0,27,Corrected,Active
+MAY,2024,Q2,Burgos,Binaliw,501696,Waterpark,"Binaliw, Burgos",992,1361,992.0,1361.0,369,Corrected,Active
 MAY,2024,Q2,,Don Juan Street,501114,"Albano, Emie",Don Juan St.,,,,,0,Corrected,Disconnected
 MAY,2024,Q2,,Don Juan Street,500121,"Alig, Geraldine",Don Juan St.,573,591,573.0,591.0,18,Corrected,Active
 MAY,2024,Q2,,Don Juan Street,501004,"Almine, Emelyn",Don Juan St.,1682,1705,1682.0,1705.0,23,Corrected,Active
@@ -2004,96 +2004,96 @@ MAY,2024,Q2,,NHA Duplex,501963,"Montero, Lea",NHA Duplex,635,664,635.0,664.0,29,
 MAY,2024,Q2,,NHA Duplex,501913,Rapsing Lester,NHA Duplex,1406,1473,1406.0,1473.0,67,Corrected,Active
 MAY,2024,Q2,,NHA Duplex,501995,"Rejuso, Gilbert",NHA Duplex,34,34,34.0,34.0,0,Corrected,Active
 MAY,2024,Q2,,NHA Duplex,501794,"Villamor, Marlon",NHA Duplex,1024,1067,1024.0,1067.0,43,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502123,"Alcovendas, Regie","Talaba, Burgos",,4,4.0,4.0,0,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501852,"Afable, Florina","Talaba, Burgos",48,49,48.0,49.0,1,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501947,"Almine, Jhony","Talaba, Burgos",330,418,330.0,418.0,88,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501822,"Almine, Loida","Talaba, Burgos",703,731,703.0,731.0,28,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502108,"Almonte, Margie","Talaba, Burgos",31,42,31.0,42.0,11,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501831,"Almoete, Rafael","Talaba, Burgos",1398,1455,1398.0,1455.0,57,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501999,"Almoete, Rose Ann","Talaba, Burgos",128,136,128.0,136.0,8,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501811,"Almosara, Medy","Talaba, Burgos",789,830,789.0,830.0,41,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501972,"Anabe, Segundino","Talaba, Burgos",566,639,566.0,639.0,73,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501848,"Arcenas, John Chris","Talaba, Burgos",133,157,133.0,157.0,24,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502069,"Bartolay,Eden","Talaba, Burgos",,193,193.0,193.0,0,Corrected,Defect
-MAY,2024,Q2,,"Talaba, Burgos",501836,"Bartolata, Nobe","Talaba, Burgos",552,573,552.0,573.0,21,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502095,"Bartolata, Celeste","Talaba, Burgos",99,108,99.0,108.0,9,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501832,"Bartolay, Ruel","Talaba, Burgos",328,341,328.0,341.0,13,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501844,"Barrun, Jerson","Talaba, Burgos",507,540,507.0,540.0,33,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502058,"Barsaga, Ferdinand","Talaba, Burgos",150,165,150.0,165.0,15,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501875,"Cantela, Arlou","Talaba, Burgos",30,32,30.0,32.0,2,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501924,"Dejumo, John Mark","Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Talaba, Burgos",501830,"Dejumo, Rosemalyn","Talaba, Burgos",450,498,450.0,498.0,48,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501918,"Delavin, Carlo (1)","Talaba, Burgos",,3005,3005.0,3005.0,0,Corrected,Defect
-MAY,2024,Q2,,"Talaba, Burgos",501919,"Delavin, Carlo (2)","Talaba, Burgos",218,230,218.0,230.0,12,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501920,"Delavin, Carlo (3)","Talaba, Burgos",1278,1307,1278.0,1307.0,29,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501973,"Delavin, Carlo (4)/ SJMC Construction Service","Talaba, Burgos",3699,3973,3699.0,3973.0,274,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501974,"Delavin, Carlo (5)/ SMDF Construction","Talaba, Burgos",546,559,546.0,559.0,13,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501854,"Arcenas, John Francis","Talaba, Burgos",328,349,328.0,349.0,21,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502032,DENR/ Chrizelle So,"Talaba, Burgos",2184,2650,2184.0,2650.0,466,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502020,"DIZON, SANDRA","Talaba, Burgos",632,666,632.0,666.0,34,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501859,"Demabasa, Benjay","Talaba, Burgos",247,263,247.0,263.0,16,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501846,"Emata, Anelyn","Talaba, Burgos",493,516,493.0,516.0,23,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502007,"Floresta, George","Talaba, Burgos",64,64,64.0,64.0,0,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501833,"Floresta, Marjorie","Talaba, Burgos",388,388,388.0,388.0,0,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501945,"Francis, Jessica","Talaba, Burgos",439,459,439.0,459.0,20,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502077,"Garcia, Mary Ann","Talaba, Burgos",179,201,179.0,201.0,22,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501871,"Gebaga, Ofelia","Talaba, Burgos",303,315,303.0,315.0,12,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501834,"Gebilaguin, Juan","Talaba, Burgos",192,199,192.0,199.0,7,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501829,"Gebilaguin, Melba","Talaba, Burgos",694,716,694.0,716.0,22,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501821,"Gutierrez, Liza","Talaba, Burgos",379,402,379.0,402.0,23,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501849,"Julaton, Marlon","Talaba, Burgos",681,709,681.0,709.0,28,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502121,"Leonor, Lyndon","Talaba, Burgos",,,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Talaba, Burgos",501824,"Letada, Nida","Talaba, Burgos",430,445,430.0,445.0,15,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501856,"Llanto, Judex","Talaba, Burgos",434,448,434.0,448.0,14,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502112,"Llanto, Judex 2","Talaba, Burgos",13,21,13.0,21.0,8,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501826,"Morilla, Edna (1)","Talaba, Burgos",614,642,614.0,642.0,28,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501827,"Morilla, Edna (2)","Talaba, Burgos",247,256,247.0,256.0,9,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501828,"Morilla, Edna (3)","Talaba, Burgos",183,190,183.0,190.0,7,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502085,"Molines, Sarah","Talaba, Burgos",178,242,178.0,242.0,64,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501825,"Oliva, Maricel","Talaba, Burgos",383,394,383.0,394.0,11,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501839,"Romero, Cecil","Talaba, Burgos",439,454,439.0,454.0,15,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501569,"Robles, Julieta","Talaba, Burgos",680,696,680.0,696.0,16,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502008,"Romero, Maribel","Talaba, Burgos",155,155,155.0,155.0,0,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501841,"Romero, Marta","Talaba, Burgos",329,343,329.0,343.0,14,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",501869,"Sola, John Marvin","Talaba, Burgos",248,257,248.0,257.0,9,Corrected,Active
-MAY,2024,Q2,,"Talaba, Burgos",502061,"Villarante, Cris-an","Talaba, Burgos", , ,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Talaba, Burgos",501910,"Tresvalles, Lilibeth","Talaba, Burgos",338,351,338.0,351.0,13,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",501970,"Alcovendas, Neria","Tangnan, Burgos",258,272,258.0,272.0,14,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",501900,"Cavestany, Myleen","Tangnan, Burgos",2636,2694,2636.0,2694.0,58,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",501941,"Coloso, Amalia","Tangnan, Burgos",310,329,310.0,329.0,19,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",501956,"Coloso, Arnel","Tangnan, Burgos",199,211,199.0,211.0,12,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",502067,"Coloso, Nestor","Tangnan, Burgos",287,311,287.0,311.0,24,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",502013,"Dejucos, Ismael","Tangnan, Burgos",775,895,775.0,895.0,120,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",501975,"Lagare, Edna","Tangnan, Burgos",472,510,472.0,510.0,38,Corrected,Active
-MAY,2024,Q2,,"Tangnan, Burgos",501950,"Romero, Chinita","Tangnan, Burgos",312,324,312.0,324.0,12,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",502042,"Almine, Daisy","Upper, Bliss",246,281,246.0,281.0,35,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501969,"Almario, Janeth","Upper, Bliss", , ,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Upper, Bliss",501936,"Almencion, Erlindo","Upper, Bliss",277,296,277.0,296.0,19,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501986,"Almodiel, Lina","Upper, Bliss",325,346,325.0,346.0,21,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501928,"Almoradie, Jason","Upper, Bliss",368,385,368.0,385.0,17,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501929,"Almoradie, Jose","Upper, Bliss",288,301,288.0,301.0,13,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501976,"Altiche, Jomar","Upper, Bliss",162,174,162.0,174.0,12,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501933,"Altiche, Joven","Upper, Bliss",400,423,400.0,423.0,23,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501990,"Barrun, Orlando","Upper, Bliss",120,127,120.0,127.0,7,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501694,"Bartolabac, Nick","Upper, Bliss",9119,9188,9119.0,9188.0,69,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501946,"Bartolabac, Relan","Upper, Bliss",,,,,0,Corrected,Disconnected
-MAY,2024,Q2,,"Upper, Bliss",501927,"Bartolata, Nove","Upper, Bliss",369,393,369.0,393.0,24,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501959,"Dejucos, Marcebil","Upper, Bliss",283,302,283.0,302.0,19,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501931,"Espanol, Amy","Upper, Bliss",261,273,261.0,273.0,12,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501932,"Espanol, Catherine","Upper, Bliss",366,381,366.0,381.0,15,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501930,"Espanol, Sharina","Upper, Bliss",216,228,216.0,228.0,12,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501934,"Esparrago, Edelyn","Upper, Bliss",247,267,247.0,267.0,20,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",502111,Gebilaguin. Gliasa,"Upper, Bliss", , ,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Upper, Bliss",501940,"Guinoo, Rhea","Upper, Bliss",76,84,76.0,84.0,8,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501944,"Gulmatico, Roma","Upper, Bliss",183,200,183.0,200.0,17,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501937,"Javier, Mary Jean","Upper, Bliss",141,149,141.0,149.0,8,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",502030,"Laila, Nove","Upper, Bliss",107,119,107.0,119.0,12,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501939,"Lagare, Edna","Upper, Bliss",102,102,102.0,102.0,0,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501935,"Lopez, Leona","Upper, Bliss",100,106,100.0,106.0,6,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",502121,"Leonor, Lyndon","Upper, Bliss",,,,,0,Corrected,Unknown
-MAY,2024,Q2,,"Upper, Bliss",501942,"Moni, Maria Salome","Upper, Bliss",223,236,223.0,236.0,13,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501938,"Ramiso, Rosie","Upper, Bliss",261,275,261.0,275.0,14,Corrected,Active
-MAY,2024,Q2,,"Upper, Bliss",501951,"Sedigo, Melogean","Upper, Bliss",69,76,69.0,76.0,7,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502123,"Alcovendas, Regie","Talaba, Burgos",,4,4.0,4.0,0,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501852,"Afable, Florina","Talaba, Burgos",48,49,48.0,49.0,1,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501947,"Almine, Jhony","Talaba, Burgos",330,418,330.0,418.0,88,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501822,"Almine, Loida","Talaba, Burgos",703,731,703.0,731.0,28,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502108,"Almonte, Margie","Talaba, Burgos",31,42,31.0,42.0,11,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501831,"Almoete, Rafael","Talaba, Burgos",1398,1455,1398.0,1455.0,57,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501999,"Almoete, Rose Ann","Talaba, Burgos",128,136,128.0,136.0,8,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501811,"Almosara, Medy","Talaba, Burgos",789,830,789.0,830.0,41,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501972,"Anabe, Segundino","Talaba, Burgos",566,639,566.0,639.0,73,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501848,"Arcenas, John Chris","Talaba, Burgos",133,157,133.0,157.0,24,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502069,"Bartolay,Eden","Talaba, Burgos",,193,193.0,193.0,0,Corrected,Defect
+MAY,2024,Q2,Burgos,Talaba,501836,"Bartolata, Nobe","Talaba, Burgos",552,573,552.0,573.0,21,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502095,"Bartolata, Celeste","Talaba, Burgos",99,108,99.0,108.0,9,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501832,"Bartolay, Ruel","Talaba, Burgos",328,341,328.0,341.0,13,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501844,"Barrun, Jerson","Talaba, Burgos",507,540,507.0,540.0,33,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502058,"Barsaga, Ferdinand","Talaba, Burgos",150,165,150.0,165.0,15,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501875,"Cantela, Arlou","Talaba, Burgos",30,32,30.0,32.0,2,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501924,"Dejumo, John Mark","Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Talaba,501830,"Dejumo, Rosemalyn","Talaba, Burgos",450,498,450.0,498.0,48,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501918,"Delavin, Carlo (1)","Talaba, Burgos",,3005,3005.0,3005.0,0,Corrected,Defect
+MAY,2024,Q2,Burgos,Talaba,501919,"Delavin, Carlo (2)","Talaba, Burgos",218,230,218.0,230.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501920,"Delavin, Carlo (3)","Talaba, Burgos",1278,1307,1278.0,1307.0,29,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501973,"Delavin, Carlo (4)/ SJMC Construction Service","Talaba, Burgos",3699,3973,3699.0,3973.0,274,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501974,"Delavin, Carlo (5)/ SMDF Construction","Talaba, Burgos",546,559,546.0,559.0,13,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501854,"Arcenas, John Francis","Talaba, Burgos",328,349,328.0,349.0,21,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502032,DENR/ Chrizelle So,"Talaba, Burgos",2184,2650,2184.0,2650.0,466,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502020,"DIZON, SANDRA","Talaba, Burgos",632,666,632.0,666.0,34,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501859,"Demabasa, Benjay","Talaba, Burgos",247,263,247.0,263.0,16,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501846,"Emata, Anelyn","Talaba, Burgos",493,516,493.0,516.0,23,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502007,"Floresta, George","Talaba, Burgos",64,64,64.0,64.0,0,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501833,"Floresta, Marjorie","Talaba, Burgos",388,388,388.0,388.0,0,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501945,"Francis, Jessica","Talaba, Burgos",439,459,439.0,459.0,20,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502077,"Garcia, Mary Ann","Talaba, Burgos",179,201,179.0,201.0,22,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501871,"Gebaga, Ofelia","Talaba, Burgos",303,315,303.0,315.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501834,"Gebilaguin, Juan","Talaba, Burgos",192,199,192.0,199.0,7,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501829,"Gebilaguin, Melba","Talaba, Burgos",694,716,694.0,716.0,22,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501821,"Gutierrez, Liza","Talaba, Burgos",379,402,379.0,402.0,23,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501849,"Julaton, Marlon","Talaba, Burgos",681,709,681.0,709.0,28,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502121,"Leonor, Lyndon","Talaba, Burgos",,,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Talaba,501824,"Letada, Nida","Talaba, Burgos",430,445,430.0,445.0,15,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501856,"Llanto, Judex","Talaba, Burgos",434,448,434.0,448.0,14,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502112,"Llanto, Judex 2","Talaba, Burgos",13,21,13.0,21.0,8,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501826,"Morilla, Edna (1)","Talaba, Burgos",614,642,614.0,642.0,28,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501827,"Morilla, Edna (2)","Talaba, Burgos",247,256,247.0,256.0,9,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501828,"Morilla, Edna (3)","Talaba, Burgos",183,190,183.0,190.0,7,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502085,"Molines, Sarah","Talaba, Burgos",178,242,178.0,242.0,64,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501825,"Oliva, Maricel","Talaba, Burgos",383,394,383.0,394.0,11,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501839,"Romero, Cecil","Talaba, Burgos",439,454,439.0,454.0,15,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501569,"Robles, Julieta","Talaba, Burgos",680,696,680.0,696.0,16,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502008,"Romero, Maribel","Talaba, Burgos",155,155,155.0,155.0,0,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501841,"Romero, Marta","Talaba, Burgos",329,343,329.0,343.0,14,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,501869,"Sola, John Marvin","Talaba, Burgos",248,257,248.0,257.0,9,Corrected,Active
+MAY,2024,Q2,Burgos,Talaba,502061,"Villarante, Cris-an","Talaba, Burgos", , ,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Talaba,501910,"Tresvalles, Lilibeth","Talaba, Burgos",338,351,338.0,351.0,13,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,501970,"Alcovendas, Neria","Tangnan, Burgos",258,272,258.0,272.0,14,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,501900,"Cavestany, Myleen","Tangnan, Burgos",2636,2694,2636.0,2694.0,58,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,501941,"Coloso, Amalia","Tangnan, Burgos",310,329,310.0,329.0,19,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,501956,"Coloso, Arnel","Tangnan, Burgos",199,211,199.0,211.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,502067,"Coloso, Nestor","Tangnan, Burgos",287,311,287.0,311.0,24,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,502013,"Dejucos, Ismael","Tangnan, Burgos",775,895,775.0,895.0,120,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,501975,"Lagare, Edna","Tangnan, Burgos",472,510,472.0,510.0,38,Corrected,Active
+MAY,2024,Q2,Burgos,Tangnan,501950,"Romero, Chinita","Tangnan, Burgos",312,324,312.0,324.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,502042,"Almine, Daisy","Upper, Bliss",246,281,246.0,281.0,35,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501969,"Almario, Janeth","Upper, Bliss", , ,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Upper Bliss,501936,"Almencion, Erlindo","Upper, Bliss",277,296,277.0,296.0,19,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501986,"Almodiel, Lina","Upper, Bliss",325,346,325.0,346.0,21,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501928,"Almoradie, Jason","Upper, Bliss",368,385,368.0,385.0,17,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501929,"Almoradie, Jose","Upper, Bliss",288,301,288.0,301.0,13,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501976,"Altiche, Jomar","Upper, Bliss",162,174,162.0,174.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501933,"Altiche, Joven","Upper, Bliss",400,423,400.0,423.0,23,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501990,"Barrun, Orlando","Upper, Bliss",120,127,120.0,127.0,7,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501694,"Bartolabac, Nick","Upper, Bliss",9119,9188,9119.0,9188.0,69,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501946,"Bartolabac, Relan","Upper, Bliss",,,,,0,Corrected,Disconnected
+MAY,2024,Q2,Burgos,Upper Bliss,501927,"Bartolata, Nove","Upper, Bliss",369,393,369.0,393.0,24,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501959,"Dejucos, Marcebil","Upper, Bliss",283,302,283.0,302.0,19,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501931,"Espanol, Amy","Upper, Bliss",261,273,261.0,273.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501932,"Espanol, Catherine","Upper, Bliss",366,381,366.0,381.0,15,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501930,"Espanol, Sharina","Upper, Bliss",216,228,216.0,228.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501934,"Esparrago, Edelyn","Upper, Bliss",247,267,247.0,267.0,20,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,502111,Gebilaguin. Gliasa,"Upper, Bliss", , ,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Upper Bliss,501940,"Guinoo, Rhea","Upper, Bliss",76,84,76.0,84.0,8,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501944,"Gulmatico, Roma","Upper, Bliss",183,200,183.0,200.0,17,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501937,"Javier, Mary Jean","Upper, Bliss",141,149,141.0,149.0,8,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,502030,"Laila, Nove","Upper, Bliss",107,119,107.0,119.0,12,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501939,"Lagare, Edna","Upper, Bliss",102,102,102.0,102.0,0,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501935,"Lopez, Leona","Upper, Bliss",100,106,100.0,106.0,6,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,502121,"Leonor, Lyndon","Upper, Bliss",,,,,0,Corrected,Unknown
+MAY,2024,Q2,Burgos,Upper Bliss,501942,"Moni, Maria Salome","Upper, Bliss",223,236,223.0,236.0,13,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501938,"Ramiso, Rosie","Upper, Bliss",261,275,261.0,275.0,14,Corrected,Active
+MAY,2024,Q2,Burgos,Upper Bliss,501951,"Sedigo, Melogean","Upper, Bliss",69,76,69.0,76.0,7,Corrected,Active
 MAY,2024,Q2,,Villamor Street,501113,"Alcantara, Isabel",Villamor St.,1087,1110,1087.0,1110.0,23,Corrected,Active
 MAY,2024,Q2,,Villamor Street,501334,"Alcantara, Galahad",Villamor St.,959,959,959.0,959.0,0,Corrected,Active
 MAY,2024,Q2,,Villamor Street,501012,"Alcantara, Garibalde",Villamor St.,,,,,0,Corrected,Disconnected
@@ -2127,5 +2127,5 @@ MAY,2024,Q2,,Villamor Street,501111,"Laurio, Serenida/ Bartolata Ryan",Villamor 
 MAY,2024,Q2,,Villamor Street,500641,"Moya, Concepcion",Villamor St.,,,,,0,Corrected,Disconnected
 MAY,2024,Q2,,Villamor Street,500021,"Nacino, Christopher",Villamor St.,1913,1913,1913.0,1913.0,0,Corrected,Active
 MAY,2024,Q2,,Villamor Street,500091,"Ragasa, Fe",Villamor St.,3882,3902,3882.0,3902.0,20,Corrected,Active
-MAY,2024,Q2,,"Puro, Calipat-an",501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
-MAY,2024,Q2,,"Puro, Calipat-an",501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAY,2024,Q2,Calipat-an,Puro,501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAY,2024,Q2,Calipat-an,Puro,501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected

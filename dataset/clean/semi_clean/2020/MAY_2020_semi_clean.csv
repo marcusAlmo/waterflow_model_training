@@ -1634,5 +1634,5 @@ MAY,2020,Q2,,Villamor Street,501111,"Laurio, Serenida",Villamor St.,1441,,1441.0
 MAY,2020,Q2,,Villamor Street,500641,"Moya, Conception",Villamor St.,,,,,0,Corrected,Unknown
 MAY,2020,Q2,,Villamor Street,500021,"Nacino, Christopher",Villamor St.,1787,1790,1787.0,1790.0,3,Corrected,Active
 MAY,2020,Q2,,Villamor Street,500091,"Ragasa, Fe",Villamor St.,2938,2955,2938.0,2955.0,17,Corrected,Active
-MAY,2020,Q2,,"Puro, Calipat-an",501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
-MAY,2020,Q2,,"Puro, Calipat-an",501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAY,2020,Q2,Calipat-an,Puro,501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+MAY,2020,Q2,Calipat-an,Puro,501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected

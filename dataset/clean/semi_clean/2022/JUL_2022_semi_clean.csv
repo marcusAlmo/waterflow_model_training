@@ -771,16 +771,16 @@ JUL,2022,Q3,,Bartolay Street,500938,"Vasquez, Noel",Bartolay St.,4365,4375,4365.
 JUL,2022,Q3,,Bartolay Street,500133,"Veterbo, Judith",Bartolay St.,2654,2670,2654.0,2670.0,16,Corrected,Active
 JUL,2022,Q3,,Bartolay Street,500413,"Villamor, Jeneth",Bartolay St.,,,,,0,Corrected,Disconnected
 JUL,2022,Q3,,Bartolay Street,500714,"Villamor, Nena",Bartolay St.,,,,,0,Corrected,Disconnected
-JUL,2022,Q3,,"Binaliw, Burgos",501838,"Almine, Virginia","Binaliw, Burgos",52,73,52.0,73.0,21,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501820,"Almoguerra, Myda","Binaliw, Burgos",25,29,25.0,29.0,4,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501867,"Avila, Jhoy","Binaliw, Burgos",29,40,29.0,40.0,11,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501868,"Barrun, Wenceslao","Binaliw, Burgos",7,7,7.0,7.0,0,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501823,"Bartolata, Perla","Binaliw, Burgos",150,170,150.0,170.0,20,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501835,"Bartolata, Hanilyn","Binaliw, Burgos",203,244,203.0,244.0,41,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501885,"Dejucos, Gina","Binaliw, Burgos",21,31,21.0,31.0,10,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501858,"Espinosa, Arlene","Binaliw, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Binaliw, Burgos",501840,"Jardin, Sonia","Binaliw, Burgos",157,184,157.0,184.0,27,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501696,Waterpark,"Binaliw, Burgos",615,799,615.0,799.0,184,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501838,"Almine, Virginia","Binaliw, Burgos",52,73,52.0,73.0,21,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501820,"Almoguerra, Myda","Binaliw, Burgos",25,29,25.0,29.0,4,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501867,"Avila, Jhoy","Binaliw, Burgos",29,40,29.0,40.0,11,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501868,"Barrun, Wenceslao","Binaliw, Burgos",7,7,7.0,7.0,0,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501823,"Bartolata, Perla","Binaliw, Burgos",150,170,150.0,170.0,20,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501835,"Bartolata, Hanilyn","Binaliw, Burgos",203,244,203.0,244.0,41,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501885,"Dejucos, Gina","Binaliw, Burgos",21,31,21.0,31.0,10,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501858,"Espinosa, Arlene","Binaliw, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Binaliw,501840,"Jardin, Sonia","Binaliw, Burgos",157,184,157.0,184.0,27,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501696,Waterpark,"Binaliw, Burgos",615,799,615.0,799.0,184,Corrected,Active
 JUL,2022,Q3,,Don Juan Street,501114,"Albano, Emie",Don Juan St.,,,,,0,Corrected,Disconnected
 JUL,2022,Q3,,Don Juan Street,500121,"Alig, Geraldine",Don Juan St.,138,138,138.0,138.0,0,Corrected,Active
 JUL,2022,Q3,,Don Juan Street,501715,"Almodal, Clark",Don Juan St.,262,262,262.0,262.0,0,Corrected,Active
@@ -1861,41 +1861,41 @@ JUL,2022,Q3,,NHA Duplex,501788,"Esparrago, Jesus",NHA Duplex,469,494,469.0,494.0
 JUL,2022,Q3,,NHA Duplex,501700,"Galero, Guin Carlo",NHA Duplex,,1126,1126.0,1126.0,0,Corrected,Defect
 JUL,2022,Q3,,NHA Duplex,501874,"Gelotin, Maria",NHA Duplex,77,90,77.0,90.0,13,Corrected,Active
 JUL,2022,Q3,,NHA Duplex,501794,"Villamor, Marlon",NHA Duplex,258,284,258.0,284.0,26,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501852,"Afable, Florina","Talaba, Burgos",9,11,9.0,11.0,2,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501822,"Almine, Loida","Talaba, Burgos",106,126,106.0,126.0,20,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501831,"Almoete, Rafael","Talaba, Burgos",282,343,282.0,343.0,61,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501811,"Almosara, Medy","Talaba, Burgos",173,196,173.0,196.0,23,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501848,"Arcenas, John Chris","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501836,"Bartolata, Nobe","Talaba, Burgos",15,31,15.0,31.0,16,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501832,"Bartolay, Ruel","Talaba, Burgos",43,65,43.0,65.0,22,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501844,"Barrun, Jerson","Talaba, Burgos",185,230,185.0,230.0,45,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501875,"Cantela, Arlou","Talaba, Burgos",4,5,4.0,5.0,1,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501885,"Dejucos, Gina","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501830,"Dejumo, Rosemalyn","Talaba, Burgos",108,129,108.0,129.0,21,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501918,"Delavin, Carlo (1)","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501919,"Delavin, Carlo (2)","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501920,"Delavin, Carlo (3)","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501854,"Delavin, Mila","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501859,"Demabasa, Benjay","Talaba, Burgos",41,57,41.0,57.0,16,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501846,"Emata, Anelyn","Talaba, Burgos",66,82,66.0,82.0,16,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501833,"Floresta, Marjorie","Talaba, Burgos",109,128,109.0,128.0,19,Corrected,Active
-JUL,2022,Q3,,"Binaliw, Burgos",501871,"Gebaga, Ofelia","Binaliw, Burgos",7,17,7.0,17.0,10,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501834,"Gebilaguin, Juan","Talaba, Burgos",39,45,39.0,45.0,6,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501829,"Gebilaguin, Melba","Talaba, Burgos",126,155,126.0,155.0,29,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501821,"Gutierrez, Liza","Talaba, Burgos",45,58,45.0,58.0,13,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501849,"Julaton, Marlon","Talaba, Burgos",103,122,103.0,122.0,19,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501824,"Letada, Nida","Talaba, Burgos",42,65,42.0,65.0,23,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501856,"Llanto, Judex","Talaba, Burgos",64,78,64.0,78.0,14,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501826,"Morilla, Edna (1)","Talaba, Burgos",92,113,92.0,113.0,21,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501827,"Morilla, Edna (2)","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501828,"Morilla, Edna (3)","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501825,"Oliva, Maricel","Talaba, Burgos",69,82,69.0,82.0,13,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501913,"Rapsing, Lester","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501839,"Romero, Cecil","Talaba, Burgos",89,90,89.0,90.0,1,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501841,"Romero, Marta","Talaba, Burgos",33,38,33.0,38.0,5,Corrected,Active
-JUL,2022,Q3,,"Talaba, Burgos",501869,"Sola, John Marvin","Talaba, Burgos",,,,,0,Corrected,Unknown
-JUL,2022,Q3,,"Talaba, Burgos",501910,"Tresvalles, Lilibeth","Talaba, Burgos",,8,8.0,8.0,0,Corrected,Active
-JUL,2022,Q3,,"Tangnan, Burgos",501990,"Cavestany, Myleen","Tangnan, Burgos",152,242,152.0,242.0,90,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501852,"Afable, Florina","Talaba, Burgos",9,11,9.0,11.0,2,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501822,"Almine, Loida","Talaba, Burgos",106,126,106.0,126.0,20,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501831,"Almoete, Rafael","Talaba, Burgos",282,343,282.0,343.0,61,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501811,"Almosara, Medy","Talaba, Burgos",173,196,173.0,196.0,23,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501848,"Arcenas, John Chris","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501836,"Bartolata, Nobe","Talaba, Burgos",15,31,15.0,31.0,16,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501832,"Bartolay, Ruel","Talaba, Burgos",43,65,43.0,65.0,22,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501844,"Barrun, Jerson","Talaba, Burgos",185,230,185.0,230.0,45,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501875,"Cantela, Arlou","Talaba, Burgos",4,5,4.0,5.0,1,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501885,"Dejucos, Gina","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501830,"Dejumo, Rosemalyn","Talaba, Burgos",108,129,108.0,129.0,21,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501918,"Delavin, Carlo (1)","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501919,"Delavin, Carlo (2)","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501920,"Delavin, Carlo (3)","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501854,"Delavin, Mila","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501859,"Demabasa, Benjay","Talaba, Burgos",41,57,41.0,57.0,16,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501846,"Emata, Anelyn","Talaba, Burgos",66,82,66.0,82.0,16,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501833,"Floresta, Marjorie","Talaba, Burgos",109,128,109.0,128.0,19,Corrected,Active
+JUL,2022,Q3,Burgos,Binaliw,501871,"Gebaga, Ofelia","Binaliw, Burgos",7,17,7.0,17.0,10,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501834,"Gebilaguin, Juan","Talaba, Burgos",39,45,39.0,45.0,6,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501829,"Gebilaguin, Melba","Talaba, Burgos",126,155,126.0,155.0,29,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501821,"Gutierrez, Liza","Talaba, Burgos",45,58,45.0,58.0,13,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501849,"Julaton, Marlon","Talaba, Burgos",103,122,103.0,122.0,19,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501824,"Letada, Nida","Talaba, Burgos",42,65,42.0,65.0,23,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501856,"Llanto, Judex","Talaba, Burgos",64,78,64.0,78.0,14,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501826,"Morilla, Edna (1)","Talaba, Burgos",92,113,92.0,113.0,21,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501827,"Morilla, Edna (2)","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501828,"Morilla, Edna (3)","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501825,"Oliva, Maricel","Talaba, Burgos",69,82,69.0,82.0,13,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501913,"Rapsing, Lester","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501839,"Romero, Cecil","Talaba, Burgos",89,90,89.0,90.0,1,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501841,"Romero, Marta","Talaba, Burgos",33,38,33.0,38.0,5,Corrected,Active
+JUL,2022,Q3,Burgos,Talaba,501869,"Sola, John Marvin","Talaba, Burgos",,,,,0,Corrected,Unknown
+JUL,2022,Q3,Burgos,Talaba,501910,"Tresvalles, Lilibeth","Talaba, Burgos",,8,8.0,8.0,0,Corrected,Active
+JUL,2022,Q3,Burgos,Tangnan,501990,"Cavestany, Myleen","Tangnan, Burgos",152,242,152.0,242.0,90,Corrected,Active
 JUL,2022,Q3,,Villamor Street,501113,"Alcantara, Isabel",Villamor St.,840,841,840.0,841.0,1,Corrected,Active
 JUL,2022,Q3,,Villamor Street,501334,"Alcantara, Galahad",Villamor St.,1459,1469,1459.0,1469.0,10,Corrected,Active
 JUL,2022,Q3,,Villamor Street,501012,"Alcantara, Garibalde",Villamor St.,,,,,0,Corrected,Disconnected
@@ -1926,5 +1926,5 @@ JUL,2022,Q3,,Villamor Street,501111,"Laurio, Serenida",Villamor St.,2316,2335,23
 JUL,2022,Q3,,Villamor Street,500641,"Moya, Concepcion",Villamor St.,,,,,0,Corrected,Disconnected
 JUL,2022,Q3,,Villamor Street,500021,"Nacino, Christopher",Villamor St.,1829,1829,1829.0,1829.0,0,Corrected,Active
 JUL,2022,Q3,,Villamor Street,500091,"Ragasa, Fe",Villamor St.,3369,3379,3369.0,3379.0,10,Corrected,Active
-JUL,2022,Q3,,"Puro, Calipat-an",501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
-JUL,2022,Q3,,"Puro, Calipat-an",501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+JUL,2022,Q3,Calipat-an,Puro,501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+JUL,2022,Q3,Calipat-an,Puro,501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected

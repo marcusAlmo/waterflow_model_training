@@ -1692,5 +1692,5 @@ SEP,2020,Q3,,Villamor Street,501111,"Laurio, Serenida",Villamor St.,1618,1635,16
 SEP,2020,Q3,,Villamor Street,500641,"Moya, Concepcion",Villamor St.,,,,,0,Corrected,Disconnected
 SEP,2020,Q3,,Villamor Street,500021,"Nacino, Christopher",Villamor St.,1797,1798,1797.0,1798.0,1,Corrected,Active
 SEP,2020,Q3,,Villamor Street,500091,"Ragasa, Fe",Villamor St.,2995,3002,2995.0,3002.0,7,Corrected,Active
-SEP,2020,Q3,,"Puro, Calipat-an",501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
-SEP,2020,Q3,,"Puro, Calipat-an",501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+SEP,2020,Q3,Calipat-an,Puro,501109,"Almocera, Ricky","Puro, Calipat-an",,,,,0,Corrected,Disconnected
+SEP,2020,Q3,Calipat-an,Puro,501381,"Gaurano, Clutario","Puro, Calipat-an",,,,,0,Corrected,Disconnected
