@@ -3,4 +3,3 @@
 /dataset/raw
 /dataset/preprocessed
 /dataset/clean/production
-/dataset/clean/production/tabular/consolidated_readings_with_account_names.csv

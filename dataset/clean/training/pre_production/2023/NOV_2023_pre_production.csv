@@ -14,13 +14,13 @@ NOV,2023,Q4,District 4,Alicante Street,500739,Residential,"Alicante St, Dist. 4"
 NOV,2023,Q4,District 3,Alicante Street,500187,Residential,"Alicante St, Dist. 3",3299.0,3300.0,3299.0,3300.0,1,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,501447,Residential,"Alicante St, Dist. 3",887.0,905.0,887.0,905.0,18,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,501522,Residential,"Alicante St, Dist. 2",742.0,761.0,742.0,761.0,19,Corrected,Active
-NOV,2023,Q4,District 4,Alicante Street,501317,Residential,"Alicante St, Dist. 4",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 4,Alicante Street,501317,Residential,"Alicante St, Dist. 4",1088.0,1088.0,1088.0,1088.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,501280,Residential,"Alicante St, Dist. 2",1344.0,1375.0,1344.0,1375.0,31,Corrected,Active
-NOV,2023,Q4,District 2,Alicante Street,500248,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Alicante Street,500248,Residential,"Alicante St, Dist. 2",7882.0,7882.0,7882.0,7882.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Alicante Street,501028,Residential,"Alicante St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Alicante Street,501437,Commercial,"Alicante St, Dist. 2",2169.0,2287.0,2169.0,2287.0,118,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,500433,Residential,"Alicante St, Dist. 2",2059.0,2112.0,2059.0,2112.0,53,Corrected,Active
-NOV,2023,Q4,District 2,Alicante Street,500260,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Alicante Street,500260,Residential,"Alicante St, Dist. 2",2388.0,2388.0,2388.0,2388.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Alicante Street,501663,Residential,"Alicante St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Alicante Street,500185,Residential,"Alicante St, Dist. 3",182.0,200.0,182.0,200.0,18,Corrected,Active
 NOV,2023,Q4,District 4,Alicante Street,500169,Residential,"Alicante St, Dist. 4",3219.0,3219.0,3219.0,3219.0,0,Corrected,Active
@@ -101,10 +101,10 @@ NOV,2023,Q4,District 3,Alicante Street,500760,Residential,"Alicante St, Dist. 3"
 NOV,2023,Q4,District 4,Alicante Street,500094,Residential,"Alicante St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Alicante Street,500678,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Alicante Street,501306,Residential,"Alicante St, Dist. 2",394.0,422.0,394.0,422.0,28,Corrected,Active
-NOV,2023,Q4,District 2,Alicante Street,501613,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Alicante Street,501613,Residential,"Alicante St, Dist. 2",1882.0,1882.0,1882.0,1882.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,501518,Commercial,"Alicante St, Dist. 3",138.0,240.0,138.0,240.0,102,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,501291,Residential,"Alicante St, Dist. 2",1605.0,813.0,1605.0,813.0,0,Corrected,Active
-NOV,2023,Q4,District 2,Alicante Street,501128,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Alicante Street,501128,Residential,"Alicante St, Dist. 2",478.0,478.0,478.0,478.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,500793,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 4,Alicante Street,500010,Residential,"Alicante St, Dist. 4",526.0,545.0,526.0,545.0,19,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,500907,Commercial,"Alicante St, Dist. 2",2382.0,2400.0,2382.0,2400.0,18,Corrected,Active
@@ -120,7 +120,7 @@ NOV,2023,Q4,District 2,Alicante Street,500408,Residential,"Alicante St, Dist. 2"
 NOV,2023,Q4,District 2,Alicante Street,500973,Commercial,"Alicante St, Dist. 2",405.0,428.0,405.0,428.0,23,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,500475,Residential,"Alicante St, Dist. 2",1806.0,1868.0,1806.0,1868.0,62,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,500986,Residential,"Alicante St, Dist. 3",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 2,Alicante Street,501344,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Alicante Street,501344,Residential,"Alicante St, Dist. 2",494.0,494.0,494.0,494.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,500789,Residential,"Alicante St, Dist. 3",1657.0,1680.0,1657.0,1680.0,23,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,500978,Residential,"Alicante St, Dist. 2",2441.0,2480.0,2441.0,2480.0,39,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,501620,Residential,"Alicante St, Dist. 2",1829.0,1894.0,1829.0,1894.0,65,Corrected,Active
@@ -136,7 +136,7 @@ NOV,2023,Q4,District 4,Alicante Street,500093,Residential,"Alicante St, Dist. 4"
 NOV,2023,Q4,District 3,Alicante Street,500839,Residential,"Alicante St, Dist. 3",6662.0,6768.0,6662.0,6768.0,106,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,501088,Residential,"Alicante St, Dist. 3",4340.0,3399.0,4340.0,3399.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,501878,Residential,"Alicante St, Dist. 3",177.0,190.0,177.0,190.0,13,Corrected,Active
-NOV,2023,Q4,District 2,Alicante Street,500265,Residential,"Alicante St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Alicante Street,500265,Residential,"Alicante St, Dist. 2",206.0,206.0,206.0,206.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Alicante Street,500241,Residential,"Alicante St, Dist. 4",5271.0,5321.0,5271.0,5321.0,50,Corrected,Active
 NOV,2023,Q4,District 2,Alicante Street,500270,Residential,"Alicante St, Dist. 2",1667.0,1708.0,1667.0,1708.0,41,Corrected,Active
 NOV,2023,Q4,District 3,Alicante Street,501425,Residential,"Alicante St, Dist. 3",426.0,457.0,426.0,457.0,31,Corrected,Active
@@ -214,7 +214,7 @@ NOV,2023,Q4,District 3,Altarejos Street,500205,Residential,"Altarejos St, Dist. 
 NOV,2023,Q4,District 3,Altarejos Street,500595,Residential,"Altarejos St, Dist. 3",2354.0,2358.0,2354.0,2358.0,4,Corrected,Active
 NOV,2023,Q4,District 3,Altarejos Street,501850,Residential,"Altarejos St, Dist. 3",777.0,847.0,777.0,847.0,70,Corrected,Active
 NOV,2023,Q4,District 3,Altarejos Street,501027,Residential,"Altarejos St, Dist. 3",1569.0,1591.0,1569.0,1591.0,22,Corrected,Active
-NOV,2023,Q4,District 3,Altarejos Street,500158,Commercial,"Altarejos St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Altarejos Street,500158,Commercial,"Altarejos St, Dist. 3",469.0,469.0,469.0,469.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Altarejos Street,501487,Residential,"Altarejos St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Altarejos Street,500071,Industrial,"Altarejos St, Dist. 3",19738.0,19741.0,19738.0,19741.0,3,Corrected,Active
 NOV,2023,Q4,District 3,Altarejos Street,501415,Residential,"Altarejos St, Dist. 3",201.0,217.0,201.0,217.0,16,Corrected,Active
@@ -260,7 +260,7 @@ NOV,2023,Q4,District 3,Altarejos Street,500129,Commercial,"Altarejos St, Dist. 3
 NOV,2023,Q4,District 3,Altarejos Street,501092,Residential,"Altarejos St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Altarejos Street,500190,Residential,"Altarejos St, Dist. 3",6145.0,6157.0,6145.0,6157.0,12,Corrected,Active
 NOV,2023,Q4,District 3,Altarejos Street,500704,Residential,"Altarejos St, Dist. 3",1160.0,1191.0,1160.0,1191.0,31,Corrected,Active
-NOV,2023,Q4,District 3,Altarejos Street,500140,Residential,"Altarejos St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Altarejos Street,500140,Residential,"Altarejos St, Dist. 3",97.0,97.0,97.0,97.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Altarejos Street,500616,Residential,"Altarejos St, Dist. 3",2731.0,2752.0,2731.0,2752.0,21,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500772,Residential,"Amican St, Dist. 3",4198.0,4203.0,4198.0,4203.0,5,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501224,Residential,"Amican St, Dist. 3",6726.0,6876.0,6726.0,6876.0,150,Corrected,Active
@@ -287,7 +287,7 @@ NOV,2023,Q4,District 3,Amican Street,501578,Residential,"Amican St, Dist. 3",166
 NOV,2023,Q4,District 3,Amican Street,501208,Residential,"Amican St, Dist. 3",1739.0,1781.0,1739.0,1781.0,42,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501234,Residential,"Amican St, Dist. 3",341.0,389.0,341.0,389.0,48,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500713,Residential,"Amican St, Dist. 3",557.0,572.0,557.0,572.0,15,Corrected,Active
-NOV,2023,Q4,District 3,Amican Street,501468,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Amican Street,501468,Residential,"Amican St, Dist. 3",1245.0,1245.0,1245.0,1245.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501553,Residential,"Amican St, Dist. 3",292.0,300.0,292.0,300.0,8,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500332,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Amican Street,501438,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
@@ -301,7 +301,7 @@ NOV,2023,Q4,District 3,Amican Street,501365,Commercial,"Amican St, Dist. 3",,,,,
 NOV,2023,Q4,District 3,Amican Street,501072,Residential,"Amican St, Dist. 3",871.0,916.0,871.0,916.0,45,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500225,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Amican Street,500535,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Amican Street,501632,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Amican Street,501632,Residential,"Amican St, Dist. 3",348.0,348.0,348.0,348.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501233,Residential,"Amican St, Dist. 3",1087.0,1108.0,1087.0,1108.0,21,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500147,Residential,"Amican St, Dist. 3",2459.0,1247.0,2459.0,1247.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500181,Residential,"Amican St, Dist. 3",569.0,584.0,569.0,584.0,15,Corrected,Active
@@ -315,13 +315,13 @@ NOV,2023,Q4,District 3,Amican Street,501737,Residential,"Amican St, Dist. 3",638
 NOV,2023,Q4,District 3,Amican Street,501735,Residential,"Amican St, Dist. 3",551.0,552.0,551.0,552.0,1,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501641,Residential,"Amican St, Dist. 3",851.0,889.0,851.0,889.0,38,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501559,Residential,"Amican St, Dist. 3",599.0,612.0,599.0,612.0,13,Corrected,Active
-NOV,2023,Q4,District 3,Amican Street,501901,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Amican Street,501901,Residential,"Amican St, Dist. 3",308.0,308.0,308.0,308.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500080,Residential,"Amican St, Dist. 3",659.0,687.0,659.0,687.0,28,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501528,Residential,"Amican St, Dist. 3",48.0,68.0,48.0,68.0,20,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500081,Residential,"Amican St, Dist. 3",2968.0,2985.0,2968.0,2985.0,17,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501448,Residential,"Amican St, Dist. 3",673.0,673.0,673.0,673.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501336,Residential,"Amican St, Dist. 3",2159.0,2188.0,2159.0,2188.0,29,Corrected,Active
-NOV,2023,Q4,District 3,Amican Street,501467,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Amican Street,501467,Residential,"Amican St, Dist. 3",1522.0,1522.0,1522.0,1522.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,501562,Residential,"Amican St, Dist. 3",565.0,579.0,565.0,579.0,14,Corrected,Active
 NOV,2023,Q4,District 3,Amican Street,500509,Residential,"Amican St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Amican Street,500160,Residential,"Amican St, Dist. 3",2836.0,2839.0,2836.0,2839.0,3,Corrected,Active
@@ -334,7 +334,7 @@ NOV,2023,Q4,District 1,Bailon Street,500541,Residential,"Bailon St, Dist. 1",,,,
 NOV,2023,Q4,District 2,Bailon Street,500374,Residential,"Bailon St, Dist. 2",3207.0,3213.0,3207.0,3213.0,6,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500887,Commercial,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 1,Bailon Street,501292,Commercial,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 1,Bailon Street,501472,Commercial,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 1,Bailon Street,501472,Commercial,"Bailon St, Dist. 1",8830.0,8830.0,8830.0,8830.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,502027,Commercial,"Bailon St, Dist. 1",149.0,217.0,149.0,217.0,68,Corrected,Active
 NOV,2023,Q4,District 2,Bailon Street,501386,Commercial,"Bailon St, Dist. 2",1269.0,1279.0,1269.0,1279.0,10,Corrected,Active
 NOV,2023,Q4,District 2,Bailon Street,501420,Commercial,"Bailon St, Dist. 2",174.0,222.0,174.0,222.0,48,Corrected,Active
@@ -371,7 +371,7 @@ NOV,2023,Q4,District 1,Bailon Street,501178,Commercial,"Bailon St, Dist. 1",3057
 NOV,2023,Q4,District 1,Bailon Street,500349,Commercial,"Bailon St, Dist. 1",6301.0,6312.0,6301.0,6312.0,11,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500233,Commercial,"Bailon St, Dist. 1",5110.0,5146.0,5110.0,5146.0,36,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500274,Commercial,"Bailon St, Dist. 1",6634.0,6740.0,6634.0,6740.0,106,Corrected,Active
-NOV,2023,Q4,District 2,Bailon Street,500996,Residential,"Bailon St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Bailon Street,500996,Residential,"Bailon St, Dist. 2",3241.0,3241.0,3241.0,3241.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500414,Residential,"Bailon St, Dist. 1",3155.0,3193.0,3155.0,3193.0,38,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500771,Commercial,"Bailon St, Dist. 1",2485.0,2665.0,2485.0,2665.0,180,Corrected,Active
 NOV,2023,Q4,District 2,Bailon Street,501313,Commercial,"Bailon St, Dist. 2",316.0,319.0,316.0,319.0,3,Corrected,Active
@@ -403,7 +403,7 @@ NOV,2023,Q4,District 2,Bailon Street,500995,Residential,"Bailon St, Dist. 2",,,,
 NOV,2023,Q4,District 2,Bailon Street,500436,Residential,"Bailon St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 1,Bailon Street,500415,Residential,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Bailon Street,501580,Residential,"Bailon St, Dist. 2",1034.0,1051.0,1034.0,1051.0,17,Corrected,Active
-NOV,2023,Q4,District 2,Bailon Street,501580,Residential,"Bailon St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Bailon Street,501580,Residential,"Bailon St, Dist. 2",1034.0,1034.0,1034.0,1034.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,501948,Commercial,"Bailon St, Dist. 1",271.0,319.0,271.0,319.0,48,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,501268,Residential,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 1,Bailon Street,500420,Commercial,"Bailon St, Dist. 1",6374.0,6417.0,6374.0,6417.0,43,Corrected,Active
@@ -419,7 +419,7 @@ NOV,2023,Q4,District 2,Bailon Street,500715,Commercial,"Bailon St, Dist. 2",74.0
 NOV,2023,Q4,District 2,Bailon Street,501323,Commercial,"Bailon St, Dist. 2",666.0,694.0,666.0,694.0,28,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500622,Commercial,"Bailon St, Dist. 1",6304.0,6356.0,6304.0,6356.0,52,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500370,Commercial,"Bailon St, Dist. 1",1072.0,1075.0,1072.0,1075.0,3,Corrected,Active
-NOV,2023,Q4,District 1,Bailon Street,500574,Residential,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 1,Bailon Street,500574,Residential,"Bailon St, Dist. 1",1636.0,1636.0,1636.0,1636.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,501118,Residential,"Bailon St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 1,Bailon Street,501843,Industrial,"Bailon St, Dist. 1",62.0,137.0,62.0,137.0,75,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,500223,Residential,"Bailon St, Dist. 1",859.0,882.0,859.0,882.0,23,Corrected,Active
@@ -442,7 +442,7 @@ NOV,2023,Q4,District 2,Bailon Street,500891,Residential,"Bailon St, Dist. 2",,,,
 NOV,2023,Q4,District 2,Bailon Street,500989,Residential,"Bailon St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Bailon Street,501539,Residential,"Bailon St, Dist. 2",300.0,351.0,300.0,351.0,51,Corrected,Active
 NOV,2023,Q4,District 1,Bailon Street,501654,Residential,"Bailon St, Dist. 1",724.0,756.0,724.0,756.0,32,Corrected,Active
-NOV,2023,Q4,District 2,Bailon Street,500425,Commercial,"Bailon St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Bailon Street,500425,Commercial,"Bailon St, Dist. 2",2159.0,2159.0,2159.0,2159.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Bailon Street,500419,Commercial,"Bailon St, Dist. 2",4273.0,4357.0,4273.0,4357.0,84,Corrected,Active
 NOV,2023,Q4,District 2,Bailon Street,500594,Commercial,"Bailon St, Dist. 2",1285.0,1306.0,1285.0,1306.0,21,Corrected,Active
 NOV,2023,Q4,District 2,Bailon Street,500394,Commercial,"Bailon St, Dist. 2",2473.0,2486.0,2473.0,2486.0,13,Corrected,Active
@@ -510,7 +510,7 @@ NOV,2023,Q4,District 2,Balcavem Street,500363,Residential,"Balcavem St, Dist. 2"
 NOV,2023,Q4,District 2,Balcavem Street,501639,Residential,"Balcavem St, Dist. 2",896.0,916.0,896.0,916.0,20,Corrected,Active
 NOV,2023,Q4,District 2,Balcavem Street,500592,Residential,"Balcavem St, Dist. 2",1413.0,1468.0,1413.0,1468.0,55,Corrected,Active
 NOV,2023,Q4,District 2,Balcavem Street,500903,Residential,"Balcavem St, Dist. 2",31.0,36.0,31.0,36.0,5,Corrected,Active
-NOV,2023,Q4,District 2,Balcavem Street,500964,Residential,"Balcavem St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Balcavem Street,500964,Residential,"Balcavem St, Dist. 2",2287.0,2287.0,2287.0,2287.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Balcavem Street,501378,Residential,"Balcavem St, Dist. 2",629.0,634.0,629.0,634.0,5,Corrected,Active
 NOV,2023,Q4,District 2,Balcavem Street,501475,Residential,"Balcavem St, Dist. 2",1504.0,1538.0,1504.0,1538.0,34,Corrected,Active
 NOV,2023,Q4,District 2,Balcavem Street,501099,Residential,"Balcavem St, Dist. 2",962.0,993.0,962.0,993.0,31,Corrected,Active
@@ -607,7 +607,7 @@ NOV,2023,Q4,District 3,Balintong Street,501482,Residential,"Balintong St, Dist. 
 NOV,2023,Q4,District 3,Balintong Street,500525,Residential,"Balintong St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Balintong Street,500444,Commercial,"Balintong St, Dist. 3",2996.0,2996.0,2996.0,2996.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Balintong Street,501387,Residential,"Balintong St, Dist. 3",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Balintong Street,500467,Residential,"Balintong St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Balintong Street,500467,Residential,"Balintong St, Dist. 3",156.0,156.0,156.0,156.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Balintong Street,500068,Residential,"Balintong St, Dist. 3",3733.0,3850.0,3733.0,3850.0,117,Corrected,Active
 NOV,2023,Q4,District 3,Balintong Street,501680,Commercial,"Balintong St, Dist. 3",2309.0,2460.0,2309.0,2460.0,151,Corrected,Active
 NOV,2023,Q4,District 3,Balintong Street,500937,Residential,"Balintong St, Dist. 3",1531.0,1571.0,1531.0,1571.0,40,Corrected,Active
@@ -651,7 +651,7 @@ NOV,2023,Q4,,Bartolabac Street,500945,Residential,Bartolabac St.,1977.0,2022.0,1
 NOV,2023,Q4,,Bartolabac Street,500994,Residential,Bartolabac St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Bartolabac Street,500971,Residential,"Bartolabac St, Dist. 3",908.0,940.0,908.0,940.0,32,Corrected,Active
 NOV,2023,Q4,,Bartolabac Street,500441,Residential,Bartolabac St.,3041.0,3114.0,3041.0,3114.0,73,Corrected,Active
-NOV,2023,Q4,,Bartolabac Street,500625,Residential,Bartolabac St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Bartolabac Street,500625,Residential,Bartolabac St.,2936.0,2936.0,2936.0,2936.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Bartolabac Street,501454,Residential,"Bartolabac St, Dist. 3",3301.0,3330.0,3301.0,3330.0,29,Corrected,Active
 NOV,2023,Q4,District 1,Bartolabac Street,500281,Residential,"Bartolabac St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Bartolabac Street,500725,Residential,"Bartolabac St, Dist. 3",,,,,0,Corrected,Unknown
@@ -698,7 +698,7 @@ NOV,2023,Q4,District 3,Bartolabac Street,500774,Commercial,"Bartolabac St, Dist.
 NOV,2023,Q4,District 3,Bartolabac Street,500953,Residential,"Bartolabac St, Dist. 3",1523.0,1552.0,1523.0,1552.0,29,Corrected,Active
 NOV,2023,Q4,,Bartolabac Street,500512,Residential,Bartolabac St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Bartolabac Street,501458,Residential,"Bartolabac St, Dist. 3",555.0,568.0,555.0,568.0,13,Corrected,Active
-NOV,2023,Q4,District 3,Bartolabac Street,500619,Residential,"Bartolabac St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Bartolabac Street,500619,Residential,"Bartolabac St, Dist. 3",2031.0,2031.0,2031.0,2031.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Bartolabac Street,501174,Residential,"Bartolabac St, Dist. 3",2112.0,2163.0,2112.0,2163.0,51,Corrected,Active
 NOV,2023,Q4,,Bartolabac Street,501242,Residential,Bartolabac St.,2025.0,2051.0,2025.0,2051.0,26,Corrected,Active
 NOV,2023,Q4,,Bartolabac Street,500367,Residential,Bartolabac St.,1189.0,1190.0,1189.0,1190.0,1,Corrected,Active
@@ -722,7 +722,7 @@ NOV,2023,Q4,District 3,Bartolabac Street,500218,Residential,"Bartolabac St, Dist
 NOV,2023,Q4,,Bartolabac Street,501207,Residential,Bartolabac St.,868.0,888.0,868.0,888.0,20,Corrected,Active
 NOV,2023,Q4,,Bartolabac Street,500317,Residential,Bartolabac St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Bartolabac Street,500784,Residential,Bartolabac St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,,Bartolabac Street,501517,Residential,Bartolabac St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Bartolabac Street,501517,Residential,Bartolabac St.,1629.0,1629.0,1629.0,1629.0,0,Corrected,Active
 NOV,2023,Q4,,Bartolabac Street,500494,Residential,Bartolabac St.,814.0,844.0,814.0,844.0,30,Corrected,Active
 NOV,2023,Q4,District 3,Bartolay Street,500123,Residential,"Bartolay St, Dist. 3",6464.0,6491.0,6464.0,6491.0,27,Corrected,Active
 NOV,2023,Q4,District 3,Bartolay Street,501783,Residential,"Bartolay St, Dist. 3",443.0,464.0,443.0,464.0,21,Corrected,Active
@@ -772,7 +772,7 @@ NOV,2023,Q4,District 4,Bartolay Street,501083,Residential,"Bartolay St, Dist. 4"
 NOV,2023,Q4,District 4,Bartolay Street,500303,Residential,"Bartolay St, Dist. 4",3019.0,3021.0,3019.0,3021.0,2,Corrected,Active
 NOV,2023,Q4,District 4,Bartolay Street,500192,Residential,"Bartolay St, Dist. 4",2850.0,2873.0,2850.0,2873.0,23,Corrected,Active
 NOV,2023,Q4,District 1,Bartolay Street,501876,Residential,"Bartolay St, Dist. 1",223.0,248.0,223.0,248.0,25,Corrected,Active
-NOV,2023,Q4,District 1,Bartolay Street,500306,Residential,"Bartolay St, Dist. 1",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 1,Bartolay Street,500306,Residential,"Bartolay St, Dist. 1",2763.0,2763.0,2763.0,2763.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Bartolay Street,500044,Residential,"Bartolay St, Dist. 1",15464.0,15500.0,15464.0,15500.0,36,Corrected,Active
 NOV,2023,Q4,District 1,Bartolay Street,500837,Residential,"Bartolay St, Dist. 1",100.0,128.0,100.0,128.0,28,Corrected,Active
 NOV,2023,Q4,District 3,Bartolay Street,500538,Residential,"Bartolay St, Dist. 3",2866.0,2921.0,2866.0,2921.0,55,Corrected,Active
@@ -798,13 +798,13 @@ NOV,2023,Q4,District 2,Don Juan Street,501114,Residential,"Don Juan St, Dist. 2"
 NOV,2023,Q4,District 2,Don Juan Street,500121,Residential,"Don Juan St, Dist. 2",475.0,501.0,475.0,501.0,26,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,501004,Residential,"Don Juan St, Dist. 2",1575.0,1603.0,1575.0,1603.0,28,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,501715,Residential,"Don Juan St, Dist. 2",456.0,463.0,456.0,463.0,7,Corrected,Active
-NOV,2023,Q4,District 2,Don Juan Street,500143,Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Don Juan Street,500143,Residential,"Don Juan St, Dist. 2",5412.0,5412.0,5412.0,5412.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,501524,Residential,"Don Juan St, Dist. 2",400.0,413.0,400.0,413.0,13,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,500925,Residential,"Don Juan St, Dist. 2",1299.0,1338.0,1299.0,1338.0,39,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,501401,Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Don Juan Street,500764,Residential,"Don Juan St, Dist. 2",1012.0,1055.0,1012.0,1055.0,43,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,501198,Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 2,Don Juan Street,501491,Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Don Juan Street,501491,Residential,"Don Juan St, Dist. 2",1297.0,1297.0,1297.0,1297.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,500645,Residential,"Don Juan St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Don Juan Street,501126,Residential,"Don Juan St, Dist. 2",202.0,230.0,202.0,230.0,28,Corrected,Active
 NOV,2023,Q4,District 2,Don Juan Street,501486,Residential,"Don Juan St, Dist. 2",1174.0,1208.0,1174.0,1208.0,34,Corrected,Active
@@ -928,7 +928,7 @@ NOV,2023,Q4,District 2,Esparrago Street,501347,Residential,"Esparrago St, Dist. 
 NOV,2023,Q4,District 2,Esparrago Street,501880,Residential,"Esparrago St, Dist. 2",716.0,799.0,716.0,799.0,83,Corrected,Active
 NOV,2023,Q4,District 4,Esparrago Street,500238,Residential,"Esparrago St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Esparrago Street,500410,Residential,"Esparrago St, Dist. 2",271.0,290.0,271.0,290.0,19,Corrected,Active
-NOV,2023,Q4,District 2,Esparrago Street,500410,Residential,"Esparrago St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Esparrago Street,500410,Residential,"Esparrago St, Dist. 2",271.0,271.0,271.0,271.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Esparrago Street,501081,Residential,"Esparrago St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 4,Esparrago Street,500019,Residential,"Esparrago St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Esparrago Street,500183,Residential,"Esparrago St, Dist. 3",916.0,916.0,916.0,916.0,0,Corrected,Active
@@ -953,7 +953,7 @@ NOV,2023,Q4,District 1,Esparrago Street,500576,Residential,"Esparrago St, Dist. 
 NOV,2023,Q4,District 4,Esparrago Street,500002,Residential,"Esparrago St, Dist. 4",2055.0,2085.0,2055.0,2085.0,30,Corrected,Active
 NOV,2023,Q4,District 2,Esparrago Street,501674,Residential,"Esparrago St, Dist. 2",261.0,266.0,261.0,266.0,5,Corrected,Active
 NOV,2023,Q4,District 1,Esparrago Street,500320,Residential,"Esparrago St, Dist. 1",54.0,57.0,54.0,57.0,3,Corrected,Active
-NOV,2023,Q4,District 2,Esparrago Street,500390,Residential,"Esparrago St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Esparrago Street,500390,Residential,"Esparrago St, Dist. 2",1031.0,1031.0,1031.0,1031.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Esparrago Street,500569,Residential,"Esparrago St, Dist. 1",46.0,55.0,46.0,55.0,9,Corrected,Active
 NOV,2023,Q4,District 2,Esparrago Street,502024,Residential,"Esparrago St, Dist. 2",41.0,56.0,41.0,56.0,15,Corrected,Active
 NOV,2023,Q4,District 3,Esparrago Street,502059,Residential,"Esparrago St, Dist. 3",34.0,41.0,34.0,41.0,7,Corrected,Active
@@ -964,7 +964,7 @@ NOV,2023,Q4,District 2,Esparrago Street,500651,Residential,"Esparrago St, Dist. 
 NOV,2023,Q4,District 3,Esparrago Street,500089,Residential,"Esparrago St, Dist. 3",9340.0,9365.0,9340.0,9365.0,25,Corrected,Active
 NOV,2023,Q4,District 3,Esparrago Street,501327,Residential,"Esparrago St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 4,Esparrago Street,500970,Residential,"Esparrago St, Dist. 4",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Espinosa Street,500366,Residential,"Espinosa St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Espinosa Street,500366,Residential,"Espinosa St, Dist. 3",1120.0,1120.0,1120.0,1120.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Espinosa Street,501803,Commercial,"Espinosa St, Dist. 3",472.0,511.0,472.0,511.0,39,Corrected,Active
 NOV,2023,Q4,District 3,Espinosa Street,501764,Commercial,"Espinosa St, Dist. 3",476.0,476.0,476.0,476.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Espinosa Street,501583,Commercial,"Espinosa St, Dist. 3",486.0,493.0,486.0,493.0,7,Corrected,Active
@@ -990,9 +990,9 @@ NOV,2023,Q4,District 2,Fabmar Street,501725,Residential,"Fabmar St, Dist. 2",157
 NOV,2023,Q4,District 2,Fabmar Street,501364,Residential,"Fabmar St, Dist. 2",2006.0,2050.0,2006.0,2050.0,44,Corrected,Active
 NOV,2023,Q4,District 2,Fabmar Street,500930,Residential,"Fabmar St, Dist. 2",961.0,974.0,961.0,974.0,13,Corrected,Active
 NOV,2023,Q4,District 2,Fabmar Street,501670,Residential,"Fabmar St, Dist. 2",776.0,817.0,776.0,817.0,41,Corrected,Active
-NOV,2023,Q4,District 2,Fabmar Street,501635,Commercial,"Fabmar St, Dist. 2",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 2,Fabmar Street,501636,Residential,"Fabmar St, Dist. 2",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 2,Fabmar Street,501779,Commercial,"Fabmar St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Fabmar Street,501635,Commercial,"Fabmar St, Dist. 2",339.0,339.0,339.0,339.0,0,Corrected,Active
+NOV,2023,Q4,District 2,Fabmar Street,501636,Residential,"Fabmar St, Dist. 2",275.0,275.0,275.0,275.0,0,Corrected,Active
+NOV,2023,Q4,District 2,Fabmar Street,501779,Commercial,"Fabmar St, Dist. 2",594.0,594.0,594.0,594.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Fabmar Street,501409,Residential,"Fabmar St, Dist. 2",675.0,701.0,675.0,701.0,26,Corrected,Active
 NOV,2023,Q4,District 2,Fabmar Street,501921,Residential,"Fabmar St, Dist. 2",524.0,572.0,524.0,572.0,48,Corrected,Active
 NOV,2023,Q4,District 2,Fabmar Street,501619,Residential,"Fabmar St, Dist. 2",1206.0,1221.0,1206.0,1221.0,15,Corrected,Active
@@ -1161,7 +1161,7 @@ NOV,2023,Q4,District 3,Flores Street,501533,Residential,"Flores St, Dist. 3",206
 NOV,2023,Q4,District 3,Flores Street,500103,Residential,"Flores St, Dist. 3",3616.0,3634.0,3616.0,3634.0,18,Corrected,Active
 NOV,2023,Q4,District 3,Flores Street,501038,Residential,"Flores St, Dist. 3",3296.0,3300.0,3296.0,3300.0,4,Corrected,Active
 NOV,2023,Q4,District 3,Flores Street,500059,Residential,"Flores St, Dist. 3",2851.0,2868.0,2851.0,2868.0,17,Corrected,Active
-NOV,2023,Q4,District 3,Flores Street,500055,Residential,"Flores St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Flores Street,500055,Residential,"Flores St, Dist. 3",3765.0,3765.0,3765.0,3765.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Flores Street,500872,Residential,"Flores St, Dist. 3",2221.0,2234.0,2221.0,2234.0,13,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,500797,Residential,"Flores St, Dist. 4",2171.0,2191.0,2171.0,2191.0,20,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,500788,Residential,"Flores St, Dist. 4",3114.0,3114.0,3114.0,3114.0,0,Corrected,Active
@@ -1220,7 +1220,7 @@ NOV,2023,Q4,District 3,Flores Street,500518,Residential,"Flores St, Dist. 3",186
 NOV,2023,Q4,District 3,Flores Street,501253,Residential,"Flores St, Dist. 3",67.0,66.0,67.0,66.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,500141,Commercial,"Flores St, Dist. 4",8949.0,9016.0,8949.0,9016.0,67,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,501051,Residential,"Flores St, Dist. 4",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Flores Street,501624,Commercial,"Flores St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Flores Street,501624,Commercial,"Flores St, Dist. 3",333.0,333.0,333.0,333.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,500550,Residential,"Flores St, Dist. 4",6662.0,6683.0,6662.0,6683.0,21,Corrected,Active
 NOV,2023,Q4,District 3,Flores Street,501187,Residential,"Flores St, Dist. 3",262.0,277.0,262.0,277.0,15,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,500100,Residential,"Flores St, Dist. 4",3455.0,3467.0,3455.0,3467.0,12,Corrected,Active
@@ -1228,7 +1228,7 @@ NOV,2023,Q4,District 3,Flores Street,501133,Residential,"Flores St, Dist. 3",347
 NOV,2023,Q4,District 3,Flores Street,501352,Residential,"Flores St, Dist. 3",82.0,158.0,82.0,158.0,76,Corrected,Active
 NOV,2023,Q4,District 4,Flores Street,501410,Residential,"Flores St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Flores Street,500493,Residential,"Flores St, Dist. 3",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Flores Street,500582,Residential,"Flores St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Flores Street,500582,Residential,"Flores St, Dist. 3",2789.0,2789.0,2789.0,2789.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Flores Street,500944,Residential,"Flores St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Flores Street,501908,Residential,"Flores St, Dist. 3",986.0,1085.0,986.0,1085.0,99,Corrected,Active
 NOV,2023,Q4,District 3,Flores Street,501909,Residential,"Flores St, Dist. 3",,,,,0,Corrected,Unknown
@@ -1303,7 +1303,7 @@ NOV,2023,Q4,,Gutierrez Street,501543,Residential,Gutierrez St.,,,,,0,Corrected,U
 NOV,2023,Q4,District 2,Balcavem Street,501099,Residential,"Balcavem St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Jones Street,500901,Residential,"Jones St, Dist. 2",1828.0,1942.0,1828.0,1942.0,114,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500343,Residential,"Jones St, Dist. 2",3776.0,3798.0,3776.0,3798.0,22,Corrected,Active
-NOV,2023,Q4,District 2,Jones Street,501979,Commercial,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Jones Street,501979,Commercial,"Jones St, Dist. 2",49.0,49.0,49.0,49.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500795,Residential,"Jones St, Dist. 2",461.0,473.0,461.0,473.0,12,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500799,Residential,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Jones Street,500165,Residential,"Jones St, Dist. 2",6032.0,6090.0,6032.0,6090.0,58,Corrected,Active
@@ -1326,13 +1326,13 @@ NOV,2023,Q4,District 2,Jones Street,500700,Commercial,"Jones St, Dist. 2",3887.0
 NOV,2023,Q4,District 2,Jones Street,501184,Residential,"Jones St, Dist. 2",834.0,869.0,834.0,869.0,35,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501623,Residential,"Jones St, Dist. 2",1343.0,1370.0,1343.0,1370.0,27,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500846,Residential,"Jones St, Dist. 2",362.0,379.0,362.0,379.0,17,Corrected,Active
-NOV,2023,Q4,District 2,Jones Street,500458,Residential,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Jones Street,500458,Residential,"Jones St, Dist. 2",8463.0,8463.0,8463.0,8463.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500849,Residential,"Jones St, Dist. 2",3325.0,3358.0,3325.0,3358.0,33,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500291,Residential,"Jones St, Dist. 2",2119.0,2165.0,2119.0,2165.0,46,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500730,Residential,"Jones St, Dist. 2",713.0,737.0,713.0,737.0,24,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500868,Residential,"Jones St, Dist. 2",2451.0,2472.0,2451.0,2472.0,21,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501078,Residential,"Jones St, Dist. 2",286.0,295.0,286.0,295.0,9,Corrected,Active
-NOV,2023,Q4,District 2,Jones Street,501122,Residential,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Jones Street,501122,Residential,"Jones St, Dist. 2",377.0,377.0,377.0,377.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500735,Residential,"Jones St, Dist. 2",919.0,940.0,919.0,940.0,21,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501189,Residential,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Jones Street,500731,Commercial,"Jones St, Dist. 2",8758.0,8784.0,8758.0,8784.0,26,Corrected,Active
@@ -1485,7 +1485,7 @@ NOV,2023,Q4,District 2,Jones Street,501726,Residential,"Jones St, Dist. 2",186.0
 NOV,2023,Q4,District 2,Jones Street,500890,Residential,"Jones St, Dist. 2",432.0,445.0,432.0,445.0,13,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500966,Residential,"Jones St, Dist. 2",2370.0,2412.0,2370.0,2412.0,42,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500351,Commercial,"Jones St, Dist. 2",2614.0,2629.0,2614.0,2629.0,15,Corrected,Active
-NOV,2023,Q4,District 2,Jones Street,501368,Residential,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Jones Street,501368,Residential,"Jones St, Dist. 2",2454.0,2454.0,2454.0,2454.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501086,Residential,"Jones St, Dist. 2",151.0,164.0,151.0,164.0,13,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501205,Residential,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 2,Jones Street,501988,Residential,"Jones St, Dist. 2",291.0,321.0,291.0,321.0,30,Corrected,Active
@@ -1501,7 +1501,7 @@ NOV,2023,Q4,District 2,Jones Street,501724,Residential,"Jones St, Dist. 2",500.0
 NOV,2023,Q4,District 2,Jones Street,502079,Residential,"Jones St, Dist. 2",26.0,60.0,26.0,60.0,34,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,500459,Residential,"Jones St, Dist. 2",9436.0,9485.0,9436.0,9485.0,49,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501755,Residential,"Jones St, Dist. 2",959.0,1017.0,959.0,1017.0,58,Corrected,Active
-NOV,2023,Q4,District 2,Jones Street,500673,Commercial,"Jones St, Dist. 2",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 2,Jones Street,500673,Commercial,"Jones St, Dist. 2",3107.0,3107.0,3107.0,3107.0,0,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501210,Residential,"Jones St, Dist. 2",1095.0,1130.0,1095.0,1130.0,35,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501087,Residential,"Jones St, Dist. 2",459.0,505.0,459.0,505.0,46,Corrected,Active
 NOV,2023,Q4,District 2,Jones Street,501872,Residential,"Jones St, Dist. 2",1624.0,1767.0,1624.0,1767.0,143,Corrected,Active
@@ -1585,7 +1585,7 @@ NOV,2023,Q4,District 3,Letada Street,501791,Residential,"Letada St, Dist. 3",51.
 NOV,2023,Q4,District 3,Letada Street,500820,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Letada Street,500244,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Letada Street,501247,Residential,"Letada St, Dist. 3",2106.0,2143.0,2106.0,2143.0,37,Corrected,Active
-NOV,2023,Q4,District 3,Letada Street,501388,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Letada Street,501388,Residential,"Letada St, Dist. 3",744.0,744.0,744.0,744.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,501035,Residential,"Letada St, Dist. 3",935.0,973.0,935.0,973.0,38,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,500234,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Letada Street,500110,Residential,"Letada St, Dist. 3",5538.0,5561.0,5538.0,5561.0,23,Corrected,Active
@@ -1608,7 +1608,7 @@ NOV,2023,Q4,District 3,Letada Street,500514,Residential,"Letada St, Dist. 3",708
 NOV,2023,Q4,District 3,Letada Street,501272,Residential,"Letada St, Dist. 3",1319.0,1333.0,1319.0,1333.0,14,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,500928,Commercial,"Letada St, Dist. 3",509.0,691.0,509.0,691.0,182,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,500821,Residential,"Letada St, Dist. 3",701.0,726.0,701.0,726.0,25,Corrected,Active
-NOV,2023,Q4,District 3,Letada Street,500111,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Letada Street,500111,Residential,"Letada St, Dist. 3",3265.0,3265.0,3265.0,3265.0,0,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,500800,Residential,"Letada St, Dist. 3",1630.0,1637.0,1630.0,1637.0,7,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,500078,Residential,"Letada St, Dist. 3",1303.0,1347.0,1303.0,1347.0,44,Corrected,Active
 NOV,2023,Q4,District 3,Letada Street,500232,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
@@ -1681,7 +1681,7 @@ NOV,2023,Q4,District 4,Lique Street,500722,Residential,"Lique St, Dist. 4",274.0
 NOV,2023,Q4,District 3,Lique Street,500688,Residential,"Lique St, Dist. 3",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 3,Lique Street,501736,Residential,"Lique St, Dist. 3",344.0,359.0,344.0,359.0,15,Corrected,Active
 NOV,2023,Q4,District 3,Lique Street,500728,Residential,"Lique St, Dist. 3",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 1,Lique Street,500163,Residential,"Lique St, Dist. 1",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 1,Lique Street,500163,Residential,"Lique St, Dist. 1",3307.0,3307.0,3307.0,3307.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Lique Street,500856,Residential,"Lique St, Dist. 1",3274.0,3317.0,3274.0,3317.0,43,Corrected,Active
 NOV,2023,Q4,District 3,Lique Street,500221,Residential,"Lique St, Dist. 3",180.0,223.0,180.0,223.0,43,Corrected,Active
 NOV,2023,Q4,District 3,Lique Street,501333,Residential,"Lique St, Dist. 3",,,,,0,Corrected,Unknown
@@ -1694,13 +1694,13 @@ NOV,2023,Q4,District 4,Lique Street,500776,Residential,"Lique St, Dist. 4",827.0
 NOV,2023,Q4,District 4,Lique Street,501115,Residential,"Lique St, Dist. 4",2298.0,2320.0,2298.0,2320.0,22,Corrected,Active
 NOV,2023,Q4,District 4,Lique Street,500311,Residential,"Lique St, Dist. 4",4091.0,4092.0,4091.0,4092.0,1,Corrected,Active
 NOV,2023,Q4,District 4,Lique Street,500075,Residential,"Lique St, Dist. 4",3919.0,3935.0,3919.0,3935.0,16,Corrected,Active
-NOV,2023,Q4,District 4,Lique Street,500079,Residential,"Lique St, Dist. 4",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 4,Lique Street,500079,Residential,"Lique St, Dist. 4",3359.0,3359.0,3359.0,3359.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Lique Street,500876,Residential,"Lique St, Dist. 4",1686.0,1722.0,1686.0,1722.0,36,Corrected,Active
 NOV,2023,Q4,District 1,Lique Street,500388,Residential,"Lique St, Dist. 1",4755.0,4789.0,4755.0,4789.0,34,Corrected,Active
 NOV,2023,Q4,District 1,Lique Street,500697,Residential,"Lique St, Dist. 1",5749.0,5795.0,5749.0,5795.0,46,Corrected,Active
 NOV,2023,Q4,District 1,Lique Street,500452,Residential,"Lique St, Dist. 1",7676.0,7680.0,7676.0,7680.0,4,Corrected,Active
 NOV,2023,Q4,District 1,Lique Street,501326,Residential,"Lique St, Dist. 1",7803.0,3903.0,7803.0,3903.0,0,Corrected,Active
-NOV,2023,Q4,District 3,Lique Street,501166,Residential,"Lique St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Lique Street,501166,Residential,"Lique St, Dist. 3",1910.0,1910.0,1910.0,1910.0,0,Corrected,Active
 NOV,2023,Q4,District 4,Lique Street,501532,Residential,"Lique St, Dist. 4",,,,,0,Corrected,Unknown
 NOV,2023,Q4,District 1,Lique Street,500566,Residential,"Lique St, Dist. 1",10914.0,10975.0,10914.0,10975.0,61,Corrected,Active
 NOV,2023,Q4,District 1,Lique Street,500666,Residential,"Lique St, Dist. 1",6820.0,6865.0,6820.0,6865.0,45,Corrected,Active
@@ -1760,7 +1760,7 @@ NOV,2023,Q4,,Moyot Street,501132,Residential,Moyot St.,2283.0,2328.0,2283.0,2328
 NOV,2023,Q4,,Moyot Street,501606,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,501185,Residential,Moyot St.,515.0,515.0,515.0,515.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501119,Residential,Moyot St.,1770.0,1780.0,1770.0,1780.0,10,Corrected,Active
-NOV,2023,Q4,,Moyot Street,501414,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501414,Residential,Moyot St.,566.0,566.0,566.0,566.0,0,Corrected,Active
 NOV,2023,Q4,District 1,Moyot Street,500577,Residential,"Moyot St, Dist. 1",,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,501862,Residential,Moyot St.,352.0,376.0,352.0,376.0,24,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500571,Commercial,Moyot St.,2676.0,2696.0,2676.0,2696.0,20,Corrected,Active
@@ -1772,8 +1772,8 @@ NOV,2023,Q4,,Moyot Street,501146,Residential,Moyot St.,90.0,170.0,90.0,170.0,80,
 NOV,2023,Q4,,Moyot Street,500212,Residential,Moyot St.,673.0,698.0,673.0,698.0,25,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500017,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,500208,Residential,Moyot St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,,Moyot Street,500603,Residential,Moyot St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,,Moyot Street,500432,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,500603,Residential,Moyot St.,2140.0,2140.0,2140.0,2140.0,0,Corrected,Active
+NOV,2023,Q4,,Moyot Street,500432,Residential,Moyot St.,1171.0,1171.0,1171.0,1171.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501954,Residential,Moyot St.,344.0,387.0,344.0,387.0,43,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500040,Residential,Moyot St.,1250.0,1305.0,1250.0,1305.0,55,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501214,Residential,Moyot St.,514.0,537.0,514.0,537.0,23,Corrected,Active
@@ -1800,29 +1800,29 @@ NOV,2023,Q4,,Moyot Street,500194,Residential,Moyot St.,694.0,722.0,694.0,722.0,2
 NOV,2023,Q4,,Moyot Street,501890,Residential,Moyot St.,335.0,365.0,335.0,365.0,30,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501431,Residential,Moyot St.,1397.0,1429.0,1397.0,1429.0,32,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501435,Residential,Moyot St.,1307.0,1315.0,1307.0,1315.0,8,Corrected,Active
-NOV,2023,Q4,,Moyot Street,501982,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501982,Residential,Moyot St.,83.0,83.0,83.0,83.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500880,Residential,Moyot St.,2093.0,2100.0,2093.0,2100.0,7,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501193,Residential,Moyot St.,2508.0,2585.0,2508.0,2585.0,77,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501776,Residential,Moyot St.,189.0,201.0,189.0,201.0,12,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500041,Residential,Moyot St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,,Moyot Street,500555,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,500555,Residential,Moyot St.,315.0,315.0,315.0,315.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501550,Residential,Moyot St.,1155.0,1155.0,1155.0,1155.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500871,Residential,Moyot St.,1697.0,1699.0,1697.0,1699.0,2,Corrected,Active
-NOV,2023,Q4,,Moyot Street,501244,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501244,Residential,Moyot St.,959.0,959.0,959.0,959.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501471,Residential,Moyot St.,1520.0,1589.0,1520.0,1589.0,69,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500038,Residential,Moyot St.,1368.0,1402.0,1368.0,1402.0,34,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501612,Residential,Moyot St.,891.0,932.0,891.0,932.0,41,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500916,Residential,Moyot St.,335.0,1844.0,335.0,1844.0,1509,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501170,Residential,Moyot St.,2567.0,2611.0,2567.0,2611.0,44,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501183,Residential,Moyot St.,2653.0,2676.0,2653.0,2676.0,23,Corrected,Active
-NOV,2023,Q4,,Moyot Street,500637,Residential,Moyot St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,,Moyot Street,501412,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,500637,Residential,Moyot St.,2974.0,2974.0,2974.0,2974.0,0,Corrected,Active
+NOV,2023,Q4,,Moyot Street,501412,Residential,Moyot St.,1265.0,1265.0,1265.0,1265.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500499,Residential,Moyot St.,2985.0,3002.0,2985.0,3002.0,17,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501631,Residential,Moyot St.,391.0,400.0,391.0,400.0,9,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501721,Residential,Moyot St.,209.0,217.0,209.0,217.0,8,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501258,Residential,Moyot St.,217.0,263.0,217.0,263.0,46,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500406,Residential,Moyot St.,7183.0,7231.0,7183.0,7231.0,48,Corrected,Active
-NOV,2023,Q4,,Moyot Street,500240,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,500240,Residential,Moyot St.,7860.0,7860.0,7860.0,7860.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501470,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,501374,Residential,Moyot St.,390.0,426.0,390.0,426.0,36,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500052,Residential,Moyot St.,,,,,0,Corrected,Unknown
@@ -1845,7 +1845,7 @@ NOV,2023,Q4,,Moyot Street,500211,Residential,Moyot St.,991.0,1033.0,991.0,1033.0
 NOV,2023,Q4,,Moyot Street,500037,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,500053,Commercial,Moyot St.,995.0,1049.0,995.0,1049.0,54,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501815,Residential,Moyot St.,928.0,981.0,928.0,981.0,53,Corrected,Active
-NOV,2023,Q4,,Moyot Street,501810,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501810,Residential,Moyot St.,270.0,270.0,270.0,270.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501719,Residential,Moyot St.,585.0,629.0,585.0,629.0,44,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501479,Residential,Moyot St.,2723.0,2767.0,2723.0,2767.0,44,Corrected,Active
 NOV,2023,Q4,,Moyot Street,502017,Residential,Moyot St.,104.0,124.0,104.0,124.0,20,Corrected,Active
@@ -1860,7 +1860,7 @@ NOV,2023,Q4,,Moyot Street,501179,Residential,Moyot St.,1860.0,1929.0,1860.0,1929
 NOV,2023,Q4,,Moyot Street,501609,Residential,Moyot St.,993.0,1015.0,993.0,1015.0,22,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501978,Residential,Moyot St.,539.0,585.0,539.0,585.0,46,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500189,Residential,Moyot St.,2083.0,2101.0,2083.0,2101.0,18,Corrected,Active
-NOV,2023,Q4,,Moyot Street,501953,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501953,Residential,Moyot St.,187.0,187.0,187.0,187.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501603,Residential,Moyot St.,3108.0,3215.0,3108.0,3215.0,107,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500016,Residential,Moyot St.,678.0,736.0,678.0,736.0,58,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501483,Residential,Moyot St.,386.0,484.0,386.0,484.0,98,Corrected,Active
@@ -1876,7 +1876,7 @@ NOV,2023,Q4,,Moyot Street,500051,Residential,Moyot St.,653.0,663.0,653.0,663.0,1
 NOV,2023,Q4,,Moyot Street,501628,Residential,Moyot St.,1525.0,1566.0,1525.0,1566.0,41,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500568,Residential,Moyot St.,3445.0,3547.0,3445.0,3547.0,102,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501169,Residential,Moyot St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,,Moyot Street,501343,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501343,Residential,Moyot St.,2160.0,2160.0,2160.0,2160.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500954,Residential,Moyot St.,833.0,867.0,833.0,867.0,34,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501354,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,501103,Commercial,Moyot St.,426.0,565.0,426.0,565.0,139,Corrected,Active
@@ -1893,7 +1893,7 @@ NOV,2023,Q4,,Moyot Street,500039,Commercial,Moyot St.,69.0,110.0,69.0,110.0,41,C
 NOV,2023,Q4,,Moyot Street,501231,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,500131,Residential,Moyot St.,2656.0,2661.0,2656.0,2661.0,5,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501984,Residential,Moyot St.,115.0,123.0,115.0,123.0,8,Corrected,Active
-NOV,2023,Q4,,Moyot Street,501358,Residential,Moyot St.,,,,,0,Corrected,Unknown
+NOV,2023,Q4,,Moyot Street,501358,Residential,Moyot St.,5735.0,5735.0,5735.0,5735.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501107,Residential,Moyot St.,430.0,458.0,430.0,458.0,28,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500018,Residential,Moyot St.,4782.0,4832.0,4782.0,4832.0,50,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501478,Residential,Moyot St.,551.0,556.0,551.0,556.0,5,Corrected,Active
@@ -1901,8 +1901,8 @@ NOV,2023,Q4,,Moyot Street,500959,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,501740,Residential,Moyot St.,366.0,387.0,366.0,387.0,21,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500844,Residential,Moyot St.,1.0,32.0,1.0,32.0,31,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500712,Residential,Moyot St.,,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Letada Street,500134,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
-NOV,2023,Q4,District 3,Letada Street,500134,Residential,"Letada St, Dist. 3",,,,,0,Corrected,Unknown
+NOV,2023,Q4,District 3,Letada Street,500134,Residential,"Letada St, Dist. 3",3449.0,3449.0,3449.0,3449.0,0,Corrected,Active
+NOV,2023,Q4,District 3,Letada Street,500134,Residential,"Letada St, Dist. 3",3449.0,3449.0,3449.0,3449.0,0,Corrected,Active
 NOV,2023,Q4,,Moyot Street,501610,Residential,Moyot St.,2147.0,2206.0,2147.0,2206.0,59,Corrected,Active
 NOV,2023,Q4,,Moyot Street,500614,Residential,Moyot St.,,,,,0,Corrected,Unknown
 NOV,2023,Q4,,Moyot Street,501607,Residential,Moyot St.,1371.0,1371.0,1371.0,1371.0,0,Corrected,Active
@@ -1985,7 +1985,7 @@ NOV,2023,Q4,Burgos,Upper Bliss,501936,Residential,"Upper, Bliss",224.0,252.0,224
 NOV,2023,Q4,Burgos,Upper Bliss,501986,Residential,"Upper, Bliss",209.0,236.0,209.0,236.0,27,Corrected,Active
 NOV,2023,Q4,Burgos,Upper Bliss,501928,Residential,"Upper, Bliss",274.0,297.0,274.0,297.0,23,Corrected,Active
 NOV,2023,Q4,Burgos,Upper Bliss,501929,Residential,"Upper, Bliss",207.0,225.0,207.0,225.0,18,Corrected,Active
-NOV,2023,Q4,Burgos,Upper Bliss,501976,Residential,"Upper, Bliss",,,,,0,Corrected,Unknown
+NOV,2023,Q4,Burgos,Upper Bliss,501976,Residential,"Upper, Bliss",114.0,114.0,114.0,114.0,0,Corrected,Active
 NOV,2023,Q4,Burgos,Upper Bliss,501933,Residential,"Upper, Bliss",297.0,323.0,297.0,323.0,26,Corrected,Active
 NOV,2023,Q4,Burgos,Upper Bliss,501990,Residential,"Upper, Bliss",47.0,65.0,47.0,65.0,18,Corrected,Active
 NOV,2023,Q4,Burgos,Upper Bliss,501694,Residential,"Upper, Bliss",8805.0,8878.0,8805.0,8878.0,73,Corrected,Active
