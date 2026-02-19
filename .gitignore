@@ -3,3 +3,4 @@
 /dataset/raw
 /dataset/preprocessed
 /dataset/clean/production
+/dataset/clean/semi_clean
